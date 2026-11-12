@@ -435,3 +435,47 @@ textarea { min-height: 5.5rem; resize: vertical; }
   margin-left: 0.25rem;
 }
 .pair-cell .youglish { display: block; margin: 0.2rem auto 0; width: fit-content; }
+
+.meaning { margin-top: 0.25rem; max-width: 100%; }
+.meaning-btn {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.72rem;
+  line-height: 1.2;
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--bg-soft);
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.meaning-btn.on {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+.meaning-body {
+  margin: 0.25rem 0 0;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+.meaning-body.compact { font-size: 0.8rem; margin-top: 0.15rem; }
+.meaning-body .pos {
+  color: var(--accent);
+  margin-right: 0.3rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.meaning-body .ipa {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.78rem;
+  margin-right: 0.35rem;
+  color: var(--ink-soft);
+  display: inline;
+  width: auto;
+}
+.chunk-suggest { list-style: none; padding: 0; margin: 0.5rem 0 0; display: flex; flex-direction: column; gap: 0.45rem; }
+.chunk-suggest li { max-width: 100%; }

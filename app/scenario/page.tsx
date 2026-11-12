@@ -6,6 +6,8 @@ import { Recorder } from "@/components/Recorder";
 import { Timer } from "@/components/Timer";
 import { useApp } from "@/components/AppProvider";
 import { scenarioForPhaseDay, SCENARIOS } from "@/lib/content/scenarios";
+import { phraseMeaning } from "@/lib/content/chunks";
+import { Meaning } from "@/components/Meaning";
 
 export default function ScenarioPage() {
   const { status, addStuckWord } = useApp();
@@ -41,9 +43,15 @@ export default function ScenarioPage() {
             <li key={p}>{p}</li>
           ))}
         </ul>
-        <p className="muted tiny" style={{ marginTop: 8 }}>
-          建议用上的语块：{scenario.chunks.join("  /  ")}
-        </p>
+        <p className="muted tiny" style={{ marginTop: 8 }}>建议用上的语块</p>
+        <ul className="chunk-suggest">
+          {scenario.chunks.map((c) => (
+            <li key={c}>
+              <p className="en">{c}</p>
+              <Meaning zh={phraseMeaning(c)} compact />
+            </li>
+          ))}
+        </ul>
       </div>
 
       <Timer id={`${status.today}:scenario-talk`} seconds={5 * 60} title="自言自语 5 分钟" />

@@ -6,6 +6,7 @@ import { useApp } from "@/components/AppProvider";
 import { CheckButton } from "@/components/CheckButton";
 import { Heatmap, streakCount } from "@/components/Heatmap";
 import { Onboarding } from "@/components/Onboarding";
+import { MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
 import { COMPARE_DAYS, formatZhDate, weekdayZh } from "@/lib/calendar";
 
 export default function HomePage() {
@@ -51,6 +52,11 @@ export default function HomePage() {
           </div>
         </div>
       )}
+
+      <MeaningHelp />
+      <div className="card" style={{ marginBottom: 12 }}>
+        <MeaningModeToggle />
+      </div>
 
       <div className="stat-row">
         <div className="stat">

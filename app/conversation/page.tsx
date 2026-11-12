@@ -4,6 +4,7 @@ import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { Recorder } from "@/components/Recorder";
 import { SpeakButton } from "@/components/SpeakButton";
+import { Meaning } from "@/components/Meaning";
 import { Timer } from "@/components/Timer";
 import { useApp } from "@/components/AppProvider";
 import { DRILL_QUESTIONS, pickQuestions } from "@/lib/content/questions";
@@ -57,8 +58,9 @@ export default function ConversationPage() {
         <p className="en">{topic.title}</p>
         <ul className="lead" style={{ paddingLeft: "1.1rem", marginTop: 8 }}>
           {topic.prompts.map((p) => (
-            <li key={p} className="en">
-              {p}
+            <li key={p.text} className="en">
+              {p.text}
+              <Meaning zh={p.zh} />
             </li>
           ))}
         </ul>
@@ -70,8 +72,9 @@ export default function ConversationPage() {
         <p className="muted tiny">把这些提示交给对话对象，或自己抽一张接着聊。</p>
         <ul className="list-plain">
           {chats.map((c) => (
-            <li key={c} className="en">
-              {c}
+            <li key={c.text} className="en">
+              {c.text}
+              <Meaning zh={c.zh} />
             </li>
           ))}
         </ul>
@@ -85,10 +88,11 @@ export default function ConversationPage() {
         <h2>3. 三秒反应练习</h2>
         <p className="lead">先听问题，倒计时 3 秒内开口。不追求完美句子，先给一个合理回应。</p>
         <p className="en" style={{ fontSize: "1.15rem", margin: "0.4rem 0 0.8rem" }}>
-          {question}
+          {question.text}
         </p>
+        <Meaning zh={question.zh} />
         <div className="btn-row">
-          <SpeakButton text={question} rate={1} label="听问题" />
+          <SpeakButton text={question.text} rate={1} label="听问题" />
           <button type="button" className="btn btn-accent" onClick={startDrill} disabled={phase === "countdown"}>
             开始 3 秒倒计时
           </button>

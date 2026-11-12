@@ -1,4 +1,5 @@
 export type ThemeMode = "system" | "light" | "dark";
+export type MeaningMode = "tap" | "always" | "off";
 export type PhaseId = 1 | 2 | 3;
 
 export type ModuleDef = {
@@ -56,6 +57,7 @@ export type TimerState = {
 export type AppState = {
   startDate: string | null;
   theme: ThemeMode;
+  meaningMode: MeaningMode;
   comparePrompt: string;
   days: Record<string, DayLog>;
   chunkWork: Record<string, ChunkWork>;
@@ -75,6 +77,7 @@ export const DEFAULT_COMPARE_PROMPT =
 export const defaultState = (): AppState => ({
   startDate: null,
   theme: "system",
+  meaningMode: "tap",
   comparePrompt: DEFAULT_COMPARE_PROMPT,
   days: {},
   chunkWork: {},

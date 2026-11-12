@@ -3,6 +3,7 @@
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
 import { YouGlishLink } from "@/components/YouGlishLink";
+import { Meaning } from "@/components/Meaning";
 import { emptyChunkWork, useApp } from "@/components/AppProvider";
 import { chunksForPhaseDay } from "@/lib/content/chunks";
 import { TTS_DISCLAIMER } from "@/lib/content/materials";
@@ -32,8 +33,10 @@ export default function ChunksPage() {
           <section key={chunk.id} className="card">
             <p className="kicker">{chunk.func}</p>
             <h2 className="en">{chunk.text} <YouGlishLink text={chunk.text} /></h2>
+            <Meaning zh={chunk.meaning} />
             <p className="lead">{chunk.note}</p>
             <p className="en muted tiny">{chunk.example}</p>
+            <Meaning zh={chunk.exampleZh} compact />
             <SpeakButton text={`${chunk.text} ${chunk.example}`} rate={rate} label="听语块和例句" />
             {[0, 1, 2].map((i) => (
               <label key={i} className="field">

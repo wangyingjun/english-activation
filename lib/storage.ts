@@ -9,6 +9,7 @@ import {
   type ErrorEntry,
   type ListeningProgress,
   type StuckWord,
+  type MeaningMode,
   type ThemeMode,
   type TimerState,
 } from "@/lib/types";
@@ -18,9 +19,14 @@ function safeParse(raw: string | null): AppState {
   if (!raw) return base;
   try {
     const parsed = JSON.parse(raw) as Partial<AppState>;
+    const meaningMode: MeaningMode =
+      parsed.meaningMode === "always" || parsed.meaningMode === "off" || parsed.meaningMode === "tap"
+        ? parsed.meaningMode
+        : "tap";
     return {
       ...base,
       ...parsed,
+      meaningMode,
       days: parsed.days ?? {},
       chunkWork: parsed.chunkWork ?? {},
       stuckWords: parsed.stuckWords ?? [],

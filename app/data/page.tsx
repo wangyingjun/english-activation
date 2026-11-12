@@ -3,6 +3,7 @@
 import { useRef, useState } from "react";
 import { PageHeader } from "@/components/PageHeader";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
 import { useApp } from "@/components/AppProvider";
 import { dateISO, formatZhDate } from "@/lib/calendar";
 import type { BackupPayload } from "@/lib/storage";
@@ -57,6 +58,17 @@ export default function DataPage() {
       <section className="card">
         <h2>外观</h2>
         <ThemeToggle />
+      </section>
+
+      <section className="card">
+        <h2>中文释义</h2>
+        <p className="muted tiny" style={{ marginBottom: 8 }}>
+          默认是点击才显示，先把声音听进耳朵里。选择会保存在这台设备上。
+        </p>
+        <MeaningModeToggle />
+        <div style={{ marginTop: 12 }}>
+          <MeaningHelp />
+        </div>
       </section>
 
       <section className="card">

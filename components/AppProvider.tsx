@@ -26,6 +26,7 @@ import {
   type ChunkWork,
   type ErrorEntry,
   type ListeningProgress,
+  type MeaningMode,
   type ThemeMode,
   type TimerState,
 } from "@/lib/types";
@@ -36,6 +37,7 @@ type AppContextValue = {
   status: ReturnType<typeof programStatus>;
   setStartDate: (iso: string) => void;
   setTheme: (theme: ThemeMode) => void;
+  setMeaningMode: (mode: MeaningMode) => void;
   setComparePrompt: (text: string) => void;
   toggleModule: (date: string, moduleId: string, value?: boolean) => void;
   toggleMicro: (date: string, value?: boolean) => void;
@@ -93,6 +95,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
   const setStartDate = useCallback((iso: string) => update((s) => ({ ...s, startDate: iso })), [update]);
   const setTheme = useCallback((theme: ThemeMode) => update((s) => ({ ...s, theme })), [update]);
+  const setMeaningMode = useCallback((mode: MeaningMode) => update((s) => ({ ...s, meaningMode: mode })), [update]);
   const setComparePrompt = useCallback((text: string) => update((s) => ({ ...s, comparePrompt: text })), [update]);
   const toggleModule = useCallback((date: string, moduleId: string, value?: boolean) =>
     update((s) => {
@@ -171,13 +174,13 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
   const value = useMemo<AppContextValue>(
     () => ({
-      ready, state, status, setStartDate, setTheme, setComparePrompt,
+      ready, state, status, setStartDate, setTheme, setMeaningMode, setComparePrompt,
       toggleModule, toggleMicro, toggleCompare, setChunkWork,
       addStuckWord, removeStuckWord, addError, updateError, removeError,
       bumpReadCount, setMicroText, setListening, setTimer, recordQuiz,
       exportBackup, importBackup, resetAll,
     }),
-    [ready, state, status, setStartDate, setTheme, setComparePrompt, toggleModule,
+    [ready, state, status, setStartDate, setTheme, setMeaningMode, setComparePrompt, toggleModule,
      toggleMicro, toggleCompare, setChunkWork, addStuckWord, removeStuckWord, addError,
      updateError, removeError, bumpReadCount, setMicroText, setListening, setTimer,
      recordQuiz, exportBackup, importBackup, resetAll],

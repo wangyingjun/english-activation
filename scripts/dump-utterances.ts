@@ -30,7 +30,7 @@ for (const group of Object.values(SOUND_GROUPS)) {
     add(item.example, VOICE_DEFAULT, "sound-example");
   }
   for (const sentence of group.sentences) {
-    add(sentence, VOICE_DEFAULT, "sound-sentence");
+    add(typeof sentence === "string" ? sentence : sentence.text, VOICE_DEFAULT, "sound-sentence");
   }
 }
 
@@ -41,7 +41,7 @@ for (const chunk of CHUNKS) {
 }
 
 for (const q of DRILL_QUESTIONS) {
-  add(q, VOICE_DEFAULT, "drill");
+  add(typeof q === "string" ? q : q.text, VOICE_DEFAULT, "drill");
 }
 
 const dialogues: { id: string; lines: { speaker: string; text: string; voice: string }[] }[] = [];

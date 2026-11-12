@@ -4,6 +4,7 @@ import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { Recorder } from "@/components/Recorder";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
+import { Meaning } from "@/components/Meaning";
 import { voiceForSpeaker } from "@/lib/audio";
 import { dialogueFile } from "@/lib/audio-lookup";
 import { useApp } from "@/components/AppProvider";
@@ -43,6 +44,10 @@ export default function ShadowingPage() {
         <p className="muted tiny" style={{ marginTop: 8 }}>
           建议从 0.8× 开始，跟得上了再回到 1.0×。
         </p>
+        <div style={{ marginTop: 8 }}>
+          <p className="muted tiny">这一段在说什么</p>
+          <Meaning zh={dialogue.gistZh} />
+        </div>
       </div>
 
       <div className="card">
@@ -53,6 +58,7 @@ export default function ShadowingPage() {
         <p className="en" style={{ fontSize: "1.15rem", margin: "0.3rem 0 0.8rem" }}>
           {line.text}
         </p>
+        <Meaning zh={line.zh} />
         <div className="btn-row">
           <SpeakButton text={line.text} voice={voiceForSpeaker(line.speaker)} rate={rate} label="听原句" />
         </div>

@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
+import { Meaning } from "@/components/Meaning";
 import { voiceForSpeaker } from "@/lib/audio";
 import { dialogueFile } from "@/lib/audio-lookup";
 import { useApp } from "@/components/AppProvider";
@@ -11,11 +12,11 @@ import { TTS_DISCLAIMER } from "@/lib/content/materials";
 import type { ListeningProgress } from "@/lib/types";
 
 const STEPS: { id: keyof ListeningProgress["steps"]; title: string; hint: string }[] = [
-  { id: "blind1", title: "盲听第 1 遍", hint: "先不要看文本，只抓大意：谁在说话，大致在说什么。" },
-  { id: "blind2", title: "盲听第 2 遍", hint: "再听一遍，试着补上刚才漏掉的信息。" },
-  { id: "withText", title: "对照文本逐句听", hint: "打开文本，逐句听清连读和弱读。点一下那些「认识但没听出来」的词。" },
-  { id: "blind3", title: "脱稿盲听第 3 遍", hint: "收起文本再听。刚才标过的词，这次应该更清楚。" },
-  { id: "blind4", title: "脱稿盲听第 4 遍", hint: "再听一遍，直到每个词的声音都对得上。" },
+  { id: "blind1", title: "盲听第 1 遍", hint: "先不要看文本，也不要点「意思」。只抓大意：谁在说话，大致在说什么。" },
+  { id: "blind2", title: "盲听第 2 遍", hint: "再听一遍，试着补上刚才漏掉的信息。仍然先不要看中文。" },
+  { id: "withText", title: "对照文本逐句听", hint: "打开文本，逐句听清连读和弱读。这一步可以点「意思」；看完中文后再听一遍，把声音和意思对上。点一下那些「认识但没听出来」的词。" },
+  { id: "blind3", title: "脱稿盲听第 3 遍", hint: "收起文本和中文再听。刚才标过的词，这次应该更清楚。" },
+  { id: "blind4", title: "脱稿盲听第 4 遍", hint: "再听一遍，直到每个词的声音都和意思对得上。" },
 ];
 
 export default function ListeningPage() {
@@ -96,6 +97,8 @@ export default function ListeningPage() {
             <p className="muted tiny">{step.hint}</p>
             {step.id === "withText" && (
               <div style={{ marginTop: 10 }}>
+                <p className="muted tiny">这一段在说什么</p>
+                <Meaning zh={dialogue.gistZh} />
                 {dialogue.lines.map((line, li) => (
                   <div key={`${line.speaker}-${li}`} className="line">
                     <p className="speaker">{line.speaker}</p>
@@ -115,6 +118,7 @@ export default function ListeningPage() {
                       })}
                     </p>
                     <SpeakButton text={line.text} voice={voiceForSpeaker(line.speaker)} rate={rate} label="听这句" />
+                    <Meaning zh={line.zh} />
                   </div>
                 ))}
                 {progress.missed.length > 0 && (

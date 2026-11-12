@@ -4,6 +4,7 @@ import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
 import { YouGlishLink } from "@/components/YouGlishLink";
+import { Meaning } from "@/components/Meaning";
 import { useApp } from "@/components/AppProvider";
 import { TTS_DISCLAIMER } from "@/lib/content/materials";
 import { soundsForPhaseDay, type MinimalPair, type SoundGroup } from "@/lib/content/sounds";
@@ -13,7 +14,7 @@ function Quiz({ group, rate }: { group: SoundGroup; rate: number }) {
   const [started, setStarted] = useState(false);
   const [qi, setQi] = useState(0);
   const [picked, setPicked] = useState<string | null>(null);
-  const [order, setOrder] = useState<{ play: string; left: string; right: string; answer: string }[]>([]);
+  const [order, setOrder] = useState<{ play: string; left: string; right: string; answer: string; leftMeta?: { zh?: string; pos?: string; ipa?: string }; rightMeta?: { zh?: string; pos?: string; ipa?: string }; exampleZh?: string }[]>([]);
   const score = state.soundQuiz[group.id];
   const q = order[qi];
 
@@ -22,13 +23,23 @@ function Quiz({ group, rate }: { group: SoundGroup; rate: number }) {
       group.kind === "pairs" && group.pairs
         ? group.pairs.map((p) => {
             const target = Math.random() < 0.5 ? p.left : p.right;
-            return { play: target, left: p.left, right: p.right, answer: target };
+            return {
+              play: target,
+              left: p.left,
+              right: p.right,
+              answer: target,
+              leftMeta: { zh: p.leftZh, pos: p.leftPos, ipa: p.leftIpa },
+              rightMeta: { zh: p.rightZh, pos: p.rightPos, ipa: p.rightIpa },
+            };
           })
         : (group.items ?? []).map((it) => ({
             play: it.example,
             left: it.citation,
             right: it.reduced,
             answer: it.citation,
+            leftMeta: { zh: it.citationZh },
+            rightMeta: { zh: `${it.citationZh}（口语里常连成这样）` },
+            exampleZh: it.exampleZh,
           }));
     setOrder(next);
     setQi(0);
@@ -72,15 +83,22 @@ function Quiz({ group, rate }: { group: SoundGroup; rate: number }) {
             const cls =
               picked == null ? "" : choice === q.answer ? "correct" : choice === picked ? "wrong" : "";
             return (
-              <button
-                key={choice}
-                type="button"
-                className={`quiz-choice ${cls}`}
-                disabled={!!picked}
-                onClick={() => choose(choice)}
-              >
-                <span className="en">{choice}</span>
-              </button>
+              <div key={choice}>
+                <button
+                  type="button"
+                  className={`quiz-choice ${cls}`}
+                  disabled={!!picked}
+                  onClick={() => choose(choice)}
+                >
+                  <span className="en">{choice}</span>
+                </button>
+                <Meaning
+                  zh={(choice === q.left ? q.leftMeta?.zh : q.rightMeta?.zh) ?? q.exampleZh}
+                  pos={choice === q.left ? q.leftMeta?.pos : q.rightMeta?.pos}
+                  ipa={choice === q.left ? q.leftMeta?.ipa : q.rightMeta?.ipa}
+                  compact
+                />
+              </div>
             );
           })}
           {picked && (
@@ -99,13 +117,14 @@ function Quiz({ group, rate }: { group: SoundGroup; rate: number }) {
   );
 }
 
-function PairCell({ word, ipa, rate }: { word: string; ipa: string; rate: number }) {
+function PairCell({ word, ipa, rate, pos, zh }: { word: string; ipa: string; rate: number; pos?: string; zh?: string }) {
   return (
     <div className="pair-cell">
       <span className="en">{word}</span>
       <span className="ipa">{ipa}</span>
       <SpeakButton text={word} rate={rate} label="听" />
       <YouGlishLink text={word} />
+      <Meaning zh={zh} pos={pos} ipa={ipa} compact />
     </div>
   );
 }
@@ -130,19 +149,22 @@ function SoundGroupCard({ group, rate }: { group: SoundGroup; rate: number }) {
               <p className="en">
                 <b>{it.citation}</b> → {it.reduced} <YouGlishLink text={it.citation} />
               </p>
+              <Meaning zh={it.citationZh} compact />
               <p className="en" style={{ marginTop: 4 }}>
                 {it.example}
               </p>
               <SpeakButton text={it.example} rate={rate} label="听例句" />
+              <Meaning zh={it.exampleZh} compact />
             </li>
           ))}
         </ul>
       )}
       <h3 style={{ marginTop: 12 }}>放进句子里</h3>
       {group.sentences.map((s) => (
-        <div key={s} className="line">
-          <p className="en">{s}</p>
-          <SpeakButton text={s} rate={rate} label="朗读" />
+        <div key={s.text} className="line">
+          <p className="en">{s.text}</p>
+          <SpeakButton text={s.text} rate={rate} label="朗读" />
+          <Meaning zh={s.zh} />
         </div>
       ))}
       <Quiz group={group} rate={rate} />
@@ -153,11 +175,11 @@ function SoundGroupCard({ group, rate }: { group: SoundGroup; rate: number }) {
 function PairLine({ pair, rate }: { pair: MinimalPair; rate: number }) {
   return (
     <div className="pair-row">
-      <PairCell word={pair.left} ipa={pair.leftIpa} rate={rate} />
+      <PairCell word={pair.left} ipa={pair.leftIpa} rate={rate} pos={pair.leftPos} zh={pair.leftZh} />
       <span className="muted tiny" style={{ textAlign: "center" }}>
         /
       </span>
-      <PairCell word={pair.right} ipa={pair.rightIpa} rate={rate} />
+      <PairCell word={pair.right} ipa={pair.rightIpa} rate={rate} pos={pair.rightPos} zh={pair.rightZh} />
     </div>
   );
 }
