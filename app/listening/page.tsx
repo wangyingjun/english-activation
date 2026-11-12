@@ -23,10 +23,13 @@ export default function ListeningPage() {
   const { status, state, setListening } = useApp();
   const [rate, setRate] = useState(0.8);
   const [pickedId, setPickedId] = useState<string | null>(null);
+  const [openTextId, setOpenTextId] = useState<string | null>(null);
   const scheduled = dialogueForPhaseDay(status.phaseDay || 1);
   const dialogue = DIALOGUES.find((d) => d.id === (pickedId ?? scheduled.id)) ?? scheduled;
   const progress: ListeningProgress = state.listening[dialogue.id] ?? { missed: [], steps: {} };
   const fullText = dialogue.lines.map((l) => `${l.speaker}: ${l.text}`).join("\n");
+
+  const showText = openTextId === dialogue.id;
 
   const wordsByLine = useMemo(
     () => dialogue.lines.map((l) => dialogueWordList(l.text)),
@@ -97,6 +100,15 @@ export default function ListeningPage() {
             <p className="muted tiny">{step.hint}</p>
             {step.id === "withText" && (
               <div style={{ marginTop: 10 }}>
+                <button
+                  type="button"
+                  className={`btn ${showText ? "btn-primary" : "btn-accent"}`}
+                  onClick={() => setOpenTextId((id) => (id === dialogue.id ? null : dialogue.id))}
+                >
+                  {showText ? "收起文本和意思" : "打开文本（可看意思）"}
+                </button>
+                {showText && (
+                  <div style={{ marginTop: 10 }}>
                 <p className="muted tiny">这一段在说什么</p>
                 <Meaning zh={dialogue.gistZh} />
                 {dialogue.lines.map((line, li) => (
@@ -125,6 +137,8 @@ export default function ListeningPage() {
                   <p className="notice">
                     认识但没听出来：{progress.missed.join(" · ")}。这些词回去再跟读几遍，不要做成单词表来背。
                   </p>
+                )}
+                  </div>
                 )}
               </div>
             )}
