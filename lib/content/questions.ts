@@ -1,0 +1,61 @@
+export const DRILL_QUESTIONS: string[] = [
+  "How are you doing today?",
+  "What did you do this morning?",
+  "Have you eaten yet?",
+  "What are you working on right now?",
+  "How was your weekend?",
+  "Can you tell me a little about yourself?",
+  "What do you do for work?",
+  "Where are you from?",
+  "Do you live nearby?",
+  "How long have you lived there?",
+  "What do you like to do after work?",
+  "Are you free this weekend?",
+  "What did you have for lunch?",
+  "How do you usually get to work?",
+  "Is this a busy week for you?",
+  "What's the weather like today?",
+  "Have you been here before?",
+  "What time do you usually wake up?",
+  "Can I get you anything to drink?",
+  "Do you want to sit inside or outside?",
+  "Sorry, could you say that again?",
+  "What do you mean by that?",
+  "Do you have a minute?",
+  "When can you send that over?",
+  "Is everything okay?",
+  "What would you like to do first?",
+  "How do you feel about this plan?",
+  "Can we move the meeting to tomorrow?",
+  "Do you need any help?",
+  "What's the main problem right now?",
+  "Are you ready to get started?",
+  "What time works for you?",
+  "Should we wait for the others?",
+  "Did you get my message?",
+  "How did the meeting go?",
+  "What's next on your list?",
+  "Do you prefer tea or coffee?",
+  "Have you tried this place before?",
+  "What brought you here today?",
+  "Can you walk me through that quickly?",
+  "Is there anything else I should know?",
+  "How long will that take?",
+  "Do you want to talk about it?",
+  "What are you looking forward to?",
+  "Did anything interesting happen today?",
+  "Would you like to join us?",
+  "Can you give me an example?",
+  "What's your plan for tonight?",
+  "How's your family doing?",
+  "If you had a free afternoon, what would you do?",
+];
+
+export function pickQuestions(n = 8): string[] {
+  const copy = [...DRILL_QUESTIONS];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy.slice(0, n);
+}
