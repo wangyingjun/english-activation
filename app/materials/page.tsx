@@ -7,7 +7,7 @@ export default function MaterialsPage() {
       <PageHeader
         kicker="原声比合成语音重要"
         title="推荐材料"
-        desc="站内练习用浏览器语音合成，只为让你随时能走完流程。真正的连读、气口和情绪，请回到这些原声材料。"
+        desc="内置练习已预录神经网络语音。想听真人在真实视频里的发音，可在单词和语块旁点「听真人」。下面这些原声材料仍然值得经常回去听。"
       />
       <p className="notice">{TTS_DISCLAIMER}</p>
       {MATERIALS.map((m) => (

@@ -2,6 +2,7 @@
 
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
+import { YouGlishLink } from "@/components/YouGlishLink";
 import { emptyChunkWork, useApp } from "@/components/AppProvider";
 import { chunksForPhaseDay } from "@/lib/content/chunks";
 import { TTS_DISCLAIMER } from "@/lib/content/materials";
@@ -30,7 +31,7 @@ export default function ChunksPage() {
         return (
           <section key={chunk.id} className="card">
             <p className="kicker">{chunk.func}</p>
-            <h2 className="en">{chunk.text}</h2>
+            <h2 className="en">{chunk.text} <YouGlishLink text={chunk.text} /></h2>
             <p className="lead">{chunk.note}</p>
             <p className="en muted tiny">{chunk.example}</p>
             <SpeakButton text={`${chunk.text} ${chunk.example}`} rate={rate} label="听语块和例句" />
@@ -59,7 +60,7 @@ export default function ChunksPage() {
                 >
                   {work.said[i] ? "已大声念出" : "标记：已大声念出"}
                 </button>
-                <SpeakButton text={work.sentences[i]} rate={rate} label="听我写的句子" />
+                <SpeakButton text={work.sentences[i]} rate={rate} label="听我写的句子" allowMachine />
               </label>
             ))}
           </section>

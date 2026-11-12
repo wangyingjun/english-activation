@@ -51,7 +51,7 @@ export default function BookPage() {
           <p className="en" style={{ fontSize: "1.1rem", margin: "0.3rem 0 0.6rem" }}>
             {item.idiomaticEn}
           </p>
-          <SpeakButton text={item.idiomaticEn} rate={0.9} label="朗读" />
+          <SpeakButton text={item.idiomaticEn} rate={0.9} label="朗读" allowMachine />
           <div className="read-pips">
             {Array.from({ length: 10 }, (_, i) => (
               <i key={i} className={i < item.readCount ? "on" : ""} />

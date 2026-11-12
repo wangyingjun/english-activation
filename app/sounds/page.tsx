@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
+import { YouGlishLink } from "@/components/YouGlishLink";
 import { useApp } from "@/components/AppProvider";
 import { TTS_DISCLAIMER } from "@/lib/content/materials";
 import { soundsForPhaseDay, type MinimalPair, type SoundGroup } from "@/lib/content/sounds";
@@ -104,6 +105,7 @@ function PairCell({ word, ipa, rate }: { word: string; ipa: string; rate: number
       <span className="en">{word}</span>
       <span className="ipa">{ipa}</span>
       <SpeakButton text={word} rate={rate} label="听" />
+      <YouGlishLink text={word} />
     </div>
   );
 }
@@ -126,7 +128,7 @@ function SoundGroupCard({ group, rate }: { group: SoundGroup; rate: number }) {
           {group.items.map((it) => (
             <li key={it.citation}>
               <p className="en">
-                <b>{it.citation}</b> → {it.reduced}
+                <b>{it.citation}</b> → {it.reduced} <YouGlishLink text={it.citation} />
               </p>
               <p className="en" style={{ marginTop: 4 }}>
                 {it.example}
@@ -169,7 +171,7 @@ export default function SoundsPage() {
     <PracticeFrame
       moduleId="sounds"
       phase={1}
-      desc="每天梳理 1–2 组易混淆发音。先听、再对照文本，最后做听辨。浏览器朗读只是替代，口型和气口请回到 Rachel's English 或《美语音标》。"
+      desc="每天梳理 1–2 组易混淆发音。先听预录的自然语音、再对照文本，最后做听辨。想听真人怎么说，点「听真人」。口型和气口也可以对照 Rachel's English 或《美语音标》。"
     >
       <div className="btn-row" style={{ marginBottom: 8 }}>
         <SpeedToggle rate={rate} onChange={setRate} />

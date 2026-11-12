@@ -3,6 +3,8 @@
 import { useMemo, useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
+import { voiceForSpeaker } from "@/lib/audio";
+import { dialogueFile } from "@/lib/audio-lookup";
 import { useApp } from "@/components/AppProvider";
 import { dialogueForPhaseDay, dialogueWordList, DIALOGUES } from "@/lib/content/dialogues";
 import { TTS_DISCLAIMER } from "@/lib/content/materials";
@@ -50,7 +52,7 @@ export default function ListeningPage() {
     <PracticeFrame
       moduleId="listening"
       phase={1}
-      desc="选一段 1–2 分钟的慢速日常对话，按四步走：盲听 2 遍抓大意 → 对照文本逐句听清 → 脱稿再盲听 2 遍。下面是本站原创的短对话，用语音合成练习流程；真正的连读请回到 ESL Pod、6 Minute English 或你已有的剧集片段。"
+      desc="选一段 1–2 分钟的慢速日常对话，按四步走：盲听 2 遍抓大意 → 对照文本逐句听清 → 脱稿再盲听 2 遍。下面是本站原创的短对话，两位说话人用不同的预录声音。也欢迎用 ESL Pod、6 Minute English 或你已有的剧集片段做同样的练习。"
     >
       <div className="card">
         <label className="field">
@@ -71,7 +73,7 @@ export default function ListeningPage() {
         <p className="muted tiny">{dialogue.setting}</p>
         <div className="btn-row" style={{ marginTop: 10 }}>
           <SpeedToggle rate={rate} onChange={setRate} />
-          <SpeakButton text={dialogue.lines.map((l) => l.text).join(". ")} rate={rate} label="整段朗读" />
+          <SpeakButton text="full" src={dialogueFile(dialogue.id)} rate={rate} label="整段朗读" />
         </div>
       </div>
 
@@ -112,7 +114,7 @@ export default function ListeningPage() {
                         );
                       })}
                     </p>
-                    <SpeakButton text={line.text} rate={rate} label="听这句" />
+                    <SpeakButton text={line.text} voice={voiceForSpeaker(line.speaker)} rate={rate} label="听这句" />
                   </div>
                 ))}
                 {progress.missed.length > 0 && (
@@ -124,7 +126,7 @@ export default function ListeningPage() {
             )}
             {step.id !== "withText" && (
               <div className="btn-row" style={{ marginTop: 10 }}>
-                <SpeakButton text={dialogue.lines.map((l) => l.text).join(". ")} rate={rate} label="盲听整段" />
+                <SpeakButton text="full" src={dialogueFile(dialogue.id)} rate={rate} label="盲听整段" />
               </div>
             )}
             <div style={{ marginTop: 10 }}>

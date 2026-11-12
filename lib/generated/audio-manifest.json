@@ -1,0 +1,5422 @@
+{
+  "engine": "edge-tts",
+  "voices": {
+    "default": "en-US-AvaMultilingualNeural"
+  },
+  "clips": {
+    "916ea37662cff5ecd89f": {
+      "text": "sheep",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/916ea37662cff5ecd89f.mp3"
+    },
+    "21b7bd62252f7a024985": {
+      "text": "ship",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/21b7bd62252f7a024985.mp3"
+    },
+    "f00dda6f69bc4cd8e323": {
+      "text": "beat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f00dda6f69bc4cd8e323.mp3"
+    },
+    "03c40d096e1b88ccd517": {
+      "text": "bit",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/03c40d096e1b88ccd517.mp3"
+    },
+    "3878f48b687fa1d9e045": {
+      "text": "leave",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/3878f48b687fa1d9e045.mp3"
+    },
+    "82a7c8dccd93610be16c": {
+      "text": "live",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/82a7c8dccd93610be16c.mp3"
+    },
+    "701e07fa616c4bc13f93": {
+      "text": "seat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/701e07fa616c4bc13f93.mp3"
+    },
+    "2633ae6c0a81120baeb9": {
+      "text": "sit",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/2633ae6c0a81120baeb9.mp3"
+    },
+    "f65e1973bf6e549780ba": {
+      "text": "heat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f65e1973bf6e549780ba.mp3"
+    },
+    "dffb4d36bbd15d0153d7": {
+      "text": "hit",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/dffb4d36bbd15d0153d7.mp3"
+    },
+    "ff48f3b700ea15dd2890": {
+      "text": "reach",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ff48f3b700ea15dd2890.mp3"
+    },
+    "c68a781b1f07935678ab": {
+      "text": "rich",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c68a781b1f07935678ab.mp3"
+    },
+    "558e5e290636c70682b9": {
+      "text": "Please sit in this seat.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/558e5e290636c70682b9.mp3"
+    },
+    "9bdb59d93f2c3a3c3d1e": {
+      "text": "I live near the leaves.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/9bdb59d93f2c3a3c3d1e.mp3"
+    },
+    "38464de28409534adf83": {
+      "text": "This ship is full of sheep.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/38464de28409534adf83.mp3"
+    },
+    "2b3c572125e453ae448c": {
+      "text": "bad",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/2b3c572125e453ae448c.mp3"
+    },
+    "4345f029ad550248a14e": {
+      "text": "bed",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4345f029ad550248a14e.mp3"
+    },
+    "f7f44445d30a3258bb7e": {
+      "text": "man",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f7f44445d30a3258bb7e.mp3"
+    },
+    "ee75663e05e8b4c9cf81": {
+      "text": "men",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ee75663e05e8b4c9cf81.mp3"
+    },
+    "eb3f29bb8763c3abe8c6": {
+      "text": "sat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/eb3f29bb8763c3abe8c6.mp3"
+    },
+    "20bc76cc94e2a604ada2": {
+      "text": "set",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/20bc76cc94e2a604ada2.mp3"
+    },
+    "aa486e2ddd5637f0f737": {
+      "text": "pan",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/aa486e2ddd5637f0f737.mp3"
+    },
+    "fb7ea6d4cca0099e30e3": {
+      "text": "pen",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/fb7ea6d4cca0099e30e3.mp3"
+    },
+    "ad67bf7f66e107af51cd": {
+      "text": "sad",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ad67bf7f66e107af51cd.mp3"
+    },
+    "337ee0db737bd8e37166": {
+      "text": "said",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/337ee0db737bd8e37166.mp3"
+    },
+    "b03a46bd6b7b5b7693d9": {
+      "text": "bag",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b03a46bd6b7b5b7693d9.mp3"
+    },
+    "6a4dc8748469d5c50f93": {
+      "text": "beg",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/6a4dc8748469d5c50f93.mp3"
+    },
+    "4b8f6641671d9f162fe7": {
+      "text": "The men sat on the bed.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/4b8f6641671d9f162fe7.mp3"
+    },
+    "aa65bf46d4f0478ce63e": {
+      "text": "I said the bag was bad.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/aa65bf46d4f0478ce63e.mp3"
+    },
+    "6148e7fa08ad2c20c504": {
+      "text": "This pan is next to the pen.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/6148e7fa08ad2c20c504.mp3"
+    },
+    "a403a68850aa26c26b95": {
+      "text": "think",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/a403a68850aa26c26b95.mp3"
+    },
+    "0ab14f072ccfe08ef2e7": {
+      "text": "sink",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0ab14f072ccfe08ef2e7.mp3"
+    },
+    "ac25afd3c06bb4f9db9e": {
+      "text": "thick",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ac25afd3c06bb4f9db9e.mp3"
+    },
+    "1c03f77996bbc439e237": {
+      "text": "sick",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1c03f77996bbc439e237.mp3"
+    },
+    "4253856e4f6a8fff5013": {
+      "text": "path",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4253856e4f6a8fff5013.mp3"
+    },
+    "1224cdd84879024e7e57": {
+      "text": "pass",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1224cdd84879024e7e57.mp3"
+    },
+    "1bfae6a1d9da252b94d9": {
+      "text": "thumb",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1bfae6a1d9da252b94d9.mp3"
+    },
+    "b39566dcb2dcc2c0455f": {
+      "text": "some",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b39566dcb2dcc2c0455f.mp3"
+    },
+    "b8afd7b35299c6f7032d": {
+      "text": "thank",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b8afd7b35299c6f7032d.mp3"
+    },
+    "765c4b7aee7063384ef3": {
+      "text": "sank",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/765c4b7aee7063384ef3.mp3"
+    },
+    "abac27268203b86fde5b": {
+      "text": "faith",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/abac27268203b86fde5b.mp3"
+    },
+    "600d9a84325a3926232e": {
+      "text": "face",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/600d9a84325a3926232e.mp3"
+    },
+    "9c050d31920422d9935a": {
+      "text": "I think the path is thick with snow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/9c050d31920422d9935a.mp3"
+    },
+    "4cda67d882a709b92c8a": {
+      "text": "Thank you for some of your time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/4cda67d882a709b92c8a.mp3"
+    },
+    "c7a00e314d8cb0963b8b": {
+      "text": "He put his thumb on the sink.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/c7a00e314d8cb0963b8b.mp3"
+    },
+    "0c00c5f0cb8e7dc3fdbc": {
+      "text": "they",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0c00c5f0cb8e7dc3fdbc.mp3"
+    },
+    "5339583f0f37e1fa6c11": {
+      "text": "day",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5339583f0f37e1fa6c11.mp3"
+    },
+    "898979497098363ca971": {
+      "text": "then",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/898979497098363ca971.mp3"
+    },
+    "46a1ff2acf2fcd63cf2e": {
+      "text": "den",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/46a1ff2acf2fcd63cf2e.mp3"
+    },
+    "ee1744ff35919f1de20e": {
+      "text": "there",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ee1744ff35919f1de20e.mp3"
+    },
+    "94a16be648f65fa39499": {
+      "text": "dare",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/94a16be648f65fa39499.mp3"
+    },
+    "7818278ff671b541a6dd": {
+      "text": "breathe",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7818278ff671b541a6dd.mp3"
+    },
+    "dfa1c76b692f36e50bb8": {
+      "text": "breed",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/dfa1c76b692f36e50bb8.mp3"
+    },
+    "7b24ffbe7255681348bf": {
+      "text": "those",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7b24ffbe7255681348bf.mp3"
+    },
+    "30f9bd0b8a41b173b090": {
+      "text": "doze",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/30f9bd0b8a41b173b090.mp3"
+    },
+    "89e28c74a2b2aaa6ddaf": {
+      "text": "though",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/89e28c74a2b2aaa6ddaf.mp3"
+    },
+    "fc09613a92660a7254dd": {
+      "text": "dough",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/fc09613a92660a7254dd.mp3"
+    },
+    "7a8f9ff457a617240503": {
+      "text": "They went there the next day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/7a8f9ff457a617240503.mp3"
+    },
+    "7a64f88078959d13c8e5": {
+      "text": "Breathe in, then try again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/7a64f88078959d13c8e5.mp3"
+    },
+    "1568180f651b6db0832d": {
+      "text": "Those people dare to go, though.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/1568180f651b6db0832d.mp3"
+    },
+    "72b62414baa80fea16be": {
+      "text": "vest",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/72b62414baa80fea16be.mp3"
+    },
+    "4157e002b9f5946fb510": {
+      "text": "west",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4157e002b9f5946fb510.mp3"
+    },
+    "4767705f19d594d8e416": {
+      "text": "vine",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4767705f19d594d8e416.mp3"
+    },
+    "4608907bf1bd1c5257fa": {
+      "text": "wine",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4608907bf1bd1c5257fa.mp3"
+    },
+    "e12e81285c505e242df2": {
+      "text": "vet",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e12e81285c505e242df2.mp3"
+    },
+    "273e60edb1dd2d1b277c": {
+      "text": "wet",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/273e60edb1dd2d1b277c.mp3"
+    },
+    "53b3da49bea112b11754": {
+      "text": "very",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/53b3da49bea112b11754.mp3"
+    },
+    "ab764abed1400f8f46f7": {
+      "text": "wary",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ab764abed1400f8f46f7.mp3"
+    },
+    "05cc1bd840b2e2225ec7": {
+      "text": "veil",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/05cc1bd840b2e2225ec7.mp3"
+    },
+    "267ff0ad558554dd3d8d": {
+      "text": "whale",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/267ff0ad558554dd3d8d.mp3"
+    },
+    "52af7e8e6b1393851522": {
+      "text": "vent",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/52af7e8e6b1393851522.mp3"
+    },
+    "dd707109edfcb2c36185": {
+      "text": "went",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/dd707109edfcb2c36185.mp3"
+    },
+    "96610c370af7117b3303": {
+      "text": "The vest in the west is very wet.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/96610c370af7117b3303.mp3"
+    },
+    "cf208eb5e34c2f36c10a": {
+      "text": "I went to the vet in a van.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/cf208eb5e34c2f36c10a.mp3"
+    },
+    "fb2393c7e0da2c27e5e8": {
+      "text": "This wine comes from a vine.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/fb2393c7e0da2c27e5e8.mp3"
+    },
+    "295cafce17bae1581f6e": {
+      "text": "light",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/295cafce17bae1581f6e.mp3"
+    },
+    "7fc0c7a3e2875e3fc889": {
+      "text": "right",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7fc0c7a3e2875e3fc889.mp3"
+    },
+    "fc37e36387bf38a686b7": {
+      "text": "long",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/fc37e36387bf38a686b7.mp3"
+    },
+    "09b4b03728aca29a0590": {
+      "text": "wrong",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/09b4b03728aca29a0590.mp3"
+    },
+    "efd2b986141caed9391a": {
+      "text": "play",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/efd2b986141caed9391a.mp3"
+    },
+    "762ec2a8a9ef5b316fcb": {
+      "text": "pray",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/762ec2a8a9ef5b316fcb.mp3"
+    },
+    "b558695e02db76a1141b": {
+      "text": "glass",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b558695e02db76a1141b.mp3"
+    },
+    "f832e01e44175f78c258": {
+      "text": "grass",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f832e01e44175f78c258.mp3"
+    },
+    "2b4bbf6e315d5e8924c1": {
+      "text": "late",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/2b4bbf6e315d5e8924c1.mp3"
+    },
+    "5fc8321352da35223476": {
+      "text": "rate",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5fc8321352da35223476.mp3"
+    },
+    "e0c9b78ebceaf34d49ec": {
+      "text": "lead",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e0c9b78ebceaf34d49ec.mp3"
+    },
+    "1649f124d0ec9db07207": {
+      "text": "read",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1649f124d0ec9db07207.mp3"
+    },
+    "1b1bbac0eadd9471bc03": {
+      "text": "Turn right at the red light.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/1b1bbac0eadd9471bc03.mp3"
+    },
+    "09f19fd4eee6d7fb4325": {
+      "text": "Don't play on the grass.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/09f19fd4eee6d7fb4325.mp3"
+    },
+    "1aaeb1030c63e86943e3": {
+      "text": "I read a long letter last night.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/1aaeb1030c63e86943e3.mp3"
+    },
+    "9bc698b891119d613ba7": {
+      "text": "heart",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/9bc698b891119d613ba7.mp3"
+    },
+    "de8d317a8dfcb6ebbf8e": {
+      "text": "hut",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/de8d317a8dfcb6ebbf8e.mp3"
+    },
+    "c45194ed6f697767821d": {
+      "text": "calm",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c45194ed6f697767821d.mp3"
+    },
+    "98dc256d66fe006b3e98": {
+      "text": "come",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/98dc256d66fe006b3e98.mp3"
+    },
+    "b2858d03179588aa73f7": {
+      "text": "dark",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b2858d03179588aa73f7.mp3"
+    },
+    "fe0a7bdf47b87c2e9e84": {
+      "text": "duck",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/fe0a7bdf47b87c2e9e84.mp3"
+    },
+    "a00647f85e7bb0306b6a": {
+      "text": "barn",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/a00647f85e7bb0306b6a.mp3"
+    },
+    "235aa4c822a87808d1b8": {
+      "text": "bun",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/235aa4c822a87808d1b8.mp3"
+    },
+    "5e1001dbc9e69c3b2754": {
+      "text": "cart",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5e1001dbc9e69c3b2754.mp3"
+    },
+    "dcb32aebb028e0f9950f": {
+      "text": "cut",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/dcb32aebb028e0f9950f.mp3"
+    },
+    "efa4fb6a51f9563cdc79": {
+      "text": "lark",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/efa4fb6a51f9563cdc79.mp3"
+    },
+    "6a184650f1f52bd14e88": {
+      "text": "luck",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/6a184650f1f52bd14e88.mp3"
+    },
+    "415ae85c9b6a88deec4e": {
+      "text": "Come here and stay calm.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/415ae85c9b6a88deec4e.mp3"
+    },
+    "4e3362da7107b890c1db": {
+      "text": "A duck swam in the dark pond.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/4e3362da7107b890c1db.mp3"
+    },
+    "9d6f195c01fed480e8bc": {
+      "text": "I cut the cart in half. Wait, that can't be right — I left the cart outside the hut.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/9d6f195c01fed480e8bc.mp3"
+    },
+    "5cc2e47772da6ecb4a62": {
+      "text": "full",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5cc2e47772da6ecb4a62.mp3"
+    },
+    "879b836ff7caaaf7cc91": {
+      "text": "fool",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/879b836ff7caaaf7cc91.mp3"
+    },
+    "f105d1c8798fd7ce49b9": {
+      "text": "pull",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f105d1c8798fd7ce49b9.mp3"
+    },
+    "57b09848a275dbe75e1f": {
+      "text": "pool",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/57b09848a275dbe75e1f.mp3"
+    },
+    "494250899c46892427bf": {
+      "text": "look",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/494250899c46892427bf.mp3"
+    },
+    "80b38d275930bc9c9243": {
+      "text": "Luke",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/80b38d275930bc9c9243.mp3"
+    },
+    "56e764a7fb3d74358df3": {
+      "text": "should",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/56e764a7fb3d74358df3.mp3"
+    },
+    "7a1589413602a89c4223": {
+      "text": "shoed",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7a1589413602a89c4223.mp3"
+    },
+    "c9df6520ccd68b37b6a3": {
+      "text": "wood",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c9df6520ccd68b37b6a3.mp3"
+    },
+    "b50d8f30d3947dc9e3ac": {
+      "text": "wooed",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b50d8f30d3947dc9e3ac.mp3"
+    },
+    "80fbb95e661a3caa8a9e": {
+      "text": "cook",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/80fbb95e661a3caa8a9e.mp3"
+    },
+    "87dfa4c58862e9d7d884": {
+      "text": "kook",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/87dfa4c58862e9d7d884.mp3"
+    },
+    "dc75806d82e130086e42": {
+      "text": "Look at Luke by the pool.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/dc75806d82e130086e42.mp3"
+    },
+    "8f3fdc4e34bdb99b49a0": {
+      "text": "The bag is full, you fool.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/8f3fdc4e34bdb99b49a0.mp3"
+    },
+    "a6cac010f8bbb71201de": {
+      "text": "You should pull the wood closer.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/a6cac010f8bbb71201de.mp3"
+    },
+    "4350b0d0ea7de521e329": {
+      "text": "caught",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4350b0d0ea7de521e329.mp3"
+    },
+    "4cd8745f1936c860d183": {
+      "text": "coat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4cd8745f1936c860d183.mp3"
+    },
+    "29858e17d43a3240d459": {
+      "text": "bought",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/29858e17d43a3240d459.mp3"
+    },
+    "cf7ac280a8e27f9d1429": {
+      "text": "boat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/cf7ac280a8e27f9d1429.mp3"
+    },
+    "e88c84a0115f27d3db5b": {
+      "text": "law",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e88c84a0115f27d3db5b.mp3"
+    },
+    "b511237dfb6cf3d48847": {
+      "text": "low",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b511237dfb6cf3d48847.mp3"
+    },
+    "cfe21c7f027f2775d4b7": {
+      "text": "saw",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/cfe21c7f027f2775d4b7.mp3"
+    },
+    "710fb80bcd39d003626d": {
+      "text": "so",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/710fb80bcd39d003626d.mp3"
+    },
+    "8829949ef537ec05cbe9": {
+      "text": "walk",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8829949ef537ec05cbe9.mp3"
+    },
+    "0207ced9663f5b6af8d1": {
+      "text": "woke",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0207ced9663f5b6af8d1.mp3"
+    },
+    "b874f5c7d295d3d62205": {
+      "text": "called",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b874f5c7d295d3d62205.mp3"
+    },
+    "d30fa2efcd92f84a750b": {
+      "text": "cold",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d30fa2efcd92f84a750b.mp3"
+    },
+    "4ddbefe6975633b6ebc8": {
+      "text": "I bought a coat for the boat.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/4ddbefe6975633b6ebc8.mp3"
+    },
+    "4fe46af777000b32e717": {
+      "text": "The law is so old.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/4fe46af777000b32e717.mp3"
+    },
+    "55c7d56b3067d9753256": {
+      "text": "I woke up and went for a walk.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/55c7d56b3067d9753256.mp3"
+    },
+    "68f0781983693ec13898": {
+      "text": "here",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/68f0781983693ec13898.mp3"
+    },
+    "66f7babc937f589558de": {
+      "text": "hair",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/66f7babc937f589558de.mp3"
+    },
+    "3a1b09be9a40aec0e076": {
+      "text": "fear",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/3a1b09be9a40aec0e076.mp3"
+    },
+    "e797f24c7aa5d4fd44d9": {
+      "text": "fair",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e797f24c7aa5d4fd44d9.mp3"
+    },
+    "f77ad5208f170334c430": {
+      "text": "beer",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f77ad5208f170334c430.mp3"
+    },
+    "6f04e48bf2e0ae4f0c66": {
+      "text": "bear",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/6f04e48bf2e0ae4f0c66.mp3"
+    },
+    "294fb95bb56093da161a": {
+      "text": "cheer",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/294fb95bb56093da161a.mp3"
+    },
+    "847b5be63b0fd6690d13": {
+      "text": "chair",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/847b5be63b0fd6690d13.mp3"
+    },
+    "19e4120a2c07626abdd2": {
+      "text": "ear",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/19e4120a2c07626abdd2.mp3"
+    },
+    "f3c572127a22a5eb3f34": {
+      "text": "air",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f3c572127a22a5eb3f34.mp3"
+    },
+    "c5016b7a5d38b83fa494": {
+      "text": "pierce",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c5016b7a5d38b83fa494.mp3"
+    },
+    "01319c8367749c174fb6": {
+      "text": "pairs",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/01319c8367749c174fb6.mp3"
+    },
+    "d5c9b2380a7d6b904ecf": {
+      "text": "Come here and sit in this chair.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/d5c9b2380a7d6b904ecf.mp3"
+    },
+    "c00b7657d7f103354207": {
+      "text": "I fear the fare is not fair.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/c00b7657d7f103354207.mp3"
+    },
+    "eff52ae3a8379a024f82": {
+      "text": "There's a bear near the beer.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/eff52ae3a8379a024f82.mp3"
+    },
+    "8444ba7cce2cb829d470": {
+      "text": "she",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8444ba7cce2cb829d470.mp3"
+    },
+    "bc8a9a392e270771456c": {
+      "text": "see",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/bc8a9a392e270771456c.mp3"
+    },
+    "54f97f7faae4b7a60088": {
+      "text": "sip",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/54f97f7faae4b7a60088.mp3"
+    },
+    "418e81a01b4f23b439c7": {
+      "text": "shy",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/418e81a01b4f23b439c7.mp3"
+    },
+    "561c3cb41e103ce8736a": {
+      "text": "sigh",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/561c3cb41e103ce8736a.mp3"
+    },
+    "d8ff105e074f48d3f63b": {
+      "text": "shell",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d8ff105e074f48d3f63b.mp3"
+    },
+    "b0fa170d717a58539b41": {
+      "text": "sell",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b0fa170d717a58539b41.mp3"
+    },
+    "a804cf2b58ca3bc7cf2d": {
+      "text": "mesh",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/a804cf2b58ca3bc7cf2d.mp3"
+    },
+    "56631b4772b5b8672635": {
+      "text": "mess",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/56631b4772b5b8672635.mp3"
+    },
+    "d11ba387510c437cf1ed": {
+      "text": "shock",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d11ba387510c437cf1ed.mp3"
+    },
+    "e4e136cb6d7efabce23f": {
+      "text": "sock",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e4e136cb6d7efabce23f.mp3"
+    },
+    "397408c60de7e9929f9b": {
+      "text": "She can see the ship.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/397408c60de7e9929f9b.mp3"
+    },
+    "1830c2ede9e570c8870e": {
+      "text": "Don't sell the shell.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/1830c2ede9e570c8870e.mp3"
+    },
+    "f87c20f2e9b3d58af011": {
+      "text": "I let out a sigh when I felt shy.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/f87c20f2e9b3d58af011.mp3"
+    },
+    "8a7d55a16e1b1f85379f": {
+      "text": "cheap",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8a7d55a16e1b1f85379f.mp3"
+    },
+    "d741dcd9b9f8ccb3b847": {
+      "text": "chip",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d741dcd9b9f8ccb3b847.mp3"
+    },
+    "ec2e2f19c4cb7e39b7a5": {
+      "text": "catch",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ec2e2f19c4cb7e39b7a5.mp3"
+    },
+    "d78449ab1f0ac944e813": {
+      "text": "cash",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d78449ab1f0ac944e813.mp3"
+    },
+    "314f77bebfa60d86abb4": {
+      "text": "watch",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/314f77bebfa60d86abb4.mp3"
+    },
+    "fde35fdbe63d7435c62e": {
+      "text": "wash",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/fde35fdbe63d7435c62e.mp3"
+    },
+    "12e471f8fc495130ffed": {
+      "text": "chop",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/12e471f8fc495130ffed.mp3"
+    },
+    "538130f05766c3f0d64a": {
+      "text": "shop",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/538130f05766c3f0d64a.mp3"
+    },
+    "21fc386d198c617f84bc": {
+      "text": "chew",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/21fc386d198c617f84bc.mp3"
+    },
+    "8f1871029ffaf3c06537": {
+      "text": "shoe",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8f1871029ffaf3c06537.mp3"
+    },
+    "2d27f6e26382bc00f396": {
+      "text": "I paid cash to catch the cheap bus.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/2d27f6e26382bc00f396.mp3"
+    },
+    "ce9a0cbd0188d391bb34": {
+      "text": "Wash the watch in the shop.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/ce9a0cbd0188d391bb34.mp3"
+    },
+    "5a843c3194a0fc9184db": {
+      "text": "Don't chop the chips on the ship.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/5a843c3194a0fc9184db.mp3"
+    },
+    "7ac37f9cb11ca6b58a48": {
+      "text": "thin",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7ac37f9cb11ca6b58a48.mp3"
+    },
+    "0e7b3d6aa33a16cccf44": {
+      "text": "thing",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0e7b3d6aa33a16cccf44.mp3"
+    },
+    "587490b81cf82da56b6a": {
+      "text": "win",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/587490b81cf82da56b6a.mp3"
+    },
+    "d00419bc7f074c225274": {
+      "text": "wing",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d00419bc7f074c225274.mp3"
+    },
+    "1da02470269db1cb2ab8": {
+      "text": "ran",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1da02470269db1cb2ab8.mp3"
+    },
+    "0b2ce335288c4b4a6578": {
+      "text": "rang",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0b2ce335288c4b4a6578.mp3"
+    },
+    "9dc1a84d5320364b9429": {
+      "text": "kin",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/9dc1a84d5320364b9429.mp3"
+    },
+    "8161bcdbcc5fdb1376d2": {
+      "text": "king",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8161bcdbcc5fdb1376d2.mp3"
+    },
+    "c35f008a381040232019": {
+      "text": "sun",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c35f008a381040232019.mp3"
+    },
+    "5d4a410a68abe4290fa2": {
+      "text": "sung",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5d4a410a68abe4290fa2.mp3"
+    },
+    "caf398fc8634f3dbb7b7": {
+      "text": "ban",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/caf398fc8634f3dbb7b7.mp3"
+    },
+    "12909dc98ee93e96d61a": {
+      "text": "bang",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/12909dc98ee93e96d61a.mp3"
+    },
+    "e8f872353ab252bbf2b6": {
+      "text": "This thin thing can fly with one wing.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/e8f872353ab252bbf2b6.mp3"
+    },
+    "88d8de79073a0c8268ef": {
+      "text": "The king rang me in the morning.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/88d8de79073a0c8268ef.mp3"
+    },
+    "9f5e15bc12be6e5ebc08": {
+      "text": "She sang when the sun came out.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/9f5e15bc12be6e5ebc08.mp3"
+    },
+    "3b2dc269f3d4a1afd526": {
+      "text": "zip",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/3b2dc269f3d4a1afd526.mp3"
+    },
+    "cd4db459453aab4d1dd5": {
+      "text": "price",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/cd4db459453aab4d1dd5.mp3"
+    },
+    "b6b99ac9fed715345781": {
+      "text": "prize",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b6b99ac9fed715345781.mp3"
+    },
+    "51d6089ce88c08ed2e60": {
+      "text": "ice",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/51d6089ce88c08ed2e60.mp3"
+    },
+    "1794f3b1e2da70c27765": {
+      "text": "eyes",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1794f3b1e2da70c27765.mp3"
+    },
+    "98f30b4ed232375b8346": {
+      "text": "bus",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/98f30b4ed232375b8346.mp3"
+    },
+    "6286bc70c53675dd1527": {
+      "text": "buzz",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/6286bc70c53675dd1527.mp3"
+    },
+    "df02d8015bb0e224027b": {
+      "text": "lace",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/df02d8015bb0e224027b.mp3"
+    },
+    "160410c30ea0ee2f8c4d": {
+      "text": "laze",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/160410c30ea0ee2f8c4d.mp3"
+    },
+    "b12f40de19704a73e2b8": {
+      "text": "hiss",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/b12f40de19704a73e2b8.mp3"
+    },
+    "c636bb8de0bea74466d8": {
+      "text": "his",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c636bb8de0bea74466d8.mp3"
+    },
+    "ed787b246f5cf0f16362": {
+      "text": "The price of the prize surprised his eyes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/ed787b246f5cf0f16362.mp3"
+    },
+    "1a018629f98e41c2239d": {
+      "text": "I took a sip and heard a buzz.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/1a018629f98e41c2239d.mp3"
+    },
+    "0d565dc729975247f19c": {
+      "text": "Zip up before you get on the bus.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/0d565dc729975247f19c.mp3"
+    },
+    "af7a163bf7d5cec2f575": {
+      "text": "free",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/af7a163bf7d5cec2f575.mp3"
+    },
+    "1e10dd661e923f08f4f9": {
+      "text": "three",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1e10dd661e923f08f4f9.mp3"
+    },
+    "e86e59f5fe9669f08ae2": {
+      "text": "fin",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e86e59f5fe9669f08ae2.mp3"
+    },
+    "59557be1af1f01c82302": {
+      "text": "first",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/59557be1af1f01c82302.mp3"
+    },
+    "a63cf9e84009fbb6a39f": {
+      "text": "thirst",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/a63cf9e84009fbb6a39f.mp3"
+    },
+    "e24ba36f1eaabeefe2e8": {
+      "text": "fought",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e24ba36f1eaabeefe2e8.mp3"
+    },
+    "580f753a132ba95661f7": {
+      "text": "thought",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/580f753a132ba95661f7.mp3"
+    },
+    "d1c7789296b614a27932": {
+      "text": "deaf",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d1c7789296b614a27932.mp3"
+    },
+    "e993b34d1cbaa04b21a6": {
+      "text": "death",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e993b34d1cbaa04b21a6.mp3"
+    },
+    "453e5702f8ed98d5a4e1": {
+      "text": "frill",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/453e5702f8ed98d5a4e1.mp3"
+    },
+    "f0b7f042d27e0702bad4": {
+      "text": "thrill",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f0b7f042d27e0702bad4.mp3"
+    },
+    "e0ef102806ea52355f9e": {
+      "text": "I thought I was free for three hours.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/e0ef102806ea52355f9e.mp3"
+    },
+    "ab7b25a944b249c2f24a": {
+      "text": "She felt a thirst at first.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/ab7b25a944b249c2f24a.mp3"
+    },
+    "4136de1f95a0b6f3526f": {
+      "text": "The thin fin cut through the water.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/4136de1f95a0b6f3526f.mp3"
+    },
+    "7a170d363773c7088375": {
+      "text": "this",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7a170d363773c7088375.mp3"
+    },
+    "c2985c4194636d74646a": {
+      "text": "thigh",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c2985c4194636d74646a.mp3"
+    },
+    "dfcda91bca5f232833f7": {
+      "text": "thy",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/dfcda91bca5f232833f7.mp3"
+    },
+    "91bf00e7ba918431d6c2": {
+      "text": "ether",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/91bf00e7ba918431d6c2.mp3"
+    },
+    "0803d52d70cc348c0115": {
+      "text": "either",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0803d52d70cc348c0115.mp3"
+    },
+    "c696108fd305b8b8fdab": {
+      "text": "teeth",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c696108fd305b8b8fdab.mp3"
+    },
+    "02cdd2e033c35c869992": {
+      "text": "teethe",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/02cdd2e033c35c869992.mp3"
+    },
+    "a0ae22dcf9031201264b": {
+      "text": "sooth",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/a0ae22dcf9031201264b.mp3"
+    },
+    "5e51e97ddfb9ff0f34c8": {
+      "text": "soothe",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5e51e97ddfb9ff0f34c8.mp3"
+    },
+    "20adec7f3d9f80a3f557": {
+      "text": "thistle",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/20adec7f3d9f80a3f557.mp3"
+    },
+    "c9bc9be7a76e864ead8a": {
+      "text": "this'll",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c9bc9be7a76e864ead8a.mp3"
+    },
+    "c17111a784026402787a": {
+      "text": "This thin cloth can soothe the skin.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/c17111a784026402787a.mp3"
+    },
+    "8fbeccf12b859482d82c": {
+      "text": "I think this is the right thing.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/8fbeccf12b859482d82c.mp3"
+    },
+    "e2b6d471a8fd2f676dd8": {
+      "text": "Both of them thanked their mother.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/e2b6d471a8fd2f676dd8.mp3"
+    },
+    "3a0aae2845092fb4a140": {
+      "text": "bird",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/3a0aae2845092fb4a140.mp3"
+    },
+    "530ff6197317c4a44807": {
+      "text": "bard",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/530ff6197317c4a44807.mp3"
+    },
+    "409bd85024d3d3b30842": {
+      "text": "fur",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/409bd85024d3d3b30842.mp3"
+    },
+    "63ce875e8baea85fd3c5": {
+      "text": "far",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/63ce875e8baea85fd3c5.mp3"
+    },
+    "4449edfe0fdc0a0c1434": {
+      "text": "heard",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4449edfe0fdc0a0c1434.mp3"
+    },
+    "3f008902f0624a15a5db": {
+      "text": "hard",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/3f008902f0624a15a5db.mp3"
+    },
+    "7b2143c69997eb4a1432": {
+      "text": "burn",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7b2143c69997eb4a1432.mp3"
+    },
+    "153f6572a793450c78e9": {
+      "text": "stir",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/153f6572a793450c78e9.mp3"
+    },
+    "07a280b2fbaec8aac9c9": {
+      "text": "star",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/07a280b2fbaec8aac9c9.mp3"
+    },
+    "1bdf84cc8ebdbbe8769f": {
+      "text": "hurt",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1bdf84cc8ebdbbe8769f.mp3"
+    },
+    "dc95e579970a5d16d608": {
+      "text": "I heard it was hard to find the bird.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/dc95e579970a5d16d608.mp3"
+    },
+    "3521464c66708fae1ff6": {
+      "text": "Her heart hurt after the run.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/3521464c66708fae1ff6.mp3"
+    },
+    "d5b66e8163250ce609dc": {
+      "text": "The star is far from the fur shop.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/d5b66e8163250ce609dc.mp3"
+    },
+    "908e5089b8236c016c3a": {
+      "text": "let",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/908e5089b8236c016c3a.mp3"
+    },
+    "70db1075334c94757bf5": {
+      "text": "wait",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/70db1075334c94757bf5.mp3"
+    },
+    "0bc14cfe4b8ab2a463ca": {
+      "text": "pain",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0bc14cfe4b8ab2a463ca.mp3"
+    },
+    "e4223cc560ddce74be14": {
+      "text": "gate",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e4223cc560ddce74be14.mp3"
+    },
+    "6c1ac781f57aed825023": {
+      "text": "get",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/6c1ac781f57aed825023.mp3"
+    },
+    "d66cbafaee78bd8decd5": {
+      "text": "age",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d66cbafaee78bd8decd5.mp3"
+    },
+    "9a01b73ccd25c703771e": {
+      "text": "edge",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/9a01b73ccd25c703771e.mp3"
+    },
+    "da6ea7539047acaae067": {
+      "text": "taste",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/da6ea7539047acaae067.mp3"
+    },
+    "ca043c8a47157e19a73c": {
+      "text": "test",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/ca043c8a47157e19a73c.mp3"
+    },
+    "7647bc86c0bd47a375c7": {
+      "text": "Don't wait in the wet rain.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/7647bc86c0bd47a375c7.mp3"
+    },
+    "ddb68c2c56daef20cc0f": {
+      "text": "Let me late? No — don't be late, let me in the gate.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/ddb68c2c56daef20cc0f.mp3"
+    },
+    "e3f490c0e1875b803ea3": {
+      "text": "This test tastes strange. I mean, this taste test is strange.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/e3f490c0e1875b803ea3.mp3"
+    },
+    "43331a74f21495c27206": {
+      "text": "like",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/43331a74f21495c27206.mp3"
+    },
+    "c08e52afea76671f6238": {
+      "text": "lack",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c08e52afea76671f6238.mp3"
+    },
+    "3643c2ca2ab6163a4b63": {
+      "text": "bite",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/3643c2ca2ab6163a4b63.mp3"
+    },
+    "03e9ee93e2185d954c44": {
+      "text": "bat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/03e9ee93e2185d954c44.mp3"
+    },
+    "06020996edba01d897c6": {
+      "text": "time",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/06020996edba01d897c6.mp3"
+    },
+    "d4e46a747009c5e0dbca": {
+      "text": "tam",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/d4e46a747009c5e0dbca.mp3"
+    },
+    "1bc678cf08fd44f31ef9": {
+      "text": "mine",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/1bc678cf08fd44f31ef9.mp3"
+    },
+    "bbe15dc33382b5c28637": {
+      "text": "pike",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/bbe15dc33382b5c28637.mp3"
+    },
+    "5ca0068bef7e34fbd75c": {
+      "text": "pack",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5ca0068bef7e34fbd75c.mp3"
+    },
+    "2b583180702aad7156a9": {
+      "text": "side",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/2b583180702aad7156a9.mp3"
+    },
+    "3d7c7d7b567fca52ceb6": {
+      "text": "I like this, but I lack time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/3d7c7d7b567fca52ceb6.mp3"
+    },
+    "f211951460c8f562e005": {
+      "text": "The man on my side looked sad.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/f211951460c8f562e005.mp3"
+    },
+    "b8244621466735d56f4d": {
+      "text": "Don't bite into that bat. Wait, don't pack a pike either.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/b8244621466735d56f4d.mp3"
+    },
+    "00e90402369c8e8d4241": {
+      "text": "cat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/00e90402369c8e8d4241.mp3"
+    },
+    "f091c6e426f5bddc4f64": {
+      "text": "bug",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f091c6e426f5bddc4f64.mp3"
+    },
+    "4d88bb464d5826aa65db": {
+      "text": "run",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4d88bb464d5826aa65db.mp3"
+    },
+    "e622240b987418903e6c": {
+      "text": "ankle",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e622240b987418903e6c.mp3"
+    },
+    "52833877eb87120c6a64": {
+      "text": "uncle",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/52833877eb87120c6a64.mp3"
+    },
+    "5995b9a09389c3ed0d20": {
+      "text": "match",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5995b9a09389c3ed0d20.mp3"
+    },
+    "7f947af08cd1f760f7f3": {
+      "text": "much",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/7f947af08cd1f760f7f3.mp3"
+    },
+    "17352884a0a15ed5b6c7": {
+      "text": "drank",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/17352884a0a15ed5b6c7.mp3"
+    },
+    "edfbf331fa55d0581016": {
+      "text": "drunk",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/edfbf331fa55d0581016.mp3"
+    },
+    "6ba64c63097022c64500": {
+      "text": "The cat cut across the path.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/6ba64c63097022c64500.mp3"
+    },
+    "43cf3009f19ff6ec0c02": {
+      "text": "I ran, then I had to run again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/43cf3009f19ff6ec0c02.mp3"
+    },
+    "12b5e2bd7b6b86a08907": {
+      "text": "There's a bug in my bag.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/12b5e2bd7b6b86a08907.mp3"
+    },
+    "9239c873ad0afb7a8d87": {
+      "text": "lid",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/9239c873ad0afb7a8d87.mp3"
+    },
+    "11ac192d06bf1c826e36": {
+      "text": "led",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/11ac192d06bf1c826e36.mp3"
+    },
+    "72f84156fe3828a3b335": {
+      "text": "pin",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/72f84156fe3828a3b335.mp3"
+    },
+    "6ec443c5576118f0fbf0": {
+      "text": "bet",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/6ec443c5576118f0fbf0.mp3"
+    },
+    "2aeac34e04f11d39856f": {
+      "text": "will",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/2aeac34e04f11d39856f.mp3"
+    },
+    "4a9d3c3bebf50199a316": {
+      "text": "well",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4a9d3c3bebf50199a316.mp3"
+    },
+    "8a92060d79df878c5e22": {
+      "text": "tin",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8a92060d79df878c5e22.mp3"
+    },
+    "458964e2ff2de16dfab5": {
+      "text": "ten",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/458964e2ff2de16dfab5.mp3"
+    },
+    "4d1d0f0ceeb7db22cd44": {
+      "text": "fill",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/4d1d0f0ceeb7db22cd44.mp3"
+    },
+    "f836e1fb8b3de69f799f": {
+      "text": "fell",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/f836e1fb8b3de69f799f.mp3"
+    },
+    "788c691b6460de26c121": {
+      "text": "This pin fell into the pen.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/788c691b6460de26c121.mp3"
+    },
+    "da769ade68653577e40e": {
+      "text": "I will do it well.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/da769ade68653577e40e.mp3"
+    },
+    "d1da7a35bde1d30d2ac3": {
+      "text": "Ten tin lids led me here.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/d1da7a35bde1d30d2ac3.mp3"
+    },
+    "06f8db09714579f2f47a": {
+      "text": "park",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/06f8db09714579f2f47a.mp3"
+    },
+    "5a85a81ebc4d7cf39ea6": {
+      "text": "bark",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/5a85a81ebc4d7cf39ea6.mp3"
+    },
+    "c46f586eeb5453860db1": {
+      "text": "tie",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/c46f586eeb5453860db1.mp3"
+    },
+    "70e359be9df1f6eafdd8": {
+      "text": "die",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/70e359be9df1f6eafdd8.mp3"
+    },
+    "0887b5fc272c66abf2d7": {
+      "text": "goat",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/0887b5fc272c66abf2d7.mp3"
+    },
+    "eba54ef7685caed376a1": {
+      "text": "pear",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/eba54ef7685caed376a1.mp3"
+    },
+    "cc468fcbad7523859ed9": {
+      "text": "gum",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/cc468fcbad7523859ed9.mp3"
+    },
+    "9334fce61dda2468fc81": {
+      "text": "toe",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/9334fce61dda2468fc81.mp3"
+    },
+    "a2dc98e4d88f06ba4098": {
+      "text": "Don't park where the dogs bark.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/a2dc98e4d88f06ba4098.mp3"
+    },
+    "25d53623f8c45545bfcd": {
+      "text": "I need a coat and I saw a goat.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/25d53623f8c45545bfcd.mp3"
+    },
+    "fe545d57464ee2b34743": {
+      "text": "Come get some gum.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/fe545d57464ee2b34743.mp3"
+    },
+    "a38be1a917d4e58feb58": {
+      "text": "year",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/a38be1a917d4e58feb58.mp3"
+    },
+    "9ec62cc329941369db26": {
+      "text": "yeast",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/9ec62cc329941369db26.mp3"
+    },
+    "962198109e3fa8f6e0a7": {
+      "text": "east",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/962198109e3fa8f6e0a7.mp3"
+    },
+    "255bfed2fab4adff30ad": {
+      "text": "yell",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/255bfed2fab4adff30ad.mp3"
+    },
+    "8f706d33f01515db7ccb": {
+      "text": "L",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8f706d33f01515db7ccb.mp3"
+    },
+    "14514a015bd811815474": {
+      "text": "yacht",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/14514a015bd811815474.mp3"
+    },
+    "8e70c7d7663984035416": {
+      "text": "ought",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/8e70c7d7663984035416.mp3"
+    },
+    "395636930d39736035bb": {
+      "text": "yes",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/395636930d39736035bb.mp3"
+    },
+    "83ffdb7255fde7e4d524": {
+      "text": "S",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/83ffdb7255fde7e4d524.mp3"
+    },
+    "75ff79f6c8cc82836b63": {
+      "text": "yet",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/75ff79f6c8cc82836b63.mp3"
+    },
+    "e387c2ed3e1bd764c3ae": {
+      "text": "et",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-word",
+      "file": "/audio/e387c2ed3e1bd764c3ae.mp3"
+    },
+    "7fc9e9407ff9d7044c94": {
+      "text": "This year I will rest my ear.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/7fc9e9407ff9d7044c94.mp3"
+    },
+    "9a7beb45301ff5d197ae": {
+      "text": "Yes, the yeast is in the east kitchen.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/9a7beb45301ff5d197ae.mp3"
+    },
+    "a28b4f8abb502107014d": {
+      "text": "Not yet — wait a year.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/a28b4f8abb502107014d.mp3"
+    },
+    "21ed2154af8ad4775f9b": {
+      "text": "I wanna get some air.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/21ed2154af8ad4775f9b.mp3"
+    },
+    "86d10cfbe32b945310e6": {
+      "text": "I'm gonna be late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/86d10cfbe32b945310e6.mp3"
+    },
+    "4a2d474eb8da7b686d04": {
+      "text": "I gotta go now.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/4a2d474eb8da7b686d04.mp3"
+    },
+    "db76ebeb89c4563bcd4c": {
+      "text": "You hafta see this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/db76ebeb89c4563bcd4c.mp3"
+    },
+    "525e4ca8a6c07fb22db6": {
+      "text": "She hasta leave at five.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/525e4ca8a6c07fb22db6.mp3"
+    },
+    "fa98d390f1c843f42cb4": {
+      "text": "We oughta start soon.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/fa98d390f1c843f42cb4.mp3"
+    },
+    "d3af86b475e25eb3b0e0": {
+      "text": "I'm gonna call you later because I gotta finish this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/d3af86b475e25eb3b0e0.mp3"
+    },
+    "bb9fbb6a95e493164a47": {
+      "text": "Do you wanna grab lunch, or do you hafta work?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/bb9fbb6a95e493164a47.mp3"
+    },
+    "345f9d21c409c31bebdd": {
+      "text": "We oughta leave if we wanna catch the train.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/345f9d21c409c31bebdd.mp3"
+    },
+    "08b0acbed9f09a73c258": {
+      "text": "Can you pick it up for me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/08b0acbed9f09a73c258.mp3"
+    },
+    "95cb3c7fcadb3b403104": {
+      "text": "Please turn it off.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/95cb3c7fcadb3b403104.mp3"
+    },
+    "2e3e3fc6b5336494b8f6": {
+      "text": "I ate an apple.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/2e3e3fc6b5336494b8f6.mp3"
+    },
+    "4aebdac83d276da016a9": {
+      "text": "Hey, take it easy.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/4aebdac83d276da016a9.mp3"
+    },
+    "2419d42588559f89fd69": {
+      "text": "You should check it out.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/2419d42588559f89fd69.mp3"
+    },
+    "ce669c318c7c34efdeba": {
+      "text": "Come on in, it's warm.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/ce669c318c7c34efdeba.mp3"
+    },
+    "6cef859fd8331ddf2ba4": {
+      "text": "Pick it up and turn it off.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/6cef859fd8331ddf2ba4.mp3"
+    },
+    "34962d2ff83ed8ed123c": {
+      "text": "Come on in and have an apple.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/34962d2ff83ed8ed123c.mp3"
+    },
+    "3c6a331069928242212c": {
+      "text": "Check it out, then take it easy.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/3c6a331069928242212c.mp3"
+    },
+    "c6e939557798b3769aa5": {
+      "text": "I want to go to the store.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/c6e939557798b3769aa5.mp3"
+    },
+    "cab04b1f99ec8dfe0200": {
+      "text": "This is for you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/cab04b1f99ec8dfe0200.mp3"
+    },
+    "0c019e6012abb0dcf1d0": {
+      "text": "a cup of tea",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/0c019e6012abb0dcf1d0.mp3"
+    },
+    "ffc5ec4333bf7be2e37e": {
+      "text": "rock and roll",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/ffc5ec4333bf7be2e37e.mp3"
+    },
+    "dacab68ea172814a5672": {
+      "text": "the book on the table",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/dacab68ea172814a5672.mp3"
+    },
+    "3c6c6519faeb6898f1e0": {
+      "text": "I need a minute.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/3c6c6519faeb6898f1e0.mp3"
+    },
+    "27b69bb046771b66c5db": {
+      "text": "I want to go to the store for a cup of tea.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/27b69bb046771b66c5db.mp3"
+    },
+    "e35add62fd73febd89cc": {
+      "text": "The book and the pen are on the table.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/e35add62fd73febd89cc.mp3"
+    },
+    "14c42626a515e8f930d3": {
+      "text": "This is a gift for a friend of mine.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/14c42626a515e8f930d3.mp3"
+    },
+    "6c3b893a7cf64601ea9f": {
+      "text": "I can do it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/6c3b893a7cf64601ea9f.mp3"
+    },
+    "26d540cbc32f720e703d": {
+      "text": "I have been there. / I could have called.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/26d540cbc32f720e703d.mp3"
+    },
+    "3fbc98ae5b94a3659a03": {
+      "text": "She was tired.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/3fbc98ae5b94a3659a03.mp3"
+    },
+    "01c819c5ea7898a06a6f": {
+      "text": "We were late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/01c819c5ea7898a06a6f.mp3"
+    },
+    "866a39837e7f75709ab5": {
+      "text": "What are you doing?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/866a39837e7f75709ab5.mp3"
+    },
+    "20775bc0240d1331c14c": {
+      "text": "Do you know him?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/20775bc0240d1331c14c.mp3"
+    },
+    "9eb651e0aa7fc2cf5ce2": {
+      "text": "I can do it if you can wait.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/9eb651e0aa7fc2cf5ce2.mp3"
+    },
+    "8122a5214cf53ff6022e": {
+      "text": "She was tired, and we were late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/8122a5214cf53ff6022e.mp3"
+    },
+    "97eeeca7c4525a26a8c6": {
+      "text": "What are you doing? Do you need a hand?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/97eeeca7c4525a26a8c6.mp3"
+    },
+    "8bbf770fc379d7772a06": {
+      "text": "It's kinda cold in here.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/8bbf770fc379d7772a06.mp3"
+    },
+    "c5287a01af7ad5e0ab26": {
+      "text": "I have a lotta work today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/c5287a01af7ad5e0ab26.mp3"
+    },
+    "840bac12ddd733a1ec9d": {
+      "text": "I dunno if I can come.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/840bac12ddd733a1ec9d.mp3"
+    },
+    "6c9c56298da93fc79335": {
+      "text": "We're outta milk.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/6c9c56298da93fc79335.mp3"
+    },
+    "38becb1fe7a1e509078f": {
+      "text": "I sorta like this idea.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/38becb1fe7a1e509078f.mp3"
+    },
+    "5931e8969df7f4e2f7e1": {
+      "text": "Gimme a second.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/5931e8969df7f4e2f7e1.mp3"
+    },
+    "49f0bdad2eaed0f9ff56": {
+      "text": "I dunno, it's kinda late and I have a lotta work.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/49f0bdad2eaed0f9ff56.mp3"
+    },
+    "a6dfc6fc2273368c4513": {
+      "text": "We're outta time, so gimme a second.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/a6dfc6fc2273368c4513.mp3"
+    },
+    "0ceb2f6859934049d806": {
+      "text": "I sorta want to go, but I'm kinda tired.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/0ceb2f6859934049d806.mp3"
+    },
+    "93847239be27db7aacea": {
+      "text": "Can I get some water?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/93847239be27db7aacea.mp3"
+    },
+    "adb4c0358bb23f3e679d": {
+      "text": "That's much better.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/adb4c0358bb23f3e679d.mp3"
+    },
+    "2919d244952be9614ac9": {
+      "text": "I love this city.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/2919d244952be9614ac9.mp3"
+    },
+    "0f33ad5dd53cf4640c8a": {
+      "text": "Did you get it?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/0f33ad5dd53cf4640c8a.mp3"
+    },
+    "d7c9ae868b7d4bf95dfb": {
+      "text": "Wait a little bit.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/d7c9ae868b7d4bf95dfb.mp3"
+    },
+    "24a4e998befb1fd49384": {
+      "text": "I'll be there at twenty past.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-example",
+      "file": "/audio/24a4e998befb1fd49384.mp3"
+    },
+    "84666e2deb01a7895bd1": {
+      "text": "The water in this city tastes better.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/84666e2deb01a7895bd1.mp3"
+    },
+    "f8fa530a763e7860d076": {
+      "text": "Wait a little bit — did you get it?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/f8fa530a763e7860d076.mp3"
+    },
+    "7cb9ab3e9fe523477eb7": {
+      "text": "I need twenty minutes and a little water.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "sound-sentence",
+      "file": "/audio/7cb9ab3e9fe523477eb7.mp3"
+    },
+    "bc227c4c6637ba6215e5": {
+      "text": "What I'm trying to say is…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/bc227c4c6637ba6215e5.mp3"
+    },
+    "746603b06e59338bfaf5": {
+      "text": "What I'm trying to say is, we need more time, not more people.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/746603b06e59338bfaf5.mp3"
+    },
+    "d9880400dba9511783dd": {
+      "text": "What I'm trying to say is… What I'm trying to say is, we need more time, not more people.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/d9880400dba9511783dd.mp3"
+    },
+    "93a92ff7b39952ba0232": {
+      "text": "The way I see it…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/93a92ff7b39952ba0232.mp3"
+    },
+    "1033e367e2788df80aa5": {
+      "text": "The way I see it, we should start small.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/1033e367e2788df80aa5.mp3"
+    },
+    "b07b15526a531ae9e08b": {
+      "text": "The way I see it… The way I see it, we should start small.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/b07b15526a531ae9e08b.mp3"
+    },
+    "591a7ec77ea8aeb393d9": {
+      "text": "I feel like…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/591a7ec77ea8aeb393d9.mp3"
+    },
+    "0ab526899941d913136a": {
+      "text": "I feel like this meeting could have been an email.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/0ab526899941d913136a.mp3"
+    },
+    "7b177bf50883bf2b53bd": {
+      "text": "I feel like… I feel like this meeting could have been an email.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/7b177bf50883bf2b53bd.mp3"
+    },
+    "2627853bd0776dcddf4e": {
+      "text": "If you ask me…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/2627853bd0776dcddf4e.mp3"
+    },
+    "b911ace844cb7b497780": {
+      "text": "If you ask me, the first option is good enough.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/b911ace844cb7b497780.mp3"
+    },
+    "25111f02299edb5e658a": {
+      "text": "If you ask me… If you ask me, the first option is good enough.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/25111f02299edb5e658a.mp3"
+    },
+    "87a9ab77aa6dea118a52": {
+      "text": "To be honest…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/87a9ab77aa6dea118a52.mp3"
+    },
+    "735e8f7286737b421757": {
+      "text": "To be honest, I didn't really like the plan.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/735e8f7286737b421757.mp3"
+    },
+    "1a8f73a5ea1392ce9857": {
+      "text": "To be honest… To be honest, I didn't really like the plan.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/1a8f73a5ea1392ce9857.mp3"
+    },
+    "61bd03810a7d3edc7a8c": {
+      "text": "I'm not quite sure about…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/61bd03810a7d3edc7a8c.mp3"
+    },
+    "3e95f51bfbeb088693cb": {
+      "text": "I'm not quite sure about the date, but Thursday might work.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/3e95f51bfbeb088693cb.mp3"
+    },
+    "7dcc768086aceba9bb40": {
+      "text": "I'm not quite sure about… I'm not quite sure about the date, but Thursday might work.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/7dcc768086aceba9bb40.mp3"
+    },
+    "08b95060b0aa7703d5d5": {
+      "text": "Let me think about that for a second.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/08b95060b0aa7703d5d5.mp3"
+    },
+    "17b27967f71326570edf": {
+      "text": "Let me think about that for a second. Okay, I can do Friday morning.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/17b27967f71326570edf.mp3"
+    },
+    "da395c8448a77f21ea2b": {
+      "text": "Let me think about that for a second. Let me think about that for a second. Okay, I can do Friday morning.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/da395c8448a77f21ea2b.mp3"
+    },
+    "587a23ae427206b23c76": {
+      "text": "That's a good question.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/587a23ae427206b23c76.mp3"
+    },
+    "2e179c4fae907ad94230": {
+      "text": "That's a good question. I haven't looked at the numbers yet.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/2e179c4fae907ad94230.mp3"
+    },
+    "f8ef5101613532d3d6db": {
+      "text": "That's a good question. That's a good question. I haven't looked at the numbers yet.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/f8ef5101613532d3d6db.mp3"
+    },
+    "beeaa7da7ff968a8c500": {
+      "text": "How should I put it…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/beeaa7da7ff968a8c500.mp3"
+    },
+    "5f53c143a347b6ea21c6": {
+      "text": "How should I put it… it's not bad, it's just not ready.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/5f53c143a347b6ea21c6.mp3"
+    },
+    "817a5279b97fe8ecd9a7": {
+      "text": "How should I put it… How should I put it… it's not bad, it's just not ready.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/817a5279b97fe8ecd9a7.mp3"
+    },
+    "04d4f58bafcaedf88446": {
+      "text": "I might be wrong, but…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/04d4f58bafcaedf88446.mp3"
+    },
+    "45f878acdc998b5a1672": {
+      "text": "I might be wrong, but I think the shop is closed on Mondays.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/45f878acdc998b5a1672.mp3"
+    },
+    "2a10d0f066ef63a494f3": {
+      "text": "I might be wrong, but… I might be wrong, but I think the shop is closed on Mondays.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/2a10d0f066ef63a494f3.mp3"
+    },
+    "dfcd621895d0fe1c208b": {
+      "text": "It turns out that…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/dfcd621895d0fe1c208b.mp3"
+    },
+    "133c87fc0a84d3ea1156": {
+      "text": "It turns out that the restaurant doesn't take reservations.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/133c87fc0a84d3ea1156.mp3"
+    },
+    "406f8aca51b15f60f261": {
+      "text": "It turns out that… It turns out that the restaurant doesn't take reservations.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/406f8aca51b15f60f261.mp3"
+    },
+    "5ae0d88d7df48f1690d5": {
+      "text": "That said…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/5ae0d88d7df48f1690d5.mp3"
+    },
+    "0d059e37a04d930188f4": {
+      "text": "I like the idea. That said, we don't have the budget this month.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/0d059e37a04d930188f4.mp3"
+    },
+    "316f4cd2c56d715e485f": {
+      "text": "That said… I like the idea. That said, we don't have the budget this month.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/316f4cd2c56d715e485f.mp3"
+    },
+    "ffc5df0c345e01910867": {
+      "text": "On the other hand…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/ffc5df0c345e01910867.mp3"
+    },
+    "805ca044e62580b7cfa2": {
+      "text": "It's cheaper. On the other hand, it takes much longer.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/805ca044e62580b7cfa2.mp3"
+    },
+    "4534b70548822ff93d2d": {
+      "text": "On the other hand… It's cheaper. On the other hand, it takes much longer.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/4534b70548822ff93d2d.mp3"
+    },
+    "9a7c99f5c40e50abc9bf": {
+      "text": "Having said that…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/9a7c99f5c40e50abc9bf.mp3"
+    },
+    "f0eb503a8681841b9c5d": {
+      "text": "The design looks clean. Having said that, it's hard to use on a phone.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/f0eb503a8681841b9c5d.mp3"
+    },
+    "74e451c4a1a15501cf9f": {
+      "text": "Having said that… The design looks clean. Having said that, it's hard to use on a phone.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/74e451c4a1a15501cf9f.mp3"
+    },
+    "ac9d697125981b5c83b5": {
+      "text": "It's not that… it's just that…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/ac9d697125981b5c83b5.mp3"
+    },
+    "9946431a6eb2758e8ef1": {
+      "text": "It's not that I don't want to go, it's just that I'm exhausted.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/9946431a6eb2758e8ef1.mp3"
+    },
+    "7c5ea035787333c3e7d0": {
+      "text": "It's not that… it's just that… It's not that I don't want to go, it's just that I'm exhausted.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/7c5ea035787333c3e7d0.mp3"
+    },
+    "c44ba1da54aa8a56f534": {
+      "text": "Just to make sure I'm following…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/c44ba1da54aa8a56f534.mp3"
+    },
+    "4dc0a4c6c3bdf18bb3e8": {
+      "text": "Just to make sure I'm following, you want us to send this today, right?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/4dc0a4c6c3bdf18bb3e8.mp3"
+    },
+    "f7476157dfe568482734": {
+      "text": "Just to make sure I'm following… Just to make sure I'm following, you want us to send this today, right?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/f7476157dfe568482734.mp3"
+    },
+    "00229be43127c110a416": {
+      "text": "Do you mean…?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/00229be43127c110a416.mp3"
+    },
+    "de87c5fffa0733c2575f": {
+      "text": "Do you mean the meeting is moved to Friday?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/de87c5fffa0733c2575f.mp3"
+    },
+    "dc4db231904cafc5f737": {
+      "text": "Do you mean…? Do you mean the meeting is moved to Friday?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/dc4db231904cafc5f737.mp3"
+    },
+    "dd6814ac2fca0a1a0c6f": {
+      "text": "So, if I understand correctly…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/dd6814ac2fca0a1a0c6f.mp3"
+    },
+    "06ef6ca479a08b81b3f7": {
+      "text": "So, if I understand correctly, we'll wait until we have the data.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/06ef6ca479a08b81b3f7.mp3"
+    },
+    "2247ab76a4afe783b199": {
+      "text": "So, if I understand correctly… So, if I understand correctly, we'll wait until we have the data.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/2247ab76a4afe783b199.mp3"
+    },
+    "de24a2e6b40387b71609": {
+      "text": "Are you saying that…?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/de24a2e6b40387b71609.mp3"
+    },
+    "9e50889dd09f79591a5b": {
+      "text": "Are you saying that we should cancel the trip?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/9e50889dd09f79591a5b.mp3"
+    },
+    "ec7351987e29603ac456": {
+      "text": "Are you saying that…? Are you saying that we should cancel the trip?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/ec7351987e29603ac456.mp3"
+    },
+    "d01014ff53dbcd27689c": {
+      "text": "Did I get that right?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/d01014ff53dbcd27689c.mp3"
+    },
+    "531396c4c22fb0a22df6": {
+      "text": "You need it before noon. Did I get that right?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/531396c4c22fb0a22df6.mp3"
+    },
+    "da4a6ab8ab27903595a6": {
+      "text": "Did I get that right? You need it before noon. Did I get that right?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/da4a6ab8ab27903595a6.mp3"
+    },
+    "5990bbfc52e97899f651": {
+      "text": "Would you mind…?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/5990bbfc52e97899f651.mp3"
+    },
+    "35ad762617fd1e8500e9": {
+      "text": "Would you mind if we talked about this tomorrow?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/35ad762617fd1e8500e9.mp3"
+    },
+    "1b2d771db3b322b1cf64": {
+      "text": "Would you mind…? Would you mind if we talked about this tomorrow?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/1b2d771db3b322b1cf64.mp3"
+    },
+    "c51265fb1d05ed9a8729": {
+      "text": "I was wondering if you could…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/c51265fb1d05ed9a8729.mp3"
+    },
+    "9929631750942957da9f": {
+      "text": "I was wondering if you could take a look at this tonight.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/9929631750942957da9f.mp3"
+    },
+    "0e1c9719dd22e02b9774": {
+      "text": "I was wondering if you could… I was wondering if you could take a look at this tonight.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/0e1c9719dd22e02b9774.mp3"
+    },
+    "3dc23ad7e48bf61a57ce": {
+      "text": "Could you do me a favor?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/3dc23ad7e48bf61a57ce.mp3"
+    },
+    "cba55cab17a9e780e8fe": {
+      "text": "Could you do me a favor and save me a seat?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/cba55cab17a9e780e8fe.mp3"
+    },
+    "14a370e2ff7a54f50e8a": {
+      "text": "Could you do me a favor? Could you do me a favor and save me a seat?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/14a370e2ff7a54f50e8a.mp3"
+    },
+    "51b943512ef1d877bde7": {
+      "text": "Is there any chance you could…?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/51b943512ef1d877bde7.mp3"
+    },
+    "5314be478c3997a7dc29": {
+      "text": "Is there any chance you could join the call at four?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/5314be478c3997a7dc29.mp3"
+    },
+    "6de7b71e432a511cdfd1": {
+      "text": "Is there any chance you could…? Is there any chance you could join the call at four?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/6de7b71e432a511cdfd1.mp3"
+    },
+    "97887af3b3ee26dec2cd": {
+      "text": "I'd appreciate it if…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/97887af3b3ee26dec2cd.mp3"
+    },
+    "bffaf318c986cc2adb28": {
+      "text": "I'd appreciate it if you could send the file today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/bffaf318c986cc2adb28.mp3"
+    },
+    "256d15c991f41b43200a": {
+      "text": "I'd appreciate it if… I'd appreciate it if you could send the file today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/256d15c991f41b43200a.mp3"
+    },
+    "6204ddebec27bc2a1449": {
+      "text": "That's a fair point.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/6204ddebec27bc2a1449.mp3"
+    },
+    "7c751b35c4163e185326": {
+      "text": "That's a fair point. We should think about the cost.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/7c751b35c4163e185326.mp3"
+    },
+    "3f45e2f08c5ab6cbfdd4": {
+      "text": "That's a fair point. That's a fair point. We should think about the cost.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/3f45e2f08c5ab6cbfdd4.mp3"
+    },
+    "c07d1f96d1d02a34b0b6": {
+      "text": "I see where you're coming from.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/c07d1f96d1d02a34b0b6.mp3"
+    },
+    "34b083f555b86a38cf76": {
+      "text": "I see where you're coming from, but I still prefer the first plan.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/34b083f555b86a38cf76.mp3"
+    },
+    "df3a8b432b075bc39f6a": {
+      "text": "I see where you're coming from. I see where you're coming from, but I still prefer the first plan.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/df3a8b432b075bc39f6a.mp3"
+    },
+    "b044321bf47b8328b584": {
+      "text": "I'm not sure I agree with that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/b044321bf47b8328b584.mp3"
+    },
+    "3c9050ff63f90b7b57ed": {
+      "text": "I'm not sure I agree with that. The data shows something else.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/3c9050ff63f90b7b57ed.mp3"
+    },
+    "c14fc2a62948caf4eff5": {
+      "text": "I'm not sure I agree with that. I'm not sure I agree with that. The data shows something else.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/c14fc2a62948caf4eff5.mp3"
+    },
+    "16661b1c30fe46101c10": {
+      "text": "I couldn't agree more.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/16661b1c30fe46101c10.mp3"
+    },
+    "efe78bd0661419f9a177": {
+      "text": "I couldn't agree more. We need to keep it simple.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/efe78bd0661419f9a177.mp3"
+    },
+    "6f6ffbc03f13899f2a6c": {
+      "text": "I couldn't agree more. I couldn't agree more. We need to keep it simple.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/6f6ffbc03f13899f2a6c.mp3"
+    },
+    "d5e07b6d87401b16279e": {
+      "text": "I get it, but I still think…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/d5e07b6d87401b16279e.mp3"
+    },
+    "6a852b005cfc1195f28a": {
+      "text": "I get it, but I still think we should wait one more day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/6a852b005cfc1195f28a.mp3"
+    },
+    "513ec66c3f5c52cc0d51": {
+      "text": "I get it, but I still think… I get it, but I still think we should wait one more day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/513ec66c3f5c52cc0d51.mp3"
+    },
+    "5678cb60ba52fe957eff": {
+      "text": "The other day…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/5678cb60ba52fe957eff.mp3"
+    },
+    "1c0a4cb0076d60e16302": {
+      "text": "The other day I ran into my old teacher on the subway.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/1c0a4cb0076d60e16302.mp3"
+    },
+    "edf602cc27fc7d247201": {
+      "text": "The other day… The other day I ran into my old teacher on the subway.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/edf602cc27fc7d247201.mp3"
+    },
+    "2bc3241166292d73196d": {
+      "text": "What happened was…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/2bc3241166292d73196d.mp3"
+    },
+    "71cc083008d2e69961d7": {
+      "text": "What happened was, I missed the first train and everything ran late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/71cc083008d2e69961d7.mp3"
+    },
+    "46989c09a578e9a9027f": {
+      "text": "What happened was… What happened was, I missed the first train and everything ran late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/46989c09a578e9a9027f.mp3"
+    },
+    "39e50d3048c63f0ce189": {
+      "text": "Long story short…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/39e50d3048c63f0ce189.mp3"
+    },
+    "7d170f5adf3ed7d97663": {
+      "text": "Long story short, we got there just in time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/7d170f5adf3ed7d97663.mp3"
+    },
+    "58ce00544d0564fe8f05": {
+      "text": "Long story short… Long story short, we got there just in time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/58ce00544d0564fe8f05.mp3"
+    },
+    "3d9bc468d3b5c9be8a06": {
+      "text": "You'll never believe this, but…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/3d9bc468d3b5c9be8a06.mp3"
+    },
+    "a51719c63510a4c2b0dd": {
+      "text": "You'll never believe this, but the shop was already closed at five.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/a51719c63510a4c2b0dd.mp3"
+    },
+    "c6b0ac3db4b2ca6e24f0": {
+      "text": "You'll never believe this, but… You'll never believe this, but the shop was already closed at five.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/c6b0ac3db4b2ca6e24f0.mp3"
+    },
+    "7a548fbeaf201e9ee45a": {
+      "text": "At first I thought… but then…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/7a548fbeaf201e9ee45a.mp3"
+    },
+    "909cda6923903a4abe17": {
+      "text": "At first I thought it was a mistake, but then I saw the email.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/909cda6923903a4abe17.mp3"
+    },
+    "3cd177569859fb5deae8": {
+      "text": "At first I thought… but then… At first I thought it was a mistake, but then I saw the email.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/3cd177569859fb5deae8.mp3"
+    },
+    "f47551c587503235df0d": {
+      "text": "I'm really tired.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/f47551c587503235df0d.mp3"
+    },
+    "caaedba70be090b2ce38": {
+      "text": "I'm really tired. I think I'll go home after this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/caaedba70be090b2ce38.mp3"
+    },
+    "4543ddb4e8b1651b461d": {
+      "text": "I'm really tired. I'm really tired. I think I'll go home after this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/4543ddb4e8b1651b461d.mp3"
+    },
+    "4b721ca733734c39d54d": {
+      "text": "That made my day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/4b721ca733734c39d54d.mp3"
+    },
+    "8514e6f2a3c758e72674": {
+      "text": "Your message made my day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/8514e6f2a3c758e72674.mp3"
+    },
+    "75c859dacfb0bb7f1071": {
+      "text": "That made my day. Your message made my day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/75c859dacfb0bb7f1071.mp3"
+    },
+    "e671485e6aba13e25eae": {
+      "text": "I'm a bit nervous about…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/e671485e6aba13e25eae.mp3"
+    },
+    "a31fc24d20ba9d71b379": {
+      "text": "I'm a bit nervous about the call tomorrow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/a31fc24d20ba9d71b379.mp3"
+    },
+    "b38c7691a3497c7c3d28": {
+      "text": "I'm a bit nervous about… I'm a bit nervous about the call tomorrow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/b38c7691a3497c7c3d28.mp3"
+    },
+    "39fda3ce84b2950f61c7": {
+      "text": "It meant a lot to me.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/39fda3ce84b2950f61c7.mp3"
+    },
+    "e746c5bd30c1a9eb2fa0": {
+      "text": "You stayed late to help. It meant a lot to me.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/e746c5bd30c1a9eb2fa0.mp3"
+    },
+    "be1e5337dfc1b17fa493": {
+      "text": "It meant a lot to me. You stayed late to help. It meant a lot to me.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/be1e5337dfc1b17fa493.mp3"
+    },
+    "06570a4fb6a09dae1ff6": {
+      "text": "I wasn't expecting that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/06570a4fb6a09dae1ff6.mp3"
+    },
+    "1b8dbd65148fcc339ff8": {
+      "text": "I wasn't expecting that. That's really kind of you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/1b8dbd65148fcc339ff8.mp3"
+    },
+    "af8d3fe33aeb88950425": {
+      "text": "I wasn't expecting that. I wasn't expecting that. That's really kind of you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/af8d3fe33aeb88950425.mp3"
+    },
+    "9c5a62ef3e49405c0f1d": {
+      "text": "Have you thought about…?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/9c5a62ef3e49405c0f1d.mp3"
+    },
+    "2cb0db357c2322b7eac8": {
+      "text": "Have you thought about leaving a bit earlier?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/2cb0db357c2322b7eac8.mp3"
+    },
+    "c04627832a8f96a0487f": {
+      "text": "Have you thought about…? Have you thought about leaving a bit earlier?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/c04627832a8f96a0487f.mp3"
+    },
+    "42b16edc7b38c78294ea": {
+      "text": "It might be worth…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/42b16edc7b38c78294ea.mp3"
+    },
+    "28623c8fb7493fc2f6d5": {
+      "text": "It might be worth writing a short outline first.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/28623c8fb7493fc2f6d5.mp3"
+    },
+    "5093f562e81a366ba7a3": {
+      "text": "It might be worth… It might be worth writing a short outline first.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/5093f562e81a366ba7a3.mp3"
+    },
+    "08603a4206277aee7de6": {
+      "text": "Why don't we…?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/08603a4206277aee7de6.mp3"
+    },
+    "f818e39f8d8e44c6f34d": {
+      "text": "Why don't we take a ten-minute break?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/f818e39f8d8e44c6f34d.mp3"
+    },
+    "20e0e65a79913f72c1c4": {
+      "text": "Why don't we…? Why don't we take a ten-minute break?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/20e0e65a79913f72c1c4.mp3"
+    },
+    "99ee285a60264dac5e45": {
+      "text": "One thing you could do is…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/99ee285a60264dac5e45.mp3"
+    },
+    "82d41a774bf40313c415": {
+      "text": "One thing you could do is send a quick update today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/82d41a774bf40313c415.mp3"
+    },
+    "8244b2cd0cc3fde58968": {
+      "text": "One thing you could do is… One thing you could do is send a quick update today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/8244b2cd0cc3fde58968.mp3"
+    },
+    "3ca814f2a1404d86f838": {
+      "text": "If I were you, I'd…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/3ca814f2a1404d86f838.mp3"
+    },
+    "893446a0027088cb1e15": {
+      "text": "If I were you, I'd ask for one more day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/893446a0027088cb1e15.mp3"
+    },
+    "e2a1736557e28d23b243": {
+      "text": "If I were you, I'd… If I were you, I'd ask for one more day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/e2a1736557e28d23b243.mp3"
+    },
+    "867204996b09f0c58b36": {
+      "text": "Sorry, I missed that. Could you say it again?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/867204996b09f0c58b36.mp3"
+    },
+    "7f53adda3a33cf80894a": {
+      "text": "Sorry, I missed that. Could you say it again a little slower?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/7f53adda3a33cf80894a.mp3"
+    },
+    "97853b617ae87e4cf5d7": {
+      "text": "Sorry, I missed that. Could you say it again? Sorry, I missed that. Could you say it again a little slower?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/97853b617ae87e4cf5d7.mp3"
+    },
+    "d57de34287f25abe5b36": {
+      "text": "What do you mean by…?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/d57de34287f25abe5b36.mp3"
+    },
+    "ba5c3b8b4ab5721f75a0": {
+      "text": "What do you mean by 'soon'? Today, or this week?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/ba5c3b8b4ab5721f75a0.mp3"
+    },
+    "6a264b59c0980f753819": {
+      "text": "What do you mean by…? What do you mean by 'soon'? Today, or this week?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/6a264b59c0980f753819.mp3"
+    },
+    "c2507169be0c1f7633d6": {
+      "text": "Can I just jump in for a second?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/c2507169be0c1f7633d6.mp3"
+    },
+    "182d2965e1fb0e145efa": {
+      "text": "Can I just jump in for a second? I have a small update.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/182d2965e1fb0e145efa.mp3"
+    },
+    "7729f519646e55f97cb6": {
+      "text": "Can I just jump in for a second? Can I just jump in for a second? I have a small update.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/7729f519646e55f97cb6.mp3"
+    },
+    "96ebb375929da2491c63": {
+      "text": "Let me make sure I said that clearly.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/96ebb375929da2491c63.mp3"
+    },
+    "a0a3553f2e6fd485938a": {
+      "text": "Let me make sure I said that clearly. I can join, but only after three.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/a0a3553f2e6fd485938a.mp3"
+    },
+    "ae8552238ad72a2906dc": {
+      "text": "Let me make sure I said that clearly. Let me make sure I said that clearly. I can join, but only after three.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/ae8552238ad72a2906dc.mp3"
+    },
+    "ff5ed71b6042001cc663": {
+      "text": "In other words…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/ff5ed71b6042001cc663.mp3"
+    },
+    "1f1bbcbecec73f0405bb": {
+      "text": "In other words, we can start, but we can't finish today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/1f1bbcbecec73f0405bb.mp3"
+    },
+    "3d4eecc0fb4bc0a383e0": {
+      "text": "In other words… In other words, we can start, but we can't finish today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/3d4eecc0fb4bc0a383e0.mp3"
+    },
+    "dc77ca7c4cbe137c8bed": {
+      "text": "I'm thinking of…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/dc77ca7c4cbe137c8bed.mp3"
+    },
+    "6f68e3e6ba3515166d86": {
+      "text": "I'm thinking of staying home this weekend.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/6f68e3e6ba3515166d86.mp3"
+    },
+    "3d3cdbdd52214ed95f1a": {
+      "text": "I'm thinking of… I'm thinking of staying home this weekend.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/3d3cdbdd52214ed95f1a.mp3"
+    },
+    "e110bba25c1a3dc14041": {
+      "text": "Let's aim for…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/e110bba25c1a3dc14041.mp3"
+    },
+    "3897636a8e580d847db9": {
+      "text": "Let's aim for Thursday, and we can move it if we have to.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/3897636a8e580d847db9.mp3"
+    },
+    "0e141a1e99850641b97d": {
+      "text": "Let's aim for… Let's aim for Thursday, and we can move it if we have to.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/0e141a1e99850641b97d.mp3"
+    },
+    "bd50233b9583fbceb5ba": {
+      "text": "I'll take care of…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/bd50233b9583fbceb5ba.mp3"
+    },
+    "50bcb899267437697333": {
+      "text": "I'll take care of the slides. You can handle the numbers.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/50bcb899267437697333.mp3"
+    },
+    "b2d0136a0ca2ea9c6a7a": {
+      "text": "I'll take care of… I'll take care of the slides. You can handle the numbers.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/b2d0136a0ca2ea9c6a7a.mp3"
+    },
+    "9e778a8c965ac4766f7d": {
+      "text": "We can figure it out as we go.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/9e778a8c965ac4766f7d.mp3"
+    },
+    "440ac11a892a56c25949": {
+      "text": "We don't have every detail. We can figure it out as we go.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/440ac11a892a56c25949.mp3"
+    },
+    "ee35c711ce39a9bf5f12": {
+      "text": "We can figure it out as we go. We don't have every detail. We can figure it out as we go.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/ee35c711ce39a9bf5f12.mp3"
+    },
+    "6a9c5fa514854666bc2c": {
+      "text": "Does that work for you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/6a9c5fa514854666bc2c.mp3"
+    },
+    "c2e395b491a225b2f73f": {
+      "text": "I can do 7 p.m. Does that work for you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/c2e395b491a225b2f73f.mp3"
+    },
+    "573431783cbdb9293923": {
+      "text": "Does that work for you? I can do 7 p.m. Does that work for you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/573431783cbdb9293923.mp3"
+    },
+    "24df308d97cea9226c92": {
+      "text": "It's good to see you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/24df308d97cea9226c92.mp3"
+    },
+    "e36c58919110b841bcbc": {
+      "text": "It's good to see you. How have you been?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/e36c58919110b841bcbc.mp3"
+    },
+    "3a45400d94559182a390": {
+      "text": "It's good to see you. It's good to see you. How have you been?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/3a45400d94559182a390.mp3"
+    },
+    "e3e8c7e1ad66aadc33a0": {
+      "text": "How have you been?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/e3e8c7e1ad66aadc33a0.mp3"
+    },
+    "96222252551cfb97cdb3": {
+      "text": "How have you been? It's been a while.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/96222252551cfb97cdb3.mp3"
+    },
+    "ab1854b03371edbde787": {
+      "text": "How have you been? How have you been? It's been a while.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/ab1854b03371edbde787.mp3"
+    },
+    "a322eaf1e91e937f13b3": {
+      "text": "I should probably get going.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/a322eaf1e91e937f13b3.mp3"
+    },
+    "7aa934ada336fd2aacfd": {
+      "text": "I should probably get going. I'll text you later.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/7aa934ada336fd2aacfd.mp3"
+    },
+    "efc49410bdec3867a86e": {
+      "text": "I should probably get going. I should probably get going. I'll text you later.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/efc49410bdec3867a86e.mp3"
+    },
+    "47bbfc27f3c5925a1b56": {
+      "text": "Let's catch up soon.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/47bbfc27f3c5925a1b56.mp3"
+    },
+    "dc653a2eb27550fa6ac8": {
+      "text": "Let's catch up soon. Maybe next week?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/dc653a2eb27550fa6ac8.mp3"
+    },
+    "53061bba3cc5c4981bdc": {
+      "text": "Let's catch up soon. Let's catch up soon. Maybe next week?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/53061bba3cc5c4981bdc.mp3"
+    },
+    "0167073c94bca59a5f97": {
+      "text": "I'll let you get back to it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/0167073c94bca59a5f97.mp3"
+    },
+    "646a914b8e0bedab1289": {
+      "text": "I can see you're busy. I'll let you get back to it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/646a914b8e0bedab1289.mp3"
+    },
+    "6e8d6e79359509fee7ea": {
+      "text": "I'll let you get back to it. I can see you're busy. I'll let you get back to it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/6e8d6e79359509fee7ea.mp3"
+    },
+    "3bedd518c5b5c5560c35": {
+      "text": "The system is very complex.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/3bedd518c5b5c5560c35.mp3"
+    },
+    "b9d96677db8049267e64": {
+      "text": "I can't explain every part. The system is very complex.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/b9d96677db8049267e64.mp3"
+    },
+    "308f778f9ef88c215eb0": {
+      "text": "The system is very complex. I can't explain every part. The system is very complex.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/308f778f9ef88c215eb0.mp3"
+    },
+    "5cf4ae787de137f8aaa4": {
+      "text": "I can't think of the word, but I mean…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/5cf4ae787de137f8aaa4.mp3"
+    },
+    "2a81f7225cd7c1955e52": {
+      "text": "I can't think of the word, but I mean the thing you use to open a bottle.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/2a81f7225cd7c1955e52.mp3"
+    },
+    "127d3afa143e0e441fc6": {
+      "text": "I can't think of the word, but I mean… I can't think of the word, but I mean the thing you use to open a bottle.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/127d3afa143e0e441fc6.mp3"
+    },
+    "a7f930ea1191eb913652": {
+      "text": "It's kind of like…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/a7f930ea1191eb913652.mp3"
+    },
+    "7bc8119d855f3c17b204": {
+      "text": "It's kind of like a shared notebook, but for the whole team.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/7bc8119d855f3c17b204.mp3"
+    },
+    "8ad4efe3ae1bd418acd4": {
+      "text": "It's kind of like… It's kind of like a shared notebook, but for the whole team.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/8ad4efe3ae1bd418acd4.mp3"
+    },
+    "d2b7ac2e14cbba1ca852": {
+      "text": "Let me say that in a simpler way.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/d2b7ac2e14cbba1ca852.mp3"
+    },
+    "544d1b26b6dc3a3f13ed": {
+      "text": "Let me say that in a simpler way. We need to start over.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/544d1b26b6dc3a3f13ed.mp3"
+    },
+    "e143cefb8f44a7750da9": {
+      "text": "Let me say that in a simpler way. Let me say that in a simpler way. We need to start over.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/e143cefb8f44a7750da9.mp3"
+    },
+    "31ab7b0475ea788dff8e": {
+      "text": "What I really need is…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/31ab7b0475ea788dff8e.mp3"
+    },
+    "fb0b77bfc2bc946fd64f": {
+      "text": "What I really need is one quiet hour to finish this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/fb0b77bfc2bc946fd64f.mp3"
+    },
+    "0ae9bafd50e76bee7fbc": {
+      "text": "What I really need is… What I really need is one quiet hour to finish this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/0ae9bafd50e76bee7fbc.mp3"
+    },
+    "3a06db1864dbaf28bc3c": {
+      "text": "So, to sum up…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/3a06db1864dbaf28bc3c.mp3"
+    },
+    "aeadd996d45993fd551e": {
+      "text": "So, to sum up, I'll send the draft, and you'll review it tomorrow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/aeadd996d45993fd551e.mp3"
+    },
+    "276c52670015b9b591be": {
+      "text": "So, to sum up… So, to sum up, I'll send the draft, and you'll review it tomorrow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/276c52670015b9b591be.mp3"
+    },
+    "955fe5f6b025e97456f9": {
+      "text": "The main thing is…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/955fe5f6b025e97456f9.mp3"
+    },
+    "44171a8c4b2e61661c9f": {
+      "text": "The main thing is that we don't miss the deadline.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/44171a8c4b2e61661c9f.mp3"
+    },
+    "fd6e241c73d08b04c368": {
+      "text": "The main thing is… The main thing is that we don't miss the deadline.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/fd6e241c73d08b04c368.mp3"
+    },
+    "aab675028357640244ac": {
+      "text": "At the end of the day…",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/aab675028357640244ac.mp3"
+    },
+    "3f2160d5eb86cb43f859": {
+      "text": "At the end of the day, we have to choose the simpler option.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/3f2160d5eb86cb43f859.mp3"
+    },
+    "f764fafc62540f1b47e4": {
+      "text": "At the end of the day… At the end of the day, we have to choose the simpler option.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/f764fafc62540f1b47e4.mp3"
+    },
+    "c9a33a7efc6a89c7397a": {
+      "text": "Here's what I'll do next.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/c9a33a7efc6a89c7397a.mp3"
+    },
+    "ef65198777063d266abc": {
+      "text": "Here's what I'll do next: I'll email them and update the group.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/ef65198777063d266abc.mp3"
+    },
+    "c04004a56b0dcc25dfc4": {
+      "text": "Here's what I'll do next. Here's what I'll do next: I'll email them and update the group.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/c04004a56b0dcc25dfc4.mp3"
+    },
+    "b6991617eb133dfe99cf": {
+      "text": "Let's leave it there for now.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk",
+      "file": "/audio/b6991617eb133dfe99cf.mp3"
+    },
+    "2d2d274bbccda638b196": {
+      "text": "Let's leave it there for now and pick this up on Monday.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-example",
+      "file": "/audio/2d2d274bbccda638b196.mp3"
+    },
+    "18063ace2179d159feae": {
+      "text": "Let's leave it there for now. Let's leave it there for now and pick this up on Monday.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "chunk-combined",
+      "file": "/audio/18063ace2179d159feae.mp3"
+    },
+    "0c85f94829cfcc10de2f": {
+      "text": "How are you doing today?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/0c85f94829cfcc10de2f.mp3"
+    },
+    "dac3dfe878ce36743eef": {
+      "text": "What did you do this morning?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/dac3dfe878ce36743eef.mp3"
+    },
+    "bc731d1d4d454a9a0538": {
+      "text": "Have you eaten yet?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/bc731d1d4d454a9a0538.mp3"
+    },
+    "fb95f84dfdab0ceae6c1": {
+      "text": "What are you working on right now?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/fb95f84dfdab0ceae6c1.mp3"
+    },
+    "aa58fa363f55c19de489": {
+      "text": "How was your weekend?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/aa58fa363f55c19de489.mp3"
+    },
+    "b1e2c0adf3d55fb08c55": {
+      "text": "Can you tell me a little about yourself?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/b1e2c0adf3d55fb08c55.mp3"
+    },
+    "e470c95d538e7c3523a0": {
+      "text": "What do you do for work?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/e470c95d538e7c3523a0.mp3"
+    },
+    "013ae546d23e3bd29b5f": {
+      "text": "Where are you from?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/013ae546d23e3bd29b5f.mp3"
+    },
+    "91a75605ec53ba8827d6": {
+      "text": "Do you live nearby?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/91a75605ec53ba8827d6.mp3"
+    },
+    "472d20c811c48626c263": {
+      "text": "How long have you lived there?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/472d20c811c48626c263.mp3"
+    },
+    "daaa31218b49bd3e9f6d": {
+      "text": "What do you like to do after work?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/daaa31218b49bd3e9f6d.mp3"
+    },
+    "62a2af01647324428c20": {
+      "text": "Are you free this weekend?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/62a2af01647324428c20.mp3"
+    },
+    "600116d497eb75571769": {
+      "text": "What did you have for lunch?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/600116d497eb75571769.mp3"
+    },
+    "a6d1cc3d49c5f7c32d96": {
+      "text": "How do you usually get to work?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/a6d1cc3d49c5f7c32d96.mp3"
+    },
+    "21e19c9070f0222cc4a9": {
+      "text": "Is this a busy week for you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/21e19c9070f0222cc4a9.mp3"
+    },
+    "b9012c91fe1ccee71c28": {
+      "text": "What's the weather like today?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/b9012c91fe1ccee71c28.mp3"
+    },
+    "52cf7d4647e74885cfa9": {
+      "text": "Have you been here before?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/52cf7d4647e74885cfa9.mp3"
+    },
+    "98654e7819d99bc2961f": {
+      "text": "What time do you usually wake up?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/98654e7819d99bc2961f.mp3"
+    },
+    "c3e59cc35a2138c71f80": {
+      "text": "Can I get you anything to drink?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/c3e59cc35a2138c71f80.mp3"
+    },
+    "8ccc8ff6e91d93e90c63": {
+      "text": "Do you want to sit inside or outside?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/8ccc8ff6e91d93e90c63.mp3"
+    },
+    "f13078e8c7f6f67f2ff6": {
+      "text": "Sorry, could you say that again?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/f13078e8c7f6f67f2ff6.mp3"
+    },
+    "3479addce64f7ee9541b": {
+      "text": "What do you mean by that?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/3479addce64f7ee9541b.mp3"
+    },
+    "dfe7feb4a3aed8360244": {
+      "text": "Do you have a minute?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/dfe7feb4a3aed8360244.mp3"
+    },
+    "7b1811a5ff6d09273f9c": {
+      "text": "When can you send that over?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/7b1811a5ff6d09273f9c.mp3"
+    },
+    "7f18de0db466fdf4ec42": {
+      "text": "Is everything okay?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/7f18de0db466fdf4ec42.mp3"
+    },
+    "697956d45c3034bed01b": {
+      "text": "What would you like to do first?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/697956d45c3034bed01b.mp3"
+    },
+    "cb32d36ede4289a84b0e": {
+      "text": "How do you feel about this plan?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/cb32d36ede4289a84b0e.mp3"
+    },
+    "da5a46369fb947a54c0e": {
+      "text": "Can we move the meeting to tomorrow?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/da5a46369fb947a54c0e.mp3"
+    },
+    "972ec62a6a2388195167": {
+      "text": "Do you need any help?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/972ec62a6a2388195167.mp3"
+    },
+    "96da890741be2f516ba7": {
+      "text": "What's the main problem right now?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/96da890741be2f516ba7.mp3"
+    },
+    "8bb79048e18971af92d9": {
+      "text": "Are you ready to get started?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/8bb79048e18971af92d9.mp3"
+    },
+    "818ce9960d4c057d7a18": {
+      "text": "What time works for you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/818ce9960d4c057d7a18.mp3"
+    },
+    "67a348bb273e4aec2a30": {
+      "text": "Should we wait for the others?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/67a348bb273e4aec2a30.mp3"
+    },
+    "ad0e278110a3305bcaa5": {
+      "text": "Did you get my message?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/ad0e278110a3305bcaa5.mp3"
+    },
+    "e4c34fef275a29dfd3bf": {
+      "text": "How did the meeting go?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/e4c34fef275a29dfd3bf.mp3"
+    },
+    "623c6b8e243e5045a00a": {
+      "text": "What's next on your list?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/623c6b8e243e5045a00a.mp3"
+    },
+    "ab1116285a8aaa30db43": {
+      "text": "Do you prefer tea or coffee?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/ab1116285a8aaa30db43.mp3"
+    },
+    "694c905904e8772afbd2": {
+      "text": "Have you tried this place before?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/694c905904e8772afbd2.mp3"
+    },
+    "94eaef4e8bd2eae1ba26": {
+      "text": "What brought you here today?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/94eaef4e8bd2eae1ba26.mp3"
+    },
+    "5efc508efa3142929fab": {
+      "text": "Can you walk me through that quickly?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/5efc508efa3142929fab.mp3"
+    },
+    "3d757e9b39260d498ad9": {
+      "text": "Is there anything else I should know?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/3d757e9b39260d498ad9.mp3"
+    },
+    "55b4cbfa6dd6dbc06e09": {
+      "text": "How long will that take?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/55b4cbfa6dd6dbc06e09.mp3"
+    },
+    "e1c0d870863392201462": {
+      "text": "Do you want to talk about it?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/e1c0d870863392201462.mp3"
+    },
+    "eb088eb9b316fff2272e": {
+      "text": "What are you looking forward to?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/eb088eb9b316fff2272e.mp3"
+    },
+    "338a078a1afda2a5e44d": {
+      "text": "Did anything interesting happen today?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/338a078a1afda2a5e44d.mp3"
+    },
+    "3cba4b3326e0a0423720": {
+      "text": "Would you like to join us?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/3cba4b3326e0a0423720.mp3"
+    },
+    "2690311f2df546a405bf": {
+      "text": "Can you give me an example?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/2690311f2df546a405bf.mp3"
+    },
+    "01548f5177f7ac833a80": {
+      "text": "What's your plan for tonight?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/01548f5177f7ac833a80.mp3"
+    },
+    "fb3faa174b74b93a0159": {
+      "text": "How's your family doing?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/fb3faa174b74b93a0159.mp3"
+    },
+    "f555e4afe10197ea49d6": {
+      "text": "If you had a free afternoon, what would you do?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "drill",
+      "file": "/audio/f555e4afe10197ea49d6.mp3"
+    },
+    "329ff3ac11f0b19d9771": {
+      "text": "Hi there. What can I get for you?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/329ff3ac11f0b19d9771.mp3"
+    },
+    "dec4a3eef79257478835": {
+      "text": "Can I get a medium latte, please?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/dec4a3eef79257478835.mp3"
+    },
+    "986ccb6906b82c7cd6e9": {
+      "text": "Sure. Do you want that hot or iced?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/986ccb6906b82c7cd6e9.mp3"
+    },
+    "605080faeb82906663c3": {
+      "text": "Hot, please. And could I get it with oat milk?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/605080faeb82906663c3.mp3"
+    },
+    "e4ac7ab1fe81726d24ce": {
+      "text": "No problem. Anything else? We have fresh banana bread.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e4ac7ab1fe81726d24ce.mp3"
+    },
+    "26a37fb057f2065a71c6": {
+      "text": "Oh, I'm good. Just the coffee. How much is that?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/26a37fb057f2065a71c6.mp3"
+    },
+    "4e9619f964f21d65acf4": {
+      "text": "That's five twenty. Can I get a name for the cup?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4e9619f964f21d65acf4.mp3"
+    },
+    "b04ad32f8c6bfc03a48f": {
+      "text": "Maya. Thanks a lot.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b04ad32f8c6bfc03a48f.mp3"
+    },
+    "caa2a51f65ad849f080d": {
+      "text": "You got it. It'll be ready in a minute.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/caa2a51f65ad849f080d.mp3"
+    },
+    "935d6834822968720e4d": {
+      "text": "Any plans for the weekend?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/935d6834822968720e4d.mp3"
+    },
+    "fff0fa7c3ef19c74dd7a": {
+      "text": "Not really. I might just stay in and catch up on sleep.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/fff0fa7c3ef19c74dd7a.mp3"
+    },
+    "e39ebba15c6c2a8c746f": {
+      "text": "That sounds nice, actually. I've been so tired this week.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e39ebba15c6c2a8c746f.mp3"
+    },
+    "d6109dfbe59866fefaa8": {
+      "text": "Same here. What about you? Are you going anywhere?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d6109dfbe59866fefaa8.mp3"
+    },
+    "5a5fd1e99ffac57ef929": {
+      "text": "My sister wants to go hiking if the weather's good.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5a5fd1e99ffac57ef929.mp3"
+    },
+    "10a9bb1c7bf5d6ee1769": {
+      "text": "I heard it's going to rain on Saturday.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/10a9bb1c7bf5d6ee1769.mp3"
+    },
+    "64c3bc2e0ab8d0ffacee": {
+      "text": "Then maybe we'll just get lunch and walk around the park.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/64c3bc2e0ab8d0ffacee.mp3"
+    },
+    "41b7f525b58142326fe8": {
+      "text": "That still sounds pretty good. Tell me how it goes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/41b7f525b58142326fe8.mp3"
+    },
+    "6cef944889b1bf85615a": {
+      "text": "I will. Have a good one.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6cef944889b1bf85615a.mp3"
+    },
+    "240dcbf73e7bfabccaf2": {
+      "text": "All right, let's keep this short. Maya, you want to go first?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/240dcbf73e7bfabccaf2.mp3"
+    },
+    "cf547cb19128426d0a79": {
+      "text": "Sure. I finished the draft last night. I'll send it out after this call.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/cf547cb19128426d0a79.mp3"
+    },
+    "9f13686762be955b092b": {
+      "text": "Great. Any blockers?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9f13686762be955b092b.mp3"
+    },
+    "2380c0be240d084e4683": {
+      "text": "I still need the numbers from finance. I emailed them yesterday.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2380c0be240d084e4683.mp3"
+    },
+    "fd05df518f119ccd7e88": {
+      "text": "I can poke them if you want. I have a meeting with them at ten.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/fd05df518f119ccd7e88.mp3"
+    },
+    "a112ed17bd11192b4808": {
+      "text": "That would help. Thanks, Leo.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a112ed17bd11192b4808.mp3"
+    },
+    "7dbe235d7d4989938c19": {
+      "text": "Leo, what about you?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7dbe235d7d4989938c19.mp3"
+    },
+    "5e09c2dd08cc2f7046bb": {
+      "text": "I'm working on the fix. I should have something to show by tomorrow.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5e09c2dd08cc2f7046bb.mp3"
+    },
+    "a82ae9cc8e13917538c5": {
+      "text": "Okay. Let's talk again if anything gets stuck.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a82ae9cc8e13917538c5.mp3"
+    },
+    "fe2e21ff5123da108430": {
+      "text": "You're still here? It's almost nine.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/fe2e21ff5123da108430.mp3"
+    },
+    "9e3e9a6f73201a96d9ef": {
+      "text": "I know. I just want to finish this one thing.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9e3e9a6f73201a96d9ef.mp3"
+    },
+    "36747accd3832a5f06e3": {
+      "text": "That's what you said an hour ago.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/36747accd3832a5f06e3.mp3"
+    },
+    "f08fd581ee5a8e1480d6": {
+      "text": "Yeah, well. It always takes longer than I think.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f08fd581ee5a8e1480d6.mp3"
+    },
+    "5a7b7f6b01182821df42": {
+      "text": "You should go home. It'll still be here in the morning.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5a7b7f6b01182821df42.mp3"
+    },
+    "9804a7cf6dc8115a910a": {
+      "text": "I get that. But you're not going to do your best work like this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9804a7cf6dc8115a910a.mp3"
+    },
+    "9d9671bb0013179ea7a5": {
+      "text": "Okay, okay. Let me save this and I'll walk out with you.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9d9671bb0013179ea7a5.mp3"
+    },
+    "0ab3149b5b3c26546a85": {
+      "text": "Good. I'll wait by the elevator.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0ab3149b5b3c26546a85.mp3"
+    },
+    "b1e803204d384d858431": {
+      "text": "Excuse me, could you help me for a second?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b1e803204d384d858431.mp3"
+    },
+    "ea3a0303b245d9a0b9b6": {
+      "text": "Sure. What's up?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ea3a0303b245d9a0b9b6.mp3"
+    },
+    "33bf0466a672e8811e39": {
+      "text": "I'm trying to get to the city library. Is it far from here?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/33bf0466a672e8811e39.mp3"
+    },
+    "5c6186b4b23133f8249a": {
+      "text": "Not really. Go straight for two blocks, then turn left at the lights.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5c6186b4b23133f8249a.mp3"
+    },
+    "5627f5aeda694ac641ec": {
+      "text": "Left at the lights. Okay.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5627f5aeda694ac641ec.mp3"
+    },
+    "ae59f88dceedd941c87d": {
+      "text": "Across from the park. Got it. Thanks so much.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ae59f88dceedd941c87d.mp3"
+    },
+    "9f08149a87e55775b21b": {
+      "text": "No problem. You'll be there in about ten minutes.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9f08149a87e55775b21b.mp3"
+    },
+    "eebc73bd93ad6f56f7da": {
+      "text": "Perfect. Have a good day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/eebc73bd93ad6f56f7da.mp3"
+    },
+    "cf3e8674cc8d8dbb3491": {
+      "text": "What are you making?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/cf3e8674cc8d8dbb3491.mp3"
+    },
+    "ec4d2174fa0c38a67a0e": {
+      "text": "You're probably right. I'm just tired of seeing it undone.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ec4d2174fa0c38a67a0e.mp3"
+    },
+    "9ae0b6265596b9334e0c": {
+      "text": "I usually come on weeknights. It's quieter.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9ae0b6265596b9334e0c.mp3"
+    },
+    "4cd398e170ea2d4f2fca": {
+      "text": "Smart. I'm just grabbing a few things for dinner.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4cd398e170ea2d4f2fca.mp3"
+    },
+    "de4bcfb5c9c4736c0724": {
+      "text": "After that, you'll see a park. The library is right across from it.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/de4bcfb5c9c4736c0724.mp3"
+    },
+    "cfba19cf30bcab30a047": {
+      "text": "I'll take it. Do you know where they keep the olive oil?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/cfba19cf30bcab30a047.mp3"
+    },
+    "ec99d996425a6a52373a": {
+      "text": "Aisle six, I think, next to the vinegar.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ec99d996425a6a52373a.mp3"
+    },
+    "04cce11d4c1f3c339a4c": {
+      "text": "Hey, Nina. I didn't know you shopped here.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/04cce11d4c1f3c339a4c.mp3"
+    },
+    "5c7a5cdf6508218e3174": {
+      "text": "The tomatoes look pretty good today, if you want a hint.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5c7a5cdf6508218e3174.mp3"
+    },
+    "68ed541b06fc10aa318b": {
+      "text": "I don't know yet. Something simple. Pasta, maybe.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/68ed541b06fc10aa318b.mp3"
+    },
+    "e27f9907e6ec9995a84a": {
+      "text": "Thanks. I'll see you tomorrow.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e27f9907e6ec9995a84a.mp3"
+    },
+    "0110a525f042299acfa2": {
+      "text": "Sure. Have you seen her before?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0110a525f042299acfa2.mp3"
+    },
+    "107c61fc8156cff6be4f": {
+      "text": "Yes, I was there last March.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/107c61fc8156cff6be4f.mp3"
+    },
+    "11c4674313d5ddfe0b2a": {
+      "text": "Hi, I'd like to make an appointment with Dr. Chen, please.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/11c4674313d5ddfe0b2a.mp3"
+    },
+    "9c2cab60d2d9e2b394df": {
+      "text": "Okay. What's a good day for you this week?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9c2cab60d2d9e2b394df.mp3"
+    },
+    "603505a106c567145bd5": {
+      "text": "Good morning, Riverside Clinic. How can I help you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/603505a106c567145bd5.mp3"
+    },
+    "17f31be67c2759814296": {
+      "text": "Thursday afternoon would be great, if she has anything open.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/17f31be67c2759814296.mp3"
+    },
+    "0741a6ebe4afdc2d92be": {
+      "text": "It's really coming down out there.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0741a6ebe4afdc2d92be.mp3"
+    },
+    "62bc6edf8d110bf5821b": {
+      "text": "That's perfect. Thank you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/62bc6edf8d110bf5821b.mp3"
+    },
+    "7d32ffc41d4bd64f6295": {
+      "text": "You're all set. Please come in ten minutes early.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7d32ffc41d4bd64f6295.mp3"
+    },
+    "d6759064ba2345197b0d": {
+      "text": "I have a slot at three thirty. Does that work?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d6759064ba2345197b0d.mp3"
+    },
+    "d6488c900ff3496a3287": {
+      "text": "Are you sure? I can just wait it out.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d6488c900ff3496a3287.mp3"
+    },
+    "b46a41b72e6e36322485": {
+      "text": "I have an extra one in my bag, if you want to borrow it.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b46a41b72e6e36322485.mp3"
+    },
+    "b4700cdef829876716fb": {
+      "text": "Take it. I walk to the station, so I always pack one.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b4700cdef829876716fb.mp3"
+    },
+    "1509c83a4808aca52890": {
+      "text": "Great. Just what we needed.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1509c83a4808aca52890.mp3"
+    },
+    "079e47b823055652bece": {
+      "text": "Hey, is this a good time?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/079e47b823055652bece.mp3"
+    },
+    "9302aea08990a6db510f": {
+      "text": "Thanks. I'll bring it back tomorrow.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9302aea08990a6db510f.mp3"
+    },
+    "12972daeb90f2ffc502d": {
+      "text": "Hey, at least it's not snow.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/12972daeb90f2ffc502d.mp3"
+    },
+    "5cebe1f973b995aaf944": {
+      "text": "I know. I didn't bring an umbrella, of course.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5cebe1f973b995aaf944.mp3"
+    },
+    "871d08e4f54d363db502": {
+      "text": "Nothing urgent. I just wanted to hear how you're doing.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/871d08e4f54d363db502.mp3"
+    },
+    "700469edfd5c5061b559": {
+      "text": "Yeah, I just left work. What's going on?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/700469edfd5c5061b559.mp3"
+    },
+    "443ffd0eaceaaa28bd32": {
+      "text": "Want to get dinner this week? Nothing fancy.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/443ffd0eaceaaa28bd32.mp3"
+    },
+    "6db790baec7ca9147b5c": {
+      "text": "That's sweet. I'm okay, just a little worn out.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6db790baec7ca9147b5c.mp3"
+    },
+    "e08d47c1075464500f74": {
+      "text": "No rush. They said it's going to be like this all week.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e08d47c1075464500f74.mp3"
+    },
+    "c112c02df76500982749": {
+      "text": "Perfect. I'm glad you called.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/c112c02df76500982749.mp3"
+    },
+    "f1c6594c3d976a38f83d": {
+      "text": "Let's do Thursday. I'll find a place and text you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f1c6594c3d976a38f83d.mp3"
+    },
+    "1020aabdeeeac70b883d": {
+      "text": "Me too. Go get some rest.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1020aabdeeeac70b883d.mp3"
+    },
+    "13c07197791d16f1c160": {
+      "text": "I'd love that. Wednesday or Thursday works for me.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/13c07197791d16f1c160.mp3"
+    },
+    "14a366161de0d7b48289": {
+      "text": "So this is the living room. You get a lot of light in the afternoon.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/14a366161de0d7b48289.mp3"
+    },
+    "c6952b746439534d26cc": {
+      "text": "About fifteen years. The kitchen was redone last year.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/c6952b746439534d26cc.mp3"
+    },
+    "b10157dfdd9b2f36ee99": {
+      "text": "It's on the same floor, just down the hall.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b10157dfdd9b2f36ee99.mp3"
+    },
+    "ee8a9403bf36704ec312": {
+      "text": "That's good to know. Is the laundry in the unit?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ee8a9403bf36704ec312.mp3"
+    },
+    "4151e5d56e3b01c0c595": {
+      "text": "It's nicer than the photos, actually. How old is the building?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4151e5d56e3b01c0c595.mp3"
+    },
+    "db3385e469c0647d009d": {
+      "text": "I didn't expect to see you here so early.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/db3385e469c0647d009d.mp3"
+    },
+    "8076b40bdb86f66ea95a": {
+      "text": "Water yes, internet no. You'd set that up yourself.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8076b40bdb86f66ea95a.mp3"
+    },
+    "158981e411e19e0b1270": {
+      "text": "Got it. I need to think it over, but I like it.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/158981e411e19e0b1270.mp3"
+    },
+    "ff80fd71adb9876ca689": {
+      "text": "Of course. Let me know by Friday if you can.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ff80fd71adb9876ca689.mp3"
+    },
+    "b969579d786dca3979ae": {
+      "text": "Okay. And is the rent including water and internet?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b969579d786dca3979ae.mp3"
+    },
+    "e6314c4ca4c548c2a198": {
+      "text": "I know. I'm trying to come before work this month.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e6314c4ca4c548c2a198.mp3"
+    },
+    "bf13a3af07b9ca649f62": {
+      "text": "That's usually how it works. Are you doing a class?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/bf13a3af07b9ca649f62.mp3"
+    },
+    "2104275db5ac318e914c": {
+      "text": "How's that going?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2104275db5ac318e914c.mp3"
+    },
+    "4dcca05dbc455bad3db7": {
+      "text": "Then maybe take it easy today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4dcca05dbc455bad3db7.mp3"
+    },
+    "b24820299486e7ff7e0d": {
+      "text": "Just a short run and some stretching. I don't want to overdo it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b24820299486e7ff7e0d.mp3"
+    },
+    "8b6813ad72ccbf8718e2": {
+      "text": "Can you cut the onions? I'll start the rice.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8b6813ad72ccbf8718e2.mp3"
+    },
+    "81a2eea1482ae034e570": {
+      "text": "Yeah. I'll keep it light.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/81a2eea1482ae034e570.mp3"
+    },
+    "0579222f87ea0935c181": {
+      "text": "It's hard to get out of bed, but I feel better once I'm here.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0579222f87ea0935c181.mp3"
+    },
+    "935b770fd0e28ed5ce3a": {
+      "text": "Sure. How small do you want them?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/935b770fd0e28ed5ce3a.mp3"
+    },
+    "66a8595425585b24ab8e": {
+      "text": "Smart. I went too hard last week and I'm still sore.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/66a8595425585b24ab8e.mp3"
+    },
+    "0e7b38d995732a301e7f": {
+      "text": "Not too small. Just like that. That's perfect.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0e7b38d995732a301e7f.mp3"
+    },
+    "20cede2933c85fe343da": {
+      "text": "Found them. Should I add the tomatoes now?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/20cede2933c85fe343da.mp3"
+    },
+    "f56fa714adda16624250": {
+      "text": "It already smells really good.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f56fa714adda16624250.mp3"
+    },
+    "ba97c64db5eafae8fa51": {
+      "text": "Check the bowl near the stove. There should be two cloves.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ba97c64db5eafae8fa51.mp3"
+    },
+    "32dcae38394ca3342596": {
+      "text": "Give the onions another minute. Then yes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/32dcae38394ca3342596.mp3"
+    },
+    "0f794a580fab28eb48f9": {
+      "text": "Sure. What's going on?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0f794a580fab28eb48f9.mp3"
+    },
+    "1c4620f9739d5831b18b": {
+      "text": "Do you have a minute? I wanted to ask about next Thursday.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1c4620f9739d5831b18b.mp3"
+    },
+    "60a26cf575082d84b5f8": {
+      "text": "That's the idea. We'll eat in twenty minutes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/60a26cf575082d84b5f8.mp3"
+    },
+    "67e25f93b08fc5cd4a17": {
+      "text": "I need to take that afternoon off. I have a family appointment.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/67e25f93b08fc5cd4a17.mp3"
+    },
+    "f020338e9c4bdb8c87bd": {
+      "text": "That should be fine. Is the report going to be ready before then?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f020338e9c4bdb8c87bd.mp3"
+    },
+    "52cfdb2e4dfbb693cd7e": {
+      "text": "Thanks. I appreciate it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/52cfdb2e4dfbb693cd7e.mp3"
+    },
+    "9d5063fcdbfa27b360d9": {
+      "text": "I'll be honest. We're not going to hit Friday.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9d5063fcdbfa27b360d9.mp3"
+    },
+    "79cb5f1f83a8412e156f": {
+      "text": "Yes. I'll send it on Wednesday, and Leo can cover the call.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/79cb5f1f83a8412e156f.mp3"
+    },
+    "9bad5f1d66312d1e255c": {
+      "text": "I will. Thanks for being flexible.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9bad5f1d66312d1e255c.mp3"
+    },
+    "2ebbfa1712929445f4de": {
+      "text": "I was worried about that. What's the main holdup?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2ebbfa1712929445f4de.mp3"
+    },
+    "3d5a40477948693f60fc": {
+      "text": "Do we have any garlic left?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/3d5a40477948693f60fc.mp3"
+    },
+    "e5bad8d62e32dcf08c26": {
+      "text": "The test results came back late, and we found two more issues.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e5bad8d62e32dcf08c26.mp3"
+    },
+    "d97beb5afc2b20aed7dc": {
+      "text": "No problem. I hope everything goes well.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d97beb5afc2b20aed7dc.mp3"
+    },
+    "4a1dd7cb78f860c8aa81": {
+      "text": "How much time do we actually need?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4a1dd7cb78f860c8aa81.mp3"
+    },
+    "4886327071e851c03853": {
+      "text": "Okay, great. Just put it on the calendar so everyone can see.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4886327071e851c03853.mp3"
+    },
+    "0617a1635d2ed3b19d5f": {
+      "text": "Then we should tell the client today, not Friday.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0617a1635d2ed3b19d5f.mp3"
+    },
+    "ed18229e1ff45baf8e54": {
+      "text": "If we leave Friday night, we can have two full days there.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ed18229e1ff45baf8e54.mp3"
+    },
+    "f144c590d9b2a04ee2f6": {
+      "text": "If we focus, maybe until Tuesday. I don't want to promise Monday.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f144c590d9b2a04ee2f6.mp3"
+    },
+    "ea54957a7d7a5f42f930": {
+      "text": "Thanks. Let us know if you want help writing it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ea54957a7d7a5f42f930.mp3"
+    },
+    "19a461ba7c80870b41ac": {
+      "text": "That works for me. Do you want to take the train or drive?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/19a461ba7c80870b41ac.mp3"
+    },
+    "55c7f68671802b01e3cb": {
+      "text": "I agree. Better to be early and clear.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/55c7f68671802b01e3cb.mp3"
+    },
+    "a50f0a95cd0daebfb7a1": {
+      "text": "Okay. I'll send a note this afternoon and suggest Tuesday.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a50f0a95cd0daebfb7a1.mp3"
+    },
+    "434957f38c6c3c03b4fb": {
+      "text": "Same. I'll look at tickets tonight.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/434957f38c6c3c03b4fb.mp3"
+    },
+    "366a30dcdcff543c0f34": {
+      "text": "There's a morning market I really want to see.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/366a30dcdcff543c0f34.mp3"
+    },
+    "fde19682f2772ca8d5bc": {
+      "text": "The train is easier. I don't want to worry about parking.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/fde19682f2772ca8d5bc.mp3"
+    },
+    "a7590551c0cc42a5cb54": {
+      "text": "Did they just say thirty minutes?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a7590551c0cc42a5cb54.mp3"
+    },
+    "28362083185896c7e688": {
+      "text": "Then let's get there early on Saturday.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/28362083185896c7e688.mp3"
+    },
+    "8c028672f0bd8ac3f38d": {
+      "text": "Deal. This is going to be nice.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8c028672f0bd8ac3f38d.mp3"
+    },
+    "6bb47a4431838388e040": {
+      "text": "That's the second time this week.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6bb47a4431838388e040.mp3"
+    },
+    "78fad7df82a1ff66ef10": {
+      "text": "That's fine. I just want to walk around and eat well.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/78fad7df82a1ff66ef10.mp3"
+    },
+    "73a81118c49fddb3c343": {
+      "text": "There's a decent place by the ticket machines.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/73a81118c49fddb3c343.mp3"
+    },
+    "6914e2306b85411562d4": {
+      "text": "Same here. I might just grab a coffee while we wait.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6914e2306b85411562d4.mp3"
+    },
+    "acfb156ac9b7572380b4": {
+      "text": "I think so. Something about a signal problem.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/acfb156ac9b7572380b4.mp3"
+    },
+    "db8f872f446a07aaa5b6": {
+      "text": "Tell me about it. I was supposed to be home by seven.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/db8f872f446a07aaa5b6.mp3"
+    },
+    "ad7dd01db1f6c3f92628": {
+      "text": "Thanks. I'll keep an eye on the board.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ad7dd01db1f6c3f92628.mp3"
+    },
+    "1326f52c4ee329129914": {
+      "text": "I might join you if it comes to that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1326f52c4ee329129914.mp3"
+    },
+    "e16f72727f2a02892126": {
+      "text": "Come on, sit down. The soup is still hot.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e16f72727f2a02892126.mp3"
+    },
+    "101513f6ab9a76f80962": {
+      "text": "It smells amazing. Did you make the dumplings too?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/101513f6ab9a76f80962.mp3"
+    },
+    "7af9181f09e9fa0906d0": {
+      "text": "Don't look so surprised. I can cook.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7af9181f09e9fa0906d0.mp3"
+    },
+    "136e5beba14b464bc172": {
+      "text": "I already booked a small place near the old town. It's not fancy.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/136e5beba14b464bc172.mp3"
+    },
+    "48d772bb0a208746eb8f": {
+      "text": "Your dad did most of them this time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/48d772bb0a208746eb8f.mp3"
+    },
+    "5a9294bd35883c091851": {
+      "text": "It's busy, but it's okay. I might come home earlier next month.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5a9294bd35883c091851.mp3"
+    },
+    "527ec72a160555fec564": {
+      "text": "I know, I know. I just usually see you at the table, not in the kitchen.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/527ec72a160555fec564.mp3"
+    },
+    "5fb8ebeda974c930e689": {
+      "text": "That would be nice. Eat first. We can talk more later.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5fb8ebeda974c930e689.mp3"
+    },
+    "89e3bca6270cfa62d67b": {
+      "text": "How's work? You look a little tired.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/89e3bca6270cfa62d67b.mp3"
+    },
+    "ff759aac9261945ab15e": {
+      "text": "Okay. These are really good, Dad.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ff759aac9261945ab15e.mp3"
+    },
+    "d689915602b82bcea263": {
+      "text": "Do you care more about the camera or the battery?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d689915602b82bcea263.mp3"
+    },
+    "a3a2ef1ed01fb95bdf5c": {
+      "text": "If it jumps to an hour, I'm getting a cab.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a3a2ef1ed01fb95bdf5c.mp3"
+    },
+    "0bc483b36e10216d6fac": {
+      "text": "Hi, can I help you find something?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/0bc483b36e10216d6fac.mp3"
+    },
+    "3fd7e8dde4c7ed954b4c": {
+      "text": "Yeah. My phone's been slowing down, and I think it's time.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/3fd7e8dde4c7ed954b4c.mp3"
+    },
+    "95e2aa2e1bd507a5659f": {
+      "text": "Battery, for sure. I don't take that many photos.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/95e2aa2e1bd507a5659f.mp3"
+    },
+    "fd5442e5bdef05cf9a4d": {
+      "text": "That's what I need. Can I trade in the old one?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/fd5442e5bdef05cf9a4d.mp3"
+    },
+    "2b78973ac8efff03bdad": {
+      "text": "Yes. I can check the value if you have it with you.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2b78973ac8efff03bdad.mp3"
+    },
+    "ac60db55ee86e641d3eb": {
+      "text": "You've been carrying that camera a lot lately.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ac60db55ee86e641d3eb.mp3"
+    },
+    "93ac006004dd37200c6f": {
+      "text": "Then this one is a solid choice. It usually lasts a full day.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/93ac006004dd37200c6f.mp3"
+    },
+    "89f517161c9710f026c9": {
+      "text": "I do. Let's do that first, then I'll decide.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/89f517161c9710f026c9.mp3"
+    },
+    "8028bfb81d52f88ae610": {
+      "text": "Sounds good. Follow me over here.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8028bfb81d52f88ae610.mp3"
+    },
+    "3e1c9557450913f381f5": {
+      "text": "I'd love to see some of them sometime.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/3e1c9557450913f381f5.mp3"
+    },
+    "abeb8684f6a45ce8da37": {
+      "text": "Mostly streets and morning light. Nothing serious.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/abeb8684f6a45ce8da37.mp3"
+    },
+    "e7a3979a1189367b18f3": {
+      "text": "That's cool. What do you like to shoot?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e7a3979a1189367b18f3.mp3"
+    },
+    "c263181bdbfc4af8d0d1": {
+      "text": "Yeah. I started taking photos again on weekends.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/c263181bdbfc4af8d0d1.mp3"
+    },
+    "dd61d2b5ef0f495c363d": {
+      "text": "I might tag along one Saturday, if that's okay.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/dd61d2b5ef0f495c363d.mp3"
+    },
+    "9a1402b6a758c82dfcdb": {
+      "text": "Sure. They're not perfect, but I like doing it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9a1402b6a758c82dfcdb.mp3"
+    },
+    "727414b4f51a11e761ad": {
+      "text": "Exactly. It just gets me out of the house.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/727414b4f51a11e761ad.mp3"
+    },
+    "c3be5ac64d236175f358": {
+      "text": "Thanks for coming in today. Did you find the office okay?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/c3be5ac64d236175f358.mp3"
+    },
+    "9d33cde92fbb429a19b0": {
+      "text": "That's the point, right? It doesn't have to be perfect.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9d33cde92fbb429a19b0.mp3"
+    },
+    "2bf2b0a667dbaf73492b": {
+      "text": "And what made you apply for this role?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2bf2b0a667dbaf73492b.mp3"
+    },
+    "b522ca29e24df0ab0c4f": {
+      "text": "Good. Why don't you start by telling me a little about yourself?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b522ca29e24df0ab0c4f.mp3"
+    },
+    "d4639619db28eebeb7ec": {
+      "text": "I like the problem you're trying to solve, and I want to work closer to users.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d4639619db28eebeb7ec.mp3"
+    },
+    "a1cf5234e2de90c3d77f": {
+      "text": "Yes, it was easy. The front desk was really helpful.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a1cf5234e2de90c3d77f.mp3"
+    },
+    "f5c329e9131f097f207c": {
+      "text": "Great. Let's talk about a project you're proud of.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f5c329e9131f097f207c.mp3"
+    },
+    "33b7a817ac0d25a4f278": {
+      "text": "That's helpful. What are you hoping to learn here?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/33b7a817ac0d25a4f278.mp3"
+    },
+    "e0ccb1f0d3a9b565fb01": {
+      "text": "Sure. I've been working in product for about six years, mostly on tools for teams.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e0ccb1f0d3a9b565fb01.mp3"
+    },
+    "7084de9fc523e7c65503": {
+      "text": "I'd like to get better at working with research, and to ship things end to end.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7084de9fc523e7c65503.mp3"
+    },
+    "57033bc91adb23ecc134": {
+      "text": "I see why you'd want that, but I'm not sure that's a good idea.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/57033bc91adb23ecc134.mp3"
+    },
+    "f8f598a3f025e81d5375": {
+      "text": "I have to agree with Nina. We only get one first impression.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f8f598a3f025e81d5375.mp3"
+    },
+    "9d753c5fef1e36be07be": {
+      "text": "What's your concern?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9d753c5fef1e36be07be.mp3"
+    },
+    "aeea90f492838e53c534": {
+      "text": "Just the first two screens. It wouldn't take more than a day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/aeea90f492838e53c534.mp3"
+    },
+    "e536edbd254d29e9529c": {
+      "text": "If the signup flow is confusing, we're going to lose people right away.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e536edbd254d29e9529c.mp3"
+    },
+    "d602a72d61123f0f4d40": {
+      "text": "I think we should launch this week and fix issues later.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d602a72d61123f0f4d40.mp3"
+    },
+    "5df2b7e34bbb9206e072": {
+      "text": "You don't have to talk if you don't want to. I'm just glad you came.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5df2b7e34bbb9206e072.mp3"
+    },
+    "66471d8160ca27d00868": {
+      "text": "Okay. So what would you change before we launch?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/66471d8160ca27d00868.mp3"
+    },
+    "cd2555c78e2457d67210": {
+      "text": "That's fair. Let's do that and aim for early next week.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/cd2555c78e2457d67210.mp3"
+    },
+    "45f601ad0116564c4ad7": {
+      "text": "Thanks. I think I just needed to get out of the apartment.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/45f601ad0116564c4ad7.mp3"
+    },
+    "8df52da4a9c0b480824c": {
+      "text": "I keep thinking I should have handled it better.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8df52da4a9c0b480824c.mp3"
+    },
+    "a1d37bfe5dbb0412d58e": {
+      "text": "Thanks. I think that's the safer call.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a1d37bfe5dbb0412d58e.mp3"
+    },
+    "d37316af01b34dedc71e": {
+      "text": "That makes sense. It's been a rough week.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d37316af01b34dedc71e.mp3"
+    },
+    "7b8d477e02f07b536cea": {
+      "text": "Anytime. I'm not going anywhere.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7b8d477e02f07b536cea.mp3"
+    },
+    "cb6e881c46b4b2b97d4c": {
+      "text": "That's okay. We can just sit here for a bit.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/cb6e881c46b4b2b97d4c.mp3"
+    },
+    "452542fdf6255ccd017e": {
+      "text": "I'd like that. Thank you for coming.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/452542fdf6255ccd017e.mp3"
+    },
+    "260b96b66251b5536745": {
+      "text": "I know that in my head. It's just hard to feel it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/260b96b66251b5536745.mp3"
+    },
+    "43bb7b2796f28c520f6c": {
+      "text": "Did you see that story about the new train line?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/43bb7b2796f28c520f6c.mp3"
+    },
+    "d144077a988cb19ce4c5": {
+      "text": "You did what you could. You don't have to be perfect in a hard moment.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d144077a988cb19ce4c5.mp3"
+    },
+    "5b30efa8ae96409b522e": {
+      "text": "Not really. It still has to get approved, so I'm not holding my breath.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5b30efa8ae96409b522e.mp3"
+    },
+    "d43d6e17c671e23abe25": {
+      "text": "That would be huge for you. Do they have a real timeline?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d43d6e17c671e23abe25.mp3"
+    },
+    "748c0608dec528b88568": {
+      "text": "Will do.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/748c0608dec528b88568.mp3"
+    },
+    "29cfeb122a47a076ce11": {
+      "text": "They might start building next year. It would cut my commute in half.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/29cfeb122a47a076ce11.mp3"
+    },
+    "319c496c13e2296f9115": {
+      "text": "Still, it's something. We've needed that for years.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/319c496c13e2296f9115.mp3"
+    },
+    "1444257e3f6416482808": {
+      "text": "If we do a little every day, it won't feel so heavy.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1444257e3f6416482808.mp3"
+    },
+    "95d712f26b44c8ddb27c": {
+      "text": "That I can do. Morning or evening?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/95d712f26b44c8ddb27c.mp3"
+    },
+    "c0913ca46fc939f0fa80": {
+      "text": "Yeah. Even if it takes longer, I'm glad they're talking about it.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/c0913ca46fc939f0fa80.mp3"
+    },
+    "be53b99aefa603c73e76": {
+      "text": "Then let's make it small on purpose. Thirty minutes, not two hours.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/be53b99aefa603c73e76.mp3"
+    },
+    "de644f92a91ad2b3ee22": {
+      "text": "I agree. I just never keep the plan when work gets busy.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/de644f92a91ad2b3ee22.mp3"
+    },
+    "2ee8066c4306fddccc2f": {
+      "text": "I saw the headline, but I didn't read it. What's going on?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2ee8066c4306fddccc2f.mp3"
+    },
+    "aca5326a96082f886847": {
+      "text": "Send me the article later. I want to read it properly.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/aca5326a96082f886847.mp3"
+    },
+    "34bc55283df45f86850c": {
+      "text": "We don't have to report every day. Maybe just twice a week.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/34bc55283df45f86850c.mp3"
+    },
+    "31a429f358b3300b490c": {
+      "text": "Hi, have you had a chance to look at the menu?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/31a429f358b3300b490c.mp3"
+    },
+    "51dd87049c8638a4f5b8": {
+      "text": "That's more realistic. I like this.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/51dd87049c8638a4f5b8.mp3"
+    },
+    "1d82951527cdc68e4d4c": {
+      "text": "Evening works better for me. After dinner, before I look at my phone.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1d82951527cdc68e4d4c.mp3"
+    },
+    "2e02c2eeb22b0b4b41f1": {
+      "text": "Good. Let's start tonight, even if it's only ten minutes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2e02c2eeb22b0b4b41f1.mp3"
+    },
+    "b22e360308016b3f42e1": {
+      "text": "Okay. I'll try the same window so we can check in.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b22e360308016b3f42e1.mp3"
+    },
+    "30a60adfcf4a9d575b1b": {
+      "text": "I think so. What's good tonight?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/30a60adfcf4a9d575b1b.mp3"
+    },
+    "12008cd18371998b96a2": {
+      "text": "Of course. And for you?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/12008cd18371998b96a2.mp3"
+    },
+    "a8d0ec887db007bda596": {
+      "text": "Got it. Anything to drink?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a8d0ec887db007bda596.mp3"
+    },
+    "252ed1420773e33d41b6": {
+      "text": "I'll have the pasta, please. Not too spicy.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/252ed1420773e33d41b6.mp3"
+    },
+    "3732c90b538f4a15b3cb": {
+      "text": "I'll go with the chicken. Can I get the vegetables instead of fries?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/3732c90b538f4a15b3cb.mp3"
+    },
+    "1588fc119fe9adaa672a": {
+      "text": "I'll be right back with that.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1588fc119fe9adaa672a.mp3"
+    },
+    "33ff173936428973c5e6": {
+      "text": "Just water for now. Thank you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/33ff173936428973c5e6.mp3"
+    },
+    "ea11ba7d4013440d157e": {
+      "text": "Thanks for calling. How can I help you today?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ea11ba7d4013440d157e.mp3"
+    },
+    "8bc792fe01c327bf0930": {
+      "text": "Hi. I ordered a lamp last week, but it still hasn't arrived.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8bc792fe01c327bf0930.mp3"
+    },
+    "fdd1fddc271f9c0e036b": {
+      "text": "The roast chicken is really popular, and the soup is homemade.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/fdd1fddc271f9c0e036b.mp3"
+    },
+    "d8fa2e587152ddde852e": {
+      "text": "Do you know when I can expect it?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d8fa2e587152ddde852e.mp3"
+    },
+    "73e4337dd99ffbfac951": {
+      "text": "That's okay, I found it. It looks like it was delayed in transit.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/73e4337dd99ffbfac951.mp3"
+    },
+    "4fe4a4450ae16021d51d": {
+      "text": "I'm sorry about that. Can I have your order number?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4fe4a4450ae16021d51d.mp3"
+    },
+    "e81c5502392e886e8fae": {
+      "text": "Thursday is fine, as long as it's moving again.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e81c5502392e886e8fae.mp3"
+    },
+    "966b167f0663204821e0": {
+      "text": "So… what did you think?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/966b167f0663204821e0.mp3"
+    },
+    "8608fd78a046efdd64c1": {
+      "text": "It's 4-8-2-1-9. I can also give you the email.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8608fd78a046efdd64c1.mp3"
+    },
+    "dc630f31246c20170e37": {
+      "text": "It should arrive by Thursday. I can also send a replacement if you'd rather.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/dc630f31246c20170e37.mp3"
+    },
+    "3ad8e5e91a578954f081": {
+      "text": "I liked it more than I expected. The first half was a little slow.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/3ad8e5e91a578954f081.mp3"
+    },
+    "74d4ddb633b2338a1077": {
+      "text": "I thought so too. But the ending really landed for me.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/74d4ddb633b2338a1077.mp3"
+    },
+    "6345e483eaf4dae58237": {
+      "text": "Yeah. I didn't see that coming, and I usually guess these things.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6345e483eaf4dae58237.mp3"
+    },
+    "4f0fbc13a19b3fa120b3": {
+      "text": "Want to get some tea and talk about it a bit more?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4f0fbc13a19b3fa120b3.mp3"
+    },
+    "2cba268fd58f8a2a4a87": {
+      "text": "The two leads were great. I believed they knew each other for years.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2cba268fd58f8a2a4a87.mp3"
+    },
+    "b3a08fdd9f0fde943344": {
+      "text": "Good. There's a place around the corner.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b3a08fdd9f0fde943344.mp3"
+    },
+    "629eebfc29e792e81018": {
+      "text": "It is. I'll email you the new tracking now. Sorry again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/629eebfc29e792e81018.mp3"
+    },
+    "1a14281fa8136a184972": {
+      "text": "Do you feel any different?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1a14281fa8136a184972.mp3"
+    },
+    "b2efbf7166e1f6c45c02": {
+      "text": "That's what got me. It felt simple, but not empty.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b2efbf7166e1f6c45c02.mp3"
+    },
+    "8e17d14c8e3104e53c58": {
+      "text": "I know. It went faster than I thought.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8e17d14c8e3104e53c58.mp3"
+    },
+    "7de0e6118f27d8a8060b": {
+      "text": "Same. I used to miss the beginning and then give up.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7de0e6118f27d8a8060b.mp3"
+    },
+    "173e738d9eae153dec72": {
+      "text": "Yes. I have a few questions I need to say out loud.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/173e738d9eae153dec72.mp3"
+    },
+    "227d1b3caa25e115359c": {
+      "text": "A little. I still get stuck, but I don't freeze as much.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/227d1b3caa25e115359c.mp3"
+    },
+    "cd815ce8da0ebc062cd6": {
+      "text": "That's a real change. I noticed I can follow conversations better.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/cd815ce8da0ebc062cd6.mp3"
+    },
+    "b82989a9ad792903de67": {
+      "text": "Can you believe it's been four weeks already?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b82989a9ad792903de67.mp3"
+    },
+    "7f6ad55c17e2dca93057": {
+      "text": "Agreed. Small and steady still works.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7f6ad55c17e2dca93057.mp3"
+    },
+    "084b030356cbe4678ec5": {
+      "text": "We should keep the habit, even if we change the routine a bit.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/084b030356cbe4678ec5.mp3"
+    },
+    "a7867cd3ca5b52e4808b": {
+      "text": "Good. Let's not wait for a perfect day to start the next part.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a7867cd3ca5b52e4808b.mp3"
+    }
+  },
+  "dialogues": {
+    "d01": {
+      "full": "/audio/dlg-d01.mp3"
+    },
+    "d02": {
+      "full": "/audio/dlg-d02.mp3"
+    },
+    "d03": {
+      "full": "/audio/dlg-d03.mp3"
+    },
+    "d04": {
+      "full": "/audio/dlg-d04.mp3"
+    },
+    "d05": {
+      "full": "/audio/dlg-d05.mp3"
+    },
+    "d06": {
+      "full": "/audio/dlg-d06.mp3"
+    },
+    "d07": {
+      "full": "/audio/dlg-d07.mp3"
+    },
+    "d08": {
+      "full": "/audio/dlg-d08.mp3"
+    },
+    "d09": {
+      "full": "/audio/dlg-d09.mp3"
+    },
+    "d10": {
+      "full": "/audio/dlg-d10.mp3"
+    },
+    "d11": {
+      "full": "/audio/dlg-d11.mp3"
+    },
+    "d12": {
+      "full": "/audio/dlg-d12.mp3"
+    },
+    "d13": {
+      "full": "/audio/dlg-d13.mp3"
+    },
+    "d14": {
+      "full": "/audio/dlg-d14.mp3"
+    },
+    "d15": {
+      "full": "/audio/dlg-d15.mp3"
+    },
+    "d16": {
+      "full": "/audio/dlg-d16.mp3"
+    },
+    "d17": {
+      "full": "/audio/dlg-d17.mp3"
+    },
+    "d18": {
+      "full": "/audio/dlg-d18.mp3"
+    },
+    "d19": {
+      "full": "/audio/dlg-d19.mp3"
+    },
+    "d20": {
+      "full": "/audio/dlg-d20.mp3"
+    },
+    "d21": {
+      "full": "/audio/dlg-d21.mp3"
+    },
+    "d22": {
+      "full": "/audio/dlg-d22.mp3"
+    },
+    "d23": {
+      "full": "/audio/dlg-d23.mp3"
+    },
+    "d24": {
+      "full": "/audio/dlg-d24.mp3"
+    },
+    "d25": {
+      "full": "/audio/dlg-d25.mp3"
+    },
+    "d26": {
+      "full": "/audio/dlg-d26.mp3"
+    },
+    "d27": {
+      "full": "/audio/dlg-d27.mp3"
+    },
+    "d28": {
+      "full": "/audio/dlg-d28.mp3"
+    }
+  }
+}

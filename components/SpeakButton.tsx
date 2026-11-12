@@ -2,50 +2,64 @@
 
 import { useState } from "react";
 import { Volume2 } from "lucide-react";
-import { speak, stopSpeaking, ttsSupported } from "@/lib/tts";
+import { VOICE_DEFAULT } from "@/lib/audio";
+import { clipFile } from "@/lib/audio-lookup";
+import { playClip, speakMachine, stopAllAudio, ttsSupported } from "@/lib/player";
 
 export function SpeakButton({
   text,
   rate = 1,
+  voice = VOICE_DEFAULT,
+  src,
   label = "朗读",
+  allowMachine = false,
   className = "",
 }: {
   text: string;
   rate?: number;
+  voice?: string;
+  src?: string;
   label?: string;
+  allowMachine?: boolean;
   className?: string;
 }) {
   const [busy, setBusy] = useState(false);
-  const supported = typeof window !== "undefined" ? ttsSupported() : true;
+  const file = src ?? (text.trim() ? clipFile(text, voice) : undefined);
+  const useMachine = !file && allowMachine;
+  const canPlay = Boolean(text.trim() && (file || (useMachine && (typeof window === "undefined" || ttsSupported()))));
 
   async function onPlay() {
     if (!text.trim()) return;
     if (busy) {
-      stopSpeaking();
+      stopAllAudio();
       setBusy(false);
       return;
     }
     setBusy(true);
     try {
-      await speak(text, { rate });
+      if (file) await playClip(file, rate);
+      else if (useMachine) await speakMachine(text, rate);
     } catch {
-      // keep calm; some browsers reject speak without a gesture or mid-cancel
+      // keep calm; autoplay or mid-stop can reject
     } finally {
       setBusy(false);
     }
   }
 
   return (
-    <button
-      type="button"
-      onClick={onPlay}
-      disabled={!supported || !text.trim()}
-      className={`btn btn-ghost ${className}`}
-      aria-pressed={busy}
-    >
-      <Volume2 size={16} />
-      {busy ? "停止" : label}
-    </button>
+    <span className="speak-wrap">
+      <button
+        type="button"
+        onClick={onPlay}
+        disabled={!canPlay}
+        className={`btn btn-ghost ${className}`}
+        aria-pressed={busy}
+      >
+        <Volume2 size={16} />
+        {busy ? "停止" : label}
+      </button>
+      {useMachine && <span className="machine-tag">机器朗读</span>}
+    </span>
   );
 }
 

@@ -4,6 +4,8 @@ import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { Recorder } from "@/components/Recorder";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
+import { voiceForSpeaker } from "@/lib/audio";
+import { dialogueFile } from "@/lib/audio-lookup";
 import { useApp } from "@/components/AppProvider";
 import { dialogueForPhaseDay, DIALOGUES } from "@/lib/content/dialogues";
 import { TTS_DISCLAIMER } from "@/lib/content/materials";
@@ -52,7 +54,7 @@ export default function ShadowingPage() {
           {line.text}
         </p>
         <div className="btn-row">
-          <SpeakButton text={line.text} rate={rate} label="听原句" />
+          <SpeakButton text={line.text} voice={voiceForSpeaker(line.speaker)} rate={rate} label="听原句" />
         </div>
         <Recorder storageKey={recKey} maxSeconds={30} label="录下你的跟读，再和原句并排回放" />
         <div className="btn-row" style={{ marginTop: 8 }}>
@@ -80,7 +82,7 @@ export default function ShadowingPage() {
         <p className="muted tiny" style={{ margin: "8px 0" }}>
           先听整段，再一次性跟读。卡壳了就回到逐句模式。
         </p>
-        <SpeakButton text={dialogue.lines.map((l) => l.text).join(". ")} rate={rate} label="听整段" />
+        <SpeakButton text="full" src={dialogueFile(dialogue.id)} rate={rate} label="听整段" />
         <Recorder storageKey={`shadow:${dialogue.id}:full`} maxSeconds={180} label="整段跟读录音" />
       </details>
       <p className="notice">{TTS_DISCLAIMER}</p>

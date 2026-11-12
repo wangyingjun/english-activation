@@ -91,4 +91,4 @@ export const MATERIALS: Material[] = [
 ];
 
 export const TTS_DISCLAIMER =
-  "本站内置的朗读使用浏览器语音合成（请选用 en-US 声音），只是随时可练的替代。真正的连读、气口和情绪，请回到上面的原声材料里听、跟读。";
+  "内置单词、例句和对话已用神经网络语音预先录好，听起来更接近自然口语。0.8× 是同一条录音变速，音调保持不变。想听真人在真实视频里怎么说，点「听真人」会打开 YouGlish。你自己写的句子没有预录音，会用机器朗读并标明。更自然的连读、气口和情绪，也欢迎回到 Rachel's English、ESL Pod、6 Minute English 等原声材料。";

@@ -423,3 +423,15 @@ textarea { min-height: 5.5rem; resize: vertical; }
   h1 { font-size: 1.8rem; }
   .main { padding-top: 0.8rem; }
 }
+
+.speak-wrap { display: inline-flex; align-items: center; gap: 0.35rem; flex-wrap: wrap; max-width: 100%; }
+.machine-tag { font-size: 0.7rem; color: var(--ink-soft); white-space: nowrap; }
+.youglish {
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  white-space: nowrap;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  margin-left: 0.25rem;
+}
+.pair-cell .youglish { display: block; margin: 0.2rem auto 0; width: fit-content; }
