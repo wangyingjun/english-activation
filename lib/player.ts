@@ -13,6 +13,7 @@ export function stopAllAudio() {
     currentAudio.pause();
     currentAudio.removeAttribute("src");
     currentAudio.load();
+    currentAudio.remove();
     currentAudio = null;
   }
   stopSpeaking();
@@ -33,7 +34,10 @@ export function playClip(src: string, rate = 1): Promise<void> {
   const seq = playSeq;
   const el = new Audio(src);
   el.preload = "auto";
+  el.setAttribute("data-ea-player", "true");
+  el.setAttribute("playsinline", "true");
   applyRate(el, rate);
+  document.body.appendChild(el);
   currentAudio = el;
   return new Promise((resolve, reject) => {
     const done = () => {
