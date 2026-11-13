@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { Recorder } from "@/components/Recorder";
@@ -41,6 +43,7 @@ export default function ConversationPage() {
       phase={3}
       desc="进行 1 对 1 实时语音对话。前 20 分钟围绕固定主题，后 20 分钟随机闲聊，尽量用自然语速。可约 Cambly / Preply 外教，或与任何能语音对话的 AI 练习。下面的主题卡和 3 秒反应练习，用来在约课之前热身。"
     >
+      <SceneTodayBanner moduleId="conversation" />
       <section className="card">
         <h2>1. 固定主题 · 20 分钟</h2>
         <div className="btn-row" style={{ margin: "8px 0" }}>

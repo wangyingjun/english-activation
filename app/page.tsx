@@ -10,6 +10,7 @@ import { Meaning, MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
 import { COMPARE_DAYS, formatZhDate, weekdayZh } from "@/lib/calendar";
 import { phrasesForDate } from "@/lib/content/phrases";
 import { SpeakButton } from "@/components/SpeakButton";
+import { SCENE_STEP_LABEL, emphasizedSteps, moduleToSceneSteps, sceneForDay, sceneHref, sceneStepCount } from "@/lib/content/scenes";
 
 export default function HomePage() {
   const { ready, state, status, toggleModule, toggleMicro } = useApp();
@@ -77,6 +78,26 @@ export default function HomePage() {
         </div>
       </div>
 
+      {(() => {
+        const todayScene = sceneForDay(status.ended || status.notYet ? Math.min(Math.max(status.day, 1), 84) : Math.min(84, Math.max(1, status.day)));
+        const prog = state.sceneProgress[todayScene.scene.id];
+        const n = sceneStepCount(prog);
+        const focus = emphasizedSteps(status.phase);
+        return (
+          <section className="card">
+            <p className="kicker">今天的场景{todayScene.review ? " · 复习" : ""}</p>
+            <h2>{todayScene.scene.emoji} {todayScene.scene.titleZh}</h2>
+            <p className="en muted tiny">{todayScene.scene.title}</p>
+            <p className="muted tiny" style={{ marginTop: 6 }}>{todayScene.scene.goalZh}</p>
+            <p className="muted tiny">已记下 {n}/8 步。本阶段重点：{focus.map((id) => SCENE_STEP_LABEL[id]).join("、")}。</p>
+            <Link href={sceneHref(todayScene.scene.id)} className="btn btn-primary" style={{ marginTop: 8 }}>
+              打开今天的场景
+            </Link>
+            <Link href="/scenes" className="btn" style={{ marginTop: 8, marginLeft: 8 }}>场景库</Link>
+          </section>
+        );
+      })()}
+
       <section className="card">
         <h2>今日常用短语</h2>
         <p className="muted tiny">每天 8 句日常会说的话。先听，再看意思，最后试着说。</p>
@@ -105,15 +126,26 @@ export default function HomePage() {
               <span className="mins">{m.minutes} 分钟</span>
             </div>
             <p className="muted tiny" style={{ marginBottom: 8 }}>
-              {m.hint}
+              {(() => {
+                const map = moduleToSceneSteps(status.phase, m.id);
+                return `${m.hint} 今天在场景里做：${map.label}。`;
+              })()}
             </p>
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8 }}>
               <CheckButton checked={done} onChange={(v) => toggleModule(status.today, m.id, v)}>
                 {done ? "已完成" : "先记下，待会做"}
               </CheckButton>
-              <Link href={m.href} className="btn btn-accent">
-                开始
-              </Link>
+              <div className="btn-row">
+                <Link href={(() => {
+                  const day = Math.min(84, Math.max(1, status.day || 1));
+                  const { scene } = sceneForDay(day);
+                  const map = moduleToSceneSteps(status.phase, m.id);
+                  return sceneHref(scene.id, map.hash);
+                })()} className="btn btn-accent">
+                  开始
+                </Link>
+                <Link href={m.href} className="btn">资料库</Link>
+              </div>
             </div>
           </div>
         );

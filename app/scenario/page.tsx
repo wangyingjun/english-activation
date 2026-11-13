@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { Recorder } from "@/components/Recorder";
@@ -23,6 +25,7 @@ export default function ScenarioPage() {
       phase={2}
       desc="每天选一个生活场景，用刚刚学的简单句型自言自语 5 分钟。卡壳时强迫自己用最简单的词绕过去，并把卡住的词记下来。"
     >
+      <SceneTodayBanner moduleId="scenario" />
       <div className="card">
         <label className="field">
           <span>今日场景</span>

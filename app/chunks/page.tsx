@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
 import { Meaning } from "@/components/Meaning";
@@ -19,6 +21,7 @@ export default function ChunksPage() {
       phase={2}
       desc="每天掌握 5 个万能功能句型。每个句型结合自己的真实生活造 3 个句子，并大声念出。用现成的语块，而不是临时用语法组装。"
     >
+      <SceneTodayBanner moduleId="chunks" />
       <div className="btn-row" style={{ marginBottom: 8 }}>
         <SpeedToggle rate={rate} onChange={setRate} />
         {review && <span className="badge">今天是复习日</span>}

@@ -6,7 +6,8 @@ import { DIALOGUES } from "../lib/content/dialogues";
 import { DRILL_QUESTIONS } from "../lib/content/questions";
 import { SOUND_GROUPS } from "../lib/content/sounds";
 import { PHRASES } from "../lib/content/phrases";
-import { VOICE_DEFAULT, voiceForSpeaker } from "../lib/audio";
+import { SCENES } from "../lib/content/scenes";
+import { VOICE_DEFAULT, VOICE_FEMALE, VOICE_MALE, VOICE_FEMALE_2, VOICE_MALE_2, voiceForSpeaker } from "../lib/audio";
 
 export type Utterance = {
   text: string;
@@ -62,6 +63,25 @@ for (const d of DIALOGUES) {
   dialogues.push({ id: d.id, lines });
 }
 
+for (const scene of SCENES) {
+  const lines = scene.lines.map((l) => ({
+    speaker: l.speaker,
+    text: l.text,
+    voice: voiceForSpeaker(l.speaker),
+  }));
+  for (const line of lines) add(line.text, line.voice, "scene-line");
+  dialogues.push({ id: scene.id, lines });
+  for (const sp of scene.sounds) {
+    add(sp.example, VOICE_DEFAULT, "scene-sound");
+  }
+  for (const v of scene.variations) {
+    add(v.cue, voiceForSpeaker(v.cueSpeaker), "scene-variation");
+  }
+  for (const ph of scene.phrases) {
+    add(ph.text, VOICE_DEFAULT, "scene-phrase");
+  }
+}
+
 const seen = new Set<string>();
 const unique = items.filter((u) => {
   const k = `${u.voice}\n${u.text}`;
@@ -74,6 +94,10 @@ const out = {
   engine: "edge-tts",
   voices: {
     default: VOICE_DEFAULT,
+    female: VOICE_FEMALE,
+    male: VOICE_MALE,
+    female2: VOICE_FEMALE_2,
+    male2: VOICE_MALE_2,
   },
   utterances: unique,
   dialogues,

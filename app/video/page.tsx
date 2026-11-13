@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import Link from "next/link";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { useApp } from "@/components/AppProvider";
@@ -20,6 +22,7 @@ export default function VideoPage() {
       phase={3}
       desc="观看带英文字幕（逐步过渡到无字幕）的访谈或情景剧，训练在杂音、快语速和口音干扰下抓取关键信息的能力。"
     >
+      <SceneTodayBanner moduleId="video" />
       <section className="card">
         <h2>今天的看片方式</h2>
         <ol className="lead" style={{ paddingLeft: "1.1rem" }}>

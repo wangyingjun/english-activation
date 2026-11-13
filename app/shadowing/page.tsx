@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { Recorder } from "@/components/Recorder";
@@ -27,6 +29,7 @@ export default function ShadowingPage() {
       phase={1}
       desc="针对精听的同一段材料跟读。不要背单词，像学唱歌一样模仿语调、重音和停顿。先听原句，再录音，然后并排回放对比。"
     >
+      <SceneTodayBanner moduleId="shadowing" />
       <div className="card">
         <label className="field">
           <span>跟读材料（建议与今天精听同一段）</span>

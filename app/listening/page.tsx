@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import { useMemo, useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
@@ -58,6 +60,7 @@ export default function ListeningPage() {
       phase={1}
       desc="选一段 1–2 分钟的慢速日常对话，按四步走：盲听 2 遍抓大意 → 对照文本逐句听清 → 脱稿再盲听 2 遍。下面是本站原创的短对话，两位说话人用不同的预录声音。也欢迎用 ESL Pod、6 Minute English 或你已有的剧集片段做同样的练习。"
     >
+      <SceneTodayBanner moduleId="listening" />
       <div className="card">
         <label className="field">
           <span>今日对话（也可换一段）</span>

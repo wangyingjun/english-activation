@@ -1,3 +1,5 @@
+import type { SceneProgress } from "@/lib/content/scenes/types";
+
 export type ThemeMode = "system" | "light" | "dark";
 export type MeaningMode = "tap" | "always" | "off";
 export type PhaseId = 1 | 2 | 3;
@@ -69,6 +71,7 @@ export type AppState = {
   soundQuiz: Record<string, { correct: number; total: number }>;
   contrastStats: Record<string, { correct: number; total: number }>;
   phraseMarks: Record<string, { heard?: boolean; spoken?: boolean }>;
+  sceneProgress: Record<string, SceneProgress>;
 };
 
 export const STORAGE_KEY = "ea.v1";
@@ -91,4 +94,5 @@ export const defaultState = (): AppState => ({
   soundQuiz: {},
   contrastStats: {},
   phraseMarks: {},
+  sceneProgress: {},
 });

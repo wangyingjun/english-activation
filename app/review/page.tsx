@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import { useState } from "react";
 import Link from "next/link";
 import { PracticeFrame } from "@/components/PracticeFrame";
@@ -18,6 +20,7 @@ export default function ReviewPage() {
       phase={3}
       desc="回顾当天对话里「想说却没说出来」的 3 个表达，查出地道说法，大声朗读 10 遍，存入个人《高频口语错题本》。"
     >
+      <SceneTodayBanner moduleId="review" />
       <form
         className="card"
         onSubmit={(e) => {

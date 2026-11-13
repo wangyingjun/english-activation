@@ -11,6 +11,8 @@ const TABS = [
     label: "练习",
     icon: Sparkles,
     match: (p: string) =>
+      p === "/scene" ||
+      p.startsWith("/scenes") ||
       [
         "/practice",
         "/sounds",

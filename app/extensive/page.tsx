@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import Link from "next/link";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { useApp } from "@/components/AppProvider";
@@ -20,6 +22,7 @@ export default function ExtensivePage() {
       phase={2}
       desc="利用通勤或做家务时间听熟悉主题的英语。不求听懂 100%，只要能抓住关键词，习惯正常语速的语音流就好。"
     >
+      <SceneTodayBanner moduleId="extensive" />
       <section className="card">
         <h2>今天可以这样听</h2>
         <ol className="lead" style={{ paddingLeft: "1.1rem" }}>

@@ -30,6 +30,8 @@ import {
   type ThemeMode,
   type TimerState,
 } from "@/lib/types";
+import type { SceneStepId } from "@/lib/content/scenes/types";
+import { emptySceneProgress } from "@/lib/content/scenes/types";
 
 type AppContextValue = {
   ready: boolean;
@@ -55,6 +57,8 @@ type AppContextValue = {
   recordQuiz: (groupId: string, correct: boolean) => void;
   recordContrast: (groupId: string, correct: boolean) => void;
   setPhraseMark: (id: string, patch: { heard?: boolean; spoken?: boolean }) => void;
+  setSceneStep: (sceneId: string, step: SceneStepId, value?: boolean) => void;
+  setSceneRole: (sceneId: string, role: "a" | "b") => void;
   exportBackup: () => Promise<BackupPayload>;
   importBackup: (payload: BackupPayload) => Promise<void>;
   resetAll: () => Promise<void>;
@@ -166,13 +170,29 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       ...s,
       phraseMarks: { ...s.phraseMarks, [id]: { ...s.phraseMarks[id], ...patch } },
     })), [update]);
+  const setSceneStep = useCallback((sceneId: string, step: SceneStepId, value = true) =>
+    update((s) => {
+      const prev = s.sceneProgress[sceneId] ?? emptySceneProgress();
+      return {
+        ...s,
+        sceneProgress: {
+          ...s.sceneProgress,
+          [sceneId]: { ...prev, steps: { ...prev.steps, [step]: value } },
+        },
+      };
+    }), [update]);
+  const setSceneRole = useCallback((sceneId: string, role: "a" | "b") =>
+    update((s) => {
+      const prev = s.sceneProgress[sceneId] ?? emptySceneProgress();
+      return { ...s, sceneProgress: { ...s.sceneProgress, [sceneId]: { ...prev, role } } };
+    }), [update]);
   const exportBackup = useCallback(async () => {
     const audio = await exportAudio().catch(() => []);
     return { version: 1 as const, exportedAt: new Date().toISOString(), state: loadState(), audio };
   }, []);
   const importBackup = useCallback(async (payload: BackupPayload) => {
     if (!payload?.state) throw new Error("备份文件格式不对");
-    const next = { ...defaultState(), ...payload.state };
+    const next = { ...defaultState(), ...payload.state, sceneProgress: payload.state.sceneProgress ?? {}, phraseMarks: payload.state.phraseMarks ?? {}, contrastStats: payload.state.contrastStats ?? {} };
     setState(next);
     saveState(next);
     applyTheme(next.theme);
@@ -193,12 +213,12 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       toggleModule, toggleMicro, toggleCompare, setChunkWork,
       addStuckWord, removeStuckWord, addError, updateError, removeError,
       bumpReadCount, setMicroText, setListening, setTimer, recordQuiz, recordContrast, setPhraseMark,
-      exportBackup, importBackup, resetAll,
+      setSceneStep, setSceneRole, exportBackup, importBackup, resetAll,
     }),
     [ready, state, status, setStartDate, setTheme, setMeaningMode, setComparePrompt, toggleModule,
      toggleMicro, toggleCompare, setChunkWork, addStuckWord, removeStuckWord, addError,
      updateError, removeError, bumpReadCount, setMicroText, setListening, setTimer,
-     recordQuiz, recordContrast, setPhraseMark, exportBackup, importBackup, resetAll],
+     recordQuiz, recordContrast, setPhraseMark, setSceneStep, setSceneRole, exportBackup, importBackup, resetAll],
   );
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;

@@ -1,5 +1,7 @@
 "use client";
 
+import { SceneTodayBanner } from "@/components/scene/SceneBanner";
+
 import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
@@ -202,6 +204,7 @@ export default function SoundsPage() {
       phase={1}
       desc="每天梳理 1–2 组易混淆发音。先听预录的自然语音、再对照文本，最后做听辨。有真人录音的词点「真人发音」。先听口型说明和慢速对比，再做听辨。"
     >
+      <SceneTodayBanner moduleId="sounds" />
       <div className="btn-row" style={{ marginBottom: 8 }}>
         <SpeedToggle rate={rate} onChange={setRate} />
       </div>
