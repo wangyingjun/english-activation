@@ -79,7 +79,7 @@ async def synth_one(text: str, voice: str, dest: Path, force: bool) -> None:
     for attempt in range(1, RETRIES + 1):
         try:
             communicate = edge_tts.Communicate(text, voice, rate="+0%")
-            await communicate.save(str(tmp))
+            await asyncio.wait_for(communicate.save(str(tmp)), timeout=40)
             if not tmp.exists() or tmp.stat().st_size < 200:
                 raise RuntimeError("empty audio")
             tmp.replace(dest)

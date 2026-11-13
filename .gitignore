@@ -43,3 +43,7 @@ next-env.d.ts
 # local audio toolchain
 .venv-audio/
 scripts/.cache/
+
+# python leftovers
+__pycache__/
+*.pyc

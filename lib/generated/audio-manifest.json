@@ -16,6 +16,18 @@
       "kind": "sound-word",
       "file": "/audio/21b7bd62252f7a024985.mp3"
     },
+    "42582ff9a3fc9d17d25c": {
+      "text": "Say sheep again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/42582ff9a3fc9d17d25c.mp3"
+    },
+    "75c80c33d73e4d474650": {
+      "text": "Say ship again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/75c80c33d73e4d474650.mp3"
+    },
     "f00dda6f69bc4cd8e323": {
       "text": "beat",
       "voice": "en-US-AvaMultilingualNeural",
@@ -27,6 +39,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/03c40d096e1b88ccd517.mp3"
+    },
+    "01201ff52cfea685c514": {
+      "text": "Say beat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/01201ff52cfea685c514.mp3"
+    },
+    "30062d7bc33a2bdb0f74": {
+      "text": "Say bit again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/30062d7bc33a2bdb0f74.mp3"
     },
     "3878f48b687fa1d9e045": {
       "text": "leave",
@@ -40,6 +64,18 @@
       "kind": "sound-word",
       "file": "/audio/82a7c8dccd93610be16c.mp3"
     },
+    "032873c452790eb3ba14": {
+      "text": "Say leave again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/032873c452790eb3ba14.mp3"
+    },
+    "33919609410b3a1d4da7": {
+      "text": "Say live again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/33919609410b3a1d4da7.mp3"
+    },
     "701e07fa616c4bc13f93": {
       "text": "seat",
       "voice": "en-US-AvaMultilingualNeural",
@@ -51,6 +87,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/2633ae6c0a81120baeb9.mp3"
+    },
+    "24a43b7e6c1fc731b9cf": {
+      "text": "Say seat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/24a43b7e6c1fc731b9cf.mp3"
+    },
+    "2512b742c6eba0423147": {
+      "text": "Say sit again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/2512b742c6eba0423147.mp3"
     },
     "f65e1973bf6e549780ba": {
       "text": "heat",
@@ -64,6 +112,18 @@
       "kind": "sound-word",
       "file": "/audio/dffb4d36bbd15d0153d7.mp3"
     },
+    "a966ca5a53c1239a97cb": {
+      "text": "Say heat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a966ca5a53c1239a97cb.mp3"
+    },
+    "d94433e2504fdd2972d8": {
+      "text": "Say hit again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d94433e2504fdd2972d8.mp3"
+    },
     "ff48f3b700ea15dd2890": {
       "text": "reach",
       "voice": "en-US-AvaMultilingualNeural",
@@ -75,6 +135,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/c68a781b1f07935678ab.mp3"
+    },
+    "302889a145696ff660ce": {
+      "text": "Say reach again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/302889a145696ff660ce.mp3"
+    },
+    "d4be4a631128fa962e4a": {
+      "text": "Say rich again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d4be4a631128fa962e4a.mp3"
     },
     "558e5e290636c70682b9": {
       "text": "Please sit in this seat.",
@@ -106,6 +178,18 @@
       "kind": "sound-word",
       "file": "/audio/4345f029ad550248a14e.mp3"
     },
+    "6d3803da6a51f9c5078e": {
+      "text": "Say bad again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/6d3803da6a51f9c5078e.mp3"
+    },
+    "f2b7a3721ac96974c442": {
+      "text": "Say bed again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f2b7a3721ac96974c442.mp3"
+    },
     "f7f44445d30a3258bb7e": {
       "text": "man",
       "voice": "en-US-AvaMultilingualNeural",
@@ -117,6 +201,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/ee75663e05e8b4c9cf81.mp3"
+    },
+    "7fcf3666b68ae8f49257": {
+      "text": "Say man again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7fcf3666b68ae8f49257.mp3"
+    },
+    "9a85c4b24788e365a0a6": {
+      "text": "Say men again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/9a85c4b24788e365a0a6.mp3"
     },
     "eb3f29bb8763c3abe8c6": {
       "text": "sat",
@@ -130,6 +226,18 @@
       "kind": "sound-word",
       "file": "/audio/20bc76cc94e2a604ada2.mp3"
     },
+    "bd32ddcf35638063d8a1": {
+      "text": "Say sat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/bd32ddcf35638063d8a1.mp3"
+    },
+    "833be2e0fa504ea847e4": {
+      "text": "Say set again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/833be2e0fa504ea847e4.mp3"
+    },
     "aa486e2ddd5637f0f737": {
       "text": "pan",
       "voice": "en-US-AvaMultilingualNeural",
@@ -141,6 +249,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/fb7ea6d4cca0099e30e3.mp3"
+    },
+    "1a110ee7a1e754de6c50": {
+      "text": "Say pan again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/1a110ee7a1e754de6c50.mp3"
+    },
+    "1a7d4d3326e70051afa0": {
+      "text": "Say pen again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/1a7d4d3326e70051afa0.mp3"
     },
     "ad67bf7f66e107af51cd": {
       "text": "sad",
@@ -154,6 +274,18 @@
       "kind": "sound-word",
       "file": "/audio/337ee0db737bd8e37166.mp3"
     },
+    "e1a590dbc5788f9f43bd": {
+      "text": "Say sad again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e1a590dbc5788f9f43bd.mp3"
+    },
+    "b2f93585cd506594b463": {
+      "text": "Say said again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b2f93585cd506594b463.mp3"
+    },
     "b03a46bd6b7b5b7693d9": {
       "text": "bag",
       "voice": "en-US-AvaMultilingualNeural",
@@ -165,6 +297,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/6a4dc8748469d5c50f93.mp3"
+    },
+    "5695f52a2b6debdadd4d": {
+      "text": "Say bag again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/5695f52a2b6debdadd4d.mp3"
+    },
+    "2f89c30021dd93c98730": {
+      "text": "Say beg again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/2f89c30021dd93c98730.mp3"
     },
     "4b8f6641671d9f162fe7": {
       "text": "The men sat on the bed.",
@@ -196,6 +340,18 @@
       "kind": "sound-word",
       "file": "/audio/0ab14f072ccfe08ef2e7.mp3"
     },
+    "7906b18ae4d878d636cf": {
+      "text": "Say think again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7906b18ae4d878d636cf.mp3"
+    },
+    "7d27ea5c92e6fd010c7a": {
+      "text": "Say sink again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7d27ea5c92e6fd010c7a.mp3"
+    },
     "ac25afd3c06bb4f9db9e": {
       "text": "thick",
       "voice": "en-US-AvaMultilingualNeural",
@@ -207,6 +363,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/1c03f77996bbc439e237.mp3"
+    },
+    "7cdb06aa996c55ce84d4": {
+      "text": "Say thick again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7cdb06aa996c55ce84d4.mp3"
+    },
+    "8472d22fa5649b387d86": {
+      "text": "Say sick again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8472d22fa5649b387d86.mp3"
     },
     "4253856e4f6a8fff5013": {
       "text": "path",
@@ -220,6 +388,18 @@
       "kind": "sound-word",
       "file": "/audio/1224cdd84879024e7e57.mp3"
     },
+    "b36a1a0051a8afb6e9de": {
+      "text": "Say path again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b36a1a0051a8afb6e9de.mp3"
+    },
+    "cee2be4406fa97dec991": {
+      "text": "Say pass again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/cee2be4406fa97dec991.mp3"
+    },
     "1bfae6a1d9da252b94d9": {
       "text": "thumb",
       "voice": "en-US-AvaMultilingualNeural",
@@ -231,6 +411,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/b39566dcb2dcc2c0455f.mp3"
+    },
+    "b1a2d60a9d21ff5c56b0": {
+      "text": "Say thumb again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b1a2d60a9d21ff5c56b0.mp3"
+    },
+    "a4b61b2d2b42d38d1229": {
+      "text": "Say some again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a4b61b2d2b42d38d1229.mp3"
     },
     "b8afd7b35299c6f7032d": {
       "text": "thank",
@@ -244,6 +436,18 @@
       "kind": "sound-word",
       "file": "/audio/765c4b7aee7063384ef3.mp3"
     },
+    "83d93eacf668c2289467": {
+      "text": "Say thank again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/83d93eacf668c2289467.mp3"
+    },
+    "c62a2d5f053efb457451": {
+      "text": "Say sank again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c62a2d5f053efb457451.mp3"
+    },
     "abac27268203b86fde5b": {
       "text": "faith",
       "voice": "en-US-AvaMultilingualNeural",
@@ -255,6 +459,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/600d9a84325a3926232e.mp3"
+    },
+    "f883261d61b39ed03657": {
+      "text": "Say faith again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f883261d61b39ed03657.mp3"
+    },
+    "697b5833f46b121b7d9a": {
+      "text": "Say face again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/697b5833f46b121b7d9a.mp3"
     },
     "9c050d31920422d9935a": {
       "text": "I think the path is thick with snow.",
@@ -286,6 +502,18 @@
       "kind": "sound-word",
       "file": "/audio/5339583f0f37e1fa6c11.mp3"
     },
+    "7da1b0240331d7274825": {
+      "text": "Say they again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7da1b0240331d7274825.mp3"
+    },
+    "0c5aff5cda73c550a034": {
+      "text": "Say day again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0c5aff5cda73c550a034.mp3"
+    },
     "898979497098363ca971": {
       "text": "then",
       "voice": "en-US-AvaMultilingualNeural",
@@ -297,6 +525,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/46a1ff2acf2fcd63cf2e.mp3"
+    },
+    "2207bcfcde16dedb7f7c": {
+      "text": "Say then again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/2207bcfcde16dedb7f7c.mp3"
+    },
+    "5ad5ffa44d9469cd30bb": {
+      "text": "Say den again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/5ad5ffa44d9469cd30bb.mp3"
     },
     "ee1744ff35919f1de20e": {
       "text": "there",
@@ -310,6 +550,18 @@
       "kind": "sound-word",
       "file": "/audio/94a16be648f65fa39499.mp3"
     },
+    "77c51618aaf7e8b5b1bb": {
+      "text": "Say there again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/77c51618aaf7e8b5b1bb.mp3"
+    },
+    "19f63777947f3965bd2a": {
+      "text": "Say dare again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/19f63777947f3965bd2a.mp3"
+    },
     "7818278ff671b541a6dd": {
       "text": "breathe",
       "voice": "en-US-AvaMultilingualNeural",
@@ -321,6 +573,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/dfa1c76b692f36e50bb8.mp3"
+    },
+    "a109d3fea5770cc59065": {
+      "text": "Say breathe again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a109d3fea5770cc59065.mp3"
+    },
+    "c764d16ba25484479c1c": {
+      "text": "Say breed again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c764d16ba25484479c1c.mp3"
     },
     "7b24ffbe7255681348bf": {
       "text": "those",
@@ -334,6 +598,18 @@
       "kind": "sound-word",
       "file": "/audio/30f9bd0b8a41b173b090.mp3"
     },
+    "56da7d8a14a293c7a34a": {
+      "text": "Say those again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/56da7d8a14a293c7a34a.mp3"
+    },
+    "b5a75b4d19d9b207db34": {
+      "text": "Say doze again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b5a75b4d19d9b207db34.mp3"
+    },
     "89e28c74a2b2aaa6ddaf": {
       "text": "though",
       "voice": "en-US-AvaMultilingualNeural",
@@ -345,6 +621,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/fc09613a92660a7254dd.mp3"
+    },
+    "e8aa48c39cbc1827604b": {
+      "text": "Say though again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e8aa48c39cbc1827604b.mp3"
+    },
+    "79792cbf937cf74b306f": {
+      "text": "Say dough again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/79792cbf937cf74b306f.mp3"
     },
     "7a8f9ff457a617240503": {
       "text": "They went there the next day.",
@@ -376,6 +664,18 @@
       "kind": "sound-word",
       "file": "/audio/4157e002b9f5946fb510.mp3"
     },
+    "8d69256da46254cea857": {
+      "text": "Say vest again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8d69256da46254cea857.mp3"
+    },
+    "ccaddcefd51be58211bb": {
+      "text": "Say west again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ccaddcefd51be58211bb.mp3"
+    },
     "4767705f19d594d8e416": {
       "text": "vine",
       "voice": "en-US-AvaMultilingualNeural",
@@ -387,6 +687,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/4608907bf1bd1c5257fa.mp3"
+    },
+    "af0833718ccbc9e62f91": {
+      "text": "Say vine again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/af0833718ccbc9e62f91.mp3"
+    },
+    "ff75f23212dbea078ab5": {
+      "text": "Say wine again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ff75f23212dbea078ab5.mp3"
     },
     "e12e81285c505e242df2": {
       "text": "vet",
@@ -400,6 +712,18 @@
       "kind": "sound-word",
       "file": "/audio/273e60edb1dd2d1b277c.mp3"
     },
+    "de336ee70b8bf00f175a": {
+      "text": "Say vet again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/de336ee70b8bf00f175a.mp3"
+    },
+    "676043d0a1a115d4b439": {
+      "text": "Say wet again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/676043d0a1a115d4b439.mp3"
+    },
     "53b3da49bea112b11754": {
       "text": "very",
       "voice": "en-US-AvaMultilingualNeural",
@@ -411,6 +735,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/ab764abed1400f8f46f7.mp3"
+    },
+    "bfa9375114bbd4ef9641": {
+      "text": "Say very again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/bfa9375114bbd4ef9641.mp3"
+    },
+    "3dca7e81daf8742f54a1": {
+      "text": "Say wary again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3dca7e81daf8742f54a1.mp3"
     },
     "05cc1bd840b2e2225ec7": {
       "text": "veil",
@@ -424,6 +760,18 @@
       "kind": "sound-word",
       "file": "/audio/267ff0ad558554dd3d8d.mp3"
     },
+    "f3106d3ace4e0b26a888": {
+      "text": "Say veil again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f3106d3ace4e0b26a888.mp3"
+    },
+    "d1939fd570c7fc0e25aa": {
+      "text": "Say whale again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d1939fd570c7fc0e25aa.mp3"
+    },
     "52af7e8e6b1393851522": {
       "text": "vent",
       "voice": "en-US-AvaMultilingualNeural",
@@ -435,6 +783,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/dd707109edfcb2c36185.mp3"
+    },
+    "049e91e203213923a58d": {
+      "text": "Say vent again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/049e91e203213923a58d.mp3"
+    },
+    "70312d89f7ba51911cfd": {
+      "text": "Say went again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/70312d89f7ba51911cfd.mp3"
     },
     "96610c370af7117b3303": {
       "text": "The vest in the west is very wet.",
@@ -466,6 +826,18 @@
       "kind": "sound-word",
       "file": "/audio/7fc0c7a3e2875e3fc889.mp3"
     },
+    "21ee0691fd59f090bca8": {
+      "text": "Say light again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/21ee0691fd59f090bca8.mp3"
+    },
+    "b58ef46a4b925d7b0ad3": {
+      "text": "Say right again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b58ef46a4b925d7b0ad3.mp3"
+    },
     "fc37e36387bf38a686b7": {
       "text": "long",
       "voice": "en-US-AvaMultilingualNeural",
@@ -477,6 +849,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/09b4b03728aca29a0590.mp3"
+    },
+    "3663ec8bcd7d42d5032c": {
+      "text": "Say long again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3663ec8bcd7d42d5032c.mp3"
+    },
+    "7912859f0e3ad37e4597": {
+      "text": "Say wrong again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7912859f0e3ad37e4597.mp3"
     },
     "efd2b986141caed9391a": {
       "text": "play",
@@ -490,6 +874,18 @@
       "kind": "sound-word",
       "file": "/audio/762ec2a8a9ef5b316fcb.mp3"
     },
+    "622ab5c597453aa00aef": {
+      "text": "Say play again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/622ab5c597453aa00aef.mp3"
+    },
+    "d1ef60aa3b52dbe32890": {
+      "text": "Say pray again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d1ef60aa3b52dbe32890.mp3"
+    },
     "b558695e02db76a1141b": {
       "text": "glass",
       "voice": "en-US-AvaMultilingualNeural",
@@ -501,6 +897,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/f832e01e44175f78c258.mp3"
+    },
+    "d5141f68b65352f94ecc": {
+      "text": "Say glass again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d5141f68b65352f94ecc.mp3"
+    },
+    "7c18c56bf388c4037bf2": {
+      "text": "Say grass again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7c18c56bf388c4037bf2.mp3"
     },
     "2b4bbf6e315d5e8924c1": {
       "text": "late",
@@ -514,6 +922,18 @@
       "kind": "sound-word",
       "file": "/audio/5fc8321352da35223476.mp3"
     },
+    "6d227f7add6cd223de54": {
+      "text": "Say late again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/6d227f7add6cd223de54.mp3"
+    },
+    "0237ed3567936b95aa21": {
+      "text": "Say rate again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0237ed3567936b95aa21.mp3"
+    },
     "e0c9b78ebceaf34d49ec": {
       "text": "lead",
       "voice": "en-US-AvaMultilingualNeural",
@@ -525,6 +945,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/1649f124d0ec9db07207.mp3"
+    },
+    "3661ad9a0ae85cd3f260": {
+      "text": "Say lead again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3661ad9a0ae85cd3f260.mp3"
+    },
+    "e41983eaa3dd42d7488e": {
+      "text": "Say read again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e41983eaa3dd42d7488e.mp3"
     },
     "1b1bbac0eadd9471bc03": {
       "text": "Turn right at the red light.",
@@ -556,6 +988,18 @@
       "kind": "sound-word",
       "file": "/audio/de8d317a8dfcb6ebbf8e.mp3"
     },
+    "fa8cfb80ef7ed81d18b1": {
+      "text": "Say heart again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/fa8cfb80ef7ed81d18b1.mp3"
+    },
+    "e56e5a6e6a1d0c0327a1": {
+      "text": "Say hut again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e56e5a6e6a1d0c0327a1.mp3"
+    },
     "c45194ed6f697767821d": {
       "text": "calm",
       "voice": "en-US-AvaMultilingualNeural",
@@ -567,6 +1011,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/98dc256d66fe006b3e98.mp3"
+    },
+    "81c7efd40266ccaeeee7": {
+      "text": "Say calm again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/81c7efd40266ccaeeee7.mp3"
+    },
+    "b8d3a697ac538d50449d": {
+      "text": "Say come again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b8d3a697ac538d50449d.mp3"
     },
     "b2858d03179588aa73f7": {
       "text": "dark",
@@ -580,6 +1036,18 @@
       "kind": "sound-word",
       "file": "/audio/fe0a7bdf47b87c2e9e84.mp3"
     },
+    "74cc995fbbc125bdf1f3": {
+      "text": "Say dark again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/74cc995fbbc125bdf1f3.mp3"
+    },
+    "45217821782cbc7d6b59": {
+      "text": "Say duck again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/45217821782cbc7d6b59.mp3"
+    },
     "a00647f85e7bb0306b6a": {
       "text": "barn",
       "voice": "en-US-AvaMultilingualNeural",
@@ -591,6 +1059,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/235aa4c822a87808d1b8.mp3"
+    },
+    "ebc4def6639b7f039e8c": {
+      "text": "Say barn again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ebc4def6639b7f039e8c.mp3"
+    },
+    "0aff3cd2bd062c230fd9": {
+      "text": "Say bun again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0aff3cd2bd062c230fd9.mp3"
     },
     "5e1001dbc9e69c3b2754": {
       "text": "cart",
@@ -604,6 +1084,18 @@
       "kind": "sound-word",
       "file": "/audio/dcb32aebb028e0f9950f.mp3"
     },
+    "445cba8c920c64e16519": {
+      "text": "Say cart again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/445cba8c920c64e16519.mp3"
+    },
+    "278176d579368c743f57": {
+      "text": "Say cut again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/278176d579368c743f57.mp3"
+    },
     "efa4fb6a51f9563cdc79": {
       "text": "lark",
       "voice": "en-US-AvaMultilingualNeural",
@@ -615,6 +1107,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/6a184650f1f52bd14e88.mp3"
+    },
+    "c789d909cbc4eccb7546": {
+      "text": "Say lark again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c789d909cbc4eccb7546.mp3"
+    },
+    "64653b2e519fdd3407c5": {
+      "text": "Say luck again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/64653b2e519fdd3407c5.mp3"
     },
     "415ae85c9b6a88deec4e": {
       "text": "Come here and stay calm.",
@@ -646,6 +1150,18 @@
       "kind": "sound-word",
       "file": "/audio/879b836ff7caaaf7cc91.mp3"
     },
+    "e9dc9f2c04f9e30fa9e6": {
+      "text": "Say full again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e9dc9f2c04f9e30fa9e6.mp3"
+    },
+    "f8374d96dd4a06bd988c": {
+      "text": "Say fool again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f8374d96dd4a06bd988c.mp3"
+    },
     "f105d1c8798fd7ce49b9": {
       "text": "pull",
       "voice": "en-US-AvaMultilingualNeural",
@@ -657,6 +1173,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/57b09848a275dbe75e1f.mp3"
+    },
+    "341cf92e087980e315b2": {
+      "text": "Say pull again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/341cf92e087980e315b2.mp3"
+    },
+    "e4303169ec63d7c06b12": {
+      "text": "Say pool again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e4303169ec63d7c06b12.mp3"
     },
     "494250899c46892427bf": {
       "text": "look",
@@ -670,6 +1198,18 @@
       "kind": "sound-word",
       "file": "/audio/80b38d275930bc9c9243.mp3"
     },
+    "1320d320d52ec15de646": {
+      "text": "Say look again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/1320d320d52ec15de646.mp3"
+    },
+    "a4837526645fec38d9df": {
+      "text": "Say Luke again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a4837526645fec38d9df.mp3"
+    },
     "56e764a7fb3d74358df3": {
       "text": "should",
       "voice": "en-US-AvaMultilingualNeural",
@@ -681,6 +1221,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/7a1589413602a89c4223.mp3"
+    },
+    "c210d458245bf3f8acea": {
+      "text": "Say should again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c210d458245bf3f8acea.mp3"
+    },
+    "d0a1bb747f38009dd5dd": {
+      "text": "Say shoed again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d0a1bb747f38009dd5dd.mp3"
     },
     "c9df6520ccd68b37b6a3": {
       "text": "wood",
@@ -694,6 +1246,18 @@
       "kind": "sound-word",
       "file": "/audio/b50d8f30d3947dc9e3ac.mp3"
     },
+    "5977cd67cb9fca4e93ff": {
+      "text": "Say wood again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/5977cd67cb9fca4e93ff.mp3"
+    },
+    "dd0df69fc253c68ed97b": {
+      "text": "Say wooed again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/dd0df69fc253c68ed97b.mp3"
+    },
     "80fbb95e661a3caa8a9e": {
       "text": "cook",
       "voice": "en-US-AvaMultilingualNeural",
@@ -705,6 +1269,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/87dfa4c58862e9d7d884.mp3"
+    },
+    "68e609d2221cafe0ffc0": {
+      "text": "Say cook again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/68e609d2221cafe0ffc0.mp3"
+    },
+    "00c506b9c115e7bc0d55": {
+      "text": "Say kook again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/00c506b9c115e7bc0d55.mp3"
     },
     "dc75806d82e130086e42": {
       "text": "Look at Luke by the pool.",
@@ -736,6 +1312,18 @@
       "kind": "sound-word",
       "file": "/audio/4cd8745f1936c860d183.mp3"
     },
+    "df2d29a886d23036a48f": {
+      "text": "Say caught again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/df2d29a886d23036a48f.mp3"
+    },
+    "aa56d53905a23c7f38cd": {
+      "text": "Say coat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/aa56d53905a23c7f38cd.mp3"
+    },
     "29858e17d43a3240d459": {
       "text": "bought",
       "voice": "en-US-AvaMultilingualNeural",
@@ -747,6 +1335,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/cf7ac280a8e27f9d1429.mp3"
+    },
+    "331a36f91617f5a13144": {
+      "text": "Say bought again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/331a36f91617f5a13144.mp3"
+    },
+    "15864fd3c7f846efa238": {
+      "text": "Say boat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/15864fd3c7f846efa238.mp3"
     },
     "e88c84a0115f27d3db5b": {
       "text": "law",
@@ -760,6 +1360,18 @@
       "kind": "sound-word",
       "file": "/audio/b511237dfb6cf3d48847.mp3"
     },
+    "77fcaa4dc47196b595d1": {
+      "text": "Say law again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/77fcaa4dc47196b595d1.mp3"
+    },
+    "ef20615f8f895f7aba66": {
+      "text": "Say low again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ef20615f8f895f7aba66.mp3"
+    },
     "cfe21c7f027f2775d4b7": {
       "text": "saw",
       "voice": "en-US-AvaMultilingualNeural",
@@ -771,6 +1383,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/710fb80bcd39d003626d.mp3"
+    },
+    "4442b5672c72052bc6fa": {
+      "text": "Say saw again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/4442b5672c72052bc6fa.mp3"
+    },
+    "8bee899219f5efd7908e": {
+      "text": "Say so again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8bee899219f5efd7908e.mp3"
     },
     "8829949ef537ec05cbe9": {
       "text": "walk",
@@ -784,6 +1408,18 @@
       "kind": "sound-word",
       "file": "/audio/0207ced9663f5b6af8d1.mp3"
     },
+    "da3a4f8bd0deb16308b8": {
+      "text": "Say walk again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/da3a4f8bd0deb16308b8.mp3"
+    },
+    "37ede303aef376644c86": {
+      "text": "Say woke again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/37ede303aef376644c86.mp3"
+    },
     "b874f5c7d295d3d62205": {
       "text": "called",
       "voice": "en-US-AvaMultilingualNeural",
@@ -795,6 +1431,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/d30fa2efcd92f84a750b.mp3"
+    },
+    "aed2b15eaa0d11c258c2": {
+      "text": "Say called again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/aed2b15eaa0d11c258c2.mp3"
+    },
+    "33d2c571286cf0cea3cd": {
+      "text": "Say cold again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/33d2c571286cf0cea3cd.mp3"
     },
     "4ddbefe6975633b6ebc8": {
       "text": "I bought a coat for the boat.",
@@ -826,6 +1474,18 @@
       "kind": "sound-word",
       "file": "/audio/66f7babc937f589558de.mp3"
     },
+    "b86a91bd4558c16a454b": {
+      "text": "Say here again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b86a91bd4558c16a454b.mp3"
+    },
+    "b81940183d84e4f8684e": {
+      "text": "Say hair again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b81940183d84e4f8684e.mp3"
+    },
     "3a1b09be9a40aec0e076": {
       "text": "fear",
       "voice": "en-US-AvaMultilingualNeural",
@@ -837,6 +1497,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/e797f24c7aa5d4fd44d9.mp3"
+    },
+    "0e2f452e05445c2b7f4a": {
+      "text": "Say fear again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0e2f452e05445c2b7f4a.mp3"
+    },
+    "80f16cebad64aa88405a": {
+      "text": "Say fair again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/80f16cebad64aa88405a.mp3"
     },
     "f77ad5208f170334c430": {
       "text": "beer",
@@ -850,6 +1522,18 @@
       "kind": "sound-word",
       "file": "/audio/6f04e48bf2e0ae4f0c66.mp3"
     },
+    "4ebfe9c63770b1c625fa": {
+      "text": "Say beer again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/4ebfe9c63770b1c625fa.mp3"
+    },
+    "b759d6db88a70562ed40": {
+      "text": "Say bear again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b759d6db88a70562ed40.mp3"
+    },
     "294fb95bb56093da161a": {
       "text": "cheer",
       "voice": "en-US-AvaMultilingualNeural",
@@ -861,6 +1545,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/847b5be63b0fd6690d13.mp3"
+    },
+    "3da8ae54943776526b21": {
+      "text": "Say cheer again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3da8ae54943776526b21.mp3"
+    },
+    "dd6565cb2c48199518b0": {
+      "text": "Say chair again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/dd6565cb2c48199518b0.mp3"
     },
     "19e4120a2c07626abdd2": {
       "text": "ear",
@@ -874,6 +1570,18 @@
       "kind": "sound-word",
       "file": "/audio/f3c572127a22a5eb3f34.mp3"
     },
+    "de5fca756380598fbe3e": {
+      "text": "Say ear again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/de5fca756380598fbe3e.mp3"
+    },
+    "adef28cac5fe3a00f15a": {
+      "text": "Say air again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/adef28cac5fe3a00f15a.mp3"
+    },
     "c5016b7a5d38b83fa494": {
       "text": "pierce",
       "voice": "en-US-AvaMultilingualNeural",
@@ -885,6 +1593,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/01319c8367749c174fb6.mp3"
+    },
+    "ecc2d65ef8dc47f65b26": {
+      "text": "Say pierce again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ecc2d65ef8dc47f65b26.mp3"
+    },
+    "0e513040c5d15079cafe": {
+      "text": "Say pairs again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0e513040c5d15079cafe.mp3"
     },
     "d5c9b2380a7d6b904ecf": {
       "text": "Come here and sit in this chair.",
@@ -916,11 +1636,29 @@
       "kind": "sound-word",
       "file": "/audio/bc8a9a392e270771456c.mp3"
     },
+    "6463e17719999c43c570": {
+      "text": "Say she again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/6463e17719999c43c570.mp3"
+    },
+    "8edb7dd74003a987330e": {
+      "text": "Say see again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8edb7dd74003a987330e.mp3"
+    },
     "54f97f7faae4b7a60088": {
       "text": "sip",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/54f97f7faae4b7a60088.mp3"
+    },
+    "d2b2e99d48175a80fd96": {
+      "text": "Say sip again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d2b2e99d48175a80fd96.mp3"
     },
     "418e81a01b4f23b439c7": {
       "text": "shy",
@@ -934,6 +1672,18 @@
       "kind": "sound-word",
       "file": "/audio/561c3cb41e103ce8736a.mp3"
     },
+    "db44b033771c290f4b79": {
+      "text": "Say shy again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/db44b033771c290f4b79.mp3"
+    },
+    "f17ae54314a60e1d8f47": {
+      "text": "Say sigh again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f17ae54314a60e1d8f47.mp3"
+    },
     "d8ff105e074f48d3f63b": {
       "text": "shell",
       "voice": "en-US-AvaMultilingualNeural",
@@ -945,6 +1695,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/b0fa170d717a58539b41.mp3"
+    },
+    "5f42cccfdc055403eeb9": {
+      "text": "Say shell again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/5f42cccfdc055403eeb9.mp3"
+    },
+    "3cc0700b3609841a62e9": {
+      "text": "Say sell again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3cc0700b3609841a62e9.mp3"
     },
     "a804cf2b58ca3bc7cf2d": {
       "text": "mesh",
@@ -958,6 +1720,18 @@
       "kind": "sound-word",
       "file": "/audio/56631b4772b5b8672635.mp3"
     },
+    "b362953289c831be6b72": {
+      "text": "Say mesh again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b362953289c831be6b72.mp3"
+    },
+    "50e965085f0e14416b78": {
+      "text": "Say mess again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/50e965085f0e14416b78.mp3"
+    },
     "d11ba387510c437cf1ed": {
       "text": "shock",
       "voice": "en-US-AvaMultilingualNeural",
@@ -969,6 +1743,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/e4e136cb6d7efabce23f.mp3"
+    },
+    "58588448f9ce56d921b6": {
+      "text": "Say shock again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/58588448f9ce56d921b6.mp3"
+    },
+    "28d4246899c7d1106373": {
+      "text": "Say sock again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/28d4246899c7d1106373.mp3"
     },
     "397408c60de7e9929f9b": {
       "text": "She can see the ship.",
@@ -994,11 +1780,23 @@
       "kind": "sound-word",
       "file": "/audio/8a7d55a16e1b1f85379f.mp3"
     },
+    "e138ba79886662089543": {
+      "text": "Say cheap again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e138ba79886662089543.mp3"
+    },
     "d741dcd9b9f8ccb3b847": {
       "text": "chip",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/d741dcd9b9f8ccb3b847.mp3"
+    },
+    "8e33adfa1c42548f4022": {
+      "text": "Say chip again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8e33adfa1c42548f4022.mp3"
     },
     "ec2e2f19c4cb7e39b7a5": {
       "text": "catch",
@@ -1012,6 +1810,18 @@
       "kind": "sound-word",
       "file": "/audio/d78449ab1f0ac944e813.mp3"
     },
+    "c8e5fa27798b411e6aa9": {
+      "text": "Say catch again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c8e5fa27798b411e6aa9.mp3"
+    },
+    "6f0db7e4aca482dd1452": {
+      "text": "Say cash again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/6f0db7e4aca482dd1452.mp3"
+    },
     "314f77bebfa60d86abb4": {
       "text": "watch",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1023,6 +1833,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/fde35fdbe63d7435c62e.mp3"
+    },
+    "02f37e05c5332a68e8d9": {
+      "text": "Say watch again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/02f37e05c5332a68e8d9.mp3"
+    },
+    "8ca41507b7353624f3e0": {
+      "text": "Say wash again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8ca41507b7353624f3e0.mp3"
     },
     "12e471f8fc495130ffed": {
       "text": "chop",
@@ -1036,6 +1858,18 @@
       "kind": "sound-word",
       "file": "/audio/538130f05766c3f0d64a.mp3"
     },
+    "d57d3d0f0c92cb6b8661": {
+      "text": "Say chop again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d57d3d0f0c92cb6b8661.mp3"
+    },
+    "fcdded07d4532fd9dc36": {
+      "text": "Say shop again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/fcdded07d4532fd9dc36.mp3"
+    },
     "21fc386d198c617f84bc": {
       "text": "chew",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1047,6 +1881,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/8f1871029ffaf3c06537.mp3"
+    },
+    "64300134026f31ddcff3": {
+      "text": "Say chew again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/64300134026f31ddcff3.mp3"
+    },
+    "b7e72ba585f2c3e88fd0": {
+      "text": "Say shoe again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b7e72ba585f2c3e88fd0.mp3"
     },
     "2d27f6e26382bc00f396": {
       "text": "I paid cash to catch the cheap bus.",
@@ -1078,6 +1924,18 @@
       "kind": "sound-word",
       "file": "/audio/0e7b3d6aa33a16cccf44.mp3"
     },
+    "12c9230611c0159bd3da": {
+      "text": "Say thin again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/12c9230611c0159bd3da.mp3"
+    },
+    "6773292088d03f1564b4": {
+      "text": "Say thing again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/6773292088d03f1564b4.mp3"
+    },
     "587490b81cf82da56b6a": {
       "text": "win",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1089,6 +1947,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/d00419bc7f074c225274.mp3"
+    },
+    "40c8807b4b7c57bea14c": {
+      "text": "Say win again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/40c8807b4b7c57bea14c.mp3"
+    },
+    "a768c77c559e6381d8e3": {
+      "text": "Say wing again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a768c77c559e6381d8e3.mp3"
     },
     "1da02470269db1cb2ab8": {
       "text": "ran",
@@ -1102,6 +1972,18 @@
       "kind": "sound-word",
       "file": "/audio/0b2ce335288c4b4a6578.mp3"
     },
+    "d81071bbb597bfdadfd4": {
+      "text": "Say ran again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d81071bbb597bfdadfd4.mp3"
+    },
+    "bbcf477cb297eef42145": {
+      "text": "Say rang again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/bbcf477cb297eef42145.mp3"
+    },
     "9dc1a84d5320364b9429": {
       "text": "kin",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1113,6 +1995,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/8161bcdbcc5fdb1376d2.mp3"
+    },
+    "8adb16d14cbaf496e48b": {
+      "text": "Say kin again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8adb16d14cbaf496e48b.mp3"
+    },
+    "c67fc8c64b62bd892b84": {
+      "text": "Say king again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c67fc8c64b62bd892b84.mp3"
     },
     "c35f008a381040232019": {
       "text": "sun",
@@ -1126,6 +2020,18 @@
       "kind": "sound-word",
       "file": "/audio/5d4a410a68abe4290fa2.mp3"
     },
+    "ecc76d3a11f2c477d790": {
+      "text": "Say sun again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ecc76d3a11f2c477d790.mp3"
+    },
+    "a18dc81ac0c972e10661": {
+      "text": "Say sung again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a18dc81ac0c972e10661.mp3"
+    },
     "caf398fc8634f3dbb7b7": {
       "text": "ban",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1137,6 +2043,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/12909dc98ee93e96d61a.mp3"
+    },
+    "73cb74c345ba5d5373ff": {
+      "text": "Say ban again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/73cb74c345ba5d5373ff.mp3"
+    },
+    "2278f9019f25da46f40d": {
+      "text": "Say bang again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/2278f9019f25da46f40d.mp3"
     },
     "e8f872353ab252bbf2b6": {
       "text": "This thin thing can fly with one wing.",
@@ -1162,6 +2080,12 @@
       "kind": "sound-word",
       "file": "/audio/3b2dc269f3d4a1afd526.mp3"
     },
+    "d88c4b46788fcefc7585": {
+      "text": "Say zip again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d88c4b46788fcefc7585.mp3"
+    },
     "cd4db459453aab4d1dd5": {
       "text": "price",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1173,6 +2097,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/b6b99ac9fed715345781.mp3"
+    },
+    "c1b9603a29d1697e399b": {
+      "text": "Say price again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c1b9603a29d1697e399b.mp3"
+    },
+    "97e50c87709dab7741ed": {
+      "text": "Say prize again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/97e50c87709dab7741ed.mp3"
     },
     "51d6089ce88c08ed2e60": {
       "text": "ice",
@@ -1186,6 +2122,18 @@
       "kind": "sound-word",
       "file": "/audio/1794f3b1e2da70c27765.mp3"
     },
+    "1d923d92aa53dd9dd1e6": {
+      "text": "Say ice again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/1d923d92aa53dd9dd1e6.mp3"
+    },
+    "96ca87eb390fcb456471": {
+      "text": "Say eyes again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/96ca87eb390fcb456471.mp3"
+    },
     "98f30b4ed232375b8346": {
       "text": "bus",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1197,6 +2145,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/6286bc70c53675dd1527.mp3"
+    },
+    "930ba9d9ee03090a9f1c": {
+      "text": "Say bus again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/930ba9d9ee03090a9f1c.mp3"
+    },
+    "4a482b5617b8f97ba5bd": {
+      "text": "Say buzz again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/4a482b5617b8f97ba5bd.mp3"
     },
     "df02d8015bb0e224027b": {
       "text": "lace",
@@ -1210,6 +2170,18 @@
       "kind": "sound-word",
       "file": "/audio/160410c30ea0ee2f8c4d.mp3"
     },
+    "4d6179c1d3c66fac56ea": {
+      "text": "Say lace again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/4d6179c1d3c66fac56ea.mp3"
+    },
+    "88e8a1577b324404716a": {
+      "text": "Say laze again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/88e8a1577b324404716a.mp3"
+    },
     "b12f40de19704a73e2b8": {
       "text": "hiss",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1221,6 +2193,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/c636bb8de0bea74466d8.mp3"
+    },
+    "f22816a864e8b5610784": {
+      "text": "Say hiss again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f22816a864e8b5610784.mp3"
+    },
+    "a628a00aced95e7a8b00": {
+      "text": "Say his again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a628a00aced95e7a8b00.mp3"
     },
     "ed787b246f5cf0f16362": {
       "text": "The price of the prize surprised his eyes.",
@@ -1252,11 +2236,29 @@
       "kind": "sound-word",
       "file": "/audio/1e10dd661e923f08f4f9.mp3"
     },
+    "75cd08b4c8df662d9127": {
+      "text": "Say free again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/75cd08b4c8df662d9127.mp3"
+    },
+    "bfda65a1a3b8a0c43eb2": {
+      "text": "Say three again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/bfda65a1a3b8a0c43eb2.mp3"
+    },
     "e86e59f5fe9669f08ae2": {
       "text": "fin",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/e86e59f5fe9669f08ae2.mp3"
+    },
+    "f9df581ed825e092a0cd": {
+      "text": "Say fin again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f9df581ed825e092a0cd.mp3"
     },
     "59557be1af1f01c82302": {
       "text": "first",
@@ -1270,6 +2272,18 @@
       "kind": "sound-word",
       "file": "/audio/a63cf9e84009fbb6a39f.mp3"
     },
+    "cf085d30f00652f4c9d8": {
+      "text": "Say first again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/cf085d30f00652f4c9d8.mp3"
+    },
+    "46032ee8d6707521f710": {
+      "text": "Say thirst again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/46032ee8d6707521f710.mp3"
+    },
     "e24ba36f1eaabeefe2e8": {
       "text": "fought",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1281,6 +2295,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/580f753a132ba95661f7.mp3"
+    },
+    "92d000d76208145be07a": {
+      "text": "Say fought again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/92d000d76208145be07a.mp3"
+    },
+    "7d0d900a83bdba963bc6": {
+      "text": "Say thought again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/7d0d900a83bdba963bc6.mp3"
     },
     "d1c7789296b614a27932": {
       "text": "deaf",
@@ -1294,6 +2320,18 @@
       "kind": "sound-word",
       "file": "/audio/e993b34d1cbaa04b21a6.mp3"
     },
+    "22864a36037f82ee60ff": {
+      "text": "Say deaf again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/22864a36037f82ee60ff.mp3"
+    },
+    "8de7a019cf68da457437": {
+      "text": "Say death again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8de7a019cf68da457437.mp3"
+    },
     "453e5702f8ed98d5a4e1": {
       "text": "frill",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1305,6 +2343,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/f0b7f042d27e0702bad4.mp3"
+    },
+    "b7c355fe03fb85114af7": {
+      "text": "Say frill again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b7c355fe03fb85114af7.mp3"
+    },
+    "ecde1ff334edf094c43f": {
+      "text": "Say thrill again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ecde1ff334edf094c43f.mp3"
     },
     "e0ef102806ea52355f9e": {
       "text": "I thought I was free for three hours.",
@@ -1330,6 +2380,12 @@
       "kind": "sound-word",
       "file": "/audio/7a170d363773c7088375.mp3"
     },
+    "337187d6098872a306a5": {
+      "text": "Say this again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/337187d6098872a306a5.mp3"
+    },
     "c2985c4194636d74646a": {
       "text": "thigh",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1341,6 +2397,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/dfcda91bca5f232833f7.mp3"
+    },
+    "1ce1941a4a44d23240dc": {
+      "text": "Say thigh again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/1ce1941a4a44d23240dc.mp3"
+    },
+    "6cbe836f2bdffed6ec7c": {
+      "text": "Say thy again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/6cbe836f2bdffed6ec7c.mp3"
     },
     "91bf00e7ba918431d6c2": {
       "text": "ether",
@@ -1354,6 +2422,18 @@
       "kind": "sound-word",
       "file": "/audio/0803d52d70cc348c0115.mp3"
     },
+    "46833c3a3f038434e01e": {
+      "text": "Say ether again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/46833c3a3f038434e01e.mp3"
+    },
+    "09dcea71c9ccb4acd9d9": {
+      "text": "Say either again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/09dcea71c9ccb4acd9d9.mp3"
+    },
     "c696108fd305b8b8fdab": {
       "text": "teeth",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1365,6 +2445,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/02cdd2e033c35c869992.mp3"
+    },
+    "78cff67bad384203d15c": {
+      "text": "Say teeth again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/78cff67bad384203d15c.mp3"
+    },
+    "fe2ea10f2bb3288dd5f4": {
+      "text": "Say teethe again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/fe2ea10f2bb3288dd5f4.mp3"
     },
     "a0ae22dcf9031201264b": {
       "text": "sooth",
@@ -1378,6 +2470,18 @@
       "kind": "sound-word",
       "file": "/audio/5e51e97ddfb9ff0f34c8.mp3"
     },
+    "5c2fbf5f5958c590ddbc": {
+      "text": "Say sooth again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/5c2fbf5f5958c590ddbc.mp3"
+    },
+    "e50b04d8cd8a852fa219": {
+      "text": "Say soothe again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e50b04d8cd8a852fa219.mp3"
+    },
     "20adec7f3d9f80a3f557": {
       "text": "thistle",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1389,6 +2493,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/c9bc9be7a76e864ead8a.mp3"
+    },
+    "a3a1eff570c3a189b684": {
+      "text": "Say thistle again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a3a1eff570c3a189b684.mp3"
+    },
+    "0891bb7b7365f6edc9c7": {
+      "text": "Say this'll again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0891bb7b7365f6edc9c7.mp3"
     },
     "c17111a784026402787a": {
       "text": "This thin cloth can soothe the skin.",
@@ -1420,6 +2536,18 @@
       "kind": "sound-word",
       "file": "/audio/530ff6197317c4a44807.mp3"
     },
+    "3655a85b2eab3fae309d": {
+      "text": "Say bird again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3655a85b2eab3fae309d.mp3"
+    },
+    "0afe7b61cdbda0fcafbe": {
+      "text": "Say bard again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0afe7b61cdbda0fcafbe.mp3"
+    },
     "409bd85024d3d3b30842": {
       "text": "fur",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1431,6 +2559,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/63ce875e8baea85fd3c5.mp3"
+    },
+    "cc749ee8fec654d82167": {
+      "text": "Say fur again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/cc749ee8fec654d82167.mp3"
+    },
+    "9cc87755133717532469": {
+      "text": "Say far again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/9cc87755133717532469.mp3"
     },
     "4449edfe0fdc0a0c1434": {
       "text": "heard",
@@ -1444,11 +2584,29 @@
       "kind": "sound-word",
       "file": "/audio/3f008902f0624a15a5db.mp3"
     },
+    "07a74783a0a5a9dad35b": {
+      "text": "Say heard again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/07a74783a0a5a9dad35b.mp3"
+    },
+    "db0cb11856de5b584248": {
+      "text": "Say hard again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/db0cb11856de5b584248.mp3"
+    },
     "7b2143c69997eb4a1432": {
       "text": "burn",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/7b2143c69997eb4a1432.mp3"
+    },
+    "78d05bf10ddfb21c43e4": {
+      "text": "Say burn again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/78d05bf10ddfb21c43e4.mp3"
     },
     "153f6572a793450c78e9": {
       "text": "stir",
@@ -1462,11 +2620,29 @@
       "kind": "sound-word",
       "file": "/audio/07a280b2fbaec8aac9c9.mp3"
     },
+    "f3d822d950a9f8dfd716": {
+      "text": "Say stir again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f3d822d950a9f8dfd716.mp3"
+    },
+    "aa09c2ff20f34b67070d": {
+      "text": "Say star again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/aa09c2ff20f34b67070d.mp3"
+    },
     "1bdf84cc8ebdbbe8769f": {
       "text": "hurt",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/1bdf84cc8ebdbbe8769f.mp3"
+    },
+    "9c62a6d9a8fe88e02188": {
+      "text": "Say hurt again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/9c62a6d9a8fe88e02188.mp3"
     },
     "dc95e579970a5d16d608": {
       "text": "I heard it was hard to find the bird.",
@@ -1492,17 +2668,35 @@
       "kind": "sound-word",
       "file": "/audio/908e5089b8236c016c3a.mp3"
     },
+    "caddddfdf2693572a5f8": {
+      "text": "Say let again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/caddddfdf2693572a5f8.mp3"
+    },
     "70db1075334c94757bf5": {
       "text": "wait",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/70db1075334c94757bf5.mp3"
     },
+    "dd3ac402d3fac0613e42": {
+      "text": "Say wait again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/dd3ac402d3fac0613e42.mp3"
+    },
     "0bc14cfe4b8ab2a463ca": {
       "text": "pain",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/0bc14cfe4b8ab2a463ca.mp3"
+    },
+    "4633ce0ca81f1d25d338": {
+      "text": "Say pain again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/4633ce0ca81f1d25d338.mp3"
     },
     "e4223cc560ddce74be14": {
       "text": "gate",
@@ -1516,6 +2710,18 @@
       "kind": "sound-word",
       "file": "/audio/6c1ac781f57aed825023.mp3"
     },
+    "e0682d45200c31a3f743": {
+      "text": "Say gate again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e0682d45200c31a3f743.mp3"
+    },
+    "a9ddb2ecbda5e4392abf": {
+      "text": "Say get again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a9ddb2ecbda5e4392abf.mp3"
+    },
     "d66cbafaee78bd8decd5": {
       "text": "age",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1528,6 +2734,18 @@
       "kind": "sound-word",
       "file": "/audio/9a01b73ccd25c703771e.mp3"
     },
+    "68418387526278fd4f25": {
+      "text": "Say age again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/68418387526278fd4f25.mp3"
+    },
+    "b591cdf6d3750215b355": {
+      "text": "Say edge again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b591cdf6d3750215b355.mp3"
+    },
     "da6ea7539047acaae067": {
       "text": "taste",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1539,6 +2757,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/ca043c8a47157e19a73c.mp3"
+    },
+    "3d15f11c508c3f802f60": {
+      "text": "Say taste again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3d15f11c508c3f802f60.mp3"
+    },
+    "b3218e1702e036bbe6ba": {
+      "text": "Say test again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b3218e1702e036bbe6ba.mp3"
     },
     "7647bc86c0bd47a375c7": {
       "text": "Don't wait in the wet rain.",
@@ -1570,6 +2800,18 @@
       "kind": "sound-word",
       "file": "/audio/c08e52afea76671f6238.mp3"
     },
+    "cc93add61eda78b4fb8d": {
+      "text": "Say like again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/cc93add61eda78b4fb8d.mp3"
+    },
+    "24d1f7d7a619a6dc1518": {
+      "text": "Say lack again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/24d1f7d7a619a6dc1518.mp3"
+    },
     "3643c2ca2ab6163a4b63": {
       "text": "bite",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1581,6 +2823,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/03e9ee93e2185d954c44.mp3"
+    },
+    "e3fb5af5cf9b35c7ad01": {
+      "text": "Say bite again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e3fb5af5cf9b35c7ad01.mp3"
+    },
+    "f61acad3023848b29458": {
+      "text": "Say bat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f61acad3023848b29458.mp3"
     },
     "06020996edba01d897c6": {
       "text": "time",
@@ -1594,11 +2848,29 @@
       "kind": "sound-word",
       "file": "/audio/d4e46a747009c5e0dbca.mp3"
     },
+    "d6e7a5c316895c401850": {
+      "text": "Say time again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d6e7a5c316895c401850.mp3"
+    },
+    "e43481071683d93a82ac": {
+      "text": "Say tam again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/e43481071683d93a82ac.mp3"
+    },
     "1bc678cf08fd44f31ef9": {
       "text": "mine",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/1bc678cf08fd44f31ef9.mp3"
+    },
+    "a53332ec23da51c18423": {
+      "text": "Say mine again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/a53332ec23da51c18423.mp3"
     },
     "bbe15dc33382b5c28637": {
       "text": "pike",
@@ -1612,11 +2884,29 @@
       "kind": "sound-word",
       "file": "/audio/5ca0068bef7e34fbd75c.mp3"
     },
+    "851bb62b08b2b736f2f2": {
+      "text": "Say pike again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/851bb62b08b2b736f2f2.mp3"
+    },
+    "ea2ebd16b975dc91b17f": {
+      "text": "Say pack again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ea2ebd16b975dc91b17f.mp3"
+    },
     "2b583180702aad7156a9": {
       "text": "side",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/2b583180702aad7156a9.mp3"
+    },
+    "d6732478b79beb300bc7": {
+      "text": "Say side again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/d6732478b79beb300bc7.mp3"
     },
     "3d7c7d7b567fca52ceb6": {
       "text": "I like this, but I lack time.",
@@ -1642,17 +2932,35 @@
       "kind": "sound-word",
       "file": "/audio/00e90402369c8e8d4241.mp3"
     },
+    "89656cdd961addf3d391": {
+      "text": "Say cat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/89656cdd961addf3d391.mp3"
+    },
     "f091c6e426f5bddc4f64": {
       "text": "bug",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/f091c6e426f5bddc4f64.mp3"
     },
+    "09663ab729b01cbb1905": {
+      "text": "Say bug again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/09663ab729b01cbb1905.mp3"
+    },
     "4d88bb464d5826aa65db": {
       "text": "run",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/4d88bb464d5826aa65db.mp3"
+    },
+    "94d3fab1e8dc47bf5a46": {
+      "text": "Say run again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/94d3fab1e8dc47bf5a46.mp3"
     },
     "e622240b987418903e6c": {
       "text": "ankle",
@@ -1666,6 +2974,18 @@
       "kind": "sound-word",
       "file": "/audio/52833877eb87120c6a64.mp3"
     },
+    "24e8f62003a1a727aede": {
+      "text": "Say ankle again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/24e8f62003a1a727aede.mp3"
+    },
+    "b5f20c4331f6b58dedfe": {
+      "text": "Say uncle again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b5f20c4331f6b58dedfe.mp3"
+    },
     "5995b9a09389c3ed0d20": {
       "text": "match",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1678,6 +2998,18 @@
       "kind": "sound-word",
       "file": "/audio/7f947af08cd1f760f7f3.mp3"
     },
+    "8a244077af9fe1eb6bc9": {
+      "text": "Say match again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8a244077af9fe1eb6bc9.mp3"
+    },
+    "aa8d430e1c67059bfc78": {
+      "text": "Say much again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/aa8d430e1c67059bfc78.mp3"
+    },
     "17352884a0a15ed5b6c7": {
       "text": "drank",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1689,6 +3021,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/edfbf331fa55d0581016.mp3"
+    },
+    "55158e0a426e2d342b6e": {
+      "text": "Say drank again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/55158e0a426e2d342b6e.mp3"
+    },
+    "c7a1f75a91adc526ed54": {
+      "text": "Say drunk again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c7a1f75a91adc526ed54.mp3"
     },
     "6ba64c63097022c64500": {
       "text": "The cat cut across the path.",
@@ -1720,17 +3064,41 @@
       "kind": "sound-word",
       "file": "/audio/11ac192d06bf1c826e36.mp3"
     },
+    "ebaf1f2e185bb9760244": {
+      "text": "Say lid again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ebaf1f2e185bb9760244.mp3"
+    },
+    "fb4de221cba4aeb83701": {
+      "text": "Say led again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/fb4de221cba4aeb83701.mp3"
+    },
     "72f84156fe3828a3b335": {
       "text": "pin",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/72f84156fe3828a3b335.mp3"
     },
+    "dd6227fc272fa3933a0e": {
+      "text": "Say pin again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/dd6227fc272fa3933a0e.mp3"
+    },
     "6ec443c5576118f0fbf0": {
       "text": "bet",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/6ec443c5576118f0fbf0.mp3"
+    },
+    "b9bdb5bcfdd25fb13f65": {
+      "text": "Say bet again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b9bdb5bcfdd25fb13f65.mp3"
     },
     "2aeac34e04f11d39856f": {
       "text": "will",
@@ -1744,6 +3112,18 @@
       "kind": "sound-word",
       "file": "/audio/4a9d3c3bebf50199a316.mp3"
     },
+    "2de87d17a09eafcae499": {
+      "text": "Say will again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/2de87d17a09eafcae499.mp3"
+    },
+    "3bcd8baebb94c77369d0": {
+      "text": "Say well again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3bcd8baebb94c77369d0.mp3"
+    },
     "8a92060d79df878c5e22": {
       "text": "tin",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1756,6 +3136,18 @@
       "kind": "sound-word",
       "file": "/audio/458964e2ff2de16dfab5.mp3"
     },
+    "0eedba667bee00b657ca": {
+      "text": "Say tin again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/0eedba667bee00b657ca.mp3"
+    },
+    "ae9ff5639d23dd4b1178": {
+      "text": "Say ten again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/ae9ff5639d23dd4b1178.mp3"
+    },
     "4d1d0f0ceeb7db22cd44": {
       "text": "fill",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1767,6 +3159,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/f836e1fb8b3de69f799f.mp3"
+    },
+    "2d6a2ac4b1ac5d4f2196": {
+      "text": "Say fill again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/2d6a2ac4b1ac5d4f2196.mp3"
+    },
+    "5d7fa1999d239550d1a4": {
+      "text": "Say fell again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/5d7fa1999d239550d1a4.mp3"
     },
     "788c691b6460de26c121": {
       "text": "This pin fell into the pen.",
@@ -1798,6 +3202,18 @@
       "kind": "sound-word",
       "file": "/audio/5a85a81ebc4d7cf39ea6.mp3"
     },
+    "f7109bf8fecbf84b5214": {
+      "text": "Say park again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/f7109bf8fecbf84b5214.mp3"
+    },
+    "55674cf86a2784fa6fe9": {
+      "text": "Say bark again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/55674cf86a2784fa6fe9.mp3"
+    },
     "c46f586eeb5453860db1": {
       "text": "tie",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1810,11 +3226,29 @@
       "kind": "sound-word",
       "file": "/audio/70e359be9df1f6eafdd8.mp3"
     },
+    "b66a9028c1b3a4515d9b": {
+      "text": "Say tie again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/b66a9028c1b3a4515d9b.mp3"
+    },
+    "2668f84eaa2885620584": {
+      "text": "Say die again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/2668f84eaa2885620584.mp3"
+    },
     "0887b5fc272c66abf2d7": {
       "text": "goat",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/0887b5fc272c66abf2d7.mp3"
+    },
+    "132aef0df7f4cd52554f": {
+      "text": "Say goat again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/132aef0df7f4cd52554f.mp3"
     },
     "eba54ef7685caed376a1": {
       "text": "pear",
@@ -1822,17 +3256,35 @@
       "kind": "sound-word",
       "file": "/audio/eba54ef7685caed376a1.mp3"
     },
+    "074085ea3875d67df8b2": {
+      "text": "Say pear again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/074085ea3875d67df8b2.mp3"
+    },
     "cc468fcbad7523859ed9": {
       "text": "gum",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/cc468fcbad7523859ed9.mp3"
     },
+    "af5e99a6f7a61cc511b3": {
+      "text": "Say gum again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/af5e99a6f7a61cc511b3.mp3"
+    },
     "9334fce61dda2468fc81": {
       "text": "toe",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/9334fce61dda2468fc81.mp3"
+    },
+    "bcf1ca58d5c3d4ab82ea": {
+      "text": "Say toe again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/bcf1ca58d5c3d4ab82ea.mp3"
     },
     "a2dc98e4d88f06ba4098": {
       "text": "Don't park where the dogs bark.",
@@ -1858,6 +3310,12 @@
       "kind": "sound-word",
       "file": "/audio/a38be1a917d4e58feb58.mp3"
     },
+    "5b43ab0b11b4946aeb89": {
+      "text": "Say year again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/5b43ab0b11b4946aeb89.mp3"
+    },
     "9ec62cc329941369db26": {
       "text": "yeast",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1869,6 +3327,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/962198109e3fa8f6e0a7.mp3"
+    },
+    "65985872d1825c763c92": {
+      "text": "Say yeast again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/65985872d1825c763c92.mp3"
+    },
+    "4090ea32b3fd353691c0": {
+      "text": "Say east again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/4090ea32b3fd353691c0.mp3"
     },
     "255bfed2fab4adff30ad": {
       "text": "yell",
@@ -1882,6 +3352,18 @@
       "kind": "sound-word",
       "file": "/audio/8f706d33f01515db7ccb.mp3"
     },
+    "1bbb68d411fbb491a507": {
+      "text": "Say yell again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/1bbb68d411fbb491a507.mp3"
+    },
+    "c454f490cc3bfdcf8662": {
+      "text": "Say L again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c454f490cc3bfdcf8662.mp3"
+    },
     "14514a015bd811815474": {
       "text": "yacht",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1893,6 +3375,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/8e70c7d7663984035416.mp3"
+    },
+    "8356f987caf432582b2f": {
+      "text": "Say yacht again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8356f987caf432582b2f.mp3"
+    },
+    "1e8372b3fce0a505e4cc": {
+      "text": "Say ought again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/1e8372b3fce0a505e4cc.mp3"
     },
     "395636930d39736035bb": {
       "text": "yes",
@@ -1906,6 +3400,18 @@
       "kind": "sound-word",
       "file": "/audio/83ffdb7255fde7e4d524.mp3"
     },
+    "3c6047abb073668ff9d1": {
+      "text": "Say yes again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/3c6047abb073668ff9d1.mp3"
+    },
+    "779b9aab0b8bca33ef08": {
+      "text": "Say S again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/779b9aab0b8bca33ef08.mp3"
+    },
     "75ff79f6c8cc82836b63": {
       "text": "yet",
       "voice": "en-US-AvaMultilingualNeural",
@@ -1917,6 +3423,18 @@
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "sound-word",
       "file": "/audio/e387c2ed3e1bd764c3ae.mp3"
+    },
+    "c4f11a8cd39f5a2f923a": {
+      "text": "Say yet again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/c4f11a8cd39f5a2f923a.mp3"
+    },
+    "8c8929269a94b305e7a9": {
+      "text": "Say et again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "carrier",
+      "file": "/audio/8c8929269a94b305e7a9.mp3"
     },
     "7fc9e9407ff9d7044c94": {
       "text": "This year I will rest my ear.",
@@ -3820,6 +5338,1266 @@
       "kind": "drill",
       "file": "/audio/f555e4afe10197ea49d6.mp3"
     },
+    "2f50f79338063f00449d": {
+      "text": "Hey, how's it going?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2f50f79338063f00449d.mp3"
+    },
+    "111670ed0b7066776534": {
+      "text": "Hi, good to see you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/111670ed0b7066776534.mp3"
+    },
+    "9498be5190ae7421a630": {
+      "text": "Nice to meet you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/9498be5190ae7421a630.mp3"
+    },
+    "de8a881bcda11f57ba1e": {
+      "text": "Nice to see you again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/de8a881bcda11f57ba1e.mp3"
+    },
+    "7eee6589a39f0d41901b": {
+      "text": "Long time no see.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/7eee6589a39f0d41901b.mp3"
+    },
+    "83ef4733a5feb1a1a9f0": {
+      "text": "What's new?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/83ef4733a5feb1a1a9f0.mp3"
+    },
+    "24dc02a7f5f49a64a165": {
+      "text": "How's your day going?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/24dc02a7f5f49a64a165.mp3"
+    },
+    "009cfba181766e0c69c9": {
+      "text": "I don't think we've met. I'm Maya.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/009cfba181766e0c69c9.mp3"
+    },
+    "6aca449324d759245fe5": {
+      "text": "This is my friend Leo.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/6aca449324d759245fe5.mp3"
+    },
+    "2338cdcdce43d2331fbd": {
+      "text": "Come on in.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2338cdcdce43d2331fbd.mp3"
+    },
+    "d6ed05c466088d116390": {
+      "text": "Have a seat.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d6ed05c466088d116390.mp3"
+    },
+    "d7cd01c73f3232fb2e87": {
+      "text": "I like your jacket.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d7cd01c73f3232fb2e87.mp3"
+    },
+    "05f24a73c6fa7ba042d8": {
+      "text": "You look great today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/05f24a73c6fa7ba042d8.mp3"
+    },
+    "d14cb6fe876f89940a0b": {
+      "text": "How's work going?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d14cb6fe876f89940a0b.mp3"
+    },
+    "b7b13b3428c8f5b71703": {
+      "text": "How's the family?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/b7b13b3428c8f5b71703.mp3"
+    },
+    "eeabacbb1843cbd03382": {
+      "text": "What a nice surprise.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/eeabacbb1843cbd03382.mp3"
+    },
+    "890856634cf3c1476559": {
+      "text": "I didn't expect to see you here.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/890856634cf3c1476559.mp3"
+    },
+    "19acd6e7ef880183ada3": {
+      "text": "Thanks for coming.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/19acd6e7ef880183ada3.mp3"
+    },
+    "b02dac83faa6eacd7f6f": {
+      "text": "After you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/b02dac83faa6eacd7f6f.mp3"
+    },
+    "8e8efd55b1016ff9dd60": {
+      "text": "Yeah, that makes sense.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/8e8efd55b1016ff9dd60.mp3"
+    },
+    "d1b3f0c8e791d658171b": {
+      "text": "I see what you mean.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d1b3f0c8e791d658171b.mp3"
+    },
+    "a2aa46e66acc71c65bcc": {
+      "text": "That's a good point.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a2aa46e66acc71c65bcc.mp3"
+    },
+    "a31785567da20353b1d2": {
+      "text": "Exactly.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a31785567da20353b1d2.mp3"
+    },
+    "bf07c705a2b48162db8c": {
+      "text": "Right, I was thinking the same thing.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bf07c705a2b48162db8c.mp3"
+    },
+    "922ecbf91acedc0d2582": {
+      "text": "I know what you mean.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/922ecbf91acedc0d2582.mp3"
+    },
+    "2fb807ad5956f54b9917": {
+      "text": "That's true.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2fb807ad5956f54b9917.mp3"
+    },
+    "40bc1e5044cb041c03f2": {
+      "text": "Fair enough.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/40bc1e5044cb041c03f2.mp3"
+    },
+    "e896e7c9b5a11e5a823a": {
+      "text": "I hadn't thought of that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e896e7c9b5a11e5a823a.mp3"
+    },
+    "8fc6c7af87d09e11af83": {
+      "text": "Tell me more.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/8fc6c7af87d09e11af83.mp3"
+    },
+    "1c04c302a0bcf3d33b26": {
+      "text": "Go on.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/1c04c302a0bcf3d33b26.mp3"
+    },
+    "bb28cb962863d72bf624": {
+      "text": "That's interesting.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bb28cb962863d72bf624.mp3"
+    },
+    "f9d67a2523b827a1a4e4": {
+      "text": "I get it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/f9d67a2523b827a1a4e4.mp3"
+    },
+    "e6df8a61d9b1693e979a": {
+      "text": "No wonder.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e6df8a61d9b1693e979a.mp3"
+    },
+    "0cc71f51f1ef06e43082": {
+      "text": "That sounds about right.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/0cc71f51f1ef06e43082.mp3"
+    },
+    "9027b8e8ba2593882d36": {
+      "text": "I'm with you on that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/9027b8e8ba2593882d36.mp3"
+    },
+    "196ae2fc386ba91ca173": {
+      "text": "True, but it's not that simple.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/196ae2fc386ba91ca173.mp3"
+    },
+    "cd1ecbf216b962069ee8": {
+      "text": "I hadn't heard that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/cd1ecbf216b962069ee8.mp3"
+    },
+    "d7c13037b89bd6789b12": {
+      "text": "That would be great.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d7c13037b89bd6789b12.mp3"
+    },
+    "50e17e4ad1a85a3bb2e5": {
+      "text": "I'll take your word for it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/50e17e4ad1a85a3bb2e5.mp3"
+    },
+    "552d5a9701b60deab08e": {
+      "text": "Sorry, I missed that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/552d5a9701b60deab08e.mp3"
+    },
+    "9b99db1c169edf38d17c": {
+      "text": "Could you say that again?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/9b99db1c169edf38d17c.mp3"
+    },
+    "fc9d7bbba262febb45d2": {
+      "text": "Sorry, could you say that a little slower?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/fc9d7bbba262febb45d2.mp3"
+    },
+    "12b33fe2379c92d206d5": {
+      "text": "What was that?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/12b33fe2379c92d206d5.mp3"
+    },
+    "de0f49c9e97302c10439": {
+      "text": "I didn't catch the last part.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/de0f49c9e97302c10439.mp3"
+    },
+    "29c940b664b3debec37d": {
+      "text": "Do you mean this one?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/29c940b664b3debec37d.mp3"
+    },
+    "0a6b9847402884135cdb": {
+      "text": "Sorry, what do you mean by that?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/0a6b9847402884135cdb.mp3"
+    },
+    "1e120c19fd9a06875094": {
+      "text": "Can you say that in another way?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/1e120c19fd9a06875094.mp3"
+    },
+    "3f79f95221a94fc66550": {
+      "text": "Let me make sure I heard you right.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/3f79f95221a94fc66550.mp3"
+    },
+    "463d3d3a836056aa00d4": {
+      "text": "Is that Thursday or Tuesday?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/463d3d3a836056aa00d4.mp3"
+    },
+    "033c503b24e54a992297": {
+      "text": "Could you spell that for me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/033c503b24e54a992297.mp3"
+    },
+    "d6a146fd68534054982f": {
+      "text": "One more time, please.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d6a146fd68534054982f.mp3"
+    },
+    "fc99a9f9c8dcfb6a8c93": {
+      "text": "I'm not sure I follow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/fc99a9f9c8dcfb6a8c93.mp3"
+    },
+    "4d0ff1b86b49faa57c0c": {
+      "text": "Did you say fifteen or fifty?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/4d0ff1b86b49faa57c0c.mp3"
+    },
+    "6780915f2c2b44df67a3": {
+      "text": "Can you show me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/6780915f2c2b44df67a3.mp3"
+    },
+    "c334dfdb25986a0778d6": {
+      "text": "Sorry, it's a little noisy here.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c334dfdb25986a0778d6.mp3"
+    },
+    "d742d14eb336641e5c0d": {
+      "text": "Can I get a coffee, please?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d742d14eb336641e5c0d.mp3"
+    },
+    "24a7cec0168be4b5b103": {
+      "text": "I'll have the same.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/24a7cec0168be4b5b103.mp3"
+    },
+    "bbf84f9e6810ee02de93": {
+      "text": "Just water, please.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bbf84f9e6810ee02de93.mp3"
+    },
+    "311a099cbd6e20ae3782": {
+      "text": "Can I see the menu?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/311a099cbd6e20ae3782.mp3"
+    },
+    "c6e8a8e194cc8423d675": {
+      "text": "What's good here?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c6e8a8e194cc8423d675.mp3"
+    },
+    "bd9e7e7f136a02f7a553": {
+      "text": "I'll go with this one.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bd9e7e7f136a02f7a553.mp3"
+    },
+    "e6d3dd2fe94458f8c5bf": {
+      "text": "Can I get that without onions?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e6d3dd2fe94458f8c5bf.mp3"
+    },
+    "339a0542dab5dadcb6e2": {
+      "text": "Is this spicy?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/339a0542dab5dadcb6e2.mp3"
+    },
+    "21d7fa047fd8fe7ca445": {
+      "text": "How much is this?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/21d7fa047fd8fe7ca445.mp3"
+    },
+    "9564e0d910ef88eebe1c": {
+      "text": "Do you take cards?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/9564e0d910ef88eebe1c.mp3"
+    },
+    "58147c271c7dd7118f12": {
+      "text": "Can I pay with my phone?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/58147c271c7dd7118f12.mp3"
+    },
+    "898651e9a633d8cb949d": {
+      "text": "Can I get a receipt?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/898651e9a633d8cb949d.mp3"
+    },
+    "b7ad48a5014b5c0e7ea8": {
+      "text": "I'm just looking, thanks.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/b7ad48a5014b5c0e7ea8.mp3"
+    },
+    "52c4c1d02539d8c0d384": {
+      "text": "Can you help me find this?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/52c4c1d02539d8c0d384.mp3"
+    },
+    "e8f6e2e2cd1d7007c4fd": {
+      "text": "Do you have this in a smaller size?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e8f6e2e2cd1d7007c4fd.mp3"
+    },
+    "24c4499a837422d28a0f": {
+      "text": "I'll take it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/24c4499a837422d28a0f.mp3"
+    },
+    "a026ccf6ddec4e585a60": {
+      "text": "Can I try this on?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a026ccf6ddec4e585a60.mp3"
+    },
+    "da280360185a612fe7c9": {
+      "text": "Is there a discount if I take two?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/da280360185a612fe7c9.mp3"
+    },
+    "97e6805f13207e73413c": {
+      "text": "That's all, thank you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/97e6805f13207e73413c.mp3"
+    },
+    "bd02f4694482d10e39f2": {
+      "text": "Could I get this to go?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bd02f4694482d10e39f2.mp3"
+    },
+    "dc654b6f1294dcde44c2": {
+      "text": "A table for two, please.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/dc654b6f1294dcde44c2.mp3"
+    },
+    "18a2959587fccf097da1": {
+      "text": "We'd like to sit outside, if that's okay.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/18a2959587fccf097da1.mp3"
+    },
+    "239f4090b29e808baf6e": {
+      "text": "Excuse me, is this the way to the station?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/239f4090b29e808baf6e.mp3"
+    },
+    "17ed742ca0ee772a0c90": {
+      "text": "How do I get to the library from here?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/17ed742ca0ee772a0c90.mp3"
+    },
+    "478458f9d004d96e6104": {
+      "text": "Is it far from here?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/478458f9d004d96e6104.mp3"
+    },
+    "62ed75a4882a9270c542": {
+      "text": "Which bus goes to the airport?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/62ed75a4882a9270c542.mp3"
+    },
+    "0eed947ffb558945d8f4": {
+      "text": "Does this train stop at Central?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/0eed947ffb558945d8f4.mp3"
+    },
+    "a1bdc683a5786c9f7cac": {
+      "text": "Where should I change trains?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a1bdc683a5786c9f7cac.mp3"
+    },
+    "2e38d080df52860f61aa": {
+      "text": "How long does it take to get there?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2e38d080df52860f61aa.mp3"
+    },
+    "d6eb3bb42a15a0611610": {
+      "text": "Is there a restroom nearby?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d6eb3bb42a15a0611610.mp3"
+    },
+    "0863be0c3591a05a2ba7": {
+      "text": "Can I walk there?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/0863be0c3591a05a2ba7.mp3"
+    },
+    "e39b3a6f6064ea981c37": {
+      "text": "I'm looking for the hotel on Park Street.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e39b3a6f6064ea981c37.mp3"
+    },
+    "809323e9a542a56cbcf5": {
+      "text": "I have a reservation under Wang.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/809323e9a542a56cbcf5.mp3"
+    },
+    "b88b8ef9c664bcb6ddc0": {
+      "text": "Is breakfast included?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/b88b8ef9c664bcb6ddc0.mp3"
+    },
+    "c5de2780a4c3c7929c18": {
+      "text": "What time is checkout?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c5de2780a4c3c7929c18.mp3"
+    },
+    "1233a93f2fdc02256c89": {
+      "text": "Can I leave my bag here for a while?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/1233a93f2fdc02256c89.mp3"
+    },
+    "019ac7f7293d39c68dbb": {
+      "text": "Is there Wi-Fi in the room?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/019ac7f7293d39c68dbb.mp3"
+    },
+    "c207e612b3988dfc36ef": {
+      "text": "Could you call a taxi for me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c207e612b3988dfc36ef.mp3"
+    },
+    "ba05d905907ac716c1d4": {
+      "text": "I'm here to pick up a package.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ba05d905907ac716c1d4.mp3"
+    },
+    "66defc30a979ee4a4333": {
+      "text": "Which way is downtown?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/66defc30a979ee4a4333.mp3"
+    },
+    "b2bd1af5af044230ecf9": {
+      "text": "Is this seat taken?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/b2bd1af5af044230ecf9.mp3"
+    },
+    "04340e59cc33879ca9a7": {
+      "text": "I'll get off at the next stop.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/04340e59cc33879ca9a7.mp3"
+    },
+    "3d1b8f44015eed51841c": {
+      "text": "Can we talk about this later?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/3d1b8f44015eed51841c.mp3"
+    },
+    "bba34390bbf6715203c7": {
+      "text": "I'll send that over today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bba34390bbf6715203c7.mp3"
+    },
+    "4dfcef673eecf8d85232": {
+      "text": "I can take this one.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/4dfcef673eecf8d85232.mp3"
+    },
+    "6eade1b7a1bfba3a07ee": {
+      "text": "Let's start with the main point.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/6eade1b7a1bfba3a07ee.mp3"
+    },
+    "35c457cbb302521fb789": {
+      "text": "Sorry to keep you waiting.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/35c457cbb302521fb789.mp3"
+    },
+    "75e347c0f1545e0d1872": {
+      "text": "I won't take much of your time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/75e347c0f1545e0d1872.mp3"
+    },
+    "ad49fae8ccaed4916ad3": {
+      "text": "Can you walk me through that?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ad49fae8ccaed4916ad3.mp3"
+    },
+    "350a243374c54d139f9e": {
+      "text": "I'll need a little more time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/350a243374c54d139f9e.mp3"
+    },
+    "440694334248f67df1e0": {
+      "text": "Let's take a short break.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/440694334248f67df1e0.mp3"
+    },
+    "d38087470f08f497b108": {
+      "text": "Who's going to handle this?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d38087470f08f497b108.mp3"
+    },
+    "5d467d3ce896d317cf83": {
+      "text": "I'll follow up by email.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/5d467d3ce896d317cf83.mp3"
+    },
+    "261ec8eaa3a741d1ee5c": {
+      "text": "We're a bit behind schedule.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/261ec8eaa3a741d1ee5c.mp3"
+    },
+    "895fae4d9d7a1e52ca60": {
+      "text": "What if we tried a simpler way?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/895fae4d9d7a1e52ca60.mp3"
+    },
+    "334c6983e29af8532c46": {
+      "text": "I'll need your input on this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/334c6983e29af8532c46.mp3"
+    },
+    "4d5ca197c1e05e25d02a": {
+      "text": "Let's park this for now.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/4d5ca197c1e05e25d02a.mp3"
+    },
+    "bcb46d69daba2d135164": {
+      "text": "I can meet at three.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bcb46d69daba2d135164.mp3"
+    },
+    "66787a492cf0486b444f": {
+      "text": "Let me check and get back to you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/66787a492cf0486b444f.mp3"
+    },
+    "697b6d72be3cb3e25f14": {
+      "text": "That's not in the document I have.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/697b6d72be3cb3e25f14.mp3"
+    },
+    "23340234e961e605d7f1": {
+      "text": "Can we move this to tomorrow?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/23340234e961e605d7f1.mp3"
+    },
+    "f480abb7eeb786891ead": {
+      "text": "I'll take notes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/f480abb7eeb786891ead.mp3"
+    },
+    "4c6dc0df82708fcbd68f": {
+      "text": "Let's get started.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/4c6dc0df82708fcbd68f.mp3"
+    },
+    "8f8e9c3ae77e08114a95": {
+      "text": "I'm really happy about that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/8f8e9c3ae77e08114a95.mp3"
+    },
+    "ec4f84032f48cf946a4d": {
+      "text": "I'm a bit tired today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ec4f84032f48cf946a4d.mp3"
+    },
+    "bcf08ac5cc7652f0c9e1": {
+      "text": "I'm a little nervous.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bcf08ac5cc7652f0c9e1.mp3"
+    },
+    "37d449a637b5863e19d3": {
+      "text": "I was so proud of you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/37d449a637b5863e19d3.mp3"
+    },
+    "2aaa15b14cdd50c2669f": {
+      "text": "I don't feel well.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2aaa15b14cdd50c2669f.mp3"
+    },
+    "9d975dd068351b4184ad": {
+      "text": "This is so helpful.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/9d975dd068351b4184ad.mp3"
+    },
+    "d6c2f9a43e52158b93ec": {
+      "text": "I'm not sure how I feel about it yet.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d6c2f9a43e52158b93ec.mp3"
+    },
+    "ddbfd359623e05edf0be": {
+      "text": "That really meant a lot to me.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ddbfd359623e05edf0be.mp3"
+    },
+    "6122a40ddd4c5aacd605": {
+      "text": "I feel a lot better now.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/6122a40ddd4c5aacd605.mp3"
+    },
+    "a744d590cfba4d9ddf18": {
+      "text": "I'm just not in the mood.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a744d590cfba4d9ddf18.mp3"
+    },
+    "2462acf971f89d23b8ee": {
+      "text": "That's a relief.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2462acf971f89d23b8ee.mp3"
+    },
+    "4bc308bb48611d3ca53f": {
+      "text": "I can't wait.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/4bc308bb48611d3ca53f.mp3"
+    },
+    "78ea6e16e1803bc03a2b": {
+      "text": "I'm sorry you're going through this.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/78ea6e16e1803bc03a2b.mp3"
+    },
+    "c57e990a44491791d14b": {
+      "text": "It's been a long week.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c57e990a44491791d14b.mp3"
+    },
+    "02d9fb7a1e086a2508e7": {
+      "text": "That caught me off guard.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/02d9fb7a1e086a2508e7.mp3"
+    },
+    "3f4f3630b775eea8cd13": {
+      "text": "Thanks so much.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/3f4f3630b775eea8cd13.mp3"
+    },
+    "5c84b4e5ca9ea60e99eb": {
+      "text": "Thank you for your help.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/5c84b4e5ca9ea60e99eb.mp3"
+    },
+    "f0602253ca03e66aa4ce": {
+      "text": "I really appreciate it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/f0602253ca03e66aa4ce.mp3"
+    },
+    "9fdf05bf33de9fe3a36f": {
+      "text": "Thanks for waiting.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/9fdf05bf33de9fe3a36f.mp3"
+    },
+    "29029eb196b128edeebf": {
+      "text": "Thanks for letting me know.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/29029eb196b128edeebf.mp3"
+    },
+    "bd221a745eb75e1fbb8c": {
+      "text": "That's very kind of you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bd221a745eb75e1fbb8c.mp3"
+    },
+    "052de3e591a318cf4f9e": {
+      "text": "I'm sorry about that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/052de3e591a318cf4f9e.mp3"
+    },
+    "5e021a524386b49edc87": {
+      "text": "Sorry I'm late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/5e021a524386b49edc87.mp3"
+    },
+    "d547d19e1bcdf4ce9041": {
+      "text": "I didn't mean to cut you off.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d547d19e1bcdf4ce9041.mp3"
+    },
+    "ba8c0f49dc1945c2e44e": {
+      "text": "My mistake.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ba8c0f49dc1945c2e44e.mp3"
+    },
+    "609aec3375e6659f587f": {
+      "text": "Sorry for the confusion.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/609aec3375e6659f587f.mp3"
+    },
+    "53f34bccfbddd64ae704": {
+      "text": "I owe you one.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/53f34bccfbddd64ae704.mp3"
+    },
+    "30af8492e4ea9c0c3a10": {
+      "text": "Please don't worry about it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/30af8492e4ea9c0c3a10.mp3"
+    },
+    "5f606010db74c34b75d4": {
+      "text": "It was nothing.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/5f606010db74c34b75d4.mp3"
+    },
+    "e36a3415acbb47a08366": {
+      "text": "Sorry, I got the time wrong.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e36a3415acbb47a08366.mp3"
+    },
+    "a1e06f5918bfa8eee398": {
+      "text": "Thanks, I needed that.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a1e06f5918bfa8eee398.mp3"
+    },
+    "d8a38d12a8cd5f67c75a": {
+      "text": "Can you hear me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d8a38d12a8cd5f67c75a.mp3"
+    },
+    "85574524da23a469c492": {
+      "text": "I think you're on mute.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/85574524da23a469c492.mp3"
+    },
+    "a0a95e7025a3b8921962": {
+      "text": "Sorry, can you hear me now?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a0a95e7025a3b8921962.mp3"
+    },
+    "953b3539d2656652e90f": {
+      "text": "The connection is a little weak.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/953b3539d2656652e90f.mp3"
+    },
+    "2386eb154408f408cbe4": {
+      "text": "Let me call you back.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2386eb154408f408cbe4.mp3"
+    },
+    "e8461782d3e18810d4b2": {
+      "text": "Is this a good time?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e8461782d3e18810d4b2.mp3"
+    },
+    "95227746e081ceff7ba6": {
+      "text": "I'll keep this short.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/95227746e081ceff7ba6.mp3"
+    },
+    "141d6de81c617b0d24cd": {
+      "text": "Can I call you in ten minutes?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/141d6de81c617b0d24cd.mp3"
+    },
+    "6d6c5f4fb9495ebc04bb": {
+      "text": "I'm running five minutes late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/6d6c5f4fb9495ebc04bb.mp3"
+    },
+    "a118830634d45c9ca352": {
+      "text": "I'm having trouble joining the call.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a118830634d45c9ca352.mp3"
+    },
+    "bc87dbfaf56e1e3550cf": {
+      "text": "Could you share your screen?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bc87dbfaf56e1e3550cf.mp3"
+    },
+    "b76afeadf30a96838d38": {
+      "text": "We can't see your screen yet.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/b76afeadf30a96838d38.mp3"
+    },
+    "2e972cc605126980ab35": {
+      "text": "Can everyone see this?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2e972cc605126980ab35.mp3"
+    },
+    "77f8e9727289646f2b87": {
+      "text": "Let's take this offline.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/77f8e9727289646f2b87.mp3"
+    },
+    "59ff6ab591209799892a": {
+      "text": "I'll send the link again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/59ff6ab591209799892a.mp3"
+    },
+    "bf7138efcc3e59779a56": {
+      "text": "Thanks for joining.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/bf7138efcc3e59779a56.mp3"
+    },
+    "ea533ebd47ce1538bb56": {
+      "text": "I should get going.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ea533ebd47ce1538bb56.mp3"
+    },
+    "9be14dc909660539eb76": {
+      "text": "It was nice talking with you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/9be14dc909660539eb76.mp3"
+    },
+    "541cc0becc61e9cc1a4c": {
+      "text": "I'll text you later.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/541cc0becc61e9cc1a4c.mp3"
+    },
+    "e94a5bf2f836291019da": {
+      "text": "Take care.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e94a5bf2f836291019da.mp3"
+    },
+    "fa831f0f11058e8787b2": {
+      "text": "Have a good one.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/fa831f0f11058e8787b2.mp3"
+    },
+    "ba26ce481ebc7770e23d": {
+      "text": "See you tomorrow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ba26ce481ebc7770e23d.mp3"
+    },
+    "7a668161e6fc2d11fcc6": {
+      "text": "See you around.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/7a668161e6fc2d11fcc6.mp3"
+    },
+    "e2f4636eda3d8836c910": {
+      "text": "I've got to run.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e2f4636eda3d8836c910.mp3"
+    },
+    "da49a0df98f0f30c57c5": {
+      "text": "Let's wrap up here.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/da49a0df98f0f30c57c5.mp3"
+    },
+    "652aed28a91ee78e7df5": {
+      "text": "I'll let you go.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/652aed28a91ee78e7df5.mp3"
+    },
+    "58535a31a7e9305dfca5": {
+      "text": "Talk to you later.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/58535a31a7e9305dfca5.mp3"
+    },
+    "f501221327b9c59b583f": {
+      "text": "Enjoy the rest of your day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/f501221327b9c59b583f.mp3"
+    },
+    "4e2cd4dccec1eaa76e8d": {
+      "text": "Don't work too late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/4e2cd4dccec1eaa76e8d.mp3"
+    },
+    "5b55b9097c235119d7ed": {
+      "text": "I have to pick this up later.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/5b55b9097c235119d7ed.mp3"
+    },
+    "f23800b3d7690a5cdd81": {
+      "text": "Could you give me a hand?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/f23800b3d7690a5cdd81.mp3"
+    },
+    "d8ef46065ef05b974cdb": {
+      "text": "Can you help me with this?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d8ef46065ef05b974cdb.mp3"
+    },
+    "c569543a4641d1db258a": {
+      "text": "Would you mind closing the door?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c569543a4641d1db258a.mp3"
+    },
+    "933cd6f78efc965bc0d2": {
+      "text": "Could I borrow your charger?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/933cd6f78efc965bc0d2.mp3"
+    },
+    "d515632c09736d4c3e22": {
+      "text": "Can you keep an eye on this for me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/d515632c09736d4c3e22.mp3"
+    },
+    "ff92ba76ae55bc34e787": {
+      "text": "I could use your advice.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ff92ba76ae55bc34e787.mp3"
+    },
+    "6888d1300ad77fe7025e": {
+      "text": "Can you show me how to do this?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/6888d1300ad77fe7025e.mp3"
+    },
+    "1874e567ceaa0ef99b75": {
+      "text": "If you're not busy, could you take a look?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/1874e567ceaa0ef99b75.mp3"
+    },
+    "5c4fcd7caf891c5d8711": {
+      "text": "Could you hold this for a second?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/5c4fcd7caf891c5d8711.mp3"
+    },
+    "e6baee37562ae1787ffe": {
+      "text": "Can you make it a little louder?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/e6baee37562ae1787ffe.mp3"
+    },
+    "3a4b6116664b9a215a4c": {
+      "text": "Would you mind if I joined you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/3a4b6116664b9a215a4c.mp3"
+    },
+    "be7db2b7762eb3c02fa0": {
+      "text": "Could you take a photo for us?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/be7db2b7762eb3c02fa0.mp3"
+    },
+    "b548beaa7b997116e4eb": {
+      "text": "I hate to ask, but could you stay a little late?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/b548beaa7b997116e4eb.mp3"
+    },
+    "ed5ca074447769863ce5": {
+      "text": "Can you check this for me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ed5ca074447769863ce5.mp3"
+    },
+    "a5bfc17b7e883a8a7350": {
+      "text": "Do you have a second to help me?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/a5bfc17b7e883a8a7350.mp3"
+    },
+    "0a45cdfcd3b554f5a064": {
+      "text": "I'd appreciate any help you can give.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/0a45cdfcd3b554f5a064.mp3"
+    },
+    "1edc96ec54c30112e9d0": {
+      "text": "Are you free this afternoon?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/1edc96ec54c30112e9d0.mp3"
+    },
+    "ddae4ca9d5ed41b40751": {
+      "text": "Does tomorrow work for you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ddae4ca9d5ed41b40751.mp3"
+    },
+    "dcc951cf3aaa172d8dd3": {
+      "text": "Let's meet at six.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/dcc951cf3aaa172d8dd3.mp3"
+    },
+    "47251f70f0ef7f0a4813": {
+      "text": "I'll come by around noon.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/47251f70f0ef7f0a4813.mp3"
+    },
+    "eed13b45e463283b691e": {
+      "text": "Can we move it to Friday?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/eed13b45e463283b691e.mp3"
+    },
+    "132dcfd7e57aa926e9e4": {
+      "text": "I'm free after three.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/132dcfd7e57aa926e9e4.mp3"
+    },
+    "5a781d78e7b22dcf23ff": {
+      "text": "Let's set a time.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/5a781d78e7b22dcf23ff.mp3"
+    },
+    "1dbc4fcf68de1f3505d7": {
+      "text": "I'll put it on my calendar.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/1dbc4fcf68de1f3505d7.mp3"
+    },
+    "c06f879c44faf0def909": {
+      "text": "Sorry, I can't make it today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c06f879c44faf0def909.mp3"
+    },
+    "2d9721d57675fca82c12": {
+      "text": "How about later this week?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/2d9721d57675fca82c12.mp3"
+    },
+    "abf8df174afd4ecabb59": {
+      "text": "I'll be there in ten minutes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/abf8df174afd4ecabb59.mp3"
+    },
+    "4880b3a8c411972a4442": {
+      "text": "We're running a little late.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/4880b3a8c411972a4442.mp3"
+    },
+    "8358204694abea8b5e72": {
+      "text": "Is it okay if I come a bit early?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/8358204694abea8b5e72.mp3"
+    },
+    "ea6b7a28a6c003681338": {
+      "text": "Let's say seven, if that works.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/ea6b7a28a6c003681338.mp3"
+    },
+    "f667e5b35932d25f7d42": {
+      "text": "I'll confirm with you tomorrow.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/f667e5b35932d25f7d42.mp3"
+    },
     "329ff3ac11f0b19d9771": {
       "text": "Hi there. What can I get for you?",
       "voice": "en-US-AndrewMultilingualNeural",
@@ -4012,6 +6790,12 @@
       "kind": "dialogue-line",
       "file": "/audio/5a7b7f6b01182821df42.mp3"
     },
+    "ec4d2174fa0c38a67a0e": {
+      "text": "You're probably right. I'm just tired of seeing it undone.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/ec4d2174fa0c38a67a0e.mp3"
+    },
     "9804a7cf6dc8115a910a": {
       "text": "I get that. But you're not going to do your best work like this.",
       "voice": "en-US-AvaMultilingualNeural",
@@ -4060,6 +6844,12 @@
       "kind": "dialogue-line",
       "file": "/audio/5627f5aeda694ac641ec.mp3"
     },
+    "de4bcfb5c9c4736c0724": {
+      "text": "After that, you'll see a park. The library is right across from it.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/de4bcfb5c9c4736c0724.mp3"
+    },
     "ae59f88dceedd941c87d": {
       "text": "Across from the park. Got it. Thanks so much.",
       "voice": "en-US-AvaMultilingualNeural",
@@ -4078,17 +6868,11 @@
       "kind": "dialogue-line",
       "file": "/audio/eebc73bd93ad6f56f7da.mp3"
     },
-    "cf3e8674cc8d8dbb3491": {
-      "text": "What are you making?",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/cf3e8674cc8d8dbb3491.mp3"
-    },
-    "ec4d2174fa0c38a67a0e": {
-      "text": "You're probably right. I'm just tired of seeing it undone.",
+    "04cce11d4c1f3c339a4c": {
+      "text": "Hey, Nina. I didn't know you shopped here.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/ec4d2174fa0c38a67a0e.mp3"
+      "file": "/audio/04cce11d4c1f3c339a4c.mp3"
     },
     "9ae0b6265596b9334e0c": {
       "text": "I usually come on weeknights. It's quieter.",
@@ -4102,11 +6886,23 @@
       "kind": "dialogue-line",
       "file": "/audio/4cd398e170ea2d4f2fca.mp3"
     },
-    "de4bcfb5c9c4736c0724": {
-      "text": "After that, you'll see a park. The library is right across from it.",
+    "cf3e8674cc8d8dbb3491": {
+      "text": "What are you making?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/cf3e8674cc8d8dbb3491.mp3"
+    },
+    "68ed541b06fc10aa318b": {
+      "text": "I don't know yet. Something simple. Pasta, maybe.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/de4bcfb5c9c4736c0724.mp3"
+      "file": "/audio/68ed541b06fc10aa318b.mp3"
+    },
+    "5c7a5cdf6508218e3174": {
+      "text": "The tomatoes look pretty good today, if you want a hint.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5c7a5cdf6508218e3174.mp3"
     },
     "cfba19cf30bcab30a047": {
       "text": "I'll take it. Do you know where they keep the olive oil?",
@@ -4120,29 +6916,23 @@
       "kind": "dialogue-line",
       "file": "/audio/ec99d996425a6a52373a.mp3"
     },
-    "04cce11d4c1f3c339a4c": {
-      "text": "Hey, Nina. I didn't know you shopped here.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/04cce11d4c1f3c339a4c.mp3"
-    },
-    "5c7a5cdf6508218e3174": {
-      "text": "The tomatoes look pretty good today, if you want a hint.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/5c7a5cdf6508218e3174.mp3"
-    },
-    "68ed541b06fc10aa318b": {
-      "text": "I don't know yet. Something simple. Pasta, maybe.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/68ed541b06fc10aa318b.mp3"
-    },
     "e27f9907e6ec9995a84a": {
       "text": "Thanks. I'll see you tomorrow.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/e27f9907e6ec9995a84a.mp3"
+    },
+    "603505a106c567145bd5": {
+      "text": "Good morning, Riverside Clinic. How can I help you?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/603505a106c567145bd5.mp3"
+    },
+    "11c4674313d5ddfe0b2a": {
+      "text": "Hi, I'd like to make an appointment with Dr. Chen, please.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/11c4674313d5ddfe0b2a.mp3"
     },
     "0110a525f042299acfa2": {
       "text": "Sure. Have you seen her before?",
@@ -4156,23 +6946,11 @@
       "kind": "dialogue-line",
       "file": "/audio/107c61fc8156cff6be4f.mp3"
     },
-    "11c4674313d5ddfe0b2a": {
-      "text": "Hi, I'd like to make an appointment with Dr. Chen, please.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/11c4674313d5ddfe0b2a.mp3"
-    },
     "9c2cab60d2d9e2b394df": {
       "text": "Okay. What's a good day for you this week?",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/9c2cab60d2d9e2b394df.mp3"
-    },
-    "603505a106c567145bd5": {
-      "text": "Good morning, Riverside Clinic. How can I help you?",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/603505a106c567145bd5.mp3"
     },
     "17f31be67c2759814296": {
       "text": "Thursday afternoon would be great, if she has anything open.",
@@ -4180,11 +6958,11 @@
       "kind": "dialogue-line",
       "file": "/audio/17f31be67c2759814296.mp3"
     },
-    "0741a6ebe4afdc2d92be": {
-      "text": "It's really coming down out there.",
-      "voice": "en-US-AndrewMultilingualNeural",
+    "d6759064ba2345197b0d": {
+      "text": "I have a slot at three thirty. Does that work?",
+      "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/0741a6ebe4afdc2d92be.mp3"
+      "file": "/audio/d6759064ba2345197b0d.mp3"
     },
     "62bc6edf8d110bf5821b": {
       "text": "That's perfect. Thank you.",
@@ -4198,53 +6976,11 @@
       "kind": "dialogue-line",
       "file": "/audio/7d32ffc41d4bd64f6295.mp3"
     },
-    "d6759064ba2345197b0d": {
-      "text": "I have a slot at three thirty. Does that work?",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/d6759064ba2345197b0d.mp3"
-    },
-    "d6488c900ff3496a3287": {
-      "text": "Are you sure? I can just wait it out.",
+    "0741a6ebe4afdc2d92be": {
+      "text": "It's really coming down out there.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/d6488c900ff3496a3287.mp3"
-    },
-    "b46a41b72e6e36322485": {
-      "text": "I have an extra one in my bag, if you want to borrow it.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/b46a41b72e6e36322485.mp3"
-    },
-    "b4700cdef829876716fb": {
-      "text": "Take it. I walk to the station, so I always pack one.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/b4700cdef829876716fb.mp3"
-    },
-    "1509c83a4808aca52890": {
-      "text": "Great. Just what we needed.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/1509c83a4808aca52890.mp3"
-    },
-    "079e47b823055652bece": {
-      "text": "Hey, is this a good time?",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/079e47b823055652bece.mp3"
-    },
-    "9302aea08990a6db510f": {
-      "text": "Thanks. I'll bring it back tomorrow.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/9302aea08990a6db510f.mp3"
-    },
-    "12972daeb90f2ffc502d": {
-      "text": "Hey, at least it's not snow.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/12972daeb90f2ffc502d.mp3"
+      "file": "/audio/0741a6ebe4afdc2d92be.mp3"
     },
     "5cebe1f973b995aaf944": {
       "text": "I know. I didn't bring an umbrella, of course.",
@@ -4252,29 +6988,29 @@
       "kind": "dialogue-line",
       "file": "/audio/5cebe1f973b995aaf944.mp3"
     },
-    "871d08e4f54d363db502": {
-      "text": "Nothing urgent. I just wanted to hear how you're doing.",
-      "voice": "en-US-AvaMultilingualNeural",
+    "b46a41b72e6e36322485": {
+      "text": "I have an extra one in my bag, if you want to borrow it.",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/871d08e4f54d363db502.mp3"
+      "file": "/audio/b46a41b72e6e36322485.mp3"
     },
-    "700469edfd5c5061b559": {
-      "text": "Yeah, I just left work. What's going on?",
-      "voice": "en-US-AvaMultilingualNeural",
+    "d6488c900ff3496a3287": {
+      "text": "Are you sure? I can just wait it out.",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/700469edfd5c5061b559.mp3"
+      "file": "/audio/d6488c900ff3496a3287.mp3"
     },
-    "443ffd0eaceaaa28bd32": {
-      "text": "Want to get dinner this week? Nothing fancy.",
-      "voice": "en-US-AvaMultilingualNeural",
+    "b4700cdef829876716fb": {
+      "text": "Take it. I walk to the station, so I always pack one.",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/443ffd0eaceaaa28bd32.mp3"
+      "file": "/audio/b4700cdef829876716fb.mp3"
     },
-    "6db790baec7ca9147b5c": {
-      "text": "That's sweet. I'm okay, just a little worn out.",
-      "voice": "en-US-AvaMultilingualNeural",
+    "9302aea08990a6db510f": {
+      "text": "Thanks. I'll bring it back tomorrow.",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/6db790baec7ca9147b5c.mp3"
+      "file": "/audio/9302aea08990a6db510f.mp3"
     },
     "e08d47c1075464500f74": {
       "text": "No rush. They said it's going to be like this all week.",
@@ -4282,23 +7018,47 @@
       "kind": "dialogue-line",
       "file": "/audio/e08d47c1075464500f74.mp3"
     },
-    "c112c02df76500982749": {
-      "text": "Perfect. I'm glad you called.",
-      "voice": "en-US-AvaMultilingualNeural",
+    "1509c83a4808aca52890": {
+      "text": "Great. Just what we needed.",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/c112c02df76500982749.mp3"
+      "file": "/audio/1509c83a4808aca52890.mp3"
     },
-    "f1c6594c3d976a38f83d": {
-      "text": "Let's do Thursday. I'll find a place and text you.",
-      "voice": "en-US-AvaMultilingualNeural",
+    "12972daeb90f2ffc502d": {
+      "text": "Hey, at least it's not snow.",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/f1c6594c3d976a38f83d.mp3"
+      "file": "/audio/12972daeb90f2ffc502d.mp3"
     },
-    "1020aabdeeeac70b883d": {
-      "text": "Me too. Go get some rest.",
+    "079e47b823055652bece": {
+      "text": "Hey, is this a good time?",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/1020aabdeeeac70b883d.mp3"
+      "file": "/audio/079e47b823055652bece.mp3"
+    },
+    "700469edfd5c5061b559": {
+      "text": "Yeah, I just left work. What's going on?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/700469edfd5c5061b559.mp3"
+    },
+    "871d08e4f54d363db502": {
+      "text": "Nothing urgent. I just wanted to hear how you're doing.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/871d08e4f54d363db502.mp3"
+    },
+    "6db790baec7ca9147b5c": {
+      "text": "That's sweet. I'm okay, just a little worn out.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6db790baec7ca9147b5c.mp3"
+    },
+    "443ffd0eaceaaa28bd32": {
+      "text": "Want to get dinner this week? Nothing fancy.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/443ffd0eaceaaa28bd32.mp3"
     },
     "13c07197791d16f1c160": {
       "text": "I'd love that. Wednesday or Thursday works for me.",
@@ -4306,29 +7066,29 @@
       "kind": "dialogue-line",
       "file": "/audio/13c07197791d16f1c160.mp3"
     },
+    "f1c6594c3d976a38f83d": {
+      "text": "Let's do Thursday. I'll find a place and text you.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f1c6594c3d976a38f83d.mp3"
+    },
+    "c112c02df76500982749": {
+      "text": "Perfect. I'm glad you called.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/c112c02df76500982749.mp3"
+    },
+    "1020aabdeeeac70b883d": {
+      "text": "Me too. Go get some rest.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1020aabdeeeac70b883d.mp3"
+    },
     "14a366161de0d7b48289": {
       "text": "So this is the living room. You get a lot of light in the afternoon.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/14a366161de0d7b48289.mp3"
-    },
-    "c6952b746439534d26cc": {
-      "text": "About fifteen years. The kitchen was redone last year.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/c6952b746439534d26cc.mp3"
-    },
-    "b10157dfdd9b2f36ee99": {
-      "text": "It's on the same floor, just down the hall.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/b10157dfdd9b2f36ee99.mp3"
-    },
-    "ee8a9403bf36704ec312": {
-      "text": "That's good to know. Is the laundry in the unit?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/ee8a9403bf36704ec312.mp3"
     },
     "4151e5d56e3b01c0c595": {
       "text": "It's nicer than the photos, actually. How old is the building?",
@@ -4336,11 +7096,29 @@
       "kind": "dialogue-line",
       "file": "/audio/4151e5d56e3b01c0c595.mp3"
     },
-    "db3385e469c0647d009d": {
-      "text": "I didn't expect to see you here so early.",
+    "c6952b746439534d26cc": {
+      "text": "About fifteen years. The kitchen was redone last year.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/c6952b746439534d26cc.mp3"
+    },
+    "ee8a9403bf36704ec312": {
+      "text": "That's good to know. Is the laundry in the unit?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/db3385e469c0647d009d.mp3"
+      "file": "/audio/ee8a9403bf36704ec312.mp3"
+    },
+    "b10157dfdd9b2f36ee99": {
+      "text": "It's on the same floor, just down the hall.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b10157dfdd9b2f36ee99.mp3"
+    },
+    "b969579d786dca3979ae": {
+      "text": "Okay. And is the rent including water and internet?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b969579d786dca3979ae.mp3"
     },
     "8076b40bdb86f66ea95a": {
       "text": "Water yes, internet no. You'd set that up yourself.",
@@ -4360,11 +7138,11 @@
       "kind": "dialogue-line",
       "file": "/audio/ff80fd71adb9876ca689.mp3"
     },
-    "b969579d786dca3979ae": {
-      "text": "Okay. And is the rent including water and internet?",
+    "db3385e469c0647d009d": {
+      "text": "I didn't expect to see you here so early.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/b969579d786dca3979ae.mp3"
+      "file": "/audio/db3385e469c0647d009d.mp3"
     },
     "e6314c4ca4c548c2a198": {
       "text": "I know. I'm trying to come before work this month.",
@@ -4372,41 +7150,11 @@
       "kind": "dialogue-line",
       "file": "/audio/e6314c4ca4c548c2a198.mp3"
     },
-    "bf13a3af07b9ca649f62": {
-      "text": "That's usually how it works. Are you doing a class?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/bf13a3af07b9ca649f62.mp3"
-    },
     "2104275db5ac318e914c": {
       "text": "How's that going?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/2104275db5ac318e914c.mp3"
-    },
-    "4dcca05dbc455bad3db7": {
-      "text": "Then maybe take it easy today.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/4dcca05dbc455bad3db7.mp3"
-    },
-    "b24820299486e7ff7e0d": {
-      "text": "Just a short run and some stretching. I don't want to overdo it.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/b24820299486e7ff7e0d.mp3"
-    },
-    "8b6813ad72ccbf8718e2": {
-      "text": "Can you cut the onions? I'll start the rice.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/8b6813ad72ccbf8718e2.mp3"
-    },
-    "81a2eea1482ae034e570": {
-      "text": "Yeah. I'll keep it light.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/81a2eea1482ae034e570.mp3"
     },
     "0579222f87ea0935c181": {
       "text": "It's hard to get out of bed, but I feel better once I'm here.",
@@ -4414,11 +7162,17 @@
       "kind": "dialogue-line",
       "file": "/audio/0579222f87ea0935c181.mp3"
     },
-    "935b770fd0e28ed5ce3a": {
-      "text": "Sure. How small do you want them?",
+    "bf13a3af07b9ca649f62": {
+      "text": "That's usually how it works. Are you doing a class?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/935b770fd0e28ed5ce3a.mp3"
+      "file": "/audio/bf13a3af07b9ca649f62.mp3"
+    },
+    "b24820299486e7ff7e0d": {
+      "text": "Just a short run and some stretching. I don't want to overdo it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b24820299486e7ff7e0d.mp3"
     },
     "66a8595425585b24ab8e": {
       "text": "Smart. I went too hard last week and I'm still sore.",
@@ -4426,23 +7180,41 @@
       "kind": "dialogue-line",
       "file": "/audio/66a8595425585b24ab8e.mp3"
     },
+    "4dcca05dbc455bad3db7": {
+      "text": "Then maybe take it easy today.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4dcca05dbc455bad3db7.mp3"
+    },
+    "81a2eea1482ae034e570": {
+      "text": "Yeah. I'll keep it light.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/81a2eea1482ae034e570.mp3"
+    },
+    "8b6813ad72ccbf8718e2": {
+      "text": "Can you cut the onions? I'll start the rice.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8b6813ad72ccbf8718e2.mp3"
+    },
+    "935b770fd0e28ed5ce3a": {
+      "text": "Sure. How small do you want them?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/935b770fd0e28ed5ce3a.mp3"
+    },
     "0e7b38d995732a301e7f": {
       "text": "Not too small. Just like that. That's perfect.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/0e7b38d995732a301e7f.mp3"
     },
-    "20cede2933c85fe343da": {
-      "text": "Found them. Should I add the tomatoes now?",
+    "3d5a40477948693f60fc": {
+      "text": "Do we have any garlic left?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/20cede2933c85fe343da.mp3"
-    },
-    "f56fa714adda16624250": {
-      "text": "It already smells really good.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/f56fa714adda16624250.mp3"
+      "file": "/audio/3d5a40477948693f60fc.mp3"
     },
     "ba97c64db5eafae8fa51": {
       "text": "Check the bowl near the stove. There should be two cloves.",
@@ -4450,17 +7222,29 @@
       "kind": "dialogue-line",
       "file": "/audio/ba97c64db5eafae8fa51.mp3"
     },
+    "20cede2933c85fe343da": {
+      "text": "Found them. Should I add the tomatoes now?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/20cede2933c85fe343da.mp3"
+    },
     "32dcae38394ca3342596": {
       "text": "Give the onions another minute. Then yes.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/32dcae38394ca3342596.mp3"
     },
-    "0f794a580fab28eb48f9": {
-      "text": "Sure. What's going on?",
+    "f56fa714adda16624250": {
+      "text": "It already smells really good.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/0f794a580fab28eb48f9.mp3"
+      "file": "/audio/f56fa714adda16624250.mp3"
+    },
+    "60a26cf575082d84b5f8": {
+      "text": "That's the idea. We'll eat in twenty minutes.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/60a26cf575082d84b5f8.mp3"
     },
     "1c4620f9739d5831b18b": {
       "text": "Do you have a minute? I wanted to ask about next Thursday.",
@@ -4468,11 +7252,11 @@
       "kind": "dialogue-line",
       "file": "/audio/1c4620f9739d5831b18b.mp3"
     },
-    "60a26cf575082d84b5f8": {
-      "text": "That's the idea. We'll eat in twenty minutes.",
-      "voice": "en-US-AvaMultilingualNeural",
+    "0f794a580fab28eb48f9": {
+      "text": "Sure. What's going on?",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/60a26cf575082d84b5f8.mp3"
+      "file": "/audio/0f794a580fab28eb48f9.mp3"
     },
     "67e25f93b08fc5cd4a17": {
       "text": "I need to take that afternoon off. I have a family appointment.",
@@ -4486,6 +7270,30 @@
       "kind": "dialogue-line",
       "file": "/audio/f020338e9c4bdb8c87bd.mp3"
     },
+    "79cb5f1f83a8412e156f": {
+      "text": "Yes. I'll send it on Wednesday, and Leo can cover the call.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/79cb5f1f83a8412e156f.mp3"
+    },
+    "4886327071e851c03853": {
+      "text": "Okay, great. Just put it on the calendar so everyone can see.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/4886327071e851c03853.mp3"
+    },
+    "9bad5f1d66312d1e255c": {
+      "text": "I will. Thanks for being flexible.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9bad5f1d66312d1e255c.mp3"
+    },
+    "d97beb5afc2b20aed7dc": {
+      "text": "No problem. I hope everything goes well.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d97beb5afc2b20aed7dc.mp3"
+    },
     "52cfdb2e4dfbb693cd7e": {
       "text": "Thanks. I appreciate it.",
       "voice": "en-US-AvaMultilingualNeural",
@@ -4498,29 +7306,11 @@
       "kind": "dialogue-line",
       "file": "/audio/9d5063fcdbfa27b360d9.mp3"
     },
-    "79cb5f1f83a8412e156f": {
-      "text": "Yes. I'll send it on Wednesday, and Leo can cover the call.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/79cb5f1f83a8412e156f.mp3"
-    },
-    "9bad5f1d66312d1e255c": {
-      "text": "I will. Thanks for being flexible.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/9bad5f1d66312d1e255c.mp3"
-    },
     "2ebbfa1712929445f4de": {
       "text": "I was worried about that. What's the main holdup?",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/2ebbfa1712929445f4de.mp3"
-    },
-    "3d5a40477948693f60fc": {
-      "text": "Do we have any garlic left?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/3d5a40477948693f60fc.mp3"
     },
     "e5bad8d62e32dcf08c26": {
       "text": "The test results came back late, and we found two more issues.",
@@ -4528,35 +7318,11 @@
       "kind": "dialogue-line",
       "file": "/audio/e5bad8d62e32dcf08c26.mp3"
     },
-    "d97beb5afc2b20aed7dc": {
-      "text": "No problem. I hope everything goes well.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/d97beb5afc2b20aed7dc.mp3"
-    },
     "4a1dd7cb78f860c8aa81": {
       "text": "How much time do we actually need?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/4a1dd7cb78f860c8aa81.mp3"
-    },
-    "4886327071e851c03853": {
-      "text": "Okay, great. Just put it on the calendar so everyone can see.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/4886327071e851c03853.mp3"
-    },
-    "0617a1635d2ed3b19d5f": {
-      "text": "Then we should tell the client today, not Friday.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/0617a1635d2ed3b19d5f.mp3"
-    },
-    "ed18229e1ff45baf8e54": {
-      "text": "If we leave Friday night, we can have two full days there.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/ed18229e1ff45baf8e54.mp3"
     },
     "f144c590d9b2a04ee2f6": {
       "text": "If we focus, maybe until Tuesday. I don't want to promise Monday.",
@@ -4564,17 +7330,11 @@
       "kind": "dialogue-line",
       "file": "/audio/f144c590d9b2a04ee2f6.mp3"
     },
-    "ea54957a7d7a5f42f930": {
-      "text": "Thanks. Let us know if you want help writing it.",
+    "0617a1635d2ed3b19d5f": {
+      "text": "Then we should tell the client today, not Friday.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/ea54957a7d7a5f42f930.mp3"
-    },
-    "19a461ba7c80870b41ac": {
-      "text": "That works for me. Do you want to take the train or drive?",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/19a461ba7c80870b41ac.mp3"
+      "file": "/audio/0617a1635d2ed3b19d5f.mp3"
     },
     "55c7f68671802b01e3cb": {
       "text": "I agree. Better to be early and clear.",
@@ -4588,17 +7348,23 @@
       "kind": "dialogue-line",
       "file": "/audio/a50f0a95cd0daebfb7a1.mp3"
     },
-    "434957f38c6c3c03b4fb": {
-      "text": "Same. I'll look at tickets tonight.",
+    "ea54957a7d7a5f42f930": {
+      "text": "Thanks. Let us know if you want help writing it.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/434957f38c6c3c03b4fb.mp3"
+      "file": "/audio/ea54957a7d7a5f42f930.mp3"
     },
-    "366a30dcdcff543c0f34": {
-      "text": "There's a morning market I really want to see.",
+    "ed18229e1ff45baf8e54": {
+      "text": "If we leave Friday night, we can have two full days there.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/366a30dcdcff543c0f34.mp3"
+      "file": "/audio/ed18229e1ff45baf8e54.mp3"
+    },
+    "19a461ba7c80870b41ac": {
+      "text": "That works for me. Do you want to take the train or drive?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/19a461ba7c80870b41ac.mp3"
     },
     "fde19682f2772ca8d5bc": {
       "text": "The train is easier. I don't want to worry about parking.",
@@ -4606,11 +7372,29 @@
       "kind": "dialogue-line",
       "file": "/audio/fde19682f2772ca8d5bc.mp3"
     },
-    "a7590551c0cc42a5cb54": {
-      "text": "Did they just say thirty minutes?",
+    "434957f38c6c3c03b4fb": {
+      "text": "Same. I'll look at tickets tonight.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/a7590551c0cc42a5cb54.mp3"
+      "file": "/audio/434957f38c6c3c03b4fb.mp3"
+    },
+    "136e5beba14b464bc172": {
+      "text": "I already booked a small place near the old town. It's not fancy.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/136e5beba14b464bc172.mp3"
+    },
+    "78fad7df82a1ff66ef10": {
+      "text": "That's fine. I just want to walk around and eat well.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/78fad7df82a1ff66ef10.mp3"
+    },
+    "366a30dcdcff543c0f34": {
+      "text": "There's a morning market I really want to see.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/366a30dcdcff543c0f34.mp3"
     },
     "28362083185896c7e688": {
       "text": "Then let's get there early on Saturday.",
@@ -4624,29 +7408,11 @@
       "kind": "dialogue-line",
       "file": "/audio/8c028672f0bd8ac3f38d.mp3"
     },
-    "6bb47a4431838388e040": {
-      "text": "That's the second time this week.",
+    "a7590551c0cc42a5cb54": {
+      "text": "Did they just say thirty minutes?",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/6bb47a4431838388e040.mp3"
-    },
-    "78fad7df82a1ff66ef10": {
-      "text": "That's fine. I just want to walk around and eat well.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/78fad7df82a1ff66ef10.mp3"
-    },
-    "73a81118c49fddb3c343": {
-      "text": "There's a decent place by the ticket machines.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/73a81118c49fddb3c343.mp3"
-    },
-    "6914e2306b85411562d4": {
-      "text": "Same here. I might just grab a coffee while we wait.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/6914e2306b85411562d4.mp3"
+      "file": "/audio/a7590551c0cc42a5cb54.mp3"
     },
     "acfb156ac9b7572380b4": {
       "text": "I think so. Something about a signal problem.",
@@ -4654,17 +7420,41 @@
       "kind": "dialogue-line",
       "file": "/audio/acfb156ac9b7572380b4.mp3"
     },
+    "6bb47a4431838388e040": {
+      "text": "That's the second time this week.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6bb47a4431838388e040.mp3"
+    },
     "db8f872f446a07aaa5b6": {
       "text": "Tell me about it. I was supposed to be home by seven.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/db8f872f446a07aaa5b6.mp3"
     },
+    "6914e2306b85411562d4": {
+      "text": "Same here. I might just grab a coffee while we wait.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/6914e2306b85411562d4.mp3"
+    },
+    "73a81118c49fddb3c343": {
+      "text": "There's a decent place by the ticket machines.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/73a81118c49fddb3c343.mp3"
+    },
     "ad7dd01db1f6c3f92628": {
       "text": "Thanks. I'll keep an eye on the board.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/ad7dd01db1f6c3f92628.mp3"
+    },
+    "a3a2ef1ed01fb95bdf5c": {
+      "text": "If it jumps to an hour, I'm getting a cab.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a3a2ef1ed01fb95bdf5c.mp3"
     },
     "1326f52c4ee329129914": {
       "text": "I might join you if it comes to that.",
@@ -4684,29 +7474,17 @@
       "kind": "dialogue-line",
       "file": "/audio/101513f6ab9a76f80962.mp3"
     },
-    "7af9181f09e9fa0906d0": {
-      "text": "Don't look so surprised. I can cook.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/7af9181f09e9fa0906d0.mp3"
-    },
-    "136e5beba14b464bc172": {
-      "text": "I already booked a small place near the old town. It's not fancy.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/136e5beba14b464bc172.mp3"
-    },
     "48d772bb0a208746eb8f": {
       "text": "Your dad did most of them this time.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/48d772bb0a208746eb8f.mp3"
     },
-    "5a9294bd35883c091851": {
-      "text": "It's busy, but it's okay. I might come home earlier next month.",
-      "voice": "en-US-AvaMultilingualNeural",
+    "7af9181f09e9fa0906d0": {
+      "text": "Don't look so surprised. I can cook.",
+      "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/5a9294bd35883c091851.mp3"
+      "file": "/audio/7af9181f09e9fa0906d0.mp3"
     },
     "527ec72a160555fec564": {
       "text": "I know, I know. I just usually see you at the table, not in the kitchen.",
@@ -4714,35 +7492,29 @@
       "kind": "dialogue-line",
       "file": "/audio/527ec72a160555fec564.mp3"
     },
-    "5fb8ebeda974c930e689": {
-      "text": "That would be nice. Eat first. We can talk more later.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/5fb8ebeda974c930e689.mp3"
-    },
     "89e3bca6270cfa62d67b": {
       "text": "How's work? You look a little tired.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/89e3bca6270cfa62d67b.mp3"
     },
+    "5a9294bd35883c091851": {
+      "text": "It's busy, but it's okay. I might come home earlier next month.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5a9294bd35883c091851.mp3"
+    },
+    "5fb8ebeda974c930e689": {
+      "text": "That would be nice. Eat first. We can talk more later.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5fb8ebeda974c930e689.mp3"
+    },
     "ff759aac9261945ab15e": {
       "text": "Okay. These are really good, Dad.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/ff759aac9261945ab15e.mp3"
-    },
-    "d689915602b82bcea263": {
-      "text": "Do you care more about the camera or the battery?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/d689915602b82bcea263.mp3"
-    },
-    "a3a2ef1ed01fb95bdf5c": {
-      "text": "If it jumps to an hour, I'm getting a cab.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/a3a2ef1ed01fb95bdf5c.mp3"
     },
     "0bc483b36e10216d6fac": {
       "text": "Hi, can I help you find something?",
@@ -4756,11 +7528,23 @@
       "kind": "dialogue-line",
       "file": "/audio/3fd7e8dde4c7ed954b4c.mp3"
     },
+    "d689915602b82bcea263": {
+      "text": "Do you care more about the camera or the battery?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d689915602b82bcea263.mp3"
+    },
     "95e2aa2e1bd507a5659f": {
       "text": "Battery, for sure. I don't take that many photos.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/95e2aa2e1bd507a5659f.mp3"
+    },
+    "93ac006004dd37200c6f": {
+      "text": "Then this one is a solid choice. It usually lasts a full day.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/93ac006004dd37200c6f.mp3"
     },
     "fd5442e5bdef05cf9a4d": {
       "text": "That's what I need. Can I trade in the old one?",
@@ -4774,18 +7558,6 @@
       "kind": "dialogue-line",
       "file": "/audio/2b78973ac8efff03bdad.mp3"
     },
-    "ac60db55ee86e641d3eb": {
-      "text": "You've been carrying that camera a lot lately.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/ac60db55ee86e641d3eb.mp3"
-    },
-    "93ac006004dd37200c6f": {
-      "text": "Then this one is a solid choice. It usually lasts a full day.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/93ac006004dd37200c6f.mp3"
-    },
     "89f517161c9710f026c9": {
       "text": "I do. Let's do that first, then I'll decide.",
       "voice": "en-US-AndrewMultilingualNeural",
@@ -4798,23 +7570,11 @@
       "kind": "dialogue-line",
       "file": "/audio/8028bfb81d52f88ae610.mp3"
     },
-    "3e1c9557450913f381f5": {
-      "text": "I'd love to see some of them sometime.",
+    "ac60db55ee86e641d3eb": {
+      "text": "You've been carrying that camera a lot lately.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/3e1c9557450913f381f5.mp3"
-    },
-    "abeb8684f6a45ce8da37": {
-      "text": "Mostly streets and morning light. Nothing serious.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/abeb8684f6a45ce8da37.mp3"
-    },
-    "e7a3979a1189367b18f3": {
-      "text": "That's cool. What do you like to shoot?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/e7a3979a1189367b18f3.mp3"
+      "file": "/audio/ac60db55ee86e641d3eb.mp3"
     },
     "c263181bdbfc4af8d0d1": {
       "text": "Yeah. I started taking photos again on weekends.",
@@ -4822,11 +7582,23 @@
       "kind": "dialogue-line",
       "file": "/audio/c263181bdbfc4af8d0d1.mp3"
     },
-    "dd61d2b5ef0f495c363d": {
-      "text": "I might tag along one Saturday, if that's okay.",
+    "e7a3979a1189367b18f3": {
+      "text": "That's cool. What do you like to shoot?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/dd61d2b5ef0f495c363d.mp3"
+      "file": "/audio/e7a3979a1189367b18f3.mp3"
+    },
+    "abeb8684f6a45ce8da37": {
+      "text": "Mostly streets and morning light. Nothing serious.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/abeb8684f6a45ce8da37.mp3"
+    },
+    "3e1c9557450913f381f5": {
+      "text": "I'd love to see some of them sometime.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/3e1c9557450913f381f5.mp3"
     },
     "9a1402b6a758c82dfcdb": {
       "text": "Sure. They're not perfect, but I like doing it.",
@@ -4834,11 +7606,23 @@
       "kind": "dialogue-line",
       "file": "/audio/9a1402b6a758c82dfcdb.mp3"
     },
+    "9d33cde92fbb429a19b0": {
+      "text": "That's the point, right? It doesn't have to be perfect.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9d33cde92fbb429a19b0.mp3"
+    },
     "727414b4f51a11e761ad": {
       "text": "Exactly. It just gets me out of the house.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/727414b4f51a11e761ad.mp3"
+    },
+    "dd61d2b5ef0f495c363d": {
+      "text": "I might tag along one Saturday, if that's okay.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/dd61d2b5ef0f495c363d.mp3"
     },
     "c3be5ac64d236175f358": {
       "text": "Thanks for coming in today. Did you find the office okay?",
@@ -4846,17 +7630,11 @@
       "kind": "dialogue-line",
       "file": "/audio/c3be5ac64d236175f358.mp3"
     },
-    "9d33cde92fbb429a19b0": {
-      "text": "That's the point, right? It doesn't have to be perfect.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/9d33cde92fbb429a19b0.mp3"
-    },
-    "2bf2b0a667dbaf73492b": {
-      "text": "And what made you apply for this role?",
+    "a1cf5234e2de90c3d77f": {
+      "text": "Yes, it was easy. The front desk was really helpful.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/2bf2b0a667dbaf73492b.mp3"
+      "file": "/audio/a1cf5234e2de90c3d77f.mp3"
     },
     "b522ca29e24df0ab0c4f": {
       "text": "Good. Why don't you start by telling me a little about yourself?",
@@ -4864,23 +7642,23 @@
       "kind": "dialogue-line",
       "file": "/audio/b522ca29e24df0ab0c4f.mp3"
     },
+    "e0ccb1f0d3a9b565fb01": {
+      "text": "Sure. I've been working in product for about six years, mostly on tools for teams.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e0ccb1f0d3a9b565fb01.mp3"
+    },
+    "2bf2b0a667dbaf73492b": {
+      "text": "And what made you apply for this role?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/2bf2b0a667dbaf73492b.mp3"
+    },
     "d4639619db28eebeb7ec": {
       "text": "I like the problem you're trying to solve, and I want to work closer to users.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/d4639619db28eebeb7ec.mp3"
-    },
-    "a1cf5234e2de90c3d77f": {
-      "text": "Yes, it was easy. The front desk was really helpful.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/a1cf5234e2de90c3d77f.mp3"
-    },
-    "f5c329e9131f097f207c": {
-      "text": "Great. Let's talk about a project you're proud of.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/f5c329e9131f097f207c.mp3"
     },
     "33b7a817ac0d25a4f278": {
       "text": "That's helpful. What are you hoping to learn here?",
@@ -4888,47 +7666,17 @@
       "kind": "dialogue-line",
       "file": "/audio/33b7a817ac0d25a4f278.mp3"
     },
-    "e0ccb1f0d3a9b565fb01": {
-      "text": "Sure. I've been working in product for about six years, mostly on tools for teams.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/e0ccb1f0d3a9b565fb01.mp3"
-    },
     "7084de9fc523e7c65503": {
       "text": "I'd like to get better at working with research, and to ship things end to end.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/7084de9fc523e7c65503.mp3"
     },
-    "57033bc91adb23ecc134": {
-      "text": "I see why you'd want that, but I'm not sure that's a good idea.",
+    "f5c329e9131f097f207c": {
+      "text": "Great. Let's talk about a project you're proud of.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/57033bc91adb23ecc134.mp3"
-    },
-    "f8f598a3f025e81d5375": {
-      "text": "I have to agree with Nina. We only get one first impression.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/f8f598a3f025e81d5375.mp3"
-    },
-    "9d753c5fef1e36be07be": {
-      "text": "What's your concern?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/9d753c5fef1e36be07be.mp3"
-    },
-    "aeea90f492838e53c534": {
-      "text": "Just the first two screens. It wouldn't take more than a day.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/aeea90f492838e53c534.mp3"
-    },
-    "e536edbd254d29e9529c": {
-      "text": "If the signup flow is confusing, we're going to lose people right away.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/e536edbd254d29e9529c.mp3"
+      "file": "/audio/f5c329e9131f097f207c.mp3"
     },
     "d602a72d61123f0f4d40": {
       "text": "I think we should launch this week and fix issues later.",
@@ -4936,11 +7684,29 @@
       "kind": "dialogue-line",
       "file": "/audio/d602a72d61123f0f4d40.mp3"
     },
-    "5df2b7e34bbb9206e072": {
-      "text": "You don't have to talk if you don't want to. I'm just glad you came.",
+    "57033bc91adb23ecc134": {
+      "text": "I see why you'd want that, but I'm not sure that's a good idea.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/5df2b7e34bbb9206e072.mp3"
+      "file": "/audio/57033bc91adb23ecc134.mp3"
+    },
+    "9d753c5fef1e36be07be": {
+      "text": "What's your concern?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/9d753c5fef1e36be07be.mp3"
+    },
+    "e536edbd254d29e9529c": {
+      "text": "If the signup flow is confusing, we're going to lose people right away.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e536edbd254d29e9529c.mp3"
+    },
+    "f8f598a3f025e81d5375": {
+      "text": "I have to agree with Nina. We only get one first impression.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/f8f598a3f025e81d5375.mp3"
     },
     "66471d8160ca27d00868": {
       "text": "Okay. So what would you change before we launch?",
@@ -4948,23 +7714,17 @@
       "kind": "dialogue-line",
       "file": "/audio/66471d8160ca27d00868.mp3"
     },
+    "aeea90f492838e53c534": {
+      "text": "Just the first two screens. It wouldn't take more than a day.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/aeea90f492838e53c534.mp3"
+    },
     "cd2555c78e2457d67210": {
       "text": "That's fair. Let's do that and aim for early next week.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/cd2555c78e2457d67210.mp3"
-    },
-    "45f601ad0116564c4ad7": {
-      "text": "Thanks. I think I just needed to get out of the apartment.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/45f601ad0116564c4ad7.mp3"
-    },
-    "8df52da4a9c0b480824c": {
-      "text": "I keep thinking I should have handled it better.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/8df52da4a9c0b480824c.mp3"
     },
     "a1d37bfe5dbb0412d58e": {
       "text": "Thanks. I think that's the safer call.",
@@ -4972,17 +7732,41 @@
       "kind": "dialogue-line",
       "file": "/audio/a1d37bfe5dbb0412d58e.mp3"
     },
+    "5df2b7e34bbb9206e072": {
+      "text": "You don't have to talk if you don't want to. I'm just glad you came.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5df2b7e34bbb9206e072.mp3"
+    },
+    "45f601ad0116564c4ad7": {
+      "text": "Thanks. I think I just needed to get out of the apartment.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/45f601ad0116564c4ad7.mp3"
+    },
     "d37316af01b34dedc71e": {
       "text": "That makes sense. It's been a rough week.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/d37316af01b34dedc71e.mp3"
     },
-    "7b8d477e02f07b536cea": {
-      "text": "Anytime. I'm not going anywhere.",
+    "8df52da4a9c0b480824c": {
+      "text": "I keep thinking I should have handled it better.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/7b8d477e02f07b536cea.mp3"
+      "file": "/audio/8df52da4a9c0b480824c.mp3"
+    },
+    "d144077a988cb19ce4c5": {
+      "text": "You did what you could. You don't have to be perfect in a hard moment.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d144077a988cb19ce4c5.mp3"
+    },
+    "260b96b66251b5536745": {
+      "text": "I know that in my head. It's just hard to feel it.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/260b96b66251b5536745.mp3"
     },
     "cb6e881c46b4b2b97d4c": {
       "text": "That's okay. We can just sit here for a bit.",
@@ -4996,11 +7780,11 @@
       "kind": "dialogue-line",
       "file": "/audio/452542fdf6255ccd017e.mp3"
     },
-    "260b96b66251b5536745": {
-      "text": "I know that in my head. It's just hard to feel it.",
+    "7b8d477e02f07b536cea": {
+      "text": "Anytime. I'm not going anywhere.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/260b96b66251b5536745.mp3"
+      "file": "/audio/7b8d477e02f07b536cea.mp3"
     },
     "43bb7b2796f28c520f6c": {
       "text": "Did you see that story about the new train line?",
@@ -5008,29 +7792,11 @@
       "kind": "dialogue-line",
       "file": "/audio/43bb7b2796f28c520f6c.mp3"
     },
-    "d144077a988cb19ce4c5": {
-      "text": "You did what you could. You don't have to be perfect in a hard moment.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/d144077a988cb19ce4c5.mp3"
-    },
-    "5b30efa8ae96409b522e": {
-      "text": "Not really. It still has to get approved, so I'm not holding my breath.",
+    "2ee8066c4306fddccc2f": {
+      "text": "I saw the headline, but I didn't read it. What's going on?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/5b30efa8ae96409b522e.mp3"
-    },
-    "d43d6e17c671e23abe25": {
-      "text": "That would be huge for you. Do they have a real timeline?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/d43d6e17c671e23abe25.mp3"
-    },
-    "748c0608dec528b88568": {
-      "text": "Will do.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/748c0608dec528b88568.mp3"
+      "file": "/audio/2ee8066c4306fddccc2f.mp3"
     },
     "29cfeb122a47a076ce11": {
       "text": "They might start building next year. It would cut my commute in half.",
@@ -5038,23 +7804,23 @@
       "kind": "dialogue-line",
       "file": "/audio/29cfeb122a47a076ce11.mp3"
     },
+    "d43d6e17c671e23abe25": {
+      "text": "That would be huge for you. Do they have a real timeline?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d43d6e17c671e23abe25.mp3"
+    },
+    "5b30efa8ae96409b522e": {
+      "text": "Not really. It still has to get approved, so I'm not holding my breath.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/5b30efa8ae96409b522e.mp3"
+    },
     "319c496c13e2296f9115": {
       "text": "Still, it's something. We've needed that for years.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/319c496c13e2296f9115.mp3"
-    },
-    "1444257e3f6416482808": {
-      "text": "If we do a little every day, it won't feel so heavy.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/1444257e3f6416482808.mp3"
-    },
-    "95d712f26b44c8ddb27c": {
-      "text": "That I can do. Morning or evening?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/95d712f26b44c8ddb27c.mp3"
     },
     "c0913ca46fc939f0fa80": {
       "text": "Yeah. Even if it takes longer, I'm glad they're talking about it.",
@@ -5062,11 +7828,23 @@
       "kind": "dialogue-line",
       "file": "/audio/c0913ca46fc939f0fa80.mp3"
     },
-    "be53b99aefa603c73e76": {
-      "text": "Then let's make it small on purpose. Thirty minutes, not two hours.",
+    "aca5326a96082f886847": {
+      "text": "Send me the article later. I want to read it properly.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/aca5326a96082f886847.mp3"
+    },
+    "748c0608dec528b88568": {
+      "text": "Will do.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/748c0608dec528b88568.mp3"
+    },
+    "1444257e3f6416482808": {
+      "text": "If we do a little every day, it won't feel so heavy.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/be53b99aefa603c73e76.mp3"
+      "file": "/audio/1444257e3f6416482808.mp3"
     },
     "de644f92a91ad2b3ee22": {
       "text": "I agree. I just never keep the plan when work gets busy.",
@@ -5074,35 +7852,17 @@
       "kind": "dialogue-line",
       "file": "/audio/de644f92a91ad2b3ee22.mp3"
     },
-    "2ee8066c4306fddccc2f": {
-      "text": "I saw the headline, but I didn't read it. What's going on?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/2ee8066c4306fddccc2f.mp3"
-    },
-    "aca5326a96082f886847": {
-      "text": "Send me the article later. I want to read it properly.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/aca5326a96082f886847.mp3"
-    },
-    "34bc55283df45f86850c": {
-      "text": "We don't have to report every day. Maybe just twice a week.",
+    "be53b99aefa603c73e76": {
+      "text": "Then let's make it small on purpose. Thirty minutes, not two hours.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/34bc55283df45f86850c.mp3"
+      "file": "/audio/be53b99aefa603c73e76.mp3"
     },
-    "31a429f358b3300b490c": {
-      "text": "Hi, have you had a chance to look at the menu?",
+    "95d712f26b44c8ddb27c": {
+      "text": "That I can do. Morning or evening?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/31a429f358b3300b490c.mp3"
-    },
-    "51dd87049c8638a4f5b8": {
-      "text": "That's more realistic. I like this.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/51dd87049c8638a4f5b8.mp3"
+      "file": "/audio/95d712f26b44c8ddb27c.mp3"
     },
     "1d82951527cdc68e4d4c": {
       "text": "Evening works better for me. After dinner, before I look at my phone.",
@@ -5110,17 +7870,35 @@
       "kind": "dialogue-line",
       "file": "/audio/1d82951527cdc68e4d4c.mp3"
     },
+    "b22e360308016b3f42e1": {
+      "text": "Okay. I'll try the same window so we can check in.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b22e360308016b3f42e1.mp3"
+    },
+    "34bc55283df45f86850c": {
+      "text": "We don't have to report every day. Maybe just twice a week.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/34bc55283df45f86850c.mp3"
+    },
+    "51dd87049c8638a4f5b8": {
+      "text": "That's more realistic. I like this.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/51dd87049c8638a4f5b8.mp3"
+    },
     "2e02c2eeb22b0b4b41f1": {
       "text": "Good. Let's start tonight, even if it's only ten minutes.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/2e02c2eeb22b0b4b41f1.mp3"
     },
-    "b22e360308016b3f42e1": {
-      "text": "Okay. I'll try the same window so we can check in.",
+    "31a429f358b3300b490c": {
+      "text": "Hi, have you had a chance to look at the menu?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/b22e360308016b3f42e1.mp3"
+      "file": "/audio/31a429f358b3300b490c.mp3"
     },
     "30a60adfcf4a9d575b1b": {
       "text": "I think so. What's good tonight?",
@@ -5128,23 +7906,11 @@
       "kind": "dialogue-line",
       "file": "/audio/30a60adfcf4a9d575b1b.mp3"
     },
-    "12008cd18371998b96a2": {
-      "text": "Of course. And for you?",
+    "fdd1fddc271f9c0e036b": {
+      "text": "The roast chicken is really popular, and the soup is homemade.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/12008cd18371998b96a2.mp3"
-    },
-    "a8d0ec887db007bda596": {
-      "text": "Got it. Anything to drink?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/a8d0ec887db007bda596.mp3"
-    },
-    "252ed1420773e33d41b6": {
-      "text": "I'll have the pasta, please. Not too spicy.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/252ed1420773e33d41b6.mp3"
+      "file": "/audio/fdd1fddc271f9c0e036b.mp3"
     },
     "3732c90b538f4a15b3cb": {
       "text": "I'll go with the chicken. Can I get the vegetables instead of fries?",
@@ -5152,17 +7918,35 @@
       "kind": "dialogue-line",
       "file": "/audio/3732c90b538f4a15b3cb.mp3"
     },
-    "1588fc119fe9adaa672a": {
-      "text": "I'll be right back with that.",
+    "12008cd18371998b96a2": {
+      "text": "Of course. And for you?",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/1588fc119fe9adaa672a.mp3"
+      "file": "/audio/12008cd18371998b96a2.mp3"
+    },
+    "252ed1420773e33d41b6": {
+      "text": "I'll have the pasta, please. Not too spicy.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/252ed1420773e33d41b6.mp3"
+    },
+    "a8d0ec887db007bda596": {
+      "text": "Got it. Anything to drink?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/a8d0ec887db007bda596.mp3"
     },
     "33ff173936428973c5e6": {
       "text": "Just water for now. Thank you.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/33ff173936428973c5e6.mp3"
+    },
+    "1588fc119fe9adaa672a": {
+      "text": "I'll be right back with that.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1588fc119fe9adaa672a.mp3"
     },
     "ea11ba7d4013440d157e": {
       "text": "Thanks for calling. How can I help you today?",
@@ -5176,41 +7960,11 @@
       "kind": "dialogue-line",
       "file": "/audio/8bc792fe01c327bf0930.mp3"
     },
-    "fdd1fddc271f9c0e036b": {
-      "text": "The roast chicken is really popular, and the soup is homemade.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/fdd1fddc271f9c0e036b.mp3"
-    },
-    "d8fa2e587152ddde852e": {
-      "text": "Do you know when I can expect it?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/d8fa2e587152ddde852e.mp3"
-    },
-    "73e4337dd99ffbfac951": {
-      "text": "That's okay, I found it. It looks like it was delayed in transit.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/73e4337dd99ffbfac951.mp3"
-    },
     "4fe4a4450ae16021d51d": {
       "text": "I'm sorry about that. Can I have your order number?",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/4fe4a4450ae16021d51d.mp3"
-    },
-    "e81c5502392e886e8fae": {
-      "text": "Thursday is fine, as long as it's moving again.",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/e81c5502392e886e8fae.mp3"
-    },
-    "966b167f0663204821e0": {
-      "text": "So… what did you think?",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/966b167f0663204821e0.mp3"
     },
     "8608fd78a046efdd64c1": {
       "text": "It's 4-8-2-1-9. I can also give you the email.",
@@ -5218,11 +7972,41 @@
       "kind": "dialogue-line",
       "file": "/audio/8608fd78a046efdd64c1.mp3"
     },
+    "73e4337dd99ffbfac951": {
+      "text": "That's okay, I found it. It looks like it was delayed in transit.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/73e4337dd99ffbfac951.mp3"
+    },
+    "d8fa2e587152ddde852e": {
+      "text": "Do you know when I can expect it?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/d8fa2e587152ddde852e.mp3"
+    },
     "dc630f31246c20170e37": {
       "text": "It should arrive by Thursday. I can also send a replacement if you'd rather.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/dc630f31246c20170e37.mp3"
+    },
+    "e81c5502392e886e8fae": {
+      "text": "Thursday is fine, as long as it's moving again.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/e81c5502392e886e8fae.mp3"
+    },
+    "629eebfc29e792e81018": {
+      "text": "It is. I'll email you the new tracking now. Sorry again.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/629eebfc29e792e81018.mp3"
+    },
+    "966b167f0663204821e0": {
+      "text": "So… what did you think?",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/966b167f0663204821e0.mp3"
     },
     "3ad8e5e91a578954f081": {
       "text": "I liked it more than I expected. The first half was a little slow.",
@@ -5242,35 +8026,11 @@
       "kind": "dialogue-line",
       "file": "/audio/6345e483eaf4dae58237.mp3"
     },
-    "4f0fbc13a19b3fa120b3": {
-      "text": "Want to get some tea and talk about it a bit more?",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/4f0fbc13a19b3fa120b3.mp3"
-    },
     "2cba268fd58f8a2a4a87": {
       "text": "The two leads were great. I believed they knew each other for years.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/2cba268fd58f8a2a4a87.mp3"
-    },
-    "b3a08fdd9f0fde943344": {
-      "text": "Good. There's a place around the corner.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/b3a08fdd9f0fde943344.mp3"
-    },
-    "629eebfc29e792e81018": {
-      "text": "It is. I'll email you the new tracking now. Sorry again.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/629eebfc29e792e81018.mp3"
-    },
-    "1a14281fa8136a184972": {
-      "text": "Do you feel any different?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/1a14281fa8136a184972.mp3"
     },
     "b2efbf7166e1f6c45c02": {
       "text": "That's what got me. It felt simple, but not empty.",
@@ -5278,23 +8038,41 @@
       "kind": "dialogue-line",
       "file": "/audio/b2efbf7166e1f6c45c02.mp3"
     },
-    "8e17d14c8e3104e53c58": {
-      "text": "I know. It went faster than I thought.",
+    "4f0fbc13a19b3fa120b3": {
+      "text": "Want to get some tea and talk about it a bit more?",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/8e17d14c8e3104e53c58.mp3"
-    },
-    "7de0e6118f27d8a8060b": {
-      "text": "Same. I used to miss the beginning and then give up.",
-      "voice": "en-US-AvaMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/7de0e6118f27d8a8060b.mp3"
+      "file": "/audio/4f0fbc13a19b3fa120b3.mp3"
     },
     "173e738d9eae153dec72": {
       "text": "Yes. I have a few questions I need to say out loud.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/173e738d9eae153dec72.mp3"
+    },
+    "b3a08fdd9f0fde943344": {
+      "text": "Good. There's a place around the corner.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b3a08fdd9f0fde943344.mp3"
+    },
+    "b82989a9ad792903de67": {
+      "text": "Can you believe it's been four weeks already?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/b82989a9ad792903de67.mp3"
+    },
+    "8e17d14c8e3104e53c58": {
+      "text": "I know. It went faster than I thought.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/8e17d14c8e3104e53c58.mp3"
+    },
+    "1a14281fa8136a184972": {
+      "text": "Do you feel any different?",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/1a14281fa8136a184972.mp3"
     },
     "227d1b3caa25e115359c": {
       "text": "A little. I still get stuck, but I don't freeze as much.",
@@ -5308,17 +8086,11 @@
       "kind": "dialogue-line",
       "file": "/audio/cd815ce8da0ebc062cd6.mp3"
     },
-    "b82989a9ad792903de67": {
-      "text": "Can you believe it's been four weeks already?",
-      "voice": "en-US-AndrewMultilingualNeural",
-      "kind": "dialogue-line",
-      "file": "/audio/b82989a9ad792903de67.mp3"
-    },
-    "7f6ad55c17e2dca93057": {
-      "text": "Agreed. Small and steady still works.",
+    "7de0e6118f27d8a8060b": {
+      "text": "Same. I used to miss the beginning and then give up.",
       "voice": "en-US-AvaMultilingualNeural",
       "kind": "dialogue-line",
-      "file": "/audio/7f6ad55c17e2dca93057.mp3"
+      "file": "/audio/7de0e6118f27d8a8060b.mp3"
     },
     "084b030356cbe4678ec5": {
       "text": "We should keep the habit, even if we change the routine a bit.",
@@ -5326,11 +8098,29 @@
       "kind": "dialogue-line",
       "file": "/audio/084b030356cbe4678ec5.mp3"
     },
+    "7f6ad55c17e2dca93057": {
+      "text": "Agreed. Small and steady still works.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "dialogue-line",
+      "file": "/audio/7f6ad55c17e2dca93057.mp3"
+    },
     "a7867cd3ca5b52e4808b": {
       "text": "Good. Let's not wait for a perfect day to start the next part.",
       "voice": "en-US-AndrewMultilingualNeural",
       "kind": "dialogue-line",
       "file": "/audio/a7867cd3ca5b52e4808b.mp3"
+    },
+    "58c7d6bb0bf5f2ec11db": {
+      "text": "That was so annoying.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/58c7d6bb0bf5f2ec11db.mp3"
+    },
+    "c6f1f496edf2d095b77f": {
+      "text": "I'm fine, it's just a bit too much.",
+      "voice": "en-US-AvaMultilingualNeural",
+      "kind": "phrase",
+      "file": "/audio/c6f1f496edf2d095b77f.mp3"
     }
   },
   "dialogues": {

@@ -426,15 +426,6 @@ textarea { min-height: 5.5rem; resize: vertical; }
 
 .speak-wrap { display: inline-flex; align-items: center; gap: 0.35rem; flex-wrap: wrap; max-width: 100%; }
 .machine-tag { font-size: 0.7rem; color: var(--ink-soft); white-space: nowrap; }
-.youglish {
-  font-size: 0.72rem;
-  color: var(--ink-soft);
-  white-space: nowrap;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-  margin-left: 0.25rem;
-}
-.pair-cell .youglish { display: block; margin: 0.2rem auto 0; width: fit-content; }
 
 .meaning { margin-top: 0.25rem; max-width: 100%; }
 .meaning-btn {
@@ -479,3 +470,21 @@ textarea { min-height: 5.5rem; resize: vertical; }
 }
 .chunk-suggest { list-style: none; padding: 0; margin: 0.5rem 0 0; display: flex; flex-direction: column; gap: 0.45rem; }
 .chunk-suggest li { max-width: 100%; }
+
+.dict-link {
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  margin-left: 0.25rem;
+}
+.pair-cell .dict-link { display: block; margin: 0.2rem auto 0; width: fit-content; }
+.contrast-box { margin-top: 1rem; padding-top: 0.8rem; border-top: 1px solid var(--line); }
+.contrast-guide p { margin: 0.35rem 0; font-size: 0.92rem; line-height: 1.6; }
+.contrast-score { list-style: none; padding: 0; margin: 0.6rem 0 0; display: flex; flex-direction: column; gap: 0.25rem; }
+.contrast-score li { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; font-size: 0.88rem; }
+.contrast-score li.weak a { color: var(--danger, #c45c26); }
+.contrast-score li.ok a { color: var(--accent); }
+.phrase-card { margin: 0.6rem 0; }
+.credit-list { list-style: none; padding: 0; margin: 0.8rem 0 0; }
+.credit-list li { padding: 0.5rem 0; border-bottom: 1px solid var(--line); max-width: 100%; overflow-wrap: anywhere; }

@@ -42,6 +42,10 @@ export default function PracticePage() {
             <span>双周对照录音</span>
             <span className="muted tiny">第 1、14、28… 天</span>
           </Link>
+          <Link href="/phrases" className="btn" style={{ justifyContent: "space-between" }}>
+            <span>日常常用短语</span>
+            <span className="muted tiny">每天 8 句</span>
+          </Link>
           <Link href="/book" className="btn">
             高频口语错题本 / 卡壳词
           </Link>

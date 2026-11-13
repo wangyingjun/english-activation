@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
+import Link from "next/link";
 import { PageHeader } from "@/components/PageHeader";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
@@ -58,6 +59,12 @@ export default function DataPage() {
       <section className="card">
         <h2>外观</h2>
         <ThemeToggle />
+      </section>
+
+      <section className="card">
+        <h2>关于本站录音</h2>
+        <p className="muted tiny">单词「真人发音」来自维基共享，作者和许可记录在致谢页。</p>
+        <Link href="/credits" className="btn" style={{ marginTop: 8 }}>真人发音致谢</Link>
       </section>
 
       <section className="card">

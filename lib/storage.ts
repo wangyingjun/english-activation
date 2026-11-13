@@ -35,6 +35,8 @@ function safeParse(raw: string | null): AppState {
       listening: parsed.listening ?? {},
       timers: parsed.timers ?? {},
       soundQuiz: parsed.soundQuiz ?? {},
+      contrastStats: parsed.contrastStats ?? {},
+      phraseMarks: parsed.phraseMarks ?? {},
     };
   } catch {
     return base;

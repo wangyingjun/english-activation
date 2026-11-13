@@ -6,8 +6,10 @@ import { useApp } from "@/components/AppProvider";
 import { CheckButton } from "@/components/CheckButton";
 import { Heatmap, streakCount } from "@/components/Heatmap";
 import { Onboarding } from "@/components/Onboarding";
-import { MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
+import { Meaning, MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
 import { COMPARE_DAYS, formatZhDate, weekdayZh } from "@/lib/calendar";
+import { phrasesForDate } from "@/lib/content/phrases";
+import { SpeakButton } from "@/components/SpeakButton";
 
 export default function HomePage() {
   const { ready, state, status, toggleModule, toggleMicro } = useApp();
@@ -74,6 +76,23 @@ export default function HomePage() {
           <span>今日模块</span>
         </div>
       </div>
+
+      <section className="card">
+        <h2>今日常用短语</h2>
+        <p className="muted tiny">每天 8 句日常会说的话。先听，再看意思，最后试着说。</p>
+        <ul className="list-plain">
+          {phrasesForDate(status.today, 8).map((p) => (
+            <li key={p.id}>
+              <p className="en">{p.text}</p>
+              <SpeakButton text={p.text} rate={0.8} label="听" />
+              <Meaning zh={p.zh} compact />
+            </li>
+          ))}
+        </ul>
+        <Link href="/phrases" className="btn btn-accent" style={{ marginTop: 8 }}>
+          打开常用短语
+        </Link>
+      </section>
 
       {status.modules.map((m) => {
         const done = !!log?.modules[m.id];

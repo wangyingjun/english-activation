@@ -3,11 +3,13 @@
 import { useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
-import { YouGlishLink } from "@/components/YouGlishLink";
+import { HumanPlay } from "@/components/HumanPlay";
+import { ContrastScoreboard, ContrastTrainer, NextContrastHint } from "@/components/ContrastDrill";
 import { Meaning } from "@/components/Meaning";
 import { useApp } from "@/components/AppProvider";
 import { TTS_DISCLAIMER } from "@/lib/content/materials";
-import { soundsForPhaseDay, type MinimalPair, type SoundGroup } from "@/lib/content/sounds";
+import { CONTRAST_ORDER } from "@/lib/content/contrasts";
+import { SOUND_GROUPS, soundsForPhaseDay, type MinimalPair, type SoundGroup } from "@/lib/content/sounds";
 
 function Quiz({ group, rate }: { group: SoundGroup; rate: number }) {
   const { recordQuiz, state } = useApp();
@@ -123,7 +125,7 @@ function PairCell({ word, ipa, rate, pos, zh }: { word: string; ipa: string; rat
       <span className="en">{word}</span>
       <span className="ipa">{ipa}</span>
       <SpeakButton text={word} rate={rate} label="听" />
-      <YouGlishLink text={word} />
+      <HumanPlay word={word} rate={rate} />
       <Meaning zh={zh} pos={pos} ipa={ipa} compact />
     </div>
   );
@@ -147,7 +149,8 @@ function SoundGroupCard({ group, rate }: { group: SoundGroup; rate: number }) {
           {group.items.map((it) => (
             <li key={it.citation}>
               <p className="en">
-                <b>{it.citation}</b> → {it.reduced} <YouGlishLink text={it.citation} />
+                <b>{it.citation}</b> → {it.reduced}{" "}
+                {it.citation.split(" ").length === 1 ? <HumanPlay word={it.citation} rate={rate} /> : null}
               </p>
               <Meaning zh={it.citationZh} compact />
               <p className="en" style={{ marginTop: 4 }}>
@@ -168,6 +171,7 @@ function SoundGroupCard({ group, rate }: { group: SoundGroup; rate: number }) {
         </div>
       ))}
       <Quiz group={group} rate={rate} />
+      {group.kind === "pairs" && <ContrastTrainer group={group} rate={rate} />}
     </section>
   );
 }
@@ -188,19 +192,49 @@ export default function SoundsPage() {
   const { status } = useApp();
   const groups = soundsForPhaseDay(status.phaseDay || 1);
   const [rate, setRate] = useState(0.8);
+  const [focusId, setFocusId] = useState<string | null>(null);
+  const todayIds = new Set(groups.map((g) => g.id));
+  const focus = focusId && SOUND_GROUPS[focusId] && !todayIds.has(focusId) ? SOUND_GROUPS[focusId] : null;
 
   return (
     <PracticeFrame
       moduleId="sounds"
       phase={1}
-      desc="每天梳理 1–2 组易混淆发音。先听预录的自然语音、再对照文本，最后做听辨。想听真人怎么说，点「听真人」。口型和气口也可以对照 Rachel's English 或《美语音标》。"
+      desc="每天梳理 1–2 组易混淆发音。先听预录的自然语音、再对照文本，最后做听辨。有真人录音的词点「真人发音」。先听口型说明和慢速对比，再做听辨。"
     >
       <div className="btn-row" style={{ marginBottom: 8 }}>
         <SpeedToggle rate={rate} onChange={setRate} />
       </div>
+      <ContrastScoreboard />
+      <NextContrastHint />
       {groups.map((g) => (
         <SoundGroupCard key={g.id} group={g} rate={rate} />
       ))}
+      <section className="card">
+        <h2>按从易到难练其他对比</h2>
+        <p className="muted tiny">今天的一组已经在上面。若那组太难或太熟，可以改练下面这些，顺序是从更容易听出差别的开始。</p>
+        <div className="btn-row" style={{ marginTop: 8 }}>
+          {CONTRAST_ORDER.map((id) => {
+            const g = SOUND_GROUPS[id];
+            if (!g) return null;
+            const on = focusId === id || todayIds.has(id);
+            return (
+              <button
+                key={id}
+                type="button"
+                className={`btn ${on ? "btn-primary" : ""}`}
+                onClick={() => {
+                  setFocusId(id);
+                  window.setTimeout(() => document.getElementById(`contrast-${id}`)?.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
+                }}
+              >
+                {g.title.replace(/^[^：:]*[：:]\s*/, "") || g.title}
+              </button>
+            );
+          })}
+        </div>
+      </section>
+      {focus ? <SoundGroupCard key={focus.id} group={focus} rate={rate} /> : null}
       <p className="notice">{TTS_DISCLAIMER}</p>
     </PracticeFrame>
   );

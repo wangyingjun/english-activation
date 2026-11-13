@@ -53,6 +53,8 @@ type AppContextValue = {
   setListening: (dialogueId: string, progress: ListeningProgress) => void;
   setTimer: (key: string, timer: TimerState | null) => void;
   recordQuiz: (groupId: string, correct: boolean) => void;
+  recordContrast: (groupId: string, correct: boolean) => void;
+  setPhraseMark: (id: string, patch: { heard?: boolean; spoken?: boolean }) => void;
   exportBackup: () => Promise<BackupPayload>;
   importBackup: (payload: BackupPayload) => Promise<void>;
   resetAll: () => Promise<void>;
@@ -151,6 +153,19 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         soundQuiz: { ...s.soundQuiz, [groupId]: { correct: prev.correct + (correct ? 1 : 0), total: prev.total + 1 } },
       };
     }), [update]);
+  const recordContrast = useCallback((groupId: string, correct: boolean) =>
+    update((s) => {
+      const prev = s.contrastStats[groupId] ?? { correct: 0, total: 0 };
+      return {
+        ...s,
+        contrastStats: { ...s.contrastStats, [groupId]: { correct: prev.correct + (correct ? 1 : 0), total: prev.total + 1 } },
+      };
+    }), [update]);
+  const setPhraseMark = useCallback((id: string, patch: { heard?: boolean; spoken?: boolean }) =>
+    update((s) => ({
+      ...s,
+      phraseMarks: { ...s.phraseMarks, [id]: { ...s.phraseMarks[id], ...patch } },
+    })), [update]);
   const exportBackup = useCallback(async () => {
     const audio = await exportAudio().catch(() => []);
     return { version: 1 as const, exportedAt: new Date().toISOString(), state: loadState(), audio };
@@ -177,13 +192,13 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       ready, state, status, setStartDate, setTheme, setMeaningMode, setComparePrompt,
       toggleModule, toggleMicro, toggleCompare, setChunkWork,
       addStuckWord, removeStuckWord, addError, updateError, removeError,
-      bumpReadCount, setMicroText, setListening, setTimer, recordQuiz,
+      bumpReadCount, setMicroText, setListening, setTimer, recordQuiz, recordContrast, setPhraseMark,
       exportBackup, importBackup, resetAll,
     }),
     [ready, state, status, setStartDate, setTheme, setMeaningMode, setComparePrompt, toggleModule,
      toggleMicro, toggleCompare, setChunkWork, addStuckWord, removeStuckWord, addError,
      updateError, removeError, bumpReadCount, setMicroText, setListening, setTimer,
-     recordQuiz, exportBackup, importBackup, resetAll],
+     recordQuiz, recordContrast, setPhraseMark, exportBackup, importBackup, resetAll],
   );
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;

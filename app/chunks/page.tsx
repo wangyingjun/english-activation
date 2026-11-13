@@ -2,7 +2,6 @@
 
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
-import { YouGlishLink } from "@/components/YouGlishLink";
 import { Meaning } from "@/components/Meaning";
 import { emptyChunkWork, useApp } from "@/components/AppProvider";
 import { chunksForPhaseDay } from "@/lib/content/chunks";
@@ -32,7 +31,7 @@ export default function ChunksPage() {
         return (
           <section key={chunk.id} className="card">
             <p className="kicker">{chunk.func}</p>
-            <h2 className="en">{chunk.text} <YouGlishLink text={chunk.text} /></h2>
+            <h2 className="en">{chunk.text}</h2>
             <Meaning zh={chunk.meaning} />
             <p className="lead">{chunk.note}</p>
             <p className="en muted tiny">{chunk.example}</p>

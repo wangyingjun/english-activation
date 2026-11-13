@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "audio:gen": "npx --yes tsx scripts/dump-utterances.ts && .venv-audio/bin/python scripts/gen-audio.py"
+    "audio:gen": "npx --yes tsx scripts/dump-utterances.ts && .venv-audio/bin/python scripts/gen-audio.py",
+    "audio:human": ".venv-audio/bin/python scripts/fetch-human-audio.py"
   },
   "dependencies": {
     "lucide-react": "^1.72.0",

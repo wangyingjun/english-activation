@@ -26,4 +26,4 @@ npm run build
 
 ## 说明
 
-内置单词、例句和对话的朗读是用 Microsoft 神经网络语音（edge-tts，en-US-Ava / Andrew Multilingual）在构建时预先生成的 MP3。你自己写的句子仍用浏览器语音，并标为「机器朗读」。想听真人发音，可点「听真人」打开 YouGlish。生成音频：`npm run audio:gen`（需本地 Python 虚拟环境 `.venv-audio` 和 edge-tts）。
+内置单词、例句和对话的朗读是用 Microsoft 神经网络语音（edge-tts，en-US-Ava / Andrew Multilingual）在构建时预先生成的 MP3。你自己写的句子仍用浏览器语音，并标为「机器朗读」。单词旁的「真人发音」来自维基共享的美国英语录音（致谢见站内致谢页）。生成音频：`npm run audio:gen`（需本地 Python 虚拟环境 `.venv-audio` 和 edge-tts）。

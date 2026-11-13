@@ -5,6 +5,7 @@ import { CHUNKS } from "../lib/content/chunks";
 import { DIALOGUES } from "../lib/content/dialogues";
 import { DRILL_QUESTIONS } from "../lib/content/questions";
 import { SOUND_GROUPS } from "../lib/content/sounds";
+import { PHRASES } from "../lib/content/phrases";
 import { VOICE_DEFAULT, voiceForSpeaker } from "../lib/audio";
 
 export type Utterance = {
@@ -25,6 +26,8 @@ for (const group of Object.values(SOUND_GROUPS)) {
   for (const pair of group.pairs ?? []) {
     add(pair.left, VOICE_DEFAULT, "sound-word");
     add(pair.right, VOICE_DEFAULT, "sound-word");
+    add(`Say ${pair.left} again.`, VOICE_DEFAULT, "carrier");
+    add(`Say ${pair.right} again.`, VOICE_DEFAULT, "carrier");
   }
   for (const item of group.items ?? []) {
     add(item.example, VOICE_DEFAULT, "sound-example");
@@ -42,6 +45,10 @@ for (const chunk of CHUNKS) {
 
 for (const q of DRILL_QUESTIONS) {
   add(typeof q === "string" ? q : q.text, VOICE_DEFAULT, "drill");
+}
+
+for (const phrase of PHRASES) {
+  add(phrase.text, VOICE_DEFAULT, "phrase");
 }
 
 const dialogues: { id: string; lines: { speaker: string; text: string; voice: string }[] }[] = [];

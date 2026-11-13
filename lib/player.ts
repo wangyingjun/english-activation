@@ -4,9 +4,11 @@ import { loadVoices, stopSpeaking, ttsSupported } from "@/lib/tts";
 
 let currentAudio: HTMLAudioElement | null = null;
 let playSeq = 0;
+let sequenceToken = 0;
 
 export function stopAllAudio() {
   playSeq += 1;
+  sequenceToken += 1;
   if (currentAudio) {
     currentAudio.onended = null;
     currentAudio.onerror = null;
@@ -104,6 +106,74 @@ export async function speakMachine(text: string, rate = 1): Promise<void> {
       else reject(new Error("朗读失败"));
     };
     window.speechSynthesis.speak(utter);
+  });
+}
+
+
+export async function playSequence(steps: { src: string; rate?: number; gapMs?: number }[]): Promise<void> {
+  stopAllAudio();
+  const token = sequenceToken;
+  for (const step of steps) {
+    if (token !== sequenceToken) return;
+    await playClipKeepSequence(step.src, step.rate ?? 1, token);
+    if (token !== sequenceToken) return;
+    if (step.gapMs && step.gapMs > 0) await wait(step.gapMs, () => token !== sequenceToken);
+  }
+}
+
+function wait(ms: number, aborted: () => boolean): Promise<void> {
+  return new Promise((resolve) => {
+    const start = Date.now();
+    const tick = () => {
+      if (aborted() || Date.now() - start >= ms) resolve();
+      else window.setTimeout(tick, 40);
+    };
+    window.setTimeout(tick, Math.min(40, ms));
+  });
+}
+
+function playClipKeepSequence(src: string, rate: number, token: number): Promise<void> {
+  if (token !== sequenceToken) return Promise.resolve();
+  if (currentAudio) {
+    currentAudio.onended = null;
+    currentAudio.onerror = null;
+    currentAudio.pause();
+    currentAudio.removeAttribute("src");
+    currentAudio.load();
+    currentAudio.remove();
+    currentAudio = null;
+  }
+  const el = new Audio(src);
+  el.preload = "auto";
+  el.setAttribute("data-ea-player", "true");
+  el.setAttribute("playsinline", "true");
+  applyRate(el, rate);
+  document.body.appendChild(el);
+  currentAudio = el;
+  return new Promise((resolve, reject) => {
+    const done = () => {
+      if (currentAudio === el) currentAudio = null;
+      resolve();
+    };
+    el.addEventListener("ended", done, { once: true });
+    el.addEventListener(
+      "error",
+      () => {
+        if (currentAudio === el) currentAudio = null;
+        if (token !== sequenceToken) resolve();
+        else reject(new Error("音频播放失败"));
+      },
+      { once: true },
+    );
+    el.addEventListener("loadedmetadata", () => applyRate(el, rate), { once: true });
+    const start = el.play();
+    if (start && typeof start.then === "function") {
+      start.catch((err: unknown) => {
+        if (currentAudio === el) currentAudio = null;
+        if (token !== sequenceToken) resolve();
+        else reject(err instanceof Error ? err : new Error("音频播放失败"));
+      });
+    }
   });
 }
 

@@ -67,6 +67,8 @@ export type AppState = {
   listening: Record<string, ListeningProgress>;
   timers: Record<string, TimerState>;
   soundQuiz: Record<string, { correct: number; total: number }>;
+  contrastStats: Record<string, { correct: number; total: number }>;
+  phraseMarks: Record<string, { heard?: boolean; spoken?: boolean }>;
 };
 
 export const STORAGE_KEY = "ea.v1";
@@ -87,4 +89,6 @@ export const defaultState = (): AppState => ({
   listening: {},
   timers: {},
   soundQuiz: {},
+  contrastStats: {},
+  phraseMarks: {},
 });

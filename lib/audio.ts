@@ -34,11 +34,6 @@ export function clipIdentity(text: string, voice: string = VOICE_DEFAULT): strin
   return `${voice}\n${text}`;
 }
 
-export function youGlishUrl(text: string): string {
-  const q = text.replace(/[…]/g, " ").replace(/\.\.\./g, " ").replace(/\s+/g, " ").trim();
-  return `https://youglish.com/pronounce/${encodeURIComponent(q)}/english/us`;
-}
-
 export function dialogueFullText(lines: { speaker: string; text: string }[]): string {
   return lines.map((l) => `${l.speaker}: ${l.text}`).join("\n");
 }

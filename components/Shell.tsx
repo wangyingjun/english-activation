@@ -24,6 +24,7 @@ const TABS = [
         "/review",
         "/micro",
         "/compare",
+        "/phrases",
       ].includes(p),
   },
   { href: "/plan", label: "计划", icon: CalendarDays, match: (p: string) => p === "/plan" || p === "/rules" },
@@ -32,7 +33,7 @@ const TABS = [
     href: "/data",
     label: "我的",
     icon: MoreHorizontal,
-    match: (p: string) => p === "/data" || p === "/materials",
+    match: (p: string) => p === "/data" || p === "/materials" || p === "/credits",
   },
 ];
 

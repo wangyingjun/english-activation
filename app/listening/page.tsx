@@ -159,13 +159,19 @@ export default function ListeningPage() {
           </section>
         );
       })}
-      <p className="muted tiny">整段文本（核对用，建议先完成盲听再展开）：</p>
-      <details className="card">
-        <summary>显示全文</summary>
-        <pre className="en" style={{ whiteSpace: "pre-wrap", marginTop: 8, fontFamily: "inherit" }}>
-          {fullText}
-        </pre>
-      </details>
+      {showText ? (
+        <>
+          <p className="muted tiny">整段文本（核对用）：</p>
+          <details className="card">
+            <summary>显示全文</summary>
+            <pre className="en" style={{ whiteSpace: "pre-wrap", marginTop: 8, fontFamily: "inherit" }}>
+              {fullText}
+            </pre>
+          </details>
+        </>
+      ) : (
+        <p className="notice">对照文本这一步点「打开文本」之后，才能看全文。盲听时先不要展开。</p>
+      )}
       <p className="notice">{TTS_DISCLAIMER}</p>
     </PracticeFrame>
   );
