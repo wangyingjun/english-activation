@@ -63,6 +63,14 @@ export type PhonicsState = {
   items: Record<string, PhonicsItemStat>;
 };
 
+export type LibraryItemProgress = {
+  heard?: boolean;
+  shadowed?: boolean;
+  pos?: number;
+  plays?: number;
+  last?: number;
+};
+
 export type AppState = {
   startDate: string | null;
   theme: ThemeMode;
@@ -80,6 +88,7 @@ export type AppState = {
   phraseMarks: Record<string, { heard?: boolean; spoken?: boolean }>;
   sceneProgress: Record<string, SceneProgress>;
   phonics: PhonicsState;
+  library: Record<string, LibraryItemProgress>;
 };
 
 export const STORAGE_KEY = "ea.v1";
@@ -104,4 +113,5 @@ export const defaultState = (): AppState => ({
   phraseMarks: {},
   sceneProgress: {},
   phonics: { lessons: {}, items: {} },
+  library: {},
 });

@@ -20,6 +20,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SOUNDS = ROOT / "lib/content/sounds.ts"
 PHONICS = ROOT / "lib/content/phonics/data.json"
+LIBRARY = ROOT / "lib/content/library/data.json"
 OUT_DIR = ROOT / "public/audio/human"
 MANIFEST = ROOT / "lib/generated/human-audio.json"
 UA = "EnglishActivationTrainer/1.0 (https://github.com/wangyingjun/english-activation; educational pronunciation clips)"
@@ -88,6 +89,9 @@ def load_words() -> list[str]:
             words.add(reduced)
     if PHONICS.exists():
         words.update(json.loads(PHONICS.read_text(encoding="utf-8")).get("words", {}).keys())
+    if LIBRARY.exists():
+        for item in json.loads(LIBRARY.read_text(encoding="utf-8")).get("items", []):
+            words.update(k["w"] for k in item.get("keywords", []) if " " not in k["w"])
     return sorted(words, key=lambda w: w.lower())
 
 

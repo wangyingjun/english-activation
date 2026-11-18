@@ -2,6 +2,7 @@ import Link from "next/link";
 import { PageHeader } from "@/components/PageHeader";
 import { uniqueCredits } from "@/lib/human-audio";
 import { SYMBOL_TABLE } from "@/lib/content/phonics";
+import { LIBRARY_ITEMS } from "@/lib/content/library";
 
 export default function CreditsPage() {
   const clips = uniqueCredits();
@@ -75,8 +76,24 @@ export default function CreditsPage() {
           </li>
         ))}
       </ul>
+      <h2 id="library" style={{ marginTop: 16 }}>听力素材的原声</h2>
+      <p className="muted tiny">
+        「听力素材」里的 {LIBRARY_ITEMS.length} 段音频和英文原文来自美国之音（Voice of America）Learning English 节目。按 VOA 版权声明，VOA 自己制作的文字、音频和视频属于公有领域（美国政府作品），使用时注明来源 VOA 即可；含美联社、路透社、法新社等通讯社内容的稿件不属于公有领域，这些稿件本站一律没有收录。音频已转为单声道 MP3 存在本站，英文原文按 VOA 发布的稿子整理（去掉未朗读的小标题和署名），句子时间由语音识别自动对齐，中文翻译由本站编写。
+        <a href="https://learningenglish.voanews.com/p/5373.html" target="_blank" rel="noreferrer"> VOA 版权声明</a>
+      </p>
+      <ul className="credit-list">
+        {LIBRARY_ITEMS.map((i) => (
+          <li key={i.id}>
+            <p className="en"><strong>{i.title}</strong></p>
+            <p className="tiny">
+              {i.series} · {i.date} · {i.credit} · {i.license} ·{" "}
+              <a href={i.url} target="_blank" rel="noreferrer">VOA 原页面</a>
+            </p>
+          </li>
+        ))}
+      </ul>
       <p className="muted tiny" style={{ marginTop: 12 }}>
-        回到 <Link href="/phonics">自然拼读</Link>、<Link href="/sounds">发音练习</Link> 或 <Link href="/materials">推荐材料</Link>。
+        回到 <Link href="/phonics">自然拼读</Link>、<Link href="/sounds">发音练习</Link> 、<Link href="/library">听力素材</Link> 或 <Link href="/materials">推荐材料</Link>。
       </p>
     </article>
   );

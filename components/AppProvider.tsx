@@ -13,6 +13,7 @@ import {
   applyTheme,
   emptyChunkWork,
   coercePhonics,
+  coerceLibrary,
   loadState,
   mergeDay,
   newId,
@@ -26,6 +27,7 @@ import {
   type AppState,
   type ChunkWork,
   type ErrorEntry,
+  type LibraryItemProgress,
   type ListeningProgress,
   type MeaningMode,
   type ThemeMode,
@@ -62,6 +64,7 @@ type AppContextValue = {
   setSceneRole: (sceneId: string, role: "a" | "b") => void;
   setPhonicsLesson: (lessonId: string, patch: { done?: boolean; correct?: boolean }) => void;
   recordPhonics: (key: string, correct: boolean) => void;
+  setLibrary: (id: string, patch: Partial<LibraryItemProgress>) => void;
   exportBackup: () => Promise<BackupPayload>;
   importBackup: (payload: BackupPayload) => Promise<void>;
   resetAll: () => Promise<void>;
@@ -213,13 +216,18 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
         },
       };
     }), [update]);
+  const setLibrary = useCallback((id: string, patch: Partial<LibraryItemProgress>) =>
+    update((s) => {
+      const lib = coerceLibrary(s.library);
+      return { ...s, library: { ...lib, [id]: { ...(lib[id] ?? {}), ...patch, last: Date.now() } } };
+    }), [update]);
   const exportBackup = useCallback(async () => {
     const audio = await exportAudio().catch(() => []);
     return { version: 1 as const, exportedAt: new Date().toISOString(), state: loadState(), audio };
   }, []);
   const importBackup = useCallback(async (payload: BackupPayload) => {
     if (!payload?.state) throw new Error("备份文件格式不对");
-    const next = { ...defaultState(), ...payload.state, sceneProgress: payload.state.sceneProgress ?? {}, phraseMarks: payload.state.phraseMarks ?? {}, contrastStats: payload.state.contrastStats ?? {}, phonics: coercePhonics(payload.state.phonics) };
+    const next = { ...defaultState(), ...payload.state, sceneProgress: payload.state.sceneProgress ?? {}, phraseMarks: payload.state.phraseMarks ?? {}, contrastStats: payload.state.contrastStats ?? {}, phonics: coercePhonics(payload.state.phonics), library: coerceLibrary(payload.state.library) };
     setState(next);
     saveState(next);
     applyTheme(next.theme);
@@ -240,12 +248,12 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       toggleModule, toggleMicro, toggleCompare, setChunkWork,
       addStuckWord, removeStuckWord, addError, updateError, removeError,
       bumpReadCount, setMicroText, setListening, setTimer, recordQuiz, recordContrast, setPhraseMark,
-      setSceneStep, setSceneRole, setPhonicsLesson, recordPhonics, exportBackup, importBackup, resetAll,
+      setSceneStep, setSceneRole, setPhonicsLesson, recordPhonics, setLibrary, exportBackup, importBackup, resetAll,
     }),
     [ready, state, status, setStartDate, setTheme, setMeaningMode, setComparePrompt, toggleModule,
      toggleMicro, toggleCompare, setChunkWork, addStuckWord, removeStuckWord, addError,
      updateError, removeError, bumpReadCount, setMicroText, setListening, setTimer,
-     recordQuiz, recordContrast, setPhraseMark, setSceneStep, setSceneRole, setPhonicsLesson, recordPhonics, exportBackup, importBackup, resetAll],
+     recordQuiz, recordContrast, setPhraseMark, setSceneStep, setSceneRole, setPhonicsLesson, recordPhonics, setLibrary, exportBackup, importBackup, resetAll],
   );
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;

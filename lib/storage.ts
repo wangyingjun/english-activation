@@ -14,6 +14,15 @@ import {
   type TimerState,
 } from "@/lib/types";
 
+export function coerceLibrary(value: unknown): AppState["library"] {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return {};
+  const out: AppState["library"] = {};
+  for (const [k, v] of Object.entries(value as Record<string, unknown>)) {
+    if (v && typeof v === "object") out[k] = v as AppState["library"][string];
+  }
+  return out;
+}
+
 export function coercePhonics(value: unknown): AppState["phonics"] {
   const v = (value && typeof value === "object" ? value : {}) as Partial<AppState["phonics"]>;
   return {
@@ -47,6 +56,7 @@ function safeParse(raw: string | null): AppState {
       phraseMarks: parsed.phraseMarks ?? {},
       sceneProgress: parsed.sceneProgress ?? {},
       phonics: coercePhonics(parsed.phonics),
+      library: coerceLibrary(parsed.library),
     };
   } catch {
     return base;

@@ -10,6 +10,7 @@ import { Meaning, MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
 import { COMPARE_DAYS, formatZhDate, weekdayZh } from "@/lib/calendar";
 import { phrasesForDate } from "@/lib/content/phrases";
 import { SpeakButton } from "@/components/SpeakButton";
+import { formatTime, suggestedLibraryItems } from "@/lib/content/library";
 import { PHONICS_LESSONS, lessonNumber, suggestedPhonicsLesson } from "@/lib/content/phonics";
 import { SCENE_STEP_LABEL, emphasizedSteps, moduleToSceneSteps, sceneForDay, sceneHref, sceneStepCount } from "@/lib/content/scenes";
 
@@ -122,6 +123,33 @@ export default function HomePage() {
                 <Link href="/phonics/practice" className="btn" style={{ marginTop: 8 }}>拼读练习</Link>
               </>
             )}
+          </section>
+        );
+      })()}
+
+      {(() => {
+        const day = Math.min(84, Math.max(1, status.day || 1));
+        const sug = suggestedLibraryItems(status.phase, day, state.library ?? {}, 2);
+        return (
+          <section className="card lib-dash">
+            <p className="kicker">听力素材 · {sug.mode}</p>
+            <h2>{sug.mode === "精听" ? "今天精听一段入门对话" : "今天泛听一两段"}</h2>
+            <p className="muted tiny">
+              {sug.mode === "精听"
+                ? "第一阶段：先盲听，再看英文逐句听懂，最后逐句跟读。原文和中文翻译都在页面里。"
+                : "这个阶段多听：不求每句都懂，开着「英文」或「盲听」整段听下来，卡住的句子再点开看翻译。"}
+            </p>
+            <ul className="list-plain">
+              {sug.items.map((i) => (
+                <li key={i.id}>
+                  <Link href={`/library/${i.id}`}>
+                    <span className="en">{i.title}</span>
+                  </Link>
+                  <span className="muted tiny"> · {i.titleZh} · {i.level} · {formatTime(i.duration)}</span>
+                </li>
+              ))}
+            </ul>
+            <Link href="/library" className="btn" style={{ marginTop: 8 }}>全部听力素材</Link>
           </section>
         );
       })()}

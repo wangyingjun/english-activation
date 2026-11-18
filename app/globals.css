@@ -128,7 +128,7 @@ button, input, textarea, select { font: inherit; color: inherit; }
   width: 100%;
   max-width: 42rem;
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
   gap: 0;
   padding: 0.35rem 0.3rem calc(0.4rem + env(safe-area-inset-bottom));
   background: color-mix(in srgb, var(--bg-elev) 92%, transparent);
@@ -601,3 +601,67 @@ textarea { min-height: 5.5rem; resize: vertical; }
 .ph-verdict { font-weight: 700; margin-bottom: 0.3rem; }
 .ph-stats li { display: grid; grid-template-columns: 1fr auto auto; gap: 0.6rem; align-items: baseline; padding: 0.3rem 0; border-bottom: 1px solid var(--line); }
 .ph-stats li.weak .ph-pct { color: var(--danger); font-weight: 600; }
+
+/* ---------- 听力素材 library ---------- */
+.lib-page { padding-bottom: 7.5rem; }
+.lib-title { font-size: 1.35rem; line-height: 1.35; overflow-wrap: anywhere; }
+.lib-filters { display: flex; flex-direction: column; gap: 0.6rem; }
+.lib-topic { display: flex; align-items: center; gap: 0.5rem; }
+.lib-topic select { font: inherit; padding: 0.3rem 0.5rem; border-radius: 8px; border: 1px solid var(--line); background: var(--bg-elev); color: var(--ink); }
+.lib-list { list-style: none; padding: 0; margin: 0 0 1rem; display: grid; gap: 0.6rem; }
+.lib-item { display: flex; flex-direction: column; gap: 0.2rem; padding: 0.8rem 0.9rem; border: 1px solid var(--line); border-radius: 12px; background: var(--bg-elev); color: inherit; text-decoration: none; min-width: 0; }
+.lib-item:hover { border-color: var(--accent); }
+.lib-item-top { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; }
+.lib-item-title { font-size: 1.02rem; overflow-wrap: anywhere; }
+.lib-level { font-size: 0.7rem; padding: 0.05rem 0.45rem; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.lib-level.lv-1 { background: color-mix(in srgb, var(--accent-2) 18%, transparent); color: var(--accent-2); }
+.lib-level.lv-2 { background: var(--bg-soft); color: var(--ink); }
+.lib-badge { font-size: 0.68rem; padding: 0.05rem 0.4rem; border-radius: 999px; border: 1px solid var(--accent); color: var(--accent); }
+.lib-settings { display: flex; flex-direction: column; gap: 0.55rem; }
+.lib-modes { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.3rem; }
+.lib-modes .chip { font: inherit; font-size: 0.85rem; padding: 0.42rem 0.2rem; border-radius: 9px; border: 1px solid var(--line); background: var(--bg-elev); color: var(--ink); cursor: pointer; }
+.lib-modes .chip.on { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); font-weight: 600; }
+.lib-toggles { display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; }
+.lib-switch { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.82rem; color: var(--ink-soft); }
+.lib-sents { list-style: none; padding: 0; margin: 0 0 1rem; display: flex; flex-direction: column; gap: 0.15rem; }
+.lib-sent { position: relative; border-radius: 10px; border: 1px solid transparent; display: flex; flex-wrap: wrap; align-items: flex-start; }
+.lib-sent.on { background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 40%, transparent); }
+.lib-sent.looping { outline: 2px dashed var(--accent); outline-offset: -2px; }
+.lib-sent-main { flex: 1 1 0; min-width: 0; display: flex; gap: 0.55rem; text-align: left; background: none; border: 0; padding: 0.5rem 0.4rem 0.5rem 0.5rem; color: inherit; font: inherit; cursor: pointer; }
+.lib-time { flex: 0 0 auto; font-size: 0.7rem; color: var(--ink-soft); padding-top: 0.35rem; font-variant-numeric: tabular-nums; width: 2.4rem; }
+.lib-text { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; overflow-wrap: anywhere; }
+.lib-spk { font-size: 0.7rem; color: var(--accent-2); font-weight: 600; letter-spacing: 0.02em; }
+.lib-en { font-size: 1.02rem; line-height: 1.55; }
+.lib-zh { font-size: 0.9rem; color: var(--ink-soft); line-height: 1.55; }
+.mode-zh .lib-zh { color: var(--ink); font-size: 0.98rem; }
+.lib-hidden { color: var(--ink-soft); font-size: 0.85rem; letter-spacing: 0.02em; padding: 0.2rem 0; }
+.lib-sent.on .lib-hidden { color: var(--accent); }
+.lib-reveal { flex: 0 0 auto; align-self: center; font: inherit; font-size: 0.72rem; padding: 0.25rem 0.5rem; margin-right: 0.3rem; border-radius: 999px; border: 1px solid var(--line); background: var(--bg-elev); color: var(--ink-soft); cursor: pointer; }
+.lib-reveal[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); }
+.lib-shadow { flex: 1 1 100%; margin: 0.2rem 0.5rem 0.6rem 3.4rem; padding: 0.6rem; border-radius: 10px; background: var(--bg-elev); border: 1px solid var(--line); display: flex; flex-direction: column; gap: 0.5rem; min-width: 0; }
+.lib-bar { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(3.6rem + env(safe-area-inset-bottom)); width: calc(100% - 1rem); max-width: 41rem; z-index: 19; background: color-mix(in srgb, var(--bg-elev) 96%, transparent); backdrop-filter: blur(12px); border: 1px solid var(--line); border-radius: 14px; padding: 0.4rem 0.55rem 0.5rem; box-shadow: 0 6px 24px rgba(0,0,0,0.12); }
+.lib-progress { display: flex; align-items: center; gap: 0.45rem; }
+.lib-progress input[type="range"] { flex: 1; min-width: 0; accent-color: var(--accent); }
+.lib-clock { font-variant-numeric: tabular-nums; color: var(--ink-soft); width: 2.4rem; text-align: center; }
+.lib-controls { display: flex; align-items: center; justify-content: space-between; gap: 0.25rem; margin-top: 0.2rem; }
+.icon-btn { position: relative; display: inline-flex; align-items: center; justify-content: center; width: 2.4rem; height: 2.4rem; border-radius: 999px; border: 1px solid var(--line); background: var(--bg-elev); color: var(--ink); cursor: pointer; flex: 0 0 auto; }
+.icon-btn small { position: absolute; font-size: 0.55rem; font-weight: 700; }
+.icon-btn.on { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.lib-play { width: 2.9rem; height: 2.9rem; background: var(--accent); color: var(--bg-elev); border-color: var(--accent); }
+.lib-rates { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; flex: 0 0 auto; }
+.lib-rates button { font: inherit; font-size: 0.72rem; padding: 0.4rem 0.42rem; border: 0; background: var(--bg-elev); color: var(--ink-soft); cursor: pointer; font-variant-numeric: tabular-nums; }
+.lib-rates button.on { background: var(--accent-soft); color: var(--accent); font-weight: 700; }
+.ab-btn { font: inherit; font-size: 0.72rem; padding: 0.4rem 0.45rem; border-radius: 999px; border: 1px solid var(--line); background: var(--bg-elev); color: var(--ink); cursor: pointer; white-space: nowrap; flex: 0 0 auto; }
+.ab-btn.on { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.lib-error { color: var(--accent-2); margin-bottom: 0.2rem; }
+.lib-keywords { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.35rem; }
+.lib-keywords li { display: flex; flex-wrap: wrap; align-items: center; gap: 0.2rem 0.6rem; padding: 0.3rem 0; border-bottom: 1px solid var(--line); }
+.lib-kw { font-size: 1rem; }
+.lib-kw-zh { flex: 1 1 8rem; min-width: 0; }
+.lib-source a { overflow-wrap: anywhere; }
+@media (max-width: 380px) {
+  .icon-btn { width: 2.15rem; height: 2.15rem; }
+  .lib-play { width: 2.6rem; height: 2.6rem; }
+  .lib-rates button { padding: 0.35rem 0.32rem; }
+}
+.lib-filters .seg { align-self: flex-start; max-width: 100%; }

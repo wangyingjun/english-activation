@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ALargeSmall, BookOpen, CalendarDays, House, MoreHorizontal, Sparkles } from "lucide-react";
+import { ALargeSmall, BookOpen, CalendarDays, Headphones, House, MoreHorizontal, Sparkles } from "lucide-react";
 
 const TABS = [
   { href: "/", label: "今日", icon: House, match: (p: string) => p === "/" },
@@ -29,6 +29,7 @@ const TABS = [
         "/phrases",
       ].includes(p),
   },
+  { href: "/library", label: "听力", icon: Headphones, match: (p: string) => p.startsWith("/library") },
   { href: "/phonics", label: "拼读", icon: ALargeSmall, match: (p: string) => p.startsWith("/phonics") },
   { href: "/plan", label: "计划", icon: CalendarDays, match: (p: string) => p === "/plan" || p === "/rules" },
   { href: "/book", label: "本子", icon: BookOpen, match: (p: string) => p === "/book" },
