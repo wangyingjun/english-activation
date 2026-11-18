@@ -14,6 +14,14 @@ import {
   type TimerState,
 } from "@/lib/types";
 
+export function coercePhonics(value: unknown): AppState["phonics"] {
+  const v = (value && typeof value === "object" ? value : {}) as Partial<AppState["phonics"]>;
+  return {
+    lessons: v.lessons && typeof v.lessons === "object" ? v.lessons : {},
+    items: v.items && typeof v.items === "object" ? v.items : {},
+  };
+}
+
 function safeParse(raw: string | null): AppState {
   const base = defaultState();
   if (!raw) return base;
@@ -38,6 +46,7 @@ function safeParse(raw: string | null): AppState {
       contrastStats: parsed.contrastStats ?? {},
       phraseMarks: parsed.phraseMarks ?? {},
       sceneProgress: parsed.sceneProgress ?? {},
+      phonics: coercePhonics(parsed.phonics),
     };
   } catch {
     return base;

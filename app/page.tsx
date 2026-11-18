@@ -10,6 +10,7 @@ import { Meaning, MeaningHelp, MeaningModeToggle } from "@/components/Meaning";
 import { COMPARE_DAYS, formatZhDate, weekdayZh } from "@/lib/calendar";
 import { phrasesForDate } from "@/lib/content/phrases";
 import { SpeakButton } from "@/components/SpeakButton";
+import { PHONICS_LESSONS, lessonNumber, suggestedPhonicsLesson } from "@/lib/content/phonics";
 import { SCENE_STEP_LABEL, emphasizedSteps, moduleToSceneSteps, sceneForDay, sceneHref, sceneStepCount } from "@/lib/content/scenes";
 
 export default function HomePage() {
@@ -94,6 +95,33 @@ export default function HomePage() {
               打开今天的场景
             </Link>
             <Link href="/scenes" className="btn" style={{ marginTop: 8, marginLeft: 8 }}>场景库</Link>
+          </section>
+        );
+      })()}
+
+      {(() => {
+        const sug = !status.notYet && !status.ended ? suggestedPhonicsLesson(status.day) : null;
+        const doneCount = PHONICS_LESSONS.filter((l) => state.phonics?.lessons?.[l.id]?.done).length;
+        if (!sug && doneCount === 0 && status.phase !== 1) return null;
+        const sugDone = sug ? !!state.phonics?.lessons?.[sug.id]?.done : false;
+        return (
+          <section className="card ph-side">
+            <p className="kicker">选修 · 自然拼读</p>
+            {sug ? (
+              <>
+                <h2>{lessonNumber(sug)} {sug.titleZh}{sugDone ? " ✓" : ""}</h2>
+                <p className="muted tiny">第 1–4 周建议顺带学：从 48 个音标开始，再到拼读规则。约 15 分钟，不算进今天的 90 分钟。已完成 {doneCount} / {PHONICS_LESSONS.length} 课。</p>
+                <div className="btn-row" style={{ marginTop: 8 }}>
+                  <Link href={`/phonics/${sug.id}`} className="btn btn-accent">打开这一课</Link>
+                  <Link href="/phonics" className="btn">全部课程</Link>
+                </div>
+              </>
+            ) : (
+              <>
+                <p className="muted tiny">已完成 {doneCount} / {PHONICS_LESSONS.length} 课。想复习发音规律时可以随时打开。</p>
+                <Link href="/phonics/practice" className="btn" style={{ marginTop: 8 }}>拼读练习</Link>
+              </>
+            )}
           </section>
         );
       })()}

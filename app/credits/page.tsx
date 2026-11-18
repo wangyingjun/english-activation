@@ -1,9 +1,11 @@
 import Link from "next/link";
 import { PageHeader } from "@/components/PageHeader";
 import { uniqueCredits } from "@/lib/human-audio";
+import { SYMBOL_TABLE } from "@/lib/content/phonics";
 
 export default function CreditsPage() {
   const clips = uniqueCredits();
+  const ipaClips = [...new Map(SYMBOL_TABLE.filter((s) => s.isolated).map((s) => [s.isolated!.file, s])).values()];
   const byLicense = new Map<string, number>();
   for (const c of clips) byLicense.set(c.license, (byLicense.get(c.license) ?? 0) + 1);
 
@@ -51,8 +53,30 @@ export default function CreditsPage() {
           </li>
         ))}
       </ul>
+      <h2 style={{ marginTop: 16 }}>单独音标的示范录音</h2>
+      <p className="muted tiny">
+        「自然拼读」里「单独听这个音」用的是 Wikimedia Commons 上的国际音标示范录音，转换为 MP3，部分只截取其中一段。元音用声学共振峰和美国英语元音数据对照核对，辅音用音素识别核对，没有通过核对的音不提供单独录音。
+      </p>
+      <ul className="credit-list">
+        {ipaClips.map((s) => (
+          <li key={s.isolated!.file}>
+            <p className="en"><strong>/{s.us}/</strong> · {s.isolated!.source}{s.isolated!.trimmed ? "（截取片段）" : ""}</p>
+            <p className="tiny">
+              {s.isolated!.author}
+              {" · "}
+              {s.isolated!.licenseUrl ? (
+                <a href={s.isolated!.licenseUrl} target="_blank" rel="noreferrer">{s.isolated!.license}</a>
+              ) : (
+                s.isolated!.license
+              )}
+              {" · "}
+              <a href={s.isolated!.page} target="_blank" rel="noreferrer">Commons 文件页</a>
+            </p>
+          </li>
+        ))}
+      </ul>
       <p className="muted tiny" style={{ marginTop: 12 }}>
-        回到 <Link href="/sounds">发音练习</Link> 或 <Link href="/materials">推荐材料</Link>。
+        回到 <Link href="/phonics">自然拼读</Link>、<Link href="/sounds">发音练习</Link> 或 <Link href="/materials">推荐材料</Link>。
       </p>
     </article>
   );

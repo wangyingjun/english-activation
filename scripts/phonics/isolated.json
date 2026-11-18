@@ -1,0 +1,212 @@
+{
+ "iː": {
+  "file": "/audio/ipa/i-long.mp3",
+  "source": "Close front unrounded vowel.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Close_front_unrounded_vowel.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Denelson83",
+  "method": "formant",
+  "trimmed": false
+ },
+ "ʌ": {
+  "file": "/audio/ipa/uh.mp3",
+  "source": "Open-mid back unrounded vowel.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Open-mid_back_unrounded_vowel.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "1tslmn2015",
+  "method": "formant",
+  "trimmed": false
+ },
+ "uː": {
+  "file": "/audio/ipa/u-long.mp3",
+  "source": "Close back rounded vowel.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Close_back_rounded_vowel.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Denelson83",
+  "method": "formant",
+  "trimmed": false
+ },
+ "p": {
+  "file": "/audio/ipa/p.mp3",
+  "source": "Aspirated voiceless bilabial stop.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aspirated_voiceless_bilabial_stop.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Joni~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "t": {
+  "file": "/audio/ipa/t.mp3",
+  "source": "Aspirated voiceless alveolar stop.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aspirated_voiceless_alveolar_stop.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Joni~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "b": {
+  "file": "/audio/ipa/b.mp3",
+  "source": "Voiced bilabial plosive.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_bilabial_plosive.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "d": {
+  "file": "/audio/ipa/d.mp3",
+  "source": "Voiced alveolar plosive.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_plosive.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": true
+ },
+ "ɡ": {
+  "file": "/audio/ipa/g.mp3",
+  "source": "Voiced velar plosive.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_velar_plosive.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "f": {
+  "file": "/audio/ipa/f.mp3",
+  "source": "Voiceless labiodental fricative.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiceless_labiodental_fricative.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "v": {
+  "file": "/audio/ipa/v.mp3",
+  "source": "Voiced labiodental fricative.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_labiodental_fricative.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "s": {
+  "file": "/audio/ipa/s.mp3",
+  "source": "Voiceless alveolar sibilant.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_sibilant.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Peter Isotalo",
+  "method": "recognizer",
+  "trimmed": true
+ },
+ "z": {
+  "file": "/audio/ipa/z.mp3",
+  "source": "Voiced alveolar sibilant.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_sibilant.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "ʒ": {
+  "file": "/audio/ipa/zh.mp3",
+  "source": "Voiced palato-alveolar sibilant.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_sibilant.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Peter Isotalo",
+  "method": "recognizer",
+  "trimmed": true
+ },
+ "tʃ": {
+  "file": "/audio/ipa/ch.mp3",
+  "source": "Voiceless palato-alveolar affricate.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiceless_palato-alveolar_affricate.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Peter Isotalo",
+  "method": "recognizer",
+  "trimmed": true
+ },
+ "dʒ": {
+  "file": "/audio/ipa/j.mp3",
+  "source": "Voiced palato-alveolar affricate.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_affricate.ogg",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "author": "The original uploader was Octane at English Wikipedia.",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "m": {
+  "file": "/audio/ipa/m.mp3",
+  "source": "Bilabial nasal.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bilabial_nasal.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "n": {
+  "file": "/audio/ipa/n.mp3",
+  "source": "Alveolar nasal.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alveolar_nasal.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Peter Isotalo",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "ŋ": {
+  "file": "/audio/ipa/ng.mp3",
+  "source": "Velar nasal.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Velar_nasal.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": true
+ },
+ "l": {
+  "file": "/audio/ipa/l.mp3",
+  "source": "Alveolar lateral approximant.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alveolar_lateral_approximant.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "w": {
+  "file": "/audio/ipa/w.mp3",
+  "source": "Voiced labio-velar approximant.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Voiced_labio-velar_approximant.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ },
+ "j": {
+  "file": "/audio/ipa/y.mp3",
+  "source": "Palatal approximant.ogg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palatal_approximant.ogg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Karmosin~commonswiki",
+  "method": "recognizer",
+  "trimmed": false
+ }
+}

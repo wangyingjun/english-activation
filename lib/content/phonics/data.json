@@ -1,0 +1,4881 @@
+{
+ "lessons": [
+  {
+   "id": "a1",
+   "part": "A",
+   "title": "Short vowels",
+   "titleZh": "短元音",
+   "introZh": "先学 7 个短元音。它们都短、松、不滑动。中国学生最常见的问题是把短音拉长，或者把几个相近的音念成一个。每个音先慢听，再听例词，最后做小测。",
+   "sounds": [
+    {
+     "dj": "ɪ",
+     "us": "ɪ",
+     "kk": "ɪ",
+     "nameZh": "短 i",
+     "mouth": "舌头比 /iː/ 稍低稍后，嘴唇放松、微微张开，声音短促，不用力。",
+     "chinese": "接近汉语「一」但更松更短，介于「一」和「诶」之间。常见错误：把 sit 念成 seat，长短不分。",
+     "spell": "i（sit）、y（gym）",
+     "words": [
+      "sit",
+      "big",
+      "fish",
+      "milk"
+     ],
+     "contrast": "i-i",
+     "usNote": null,
+     "id": "a1-1",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "e",
+     "us": "e",
+     "kk": "ɛ",
+     "nameZh": "短 e",
+     "mouth": "嘴比 /ɪ/ 张得大一点，嘴角略向两边拉，舌头在中间偏前，短。",
+     "chinese": "像「诶」去掉尾巴，不要滑成 /eɪ/。常见错误：bed 念成 bad，或者拖成 bay-d。",
+     "spell": "e（bed）、ea（head）",
+     "words": [
+      "bed",
+      "pen",
+      "red",
+      "egg"
+     ],
+     "contrast": "i-e",
+     "usNote": "美式词典和 KK 常写 /ɛ/，和英式 /e/ 是同一个音。",
+     "id": "a1-2",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "æ",
+     "us": "æ",
+     "kk": "æ",
+     "nameZh": "蝴蝶音",
+     "mouth": "下巴明显放下，嘴张大，嘴角往两边拉，舌尖抵下齿，舌头低而前。",
+     "chinese": "汉语里没有这个音，在「啊」和「诶」之间。常见错误：cat 念成 ket（太窄）或念成「卡」（太后）。",
+     "spell": "a（cat）",
+     "words": [
+      "cat",
+      "bag",
+      "apple",
+      "hat"
+     ],
+     "contrast": "ae-e",
+     "usNote": null,
+     "id": "a1-3",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ʌ",
+     "us": "ʌ",
+     "kk": "ʌ",
+     "nameZh": "短 a（杯子音）",
+     "mouth": "嘴自然半张，舌头放平在中间，不圆唇，声音短而有力。",
+     "chinese": "接近轻声的「阿」，比「啊」短、嘴不要张太大。常见错误：cup 和 cap 不分，或念成 /ɑː/。",
+     "spell": "u（cup）、o（love）、ou（touch）",
+     "words": [
+      "cup",
+      "bus",
+      "sun",
+      "love"
+     ],
+     "contrast": "ah-uh",
+     "usNote": null,
+     "id": "a1-4",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/uh.mp3",
+      "source": "Open-mid back unrounded vowel.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Open-mid_back_unrounded_vowel.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "1tslmn2015",
+      "method": "formant",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "ɒ",
+     "us": "ɑː",
+     "kk": "ɑ",
+     "nameZh": "短 o（美音变 /ɑː/）",
+     "mouth": "英式是圆唇短 o；美式在 hot、box 里不圆唇，嘴张大，舌头低后，像张大嘴的「啊」。",
+     "chinese": "美音接近「啊」，嘴张更大，舌头更靠后。常见错误：按课本英式念成圆唇的「哦」，美国人听起来不自然。",
+     "spell": "o（hot、box）",
+     "words": [
+      "hot",
+      "box",
+      "stop",
+      "job"
+     ],
+     "contrast": null,
+     "usNote": "英式 /ɒ/ 在美音里一般变成 /ɑː/：hot /hɑːt/、job /dʒɑːb/。",
+     "id": "a1-5",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ʊ",
+     "us": "ʊ",
+     "kk": "ʊ",
+     "nameZh": "短 u",
+     "mouth": "嘴唇微圆但放松，舌头后部抬起但不如 /uː/ 高，声音短。",
+     "chinese": "接近「乌」但更松、更短，嘴不要撅。常见错误：book 念成 boo-k，拉长成 /uː/。",
+     "spell": "oo（book）、u（put）、ou（could）",
+     "words": [
+      "book",
+      "good",
+      "put",
+      "foot"
+     ],
+     "contrast": "u-uu",
+     "usNote": null,
+     "id": "a1-6",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ə",
+     "us": "ə",
+     "kk": "ə",
+     "nameZh": "弱读音（schwa）",
+     "mouth": "嘴、舌头、嘴唇全部放松，在中间位置轻轻发一个很短的「呃」。只出现在不重读的音节里。",
+     "chinese": "像轻声的「呃」。常见错误：把每个字母都读清楚，about 念成「阿保特」，节奏会很生硬。",
+     "spell": "a（about）、o（today）、e（problem）等",
+     "words": [
+      "about",
+      "banana",
+      "sofa",
+      "today"
+     ],
+     "contrast": null,
+     "usNote": null,
+     "id": "a1-7",
+     "extra": false,
+     "isolated": null
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "part": "A",
+   "title": "Long vowels",
+   "titleZh": "长元音",
+   "introZh": "5 个长元音要稳、要够长，口型从头到尾基本不变。美音里 /ɜː/ 带卷舌，写作 /ɝː/。长和短的区别，不只是长度，口型也不同。",
+   "sounds": [
+    {
+     "dj": "iː",
+     "us": "iː",
+     "kk": "i",
+     "nameZh": "长 i",
+     "mouth": "嘴角向两边拉，像微笑，舌头高而前，紧，拉长。",
+     "chinese": "接近汉语「衣」，但要更长、嘴角更开。常见错误：和 /ɪ/ 不分，seat 和 sit 一样。",
+     "spell": "ee（see）、ea（tea）、e（she）",
+     "words": [
+      "see",
+      "tea",
+      "eat",
+      "green"
+     ],
+     "contrast": "i-i",
+     "usNote": null,
+     "id": "a2-1",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/i-long.mp3",
+      "source": "Close front unrounded vowel.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Close_front_unrounded_vowel.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Denelson83",
+      "method": "formant",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "ɑː",
+     "us": "ɑː",
+     "kk": "ɑ",
+     "nameZh": "长 a",
+     "mouth": "嘴张大，舌头放低、靠后，不圆唇，声音拉长。美音在 r 前写作 /ɑːr/，要卷舌。",
+     "chinese": "接近「啊」，嘴张得更大、更靠后。常见错误：car 只念「卡」，漏掉美音的卷舌。",
+     "spell": "a（father）、ar（car）",
+     "words": [
+      "father",
+      "car",
+      "park",
+      "star"
+     ],
+     "contrast": "er-ah",
+     "usNote": "英式 car /kɑː/ 不卷舌；美式 car /kɑːr/ 要卷舌。",
+     "id": "a2-2",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ɔː",
+     "us": "ɔː",
+     "kk": "ɔ",
+     "nameZh": "长 o",
+     "mouth": "嘴唇收圆、向前，下巴放低，舌头靠后，声音稳住不滑。",
+     "chinese": "接近「哦」拉长，但嘴更圆、更开。常见错误：念成 /oʊ/（滑向「欧」）。很多美国人会把这个音念得接近 /ɑː/。",
+     "spell": "al（ball、walk）、aw（saw）、au",
+     "words": [
+      "ball",
+      "walk",
+      "talk",
+      "saw"
+     ],
+     "contrast": "or-oh",
+     "usNote": "很多美国人把 /ɔː/ 和 /ɑː/ 合并：walk 也可听到 /wɑːk/。两种都对。",
+     "id": "a2-3",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "uː",
+     "us": "uː",
+     "kk": "u",
+     "nameZh": "长 u",
+     "mouth": "嘴唇撅圆、向前，舌头后部抬高，紧，拉长。",
+     "chinese": "接近汉语「乌」，但更长、嘴更圆。常见错误：和 /ʊ/ 不分，food 和 foot 一样。",
+     "spell": "oo（food）、ue（blue）、o（two）",
+     "words": [
+      "food",
+      "blue",
+      "school",
+      "two"
+     ],
+     "contrast": "u-uu",
+     "usNote": null,
+     "id": "a2-4",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/u-long.mp3",
+      "source": "Close back rounded vowel.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Close_back_rounded_vowel.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Denelson83",
+      "method": "formant",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "ɜː",
+     "us": "ɝː",
+     "kk": "ɝ",
+     "nameZh": "卷舌长元音",
+     "mouth": "美音：舌尖向上卷或舌身向后缩，嘴唇微圆，声音拉长并带 r 色。英式不卷舌。",
+     "chinese": "汉语「儿」的感觉，但要从头到尾都卷着。常见错误：念成「额」不卷舌，或念成「我」。",
+     "spell": "er（her）、ir（bird）、ur（turn）、or（work）",
+     "words": [
+      "bird",
+      "girl",
+      "work",
+      "first"
+     ],
+     "contrast": "er-ah",
+     "usNote": "英式 /ɜː/ 在美音里写作 /ɝː/，一定要卷舌：bird /bɝːd/。",
+     "id": "a2-5",
+     "extra": false,
+     "isolated": null
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "part": "A",
+   "title": "Diphthongs",
+   "titleZh": "双元音（滑动音）",
+   "introZh": "双元音是从一个音滑到另一个音，前半部分重、长，后半部分轻、短。中国学生常常滑得不够，或者只念前半。",
+   "sounds": [
+    {
+     "dj": "eɪ",
+     "us": "eɪ",
+     "kk": "e",
+     "nameZh": "ei 滑音",
+     "mouth": "从 /e/ 开始，嘴角向两边拉，滑向 /ɪ/。前重后轻。",
+     "chinese": "接近汉语「诶」，结尾要往「一」滑。常见错误：和短 /e/ 不分，late 念成 let。",
+     "spell": "a_e（cake）、ai（rain）、ay（day）",
+     "words": [
+      "day",
+      "name",
+      "rain",
+      "cake"
+     ],
+     "contrast": "ei-e",
+     "usNote": null,
+     "id": "a3-1",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "aɪ",
+     "us": "aɪ",
+     "kk": "aɪ",
+     "nameZh": "ai 滑音",
+     "mouth": "嘴先张大发 /a/，再滑向 /ɪ/，舌头从低到高。",
+     "chinese": "接近汉语「爱」，但开头嘴张得更大。常见错误：滑得太短，像只说了「啊」。",
+     "spell": "i_e（five）、y（my）、igh（night）",
+     "words": [
+      "five",
+      "time",
+      "my",
+      "night"
+     ],
+     "contrast": "ai-ae",
+     "usNote": null,
+     "id": "a3-2",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ɔɪ",
+     "us": "ɔɪ",
+     "kk": "ɔɪ",
+     "nameZh": "oi 滑音",
+     "mouth": "从圆唇的 /ɔ/ 开始，再滑向 /ɪ/。",
+     "chinese": "接近「哦一」连读。常见错误：前半部分嘴不够圆。",
+     "spell": "oi（coin）、oy（boy）",
+     "words": [
+      "boy",
+      "toy",
+      "coin",
+      "enjoy"
+     ],
+     "contrast": null,
+     "usNote": null,
+     "id": "a3-3",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "aʊ",
+     "us": "aʊ",
+     "kk": "aʊ",
+     "nameZh": "au 滑音",
+     "mouth": "嘴先张大发 /a/，再收圆滑向 /ʊ/。",
+     "chinese": "接近汉语「奥」，但开头嘴张得更大。常见错误：念成「熬」不够开，或者滑不到 /ʊ/。",
+     "spell": "ou（house）、ow（now）",
+     "words": [
+      "now",
+      "house",
+      "down",
+      "out"
+     ],
+     "contrast": null,
+     "usNote": null,
+     "id": "a3-4",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "əʊ",
+     "us": "oʊ",
+     "kk": "o",
+     "nameZh": "ou 滑音（美音 /oʊ/）",
+     "mouth": "美音从圆唇的 /o/ 开始，嘴唇再收得更圆，滑向 /ʊ/。",
+     "chinese": "接近汉语「欧」。常见错误：念成单个「哦」，没有滑动。",
+     "spell": "o_e（home）、oa（boat）、ow（show）、o（go）",
+     "words": [
+      "go",
+      "home",
+      "phone",
+      "boat"
+     ],
+     "contrast": "or-oh",
+     "usNote": "英式 /əʊ/ 开头偏中；美式写作 /oʊ/，开头嘴就圆：go /ɡoʊ/。",
+     "id": "a3-5",
+     "extra": false,
+     "isolated": null
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "part": "A",
+   "title": "R-colored vowels (US)",
+   "titleZh": "卷舌元音与美音差异",
+   "introZh": "课本里的 /ɪə/、/eə/、/ʊə/ 在美音里都带 r，变成 /ɪr/、/er/、/ʊr/。再加上 car、door 里的 /ɑːr/、/ɔːr/ 和不重读的 /ɚ/，这一课把美音里所有卷舌的元音放在一起。",
+   "sounds": [
+    {
+     "dj": "ɪə",
+     "us": "ɪr",
+     "kk": "ɪr",
+     "nameZh": "ear 音（美音 /ɪr/）",
+     "mouth": "先发 /ɪ/，然后舌头卷起来，带 r 结束。不要加一个 /ə/。",
+     "chinese": "英式像「衣呃」，美式更像「衣儿」。常见错误：here 念成「希尔」两个字。",
+     "spell": "ear（near）、eer（beer）、ere（here）",
+     "words": [
+      "here",
+      "near",
+      "ear",
+      "beer"
+     ],
+     "contrast": "here-hair",
+     "usNote": "英式 /ɪə/ → 美式 /ɪr/。",
+     "id": "a4-1",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "eə",
+     "us": "er",
+     "kk": "ɛr",
+     "nameZh": "air 音（美音 /er/）",
+     "mouth": "先发 /e/，嘴略开，然后卷舌带 r。",
+     "chinese": "像「诶儿」。常见错误：和 /ɪr/ 不分，hair 听成 here。",
+     "spell": "air（hair）、are（care）、ere（where）",
+     "words": [
+      "hair",
+      "chair",
+      "where",
+      "care"
+     ],
+     "contrast": "here-hair",
+     "usNote": "英式 /eə/ → 美式 /er/。",
+     "id": "a4-2",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ʊə",
+     "us": "ʊr",
+     "kk": "ʊr",
+     "nameZh": "ure 音（美音 /ʊr/）",
+     "mouth": "嘴唇微圆发 /ʊ/，再卷舌带 r。很多词在美音里也会念成 /ɔːr/ 或 /ɝː/。",
+     "chinese": "像「乌儿」。常见错误：念成「舒啊」，没有 r。",
+     "spell": "ure（sure、cure）、our（tour）",
+     "words": [
+      "sure",
+      "tour",
+      "cure"
+     ],
+     "contrast": null,
+     "usNote": "英式 /ʊə/ → 美式 /ʊr/。这个音的词不多，口语里变化也多。",
+     "id": "a4-3",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ɑː+r",
+     "us": "ɑːr",
+     "kk": "ɑr",
+     "nameZh": "ar 音（美音）",
+     "mouth": "先发张大嘴的 /ɑː/，再卷舌。",
+     "chinese": "像「啊儿」。英式 car 不卷舌；美式一定卷。",
+     "spell": "ar（car、park）",
+     "words": [
+      "car",
+      "park",
+      "star",
+      "art"
+     ],
+     "contrast": "er-ah",
+     "usNote": "英式 /ɑː/（car）→ 美式 /ɑːr/。这一项不在 48 个音标里，是美音的组合。",
+     "id": "a4-4",
+     "extra": true,
+     "isolated": null
+    },
+    {
+     "dj": "ɔː+r",
+     "us": "ɔːr",
+     "kk": "ɔr",
+     "nameZh": "or 音（美音）",
+     "mouth": "嘴唇圆，发 /ɔː/，再卷舌。",
+     "chinese": "像「哦儿」。常见错误：door 念成「多」。",
+     "spell": "or（for）、oor（door）、ore（more）、our（four）",
+     "words": [
+      "door",
+      "more",
+      "four",
+      "short"
+     ],
+     "contrast": null,
+     "usNote": "英式 /ɔː/（door）→ 美式 /ɔːr/。这一项也是美音的组合。",
+     "id": "a4-5",
+     "extra": true,
+     "isolated": null
+    },
+    {
+     "dj": "ə+r",
+     "us": "ɚ",
+     "kk": "ɚ",
+     "nameZh": "弱卷舌音 /ɚ/",
+     "mouth": "在不重读的 -er、-or、-ar 结尾里，放松地带一点卷舌，很短。",
+     "chinese": "像轻声的「儿」。常见错误：teacher 念成「踢车」，结尾不卷；或者重读成 /ɝː/。",
+     "spell": "er（teacher）、or（doctor）、ar（dollar）",
+     "words": [
+      "teacher",
+      "water",
+      "doctor",
+      "color"
+     ],
+     "contrast": null,
+     "usNote": "英式不重读的 -er 是 /ə/；美式是 /ɚ/（卷舌）。",
+     "id": "a4-6",
+     "extra": true,
+     "isolated": null
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "part": "A",
+   "title": "Plosives",
+   "titleZh": "爆破音（清浊三对）",
+   "introZh": "爆破音是先堵住气流，再突然放开。三对：/p b/、/t d/、/k ɡ/。清音（p t k）在重读音节开头要送气，用手掌放在嘴前能感到一股气；浊音（b d ɡ）声带振动，摸喉咙会抖。",
+   "sounds": [
+    {
+     "dj": "p",
+     "us": "p",
+     "kk": "p",
+     "nameZh": "p",
+     "mouth": "双唇闭紧，再突然张开，送出一股气。声带不振动。",
+     "chinese": "接近拼音 p（送气）。常见错误：在 s 后面也送气，speak 里的 p 其实不送气，像 b。",
+     "spell": "p（pen）、pp（apple）",
+     "words": [
+      "pen",
+      "cup",
+      "apple",
+      "park"
+     ],
+     "contrast": "voice",
+     "usNote": null,
+     "id": "a5-1",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/p.mp3",
+      "source": "Aspirated voiceless bilabial stop.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Aspirated_voiceless_bilabial_stop.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Joni~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "b",
+     "us": "b",
+     "kk": "b",
+     "nameZh": "b",
+     "mouth": "双唇闭紧，再张开，声带振动，不送气。",
+     "chinese": "接近拼音 b，但英语 /b/ 声带要更早振动。常见错误：词尾 job 的 b 吞掉，或后面加「呃」念成 jobu。",
+     "spell": "b（bag）",
+     "words": [
+      "bag",
+      "bus",
+      "job",
+      "baby"
+     ],
+     "contrast": "voice",
+     "usNote": null,
+     "id": "a5-2",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/b.mp3",
+      "source": "Voiced bilabial plosive.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_bilabial_plosive.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "t",
+     "us": "t",
+     "kk": "t",
+     "nameZh": "t",
+     "mouth": "舌尖抵住上齿龈（上牙后面的小鼓包），突然放开，送气。",
+     "chinese": "接近拼音 t。美音里两个元音之间的 t 常变成很快的弹舌，像轻轻的 d：water、better。",
+     "spell": "t（ten）",
+     "words": [
+      "ten",
+      "hot",
+      "tea",
+      "cat"
+     ],
+     "contrast": "voice",
+     "usNote": "美音：元音之间的 t 常变成闪音 [ɾ]，water 听起来像 wa-der。",
+     "id": "a5-3",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/t.mp3",
+      "source": "Aspirated voiceless alveolar stop.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Aspirated_voiceless_alveolar_stop.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Joni~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "d",
+     "us": "d",
+     "kk": "d",
+     "nameZh": "d",
+     "mouth": "舌尖位置同 /t/，声带振动，不送气。",
+     "chinese": "接近拼音 d。常见错误：词尾 red 的 d 不念，或加「呃」念成 reddo。",
+     "spell": "d（dog）",
+     "words": [
+      "dog",
+      "red",
+      "day",
+      "bed"
+     ],
+     "contrast": "dh-d",
+     "usNote": null,
+     "id": "a5-4",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/d.mp3",
+      "source": "Voiced alveolar plosive.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_plosive.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": true
+     }
+    },
+    {
+     "dj": "k",
+     "us": "k",
+     "kk": "k",
+     "nameZh": "k",
+     "mouth": "舌头后部抬起抵住软腭，突然放开，送气。",
+     "chinese": "接近拼音 k。常见错误：词尾 book 的 k 吞掉，或念成 bookie。",
+     "spell": "c（cat）、k（key）、ck（back）",
+     "words": [
+      "cake",
+      "cup",
+      "book",
+      "key"
+     ],
+     "contrast": "voice",
+     "usNote": null,
+     "id": "a5-5",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ɡ",
+     "us": "ɡ",
+     "kk": "ɡ",
+     "nameZh": "g",
+     "mouth": "舌位同 /k/，声带振动，不送气。",
+     "chinese": "接近拼音 g。常见错误：egg 结尾加「呃」，念成 eggu。",
+     "spell": "g（go）",
+     "words": [
+      "go",
+      "bag",
+      "egg",
+      "green"
+     ],
+     "contrast": "voice",
+     "usNote": null,
+     "id": "a5-6",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/g.mp3",
+      "source": "Voiced velar plosive.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_velar_plosive.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "part": "A",
+   "title": "Fricatives 1: f v θ ð",
+   "titleZh": "摩擦音（一）：唇齿音和咬舌音",
+   "introZh": "摩擦音是让气流从窄缝里摩擦出来。这一课是 /f v/（上齿碰下唇）和 /θ ð/（舌尖在上下齿之间）。/θ ð/ 是汉语里没有的音，最需要练。",
+   "sounds": [
+    {
+     "dj": "f",
+     "us": "f",
+     "kk": "f",
+     "nameZh": "f",
+     "mouth": "上齿轻碰下唇，气流从缝里吹出，声带不振动。",
+     "chinese": "接近拼音 f。常见错误：把 /θ/ 也念成 f，three 念成 free。",
+     "spell": "f（fish）、ph（phone）、ff（coffee）",
+     "words": [
+      "fish",
+      "five",
+      "coffee",
+      "phone"
+     ],
+     "contrast": "f-th",
+     "usNote": null,
+     "id": "a6-1",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/f.mp3",
+      "source": "Voiceless labiodental fricative.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiceless_labiodental_fricative.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "v",
+     "us": "v",
+     "kk": "v",
+     "nameZh": "v",
+     "mouth": "口型同 /f/，但声带振动，下唇会有点麻。",
+     "chinese": "汉语没有这个音。常见错误：念成 w（very 念成 wery），或念成 f。",
+     "spell": "v（van）",
+     "words": [
+      "van",
+      "very",
+      "seven",
+      "five"
+     ],
+     "contrast": "v-w",
+     "usNote": null,
+     "id": "a6-2",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/v.mp3",
+      "source": "Voiced labiodental fricative.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_labiodental_fricative.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "θ",
+     "us": "θ",
+     "kk": "θ",
+     "nameZh": "咬舌清音",
+     "mouth": "舌尖轻轻放在上下齿之间（或抵住上齿背），吹气，声带不振动。",
+     "chinese": "汉语没有这个音。常见错误：念成 s（think → sink）或 f（three → free）。",
+     "spell": "th（think）",
+     "words": [
+      "think",
+      "three",
+      "bath",
+      "mouth"
+     ],
+     "contrast": "th-s",
+     "usNote": null,
+     "id": "a6-3",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ð",
+     "us": "ð",
+     "kk": "ð",
+     "nameZh": "咬舌浊音",
+     "mouth": "口型同 /θ/，但声带振动，舌尖有点麻。",
+     "chinese": "汉语没有。常见错误：念成 z 或 d（this → zis、dis）。",
+     "spell": "th（this、mother）",
+     "words": [
+      "this",
+      "mother",
+      "they",
+      "with"
+     ],
+     "contrast": "th-dh",
+     "usNote": null,
+     "id": "a6-4",
+     "extra": false,
+     "isolated": null
+    }
+   ]
+  },
+  {
+   "id": "a7",
+   "part": "A",
+   "title": "Fricatives 2: s z ʃ ʒ h",
+   "titleZh": "摩擦音（二）：咝音和 h",
+   "introZh": "/s z/ 舌尖靠近上齿龈；/ʃ ʒ/ 舌头往后一点、嘴唇向前撅；/h/ 只是轻轻呼气。注意 /ʃ/ 不等于拼音 sh，也不等于 x。",
+   "sounds": [
+    {
+     "dj": "s",
+     "us": "s",
+     "kk": "s",
+     "nameZh": "s",
+     "mouth": "舌尖靠近上齿龈，留一条窄缝，吹出「嘶」声，声带不振动。",
+     "chinese": "接近拼音 s。常见错误：在词尾加元音，bus 念成 busi。",
+     "spell": "s（sun）、c（city）、ss",
+     "words": [
+      "sun",
+      "bus",
+      "six",
+      "city"
+     ],
+     "contrast": "s-z",
+     "usNote": null,
+     "id": "a7-1",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/s.mp3",
+      "source": "Voiceless alveolar sibilant.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_sibilant.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Peter Isotalo",
+      "method": "recognizer",
+      "trimmed": true
+     }
+    },
+    {
+     "dj": "z",
+     "us": "z",
+     "kk": "z",
+     "nameZh": "z",
+     "mouth": "口型同 /s/，声带振动，像蜜蜂的「嗡」。",
+     "chinese": "汉语没有这个音（拼音 z 是另一个音）。常见错误：念成 s，或者念成拼音 z「资」。",
+     "spell": "z（zoo）、s（nose、busy）",
+     "words": [
+      "zoo",
+      "zero",
+      "nose",
+      "busy"
+     ],
+     "contrast": "s-z",
+     "usNote": null,
+     "id": "a7-2",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/z.mp3",
+      "source": "Voiced alveolar sibilant.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_sibilant.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "ʃ",
+     "us": "ʃ",
+     "kk": "ʃ",
+     "nameZh": "sh 音",
+     "mouth": "舌身抬起靠近硬腭前部，嘴唇向前撅圆，吹气，声带不振动。",
+     "chinese": "比拼音 sh 更靠前、嘴唇更圆，也不要念成 x。常见错误：she 念成 xi，或与 s 不分。",
+     "spell": "sh（shop）、ti（station）",
+     "words": [
+      "shop",
+      "fish",
+      "she",
+      "wash"
+     ],
+     "contrast": "sh-s",
+     "usNote": null,
+     "id": "a7-3",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ʒ",
+     "us": "ʒ",
+     "kk": "ʒ",
+     "nameZh": "sh 的浊音",
+     "mouth": "口型同 /ʃ/，声带振动。多出现在词中间。",
+     "chinese": "接近拼音 r「日」的前半，但嘴唇要撅圆、舌头不卷。常见错误：念成「日」或 /dʒ/。",
+     "spell": "s（usually）、si（television）",
+     "words": [
+      "usually",
+      "measure",
+      "television",
+      "pleasure"
+     ],
+     "contrast": null,
+     "usNote": null,
+     "id": "a7-4",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/zh.mp3",
+      "source": "Voiced palato-alveolar sibilant.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_sibilant.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Peter Isotalo",
+      "method": "recognizer",
+      "trimmed": true
+     }
+    },
+    {
+     "dj": "h",
+     "us": "h",
+     "kk": "h",
+     "nameZh": "h",
+     "mouth": "嘴摆好后面元音的形状，轻轻呼一口气，喉咙不摩擦。",
+     "chinese": "比拼音 h 轻很多，拼音 h 喉咙有摩擦。常见错误：念得太重像「喝」。",
+     "spell": "h（help）、wh（who）",
+     "words": [
+      "help",
+      "who",
+      "hot",
+      "home"
+     ],
+     "contrast": null,
+     "usNote": null,
+     "id": "a7-5",
+     "extra": false,
+     "isolated": null
+    }
+   ]
+  },
+  {
+   "id": "a8",
+   "part": "A",
+   "title": "Affricates & clusters",
+   "titleZh": "破擦音：tʃ dʒ tr dr ts dz",
+   "introZh": "破擦音是先堵住、再摩擦出来。/tʃ dʒ/ 是独立的音；/tr dr ts dz/ 是课本 48 音标里的组合，在美式词典里一般写成两个音。",
+   "sounds": [
+    {
+     "dj": "tʃ",
+     "us": "tʃ",
+     "kk": "tʃ",
+     "nameZh": "ch 音",
+     "mouth": "舌尖抵上齿龈，嘴唇向前撅，先堵住再摩擦放开，送气，声带不振动。",
+     "chinese": "接近拼音 ch 和 q 之间，嘴唇要撅。常见错误：念成 q（cheap → 「气普」）。",
+     "spell": "ch（chair）、tch（watch）",
+     "words": [
+      "chair",
+      "check",
+      "lunch",
+      "teacher"
+     ],
+     "contrast": "ch-sh",
+     "usNote": null,
+     "id": "a8-1",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/ch.mp3",
+      "source": "Voiceless palato-alveolar affricate.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiceless_palato-alveolar_affricate.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Peter Isotalo",
+      "method": "recognizer",
+      "trimmed": true
+     }
+    },
+    {
+     "dj": "dʒ",
+     "us": "dʒ",
+     "kk": "dʒ",
+     "nameZh": "j 音",
+     "mouth": "口型同 /tʃ/，声带振动，不送气。",
+     "chinese": "接近拼音 zh 和 j 之间，嘴唇撅。常见错误：念成拼音 j「鸡」。",
+     "spell": "j（job）、g（large）、dge（bridge）",
+     "words": [
+      "job",
+      "juice",
+      "large",
+      "bridge"
+     ],
+     "contrast": null,
+     "usNote": null,
+     "id": "a8-2",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/j.mp3",
+      "source": "Voiced palato-alveolar affricate.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_affricate.ogg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "The original uploader was Octane at English Wikipedia.",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "tr",
+     "us": "tr",
+     "kk": "tr",
+     "nameZh": "tr 组合",
+     "mouth": "/t/ 和 /r/ 连得很紧：舌尖先抵住上齿龈，放开时直接卷舌。听起来接近「戳」。",
+     "chinese": "不要在 t 和 r 中间加元音（tree 不是 te-ree）。",
+     "spell": "tr（tree）",
+     "words": [
+      "tree",
+      "train",
+      "try",
+      "true"
+     ],
+     "contrast": null,
+     "usNote": "美式词典写作 /tr/ 两个音。",
+     "id": "a8-3",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "dr",
+     "us": "dr",
+     "kk": "dr",
+     "nameZh": "dr 组合",
+     "mouth": "/d/ 和 /r/ 连读，声带振动，听起来接近「捉」。",
+     "chinese": "不要加元音（drink 不是 de-rink）。",
+     "spell": "dr（drink）",
+     "words": [
+      "drink",
+      "dress",
+      "dry",
+      "drive"
+     ],
+     "contrast": null,
+     "usNote": "美式词典写作 /dr/ 两个音。",
+     "id": "a8-4",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "ts",
+     "us": "ts",
+     "kk": "ts",
+     "nameZh": "ts 组合",
+     "mouth": "舌尖抵住上齿龈，放开时直接发 /s/。多出现在词尾：cats、gets。",
+     "chinese": "接近拼音 c「次」，但不要带元音。",
+     "spell": "ts（cats）",
+     "words": [
+      "cats",
+      "hats",
+      "gets",
+      "lets"
+     ],
+     "contrast": null,
+     "usNote": "美式词典写作 /ts/ 两个音，常见于复数和第三人称。",
+     "id": "a8-5",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "dz",
+     "us": "dz",
+     "kk": "dz",
+     "nameZh": "dz 组合",
+     "mouth": "口型同 /ts/，声带振动。多在词尾：beds、kids。",
+     "chinese": "接近拼音 z「资」的开头，不要带元音。常见错误：念成 ds 或吞掉。",
+     "spell": "ds（beds）",
+     "words": [
+      "beds",
+      "kids",
+      "needs",
+      "friends"
+     ],
+     "contrast": null,
+     "usNote": "美式词典写作 /dz/ 两个音。",
+     "id": "a8-6",
+     "extra": false,
+     "isolated": null
+    }
+   ]
+  },
+  {
+   "id": "a9",
+   "part": "A",
+   "title": "Nasals",
+   "titleZh": "鼻音：m n ŋ",
+   "introZh": "三个鼻音气流都从鼻子出来。注意 /n/ 和 /ŋ/ 的区别：/n/ 舌尖顶上齿龈，/ŋ/ 舌根抬起，嘴不闭。",
+   "sounds": [
+    {
+     "dj": "m",
+     "us": "m",
+     "kk": "m",
+     "nameZh": "m",
+     "mouth": "双唇闭上，声音从鼻子出来。词尾也要闭嘴。",
+     "chinese": "接近拼音 m。常见错误：词尾 home 的 m 没闭嘴，变成 /n/ 或拖成 homu。",
+     "spell": "m（man）、mm（summer）",
+     "words": [
+      "man",
+      "home",
+      "summer",
+      "milk"
+     ],
+     "contrast": null,
+     "usNote": null,
+     "id": "a9-1",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/m.mp3",
+      "source": "Bilabial nasal.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bilabial_nasal.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "n",
+     "us": "n",
+     "kk": "n",
+     "nameZh": "n",
+     "mouth": "舌尖抵住上齿龈，声音从鼻子出来，结束时舌尖不要松开。",
+     "chinese": "接近拼音 n（前鼻音）。常见错误：南方口音 n/l 不分；词尾 n 和 ng 不分。",
+     "spell": "n（no）",
+     "words": [
+      "no",
+      "nine",
+      "sun",
+      "ten"
+     ],
+     "contrast": "n-ng",
+     "usNote": null,
+     "id": "a9-2",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/n.mp3",
+      "source": "Alveolar nasal.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Alveolar_nasal.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Peter Isotalo",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "ŋ",
+     "us": "ŋ",
+     "kk": "ŋ",
+     "nameZh": "ng 音",
+     "mouth": "舌根抬起抵住软腭，嘴微张，声音从鼻子出来。词尾一般不要加 /ɡ/。",
+     "chinese": "接近拼音 ang 结尾的 ng（后鼻音）。常见错误：sing 念成 sin，或念成 sing-g。",
+     "spell": "ng（sing）、n（think、bank）",
+     "words": [
+      "sing",
+      "long",
+      "thing",
+      "English"
+     ],
+     "contrast": "n-ng",
+     "usNote": null,
+     "id": "a9-3",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/ng.mp3",
+      "source": "Velar nasal.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Velar_nasal.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "a10",
+   "part": "A",
+   "title": "Liquids & glides",
+   "titleZh": "舌边音、卷舌音与半元音：l r w j",
+   "introZh": "/l/ 和 /r/ 是中国学生最常混的一对；/w/ 和 /v/ 也容易混。/j/ 和 /w/ 叫半元音，很短，马上滑进后面的元音。",
+   "sounds": [
+    {
+     "dj": "l",
+     "us": "l",
+     "kk": "l",
+     "nameZh": "l",
+     "mouth": "舌尖抵住上齿龈，气流从舌头两边出来。在词尾（ball、milk）舌头后部抬起，声音更暗，像「欧」。",
+     "chinese": "开头接近拼音 l。常见错误：词尾的暗 l 念成「欧」不碰上齿龈，或者干脆漏掉。",
+     "spell": "l（look）、ll（ball）",
+     "words": [
+      "look",
+      "leg",
+      "ball",
+      "milk"
+     ],
+     "contrast": "l-r",
+     "usNote": null,
+     "id": "a10-1",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/l.mp3",
+      "source": "Alveolar lateral approximant.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Alveolar_lateral_approximant.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "r",
+     "us": "r",
+     "kk": "r",
+     "nameZh": "r",
+     "mouth": "舌尖向上卷，不碰任何地方，嘴唇微圆向前。整个过程舌头不碰上齿龈。",
+     "chinese": "比拼音 r 少摩擦，更像「若」开头的滑音。常见错误：和 /l/ 不分，或者在词首念成「日」。",
+     "spell": "r（red）、wr（write）、rr（sorry）",
+     "words": [
+      "red",
+      "run",
+      "rain",
+      "sorry"
+     ],
+     "contrast": "l-r",
+     "usNote": null,
+     "id": "a10-2",
+     "extra": false,
+     "isolated": null
+    },
+    {
+     "dj": "w",
+     "us": "w",
+     "kk": "w",
+     "nameZh": "w",
+     "mouth": "嘴唇撅圆、很紧，马上放开滑向后面的元音。牙齿不碰嘴唇。",
+     "chinese": "接近「乌」很快地滑过去。常见错误：和 /v/ 不分，wine 念成 vine。",
+     "spell": "w（we）、wh（what）",
+     "words": [
+      "we",
+      "water",
+      "window",
+      "week"
+     ],
+     "contrast": "v-w",
+     "usNote": null,
+     "id": "a10-3",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/w.mp3",
+      "source": "Voiced labio-velar approximant.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Voiced_labio-velar_approximant.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    },
+    {
+     "dj": "j",
+     "us": "j",
+     "kk": "j",
+     "nameZh": "y 音",
+     "mouth": "舌头抬向硬腭，像「衣」，马上滑向后面的元音。",
+     "chinese": "接近「衣」很快地滑过去。常见错误：year 和 ear 不分，漏掉开头的 /j/。",
+     "spell": "y（yes）、u（use）",
+     "words": [
+      "yes",
+      "you",
+      "yellow",
+      "year"
+     ],
+     "contrast": "y-vowel",
+     "usNote": null,
+     "id": "a10-4",
+     "extra": false,
+     "isolated": {
+      "file": "/audio/ipa/y.mp3",
+      "source": "Palatal approximant.ogg",
+      "page": "https://commons.wikimedia.org/wiki/File:Palatal_approximant.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Karmosin~commonswiki",
+      "method": "recognizer",
+      "trimmed": false
+     }
+    }
+   ]
+  },
+  {
+   "id": "b1",
+   "part": "B",
+   "title": "Consonant letters",
+   "titleZh": "单个辅音字母",
+   "introZh": "自然拼读从字母的「音」开始，不是字母的「名字」。b 的名字是 /biː/，但它在词里只发 /b/。大部分辅音字母一个字母对应一个音。",
+   "rules": [
+    {
+     "pattern": "b d f h j k l m n p r t v w z",
+     "sound": "一个字母一个音",
+     "note": "这些字母在词里基本只发一个音：b /b/、d /d/、f /f/、h /h/、j /dʒ/、k /k/、l /l/、m /m/、n /n/、p /p/、r /r/、t /t/、v /v/、w /w/、z /z/。",
+     "words": [
+      "bag",
+      "dad",
+      "fun",
+      "hat",
+      "job",
+      "kid",
+      "leg",
+      "man",
+      "net",
+      "pen",
+      "red",
+      "ten",
+      "van",
+      "wet",
+      "zip"
+     ],
+     "exceptions": [
+      {
+       "word": "of",
+       "note": "f 在 of 里发 /v/。"
+      }
+     ],
+     "id": "b1-1"
+    },
+    {
+     "pattern": "c",
+     "sound": "/k/",
+     "note": "c 在 a、o、u 和辅音前发 /k/。在 e、i、y 前会变成 /s/（见第 9 课）。",
+     "words": [
+      "cat",
+      "cup",
+      "coffee",
+      "clock"
+     ],
+     "exceptions": [
+      {
+       "word": "city",
+       "note": "c 在 i 前发 /s/。"
+      }
+     ],
+     "id": "b1-2"
+    },
+    {
+     "pattern": "g",
+     "sound": "/ɡ/",
+     "note": "g 在 a、o、u 和辅音前发 /ɡ/。",
+     "words": [
+      "go",
+      "got",
+      "bag",
+      "green"
+     ],
+     "exceptions": [
+      {
+       "word": "giant",
+       "note": "g 在 i 前常发 /dʒ/。"
+      }
+     ],
+     "id": "b1-3"
+    },
+    {
+     "pattern": "s",
+     "sound": "/s/ 或 /z/",
+     "note": "s 在词首发 /s/；在两个元音之间或某些小词结尾常发 /z/。",
+     "words": [
+      "sun",
+      "sit",
+      "is",
+      "his"
+     ],
+     "exceptions": [
+      {
+       "word": "busy",
+       "note": "s 在这里发 /z/。"
+      }
+     ],
+     "id": "b1-4"
+    },
+    {
+     "pattern": "x",
+     "sound": "/ks/",
+     "note": "x 在词尾一般发 /ks/，像 k 和 s 连在一起。",
+     "words": [
+      "box",
+      "six",
+      "fox",
+      "fix"
+     ],
+     "exceptions": [],
+     "id": "b1-5"
+    },
+    {
+     "pattern": "qu",
+     "sound": "/kw/",
+     "note": "q 后面几乎总跟着 u，一起发 /kw/。",
+     "words": [
+      "quick",
+      "queen",
+      "quiet",
+      "question"
+     ],
+     "exceptions": [],
+     "id": "b1-6"
+    },
+    {
+     "pattern": "y（词首）",
+     "sound": "/j/",
+     "note": "y 在词首是辅音，发 /j/。在词尾是元音（见第 10 课）。",
+     "words": [
+      "yes",
+      "you",
+      "yellow",
+      "year"
+     ],
+     "exceptions": [],
+     "id": "b1-7"
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "part": "B",
+   "title": "Short vowel letters (CVC)",
+   "titleZh": "短元音字母：辅音-元音-辅音",
+   "introZh": "一个元音字母夹在两个辅音中间（CVC），这个元音通常读短音。这是最基础的拼读规律：c-a-t → cat。",
+   "rules": [
+    {
+     "pattern": "a（CVC）",
+     "sound": "/æ/",
+     "note": "嘴张大、嘴角拉开。",
+     "words": [
+      "cat",
+      "map",
+      "bag",
+      "hat"
+     ],
+     "exceptions": [
+      {
+       "word": "was",
+       "note": "这个常用词里的 a 读 /ʌ/。"
+      }
+     ],
+     "id": "b2-1"
+    },
+    {
+     "pattern": "e（CVC）",
+     "sound": "/e/",
+     "note": "短而清楚，不要滑。",
+     "words": [
+      "bed",
+      "pet",
+      "ten",
+      "red"
+     ],
+     "exceptions": [],
+     "id": "b2-2"
+    },
+    {
+     "pattern": "i（CVC）",
+     "sound": "/ɪ/",
+     "note": "短、松，不要念成 /iː/。",
+     "words": [
+      "sit",
+      "pig",
+      "big",
+      "win"
+     ],
+     "exceptions": [],
+     "id": "b2-3"
+    },
+    {
+     "pattern": "o（CVC）",
+     "sound": "/ɑː/",
+     "note": "美音里张大嘴、不圆唇。英式读圆唇的 /ɒ/。",
+     "words": [
+      "hot",
+      "not",
+      "top",
+      "pot"
+     ],
+     "exceptions": [
+      {
+       "word": "dog",
+       "note": "很多美国人把 dog 读成 /dɔːɡ/。"
+      }
+     ],
+     "id": "b2-4"
+    },
+    {
+     "pattern": "u（CVC）",
+     "sound": "/ʌ/",
+     "note": "嘴半张，短而有力。",
+     "words": [
+      "cup",
+      "bus",
+      "sun",
+      "run"
+     ],
+     "exceptions": [
+      {
+       "word": "put",
+       "note": "u 在 put、pull 里读 /ʊ/。"
+      },
+      {
+       "word": "pull",
+       "note": "同上，读 /ʊ/。"
+      }
+     ],
+     "id": "b2-5"
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "part": "B",
+   "title": "Magic e",
+   "titleZh": "不发音的 e（魔法 e）",
+   "introZh": "词尾的 e 自己不发音，但它让前面的元音读「字母本身的名字」：a_e 读 /eɪ/、i_e 读 /aɪ/、o_e 读 /oʊ/、u_e 读 /juː/ 或 /uː/、e_e 读 /iː/。对比 hat 和 hate、bit 和 bite。",
+   "rules": [
+    {
+     "pattern": "a_e",
+     "sound": "/eɪ/",
+     "note": "像字母 A 的名字。",
+     "words": [
+      "cake",
+      "name",
+      "make",
+      "late"
+     ],
+     "exceptions": [
+      {
+       "word": "have",
+       "note": "have 是例外，读 /æ/。"
+      }
+     ],
+     "id": "b3-1"
+    },
+    {
+     "pattern": "i_e",
+     "sound": "/aɪ/",
+     "note": "像字母 I 的名字。",
+     "words": [
+      "time",
+      "bike",
+      "like",
+      "five"
+     ],
+     "exceptions": [
+      {
+       "word": "give",
+       "note": "give 读 /ɪ/。"
+      },
+      {
+       "word": "live",
+       "note": "动词 live 读 /ɪ/。"
+      }
+     ],
+     "id": "b3-2"
+    },
+    {
+     "pattern": "o_e",
+     "sound": "/oʊ/",
+     "note": "像字母 O 的名字。",
+     "words": [
+      "home",
+      "nose",
+      "note",
+      "hope"
+     ],
+     "exceptions": [
+      {
+       "word": "come",
+       "note": "读 /ʌ/。"
+      },
+      {
+       "word": "some",
+       "note": "读 /ʌ/。"
+      },
+      {
+       "word": "done",
+       "note": "读 /ʌ/。"
+      },
+      {
+       "word": "love",
+       "note": "读 /ʌ/。"
+      },
+      {
+       "word": "gone",
+       "note": "读 /ɔː/。"
+      }
+     ],
+     "id": "b3-3"
+    },
+    {
+     "pattern": "u_e",
+     "sound": "/juː/ 或 /uː/",
+     "note": "在 c、m、f 等后面常读 /juː/；在 r、l、j 后面读 /uː/。",
+     "words": [
+      "cute",
+      "use",
+      "rule",
+      "June"
+     ],
+     "exceptions": [],
+     "id": "b3-4"
+    },
+    {
+     "pattern": "e_e",
+     "sound": "/iː/",
+     "note": "这个组合不多，但很常用。",
+     "words": [
+      "these",
+      "theme",
+      "complete",
+      "Chinese"
+     ],
+     "exceptions": [],
+     "id": "b3-5"
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "part": "B",
+   "title": "Consonant blends",
+   "titleZh": "辅音连缀",
+   "introZh": "两三个辅音挨在一起，每个都要发出来，但中间不要加元音。中国学生常把 black 念成 be-lack，把 desk 念成 desi-ke。",
+   "rules": [
+    {
+     "pattern": "bl cl fl gl pl sl",
+     "sound": "/bl/ /kl/ /fl/ /ɡl/ /pl/ /sl/",
+     "note": "辅音后面紧跟 /l/。",
+     "words": [
+      "black",
+      "clean",
+      "fly",
+      "glass",
+      "play",
+      "sleep"
+     ],
+     "exceptions": [],
+     "id": "b4-1"
+    },
+    {
+     "pattern": "br cr dr fr gr pr tr",
+     "sound": "/br/ /kr/ /dr/ /fr/ /ɡr/ /pr/ /tr/",
+     "note": "辅音后面紧跟 /r/，舌头提前准备卷。",
+     "words": [
+      "bread",
+      "cry",
+      "dry",
+      "free",
+      "green",
+      "price",
+      "tree"
+     ],
+     "exceptions": [],
+     "id": "b4-2"
+    },
+    {
+     "pattern": "sc sk sm sn sp st sw",
+     "sound": "/sk/ /sm/ /sn/ /sp/ /st/ /sw/",
+     "note": "s 开头的组合。s 后面的 p、t、k 不送气，听起来像 b、d、g。",
+     "words": [
+      "school",
+      "small",
+      "snow",
+      "speak",
+      "stop",
+      "swim"
+     ],
+     "exceptions": [],
+     "id": "b4-3"
+    },
+    {
+     "pattern": "-nd -nt -st -mp -lk -sk",
+     "sound": "词尾辅音组合",
+     "note": "词尾两个辅音都要发，但最后一个不加元音。",
+     "words": [
+      "hand",
+      "went",
+      "best",
+      "jump",
+      "milk",
+      "desk"
+     ],
+     "exceptions": [],
+     "id": "b4-4"
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "part": "B",
+   "title": "Digraphs",
+   "titleZh": "两个字母一个音",
+   "introZh": "有些两个字母合起来只发一个音，比如 sh、ch、th。看到它们要当成一个整体。",
+   "rules": [
+    {
+     "pattern": "sh",
+     "sound": "/ʃ/",
+     "note": "嘴唇撅圆。",
+     "words": [
+      "ship",
+      "shop",
+      "fish",
+      "wash"
+     ],
+     "exceptions": [],
+     "id": "b5-1"
+    },
+    {
+     "pattern": "ch / tch",
+     "sound": "/tʃ/",
+     "note": "像 /t/ 和 /ʃ/ 紧紧连在一起。",
+     "words": [
+      "chair",
+      "check",
+      "lunch",
+      "much"
+     ],
+     "exceptions": [
+      {
+       "word": "school",
+       "note": "ch 读 /k/。"
+      },
+      {
+       "word": "chef",
+       "note": "来自法语，ch 读 /ʃ/。"
+      }
+     ],
+     "id": "b5-2"
+    },
+    {
+     "pattern": "th（清）",
+     "sound": "/θ/",
+     "note": "很多实词里读清音。",
+     "words": [
+      "think",
+      "three",
+      "bath",
+      "thumb"
+     ],
+     "exceptions": [],
+     "id": "b5-3"
+    },
+    {
+     "pattern": "th（浊）",
+     "sound": "/ð/",
+     "note": "this、that、they、with 这类小词里读浊音。",
+     "words": [
+      "this",
+      "that",
+      "mother",
+      "with"
+     ],
+     "exceptions": [],
+     "id": "b5-4"
+    },
+    {
+     "pattern": "wh",
+     "sound": "/w/",
+     "note": "美音里大多直接读 /w/。",
+     "words": [
+      "what",
+      "when",
+      "white",
+      "why"
+     ],
+     "exceptions": [
+      {
+       "word": "who",
+       "note": "wh 在 who 里读 /h/。"
+      }
+     ],
+     "id": "b5-5"
+    },
+    {
+     "pattern": "ph",
+     "sound": "/f/",
+     "note": "来自希腊语的词。",
+     "words": [
+      "phone",
+      "photo",
+      "alphabet",
+      "elephant"
+     ],
+     "exceptions": [],
+     "id": "b5-6"
+    },
+    {
+     "pattern": "ck",
+     "sound": "/k/",
+     "note": "短元音后面的 /k/ 常写成 ck。",
+     "words": [
+      "back",
+      "duck",
+      "clock",
+      "sick"
+     ],
+     "exceptions": [],
+     "id": "b5-7"
+    },
+    {
+     "pattern": "ng / nk",
+     "sound": "/ŋ/ /ŋk/",
+     "note": "ng 在词尾读 /ŋ/；nk 读 /ŋk/。",
+     "words": [
+      "sing",
+      "long",
+      "ring",
+      "think",
+      "bank",
+      "pink"
+     ],
+     "exceptions": [],
+     "id": "b5-8"
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "part": "B",
+   "title": "Vowel teams 1: long sounds",
+   "titleZh": "元音组合（一）：长音",
+   "introZh": "两个元音字母在一起，常常读第一个字母的名字，所以有「两个元音一起走，第一个说话」的口诀。但例外不少，要多听。",
+   "rules": [
+    {
+     "pattern": "ai / ay",
+     "sound": "/eɪ/",
+     "note": "ai 在词中，ay 在词尾。",
+     "words": [
+      "rain",
+      "wait",
+      "day",
+      "play"
+     ],
+     "exceptions": [
+      {
+       "word": "said",
+       "note": "读 /e/。"
+      },
+      {
+       "word": "says",
+       "note": "读 /e/。"
+      }
+     ],
+     "id": "b6-1"
+    },
+    {
+     "pattern": "ee / ea",
+     "sound": "/iː/",
+     "note": "最常见的长 /iː/ 拼法。",
+     "words": [
+      "see",
+      "tree",
+      "meat",
+      "sea",
+      "team"
+     ],
+     "exceptions": [
+      {
+       "word": "bread",
+       "note": "ea 读短 /e/。"
+      },
+      {
+       "word": "head",
+       "note": "ea 读短 /e/。"
+      },
+      {
+       "word": "breakfast",
+       "note": "ea 读短 /e/。"
+      },
+      {
+       "word": "great",
+       "note": "ea 读 /eɪ/。"
+      }
+     ],
+     "id": "b6-2"
+    },
+    {
+     "pattern": "oa / ow",
+     "sound": "/oʊ/",
+     "note": "ow 有两种读法，这里是 /oʊ/；另一种 /aʊ/ 见下一课。",
+     "words": [
+      "boat",
+      "road",
+      "show",
+      "snow"
+     ],
+     "exceptions": [],
+     "id": "b6-3"
+    },
+    {
+     "pattern": "ie / igh",
+     "sound": "/aɪ/",
+     "note": "igh 里的 gh 不发音。",
+     "words": [
+      "pie",
+      "tie",
+      "night",
+      "light",
+      "high"
+     ],
+     "exceptions": [
+      {
+       "word": "friend",
+       "note": "ie 读 /e/。"
+      }
+     ],
+     "id": "b6-4"
+    },
+    {
+     "pattern": "ue / ew",
+     "sound": "/uː/ 或 /juː/",
+     "note": "美音 new 读 /nuː/，few 读 /fjuː/。",
+     "words": [
+      "blue",
+      "true",
+      "new",
+      "few"
+     ],
+     "exceptions": [],
+     "id": "b6-5"
+    }
+   ]
+  },
+  {
+   "id": "b7",
+   "part": "B",
+   "title": "Vowel teams 2",
+   "titleZh": "元音组合（二）：oo ou ow oi oy au aw",
+   "introZh": "这一课的组合不读字母名字，要单独记住它们的声音。",
+   "rules": [
+    {
+     "pattern": "oo（长）",
+     "sound": "/uː/",
+     "note": "大多数 oo 读长音。",
+     "words": [
+      "food",
+      "moon",
+      "soon",
+      "school"
+     ],
+     "exceptions": [
+      {
+       "word": "blood",
+       "note": "oo 读 /ʌ/。"
+      }
+     ],
+     "id": "b7-1"
+    },
+    {
+     "pattern": "oo（短）",
+     "sound": "/ʊ/",
+     "note": "在 k、d、t 前常读短音。",
+     "words": [
+      "book",
+      "look",
+      "good",
+      "foot"
+     ],
+     "exceptions": [],
+     "id": "b7-2"
+    },
+    {
+     "pattern": "ou / ow",
+     "sound": "/aʊ/",
+     "note": "ou 在词中，ow 常在词尾。",
+     "words": [
+      "out",
+      "house",
+      "now",
+      "down"
+     ],
+     "exceptions": [
+      {
+       "word": "touch",
+       "note": "ou 读 /ʌ/。"
+      },
+      {
+       "word": "you",
+       "note": "ou 读 /uː/。"
+      },
+      {
+       "word": "could",
+       "note": "ou 读 /ʊ/，l 不发音。"
+      }
+     ],
+     "id": "b7-3"
+    },
+    {
+     "pattern": "oi / oy",
+     "sound": "/ɔɪ/",
+     "note": "oi 在词中，oy 在词尾。",
+     "words": [
+      "coin",
+      "oil",
+      "boy",
+      "toy"
+     ],
+     "exceptions": [],
+     "id": "b7-4"
+    },
+    {
+     "pattern": "au / aw",
+     "sound": "/ɔː/",
+     "note": "美音里很多人读得接近 /ɑː/。",
+     "words": [
+      "saw",
+      "draw",
+      "law",
+      "August",
+      "sauce"
+     ],
+     "exceptions": [],
+     "id": "b7-5"
+    }
+   ]
+  },
+  {
+   "id": "b8",
+   "part": "B",
+   "title": "R-controlled vowels",
+   "titleZh": "元音 + r",
+   "introZh": "元音后面跟 r，声音就变了，美音一定要卷舌。er、ir、ur 三种拼法读同一个音 /ɝː/。",
+   "rules": [
+    {
+     "pattern": "ar",
+     "sound": "/ɑːr/",
+     "note": "张大嘴再卷舌。",
+     "words": [
+      "car",
+      "park",
+      "star",
+      "art"
+     ],
+     "exceptions": [
+      {
+       "word": "heart",
+       "note": "ear 在 heart 里读 /ɑːr/。"
+      }
+     ],
+     "id": "b8-1"
+    },
+    {
+     "pattern": "er / ir / ur",
+     "sound": "/ɝː/",
+     "note": "三种拼法同一个音。",
+     "words": [
+      "her",
+      "bird",
+      "girl",
+      "turn",
+      "nurse"
+     ],
+     "exceptions": [
+      {
+       "word": "word",
+       "note": "w 后面的 or 也读 /ɝː/。"
+      },
+      {
+       "word": "work",
+       "note": "同上，读 /ɝː/。"
+      }
+     ],
+     "id": "b8-2"
+    },
+    {
+     "pattern": "or / ore / oor / our",
+     "sound": "/ɔːr/",
+     "note": "嘴圆再卷舌。",
+     "words": [
+      "for",
+      "short",
+      "horse",
+      "morning",
+      "more",
+      "door",
+      "four"
+     ],
+     "exceptions": [],
+     "id": "b8-3"
+    },
+    {
+     "pattern": "air / are",
+     "sound": "/er/",
+     "note": "像「诶儿」。",
+     "words": [
+      "hair",
+      "chair",
+      "care",
+      "share"
+     ],
+     "exceptions": [
+      {
+       "word": "bear",
+       "note": "ear 在这里读 /er/。"
+      },
+      {
+       "word": "wear",
+       "note": "ear 在这里读 /er/。"
+      }
+     ],
+     "id": "b8-4"
+    },
+    {
+     "pattern": "ear / eer",
+     "sound": "/ɪr/",
+     "note": "像「衣儿」。",
+     "words": [
+      "ear",
+      "near",
+      "hear",
+      "beer"
+     ],
+     "exceptions": [
+      {
+       "word": "bear",
+       "note": "同样是 ear，bear 读 /er/。"
+      }
+     ],
+     "id": "b8-5"
+    }
+   ]
+  },
+  {
+   "id": "b9",
+   "part": "B",
+   "title": "Soft c/g & silent letters",
+   "titleZh": "软 c、软 g 和不发音的字母",
+   "introZh": "c 和 g 在 e、i、y 前会「变软」：c → /s/、g → /dʒ/。另外有些字母写出来但不读，比如 know 的 k、write 的 w。",
+   "rules": [
+    {
+     "pattern": "c + e/i/y",
+     "sound": "/s/",
+     "note": "软 c。",
+     "words": [
+      "city",
+      "face",
+      "nice",
+      "ice",
+      "rice"
+     ],
+     "exceptions": [],
+     "id": "b9-1"
+    },
+    {
+     "pattern": "g + e/i/y、-dge",
+     "sound": "/dʒ/",
+     "note": "软 g。dge 在短元音后读 /dʒ/。",
+     "words": [
+      "page",
+      "large",
+      "orange",
+      "giant",
+      "bridge",
+      "edge"
+     ],
+     "exceptions": [
+      {
+       "word": "get",
+       "note": "g 在 e 前仍读 /ɡ/。"
+      },
+      {
+       "word": "give",
+       "note": "g 在 i 前仍读 /ɡ/。"
+      },
+      {
+       "word": "girl",
+       "note": "g 在 i 前仍读 /ɡ/。"
+      }
+     ],
+     "id": "b9-2"
+    },
+    {
+     "pattern": "kn",
+     "sound": "/n/（k 不读）",
+     "note": "k 在 n 前不发音。",
+     "words": [
+      "know",
+      "knee",
+      "knife",
+      "knock"
+     ],
+     "exceptions": [],
+     "id": "b9-3"
+    },
+    {
+     "pattern": "wr",
+     "sound": "/r/（w 不读）",
+     "note": "w 在 r 前不发音。",
+     "words": [
+      "write",
+      "wrong",
+      "wrap",
+      "wrist"
+     ],
+     "exceptions": [],
+     "id": "b9-4"
+    },
+    {
+     "pattern": "mb",
+     "sound": "/m/（b 不读）",
+     "note": "词尾 mb 的 b 不发音。",
+     "words": [
+      "climb",
+      "thumb",
+      "lamb",
+      "comb"
+     ],
+     "exceptions": [],
+     "id": "b9-5"
+    },
+    {
+     "pattern": "gh、h、l、t 不读",
+     "sound": "不发音",
+     "note": "night 的 gh、hour 的 h、walk 的 l、listen 的 t 都不读。",
+     "words": [
+      "eight",
+      "light",
+      "hour",
+      "honest",
+      "walk",
+      "half",
+      "could",
+      "listen"
+     ],
+     "exceptions": [],
+     "id": "b9-6"
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "part": "B",
+   "title": "Common endings",
+   "titleZh": "常见词尾",
+   "introZh": "词尾读对，句子会立刻清楚很多。重点是 -ed 的三种读法和 -s 的三种读法，它们跟前面一个音是清音还是浊音有关。",
+   "rules": [
+    {
+     "pattern": "-tion / -sion",
+     "sound": "/ʃən/ /ʒən/",
+     "note": "-tion 读 /ʃən/，重音在它前面一个音节。-sion 在元音后常读 /ʒən/。",
+     "words": [
+      "station",
+      "nation",
+      "vacation",
+      "information",
+      "decision",
+      "television"
+     ],
+     "exceptions": [
+      {
+       "word": "question",
+       "note": "st 后面的 -tion 读 /tʃən/。"
+      }
+     ],
+     "id": "b10-1"
+    },
+    {
+     "pattern": "-ed（清音后）",
+     "sound": "/t/",
+     "note": "前面是 /p k f s ʃ tʃ/ 等清音时，-ed 读 /t/，不加元音。",
+     "words": [
+      "walked",
+      "helped",
+      "washed",
+      "liked"
+     ],
+     "exceptions": [],
+     "id": "b10-2"
+    },
+    {
+     "pattern": "-ed（浊音后）",
+     "sound": "/d/",
+     "note": "前面是浊音或元音时，-ed 读 /d/。",
+     "words": [
+      "played",
+      "called",
+      "opened",
+      "cleaned"
+     ],
+     "exceptions": [],
+     "id": "b10-3"
+    },
+    {
+     "pattern": "-ed（t、d 后）",
+     "sound": "/ɪd/",
+     "note": "前面是 /t/ 或 /d/ 时，多一个音节 /ɪd/。",
+     "words": [
+      "wanted",
+      "needed",
+      "started",
+      "waited"
+     ],
+     "exceptions": [],
+     "id": "b10-4"
+    },
+    {
+     "pattern": "-s（清音后）",
+     "sound": "/s/",
+     "note": "前面是清音时读 /s/。",
+     "words": [
+      "cats",
+      "books",
+      "maps",
+      "cups"
+     ],
+     "exceptions": [],
+     "id": "b10-5"
+    },
+    {
+     "pattern": "-s（浊音后）",
+     "sound": "/z/",
+     "note": "前面是浊音或元音时读 /z/。",
+     "words": [
+      "dogs",
+      "bags",
+      "days",
+      "friends"
+     ],
+     "exceptions": [],
+     "id": "b10-6"
+    },
+    {
+     "pattern": "-es（咝音后）",
+     "sound": "/ɪz/",
+     "note": "前面是 /s z ʃ tʃ dʒ/ 时，多一个音节 /ɪz/。",
+     "words": [
+      "boxes",
+      "buses",
+      "watches",
+      "pages"
+     ],
+     "exceptions": [],
+     "id": "b10-7"
+    },
+    {
+     "pattern": "-le",
+     "sound": "/əl/",
+     "note": "词尾 -le 读成一个轻轻的 /əl/，e 不单独发音。",
+     "words": [
+      "table",
+      "little",
+      "apple",
+      "people",
+      "simple"
+     ],
+     "exceptions": [],
+     "id": "b10-8"
+    },
+    {
+     "pattern": "-y（多音节词尾）",
+     "sound": "/i/",
+     "note": "两个音节以上的词尾 y 读短 /i/。",
+     "words": [
+      "happy",
+      "baby",
+      "city",
+      "family"
+     ],
+     "exceptions": [],
+     "id": "b10-9"
+    },
+    {
+     "pattern": "-y（单音节词尾）",
+     "sound": "/aɪ/",
+     "note": "一个音节的词尾 y 读 /aɪ/。",
+     "words": [
+      "my",
+      "try",
+      "cry",
+      "fly",
+      "why"
+     ],
+     "exceptions": [],
+     "id": "b10-10"
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "part": "B",
+   "title": "Syllables & stress",
+   "titleZh": "音节划分和重音",
+   "introZh": "长词先拆成音节再读。两个辅音夹在中间，通常从中间分开（bas-ket）；一个辅音在中间，常归到后面（ba-by），前面的元音读长音。重音音节读得更响、更长、更高，其他音节放轻。",
+   "rules": [
+    {
+     "pattern": "VC/CV",
+     "sound": "中间两个辅音分开",
+     "note": "前一个音节以辅音结尾，元音通常读短音。",
+     "words": [
+      "basket",
+      "winter",
+      "summer",
+      "problem"
+     ],
+     "exceptions": [],
+     "id": "b11-1"
+    },
+    {
+     "pattern": "V/CV",
+     "sound": "中间一个辅音归后面",
+     "note": "前一个音节以元音结尾，元音常读长音。",
+     "words": [
+      "baby",
+      "open",
+      "music",
+      "paper"
+     ],
+     "exceptions": [],
+     "id": "b11-2"
+    },
+    {
+     "pattern": "复合词",
+     "sound": "两个词拼在一起",
+     "note": "按原来的两个词分开，重音通常在前面。",
+     "words": [
+      "birthday",
+      "bedroom",
+      "breakfast",
+      "weekend",
+      "homework"
+     ],
+     "exceptions": [],
+     "id": "b11-3"
+    },
+    {
+     "pattern": "双音节名词",
+     "sound": "重音多在前",
+     "note": "TA-ble、WIN-dow。",
+     "words": [
+      "table",
+      "window",
+      "paper",
+      "doctor"
+     ],
+     "exceptions": [
+      {
+       "word": "hotel",
+       "note": "hotel 是例外，重音在后：ho-TEL。"
+      }
+     ],
+     "id": "b11-4"
+    },
+    {
+     "pattern": "双音节动词",
+     "sound": "重音多在后",
+     "note": "be-GIN、re-TURN。",
+     "words": [
+      "begin",
+      "return",
+      "forget",
+      "enjoy"
+     ],
+     "exceptions": [],
+     "id": "b11-5"
+    },
+    {
+     "pattern": "-tion 词",
+     "sound": "重音在 -tion 前一个音节",
+     "note": "va-CA-tion、in-for-MA-tion。",
+     "words": [
+      "vacation",
+      "information",
+      "station",
+      "nation"
+     ],
+     "exceptions": [],
+     "id": "b11-6"
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "part": "B",
+   "title": "Schwa, weak vowels & US t",
+   "titleZh": "弱读元音 /ə/ 和美音的 t",
+   "introZh": "英语里最常见的元音是 /ə/。不重读的音节，不管写的是 a、e、o 还是 u，常常都读成很轻的 /ə/。美音里两个元音之间的 t 还会变成快速的「弹舌」，听起来像轻 d。",
+   "rules": [
+    {
+     "pattern": "不重读的 a / o / e",
+     "sound": "/ə/",
+     "note": "重读的音节读清楚，旁边的音节放轻读 /ə/。",
+     "words": [
+      "about",
+      "banana",
+      "sofa",
+      "today",
+      "lemon",
+      "second",
+      "camera"
+     ],
+     "exceptions": [],
+     "id": "b12-1"
+    },
+    {
+     "pattern": "美音闪音 t",
+     "sound": "/t/ → [ɾ]",
+     "note": "t 在两个元音之间（前面重读），美音读成很快的弹舌，像轻 d：water 像 wa-der。",
+     "words": [
+      "water",
+      "better",
+      "city",
+      "letter",
+      "little",
+      "party",
+      "computer"
+     ],
+     "exceptions": [],
+     "id": "b12-2"
+    }
+   ]
+  }
+ ],
+ "words": {
+  "sit": {
+   "ipa": "sɪt",
+   "zh": "坐",
+   "ex": "Please sit here.",
+   "exZh": "请坐这儿。",
+   "scene": true
+  },
+  "big": {
+   "ipa": "bɪɡ",
+   "zh": "大的",
+   "ex": "This box is too big.",
+   "exZh": "这个盒子太大了。",
+   "scene": true
+  },
+  "fish": {
+   "ipa": "fɪʃ",
+   "zh": "鱼",
+   "ex": "We had fish for dinner.",
+   "exZh": "我们晚饭吃了鱼。"
+  },
+  "milk": {
+   "ipa": "mɪlk",
+   "zh": "牛奶",
+   "ex": "Can I get some milk?",
+   "exZh": "能给我一点牛奶吗？",
+   "scene": true
+  },
+  "bed": {
+   "ipa": "bed",
+   "zh": "床",
+   "ex": "I went to bed early.",
+   "exZh": "我早早睡了。",
+   "scene": true
+  },
+  "pen": {
+   "ipa": "pen",
+   "zh": "笔",
+   "ex": "Can I use your pen?",
+   "exZh": "能用一下你的笔吗？"
+  },
+  "red": {
+   "ipa": "red",
+   "zh": "红色的",
+   "ex": "I like the red one.",
+   "exZh": "我喜欢红色那个。"
+  },
+  "egg": {
+   "ipa": "eɡ",
+   "zh": "鸡蛋",
+   "ex": "I had an egg for breakfast.",
+   "exZh": "我早饭吃了一个鸡蛋。"
+  },
+  "cat": {
+   "ipa": "kæt",
+   "zh": "猫",
+   "ex": "My cat likes the sun.",
+   "exZh": "我的猫喜欢晒太阳。"
+  },
+  "bag": {
+   "ipa": "bæɡ",
+   "zh": "包",
+   "ex": "My bag is on the chair.",
+   "exZh": "我的包在椅子上。",
+   "scene": true
+  },
+  "apple": {
+   "ipa": "ˈæpəl",
+   "zh": "苹果",
+   "ex": "I eat an apple every day.",
+   "exZh": "我每天吃一个苹果。"
+  },
+  "hat": {
+   "ipa": "hæt",
+   "zh": "帽子",
+   "ex": "Take your hat. It's cold.",
+   "exZh": "戴上帽子，外面冷。"
+  },
+  "cup": {
+   "ipa": "kʌp",
+   "zh": "杯子",
+   "ex": "Can I have a cup of tea?",
+   "exZh": "能给我一杯茶吗？",
+   "scene": true
+  },
+  "bus": {
+   "ipa": "bʌs",
+   "zh": "公交车",
+   "ex": "The bus is late again.",
+   "exZh": "公交车又晚了。",
+   "scene": true
+  },
+  "sun": {
+   "ipa": "sʌn",
+   "zh": "太阳",
+   "ex": "The sun is out today.",
+   "exZh": "今天出太阳了。"
+  },
+  "love": {
+   "ipa": "lʌv",
+   "zh": "爱；很喜欢",
+   "ex": "I love this song.",
+   "exZh": "我很喜欢这首歌。",
+   "scene": true
+  },
+  "hot": {
+   "ipa": "hɑːt",
+   "zh": "热的",
+   "ex": "The coffee is very hot.",
+   "exZh": "咖啡很烫。",
+   "scene": true
+  },
+  "box": {
+   "ipa": "bɑːks",
+   "zh": "盒子",
+   "ex": "Put it in the box.",
+   "exZh": "把它放进盒子里。"
+  },
+  "stop": {
+   "ipa": "stɑːp",
+   "zh": "停下；车站",
+   "ex": "Let's stop here for lunch.",
+   "exZh": "我们在这儿停下吃午饭吧。",
+   "scene": true
+  },
+  "job": {
+   "ipa": "dʒɑːb",
+   "zh": "工作",
+   "ex": "She has a new job.",
+   "exZh": "她换了新工作。"
+  },
+  "book": {
+   "ipa": "bʊk",
+   "zh": "书；预订",
+   "ex": "I want to book a table.",
+   "exZh": "我想订一张桌子。",
+   "scene": true
+  },
+  "good": {
+   "ipa": "ɡʊd",
+   "zh": "好的",
+   "ex": "That's a good idea.",
+   "exZh": "这是个好主意。",
+   "scene": true
+  },
+  "put": {
+   "ipa": "pʊt",
+   "zh": "放",
+   "ex": "Put your bag here.",
+   "exZh": "把包放这儿。",
+   "scene": true
+  },
+  "foot": {
+   "ipa": "fʊt",
+   "zh": "脚",
+   "ex": "My foot hurts.",
+   "exZh": "我的脚疼。",
+   "scene": true
+  },
+  "about": {
+   "ipa": "əˈbaʊt",
+   "zh": "关于；大约",
+   "ex": "It takes about ten minutes.",
+   "exZh": "大约要十分钟。",
+   "scene": true
+  },
+  "banana": {
+   "ipa": "bəˈnænə",
+   "zh": "香蕉",
+   "ex": "Can I have a banana?",
+   "exZh": "我能吃根香蕉吗？"
+  },
+  "sofa": {
+   "ipa": "ˈsoʊfə",
+   "zh": "沙发",
+   "ex": "The cat is on the sofa.",
+   "exZh": "猫在沙发上。"
+  },
+  "today": {
+   "ipa": "təˈdeɪ",
+   "zh": "今天",
+   "ex": "I'm busy today.",
+   "exZh": "我今天很忙。",
+   "scene": true
+  },
+  "see": {
+   "ipa": "siː",
+   "zh": "看见",
+   "ex": "See you tomorrow.",
+   "exZh": "明天见。",
+   "scene": true
+  },
+  "tea": {
+   "ipa": "tiː",
+   "zh": "茶",
+   "ex": "I'd like a cup of tea.",
+   "exZh": "我想要一杯茶。",
+   "scene": true
+  },
+  "eat": {
+   "ipa": "iːt",
+   "zh": "吃",
+   "ex": "Let's eat out tonight.",
+   "exZh": "今晚出去吃吧。",
+   "scene": true
+  },
+  "green": {
+   "ipa": "ɡriːn",
+   "zh": "绿色的",
+   "ex": "The light is green. Go.",
+   "exZh": "绿灯了，走吧。"
+  },
+  "father": {
+   "ipa": "ˈfɑːðɚ",
+   "zh": "父亲",
+   "ex": "My father lives in Beijing.",
+   "exZh": "我父亲住在北京。"
+  },
+  "car": {
+   "ipa": "kɑːr",
+   "zh": "汽车",
+   "ex": "My car is in the shop.",
+   "exZh": "我的车在修。",
+   "scene": true
+  },
+  "park": {
+   "ipa": "pɑːrk",
+   "zh": "公园；停车",
+   "ex": "Where can I park?",
+   "exZh": "我在哪儿停车？",
+   "scene": true
+  },
+  "star": {
+   "ipa": "stɑːr",
+   "zh": "星星",
+   "ex": "I can see a star.",
+   "exZh": "我看见一颗星星。"
+  },
+  "ball": {
+   "ipa": "bɔːl",
+   "zh": "球",
+   "ex": "The kids are playing ball.",
+   "exZh": "孩子们在玩球。"
+  },
+  "walk": {
+   "ipa": "wɔːk",
+   "zh": "走路",
+   "ex": "Let's walk to the station.",
+   "exZh": "我们走去车站吧。",
+   "scene": true
+  },
+  "talk": {
+   "ipa": "tɔːk",
+   "zh": "说话；聊",
+   "ex": "Can we talk later?",
+   "exZh": "我们晚点聊好吗？",
+   "scene": true
+  },
+  "saw": {
+   "ipa": "sɔː",
+   "zh": "看见了（see 的过去式）",
+   "ex": "I saw him at work.",
+   "exZh": "我在公司看见他了。"
+  },
+  "food": {
+   "ipa": "fuːd",
+   "zh": "食物",
+   "ex": "The food here is great.",
+   "exZh": "这里的东西很好吃。"
+  },
+  "blue": {
+   "ipa": "bluː",
+   "zh": "蓝色的",
+   "ex": "I like the blue cup.",
+   "exZh": "我喜欢蓝色的杯子。"
+  },
+  "school": {
+   "ipa": "skuːl",
+   "zh": "学校",
+   "ex": "My son walks to school.",
+   "exZh": "我儿子走路上学。"
+  },
+  "two": {
+   "ipa": "tuː",
+   "zh": "二",
+   "ex": "Two coffees, please.",
+   "exZh": "两杯咖啡，谢谢。",
+   "scene": true
+  },
+  "bird": {
+   "ipa": "bɝːd",
+   "zh": "鸟",
+   "ex": "A bird is on the roof.",
+   "exZh": "屋顶上有一只鸟。"
+  },
+  "girl": {
+   "ipa": "ɡɝːl",
+   "zh": "女孩",
+   "ex": "The girl is my sister.",
+   "exZh": "那个女孩是我妹妹。"
+  },
+  "work": {
+   "ipa": "wɝːk",
+   "zh": "工作",
+   "ex": "I work from home on Friday.",
+   "exZh": "我周五在家办公。",
+   "scene": true
+  },
+  "first": {
+   "ipa": "fɝːst",
+   "zh": "第一",
+   "ex": "Is this your first time here?",
+   "exZh": "你是第一次来这儿吗？",
+   "scene": true
+  },
+  "day": {
+   "ipa": "deɪ",
+   "zh": "天",
+   "ex": "Have a nice day.",
+   "exZh": "祝你过得愉快。",
+   "scene": true
+  },
+  "name": {
+   "ipa": "neɪm",
+   "zh": "名字",
+   "ex": "Can I get a name for the cup?",
+   "exZh": "杯子上写什么名字？",
+   "scene": true
+  },
+  "rain": {
+   "ipa": "reɪn",
+   "zh": "雨；下雨",
+   "ex": "It's going to rain.",
+   "exZh": "要下雨了。",
+   "scene": true
+  },
+  "cake": {
+   "ipa": "keɪk",
+   "zh": "蛋糕",
+   "ex": "This cake is too sweet.",
+   "exZh": "这个蛋糕太甜了。"
+  },
+  "five": {
+   "ipa": "faɪv",
+   "zh": "五",
+   "ex": "It's five dollars.",
+   "exZh": "五美元。",
+   "scene": true
+  },
+  "time": {
+   "ipa": "taɪm",
+   "zh": "时间",
+   "ex": "What time is it?",
+   "exZh": "现在几点？",
+   "scene": true
+  },
+  "my": {
+   "ipa": "maɪ",
+   "zh": "我的",
+   "ex": "This is my desk.",
+   "exZh": "这是我的桌子。",
+   "scene": true
+  },
+  "night": {
+   "ipa": "naɪt",
+   "zh": "夜晚",
+   "ex": "Good night. See you tomorrow.",
+   "exZh": "晚安，明天见。",
+   "scene": true
+  },
+  "boy": {
+   "ipa": "bɔɪ",
+   "zh": "男孩",
+   "ex": "The boy is six.",
+   "exZh": "那个男孩六岁。"
+  },
+  "toy": {
+   "ipa": "tɔɪ",
+   "zh": "玩具",
+   "ex": "He loves this toy.",
+   "exZh": "他很喜欢这个玩具。"
+  },
+  "coin": {
+   "ipa": "kɔɪn",
+   "zh": "硬币",
+   "ex": "I don't have a coin.",
+   "exZh": "我没有硬币。"
+  },
+  "enjoy": {
+   "ipa": "ɪnˈdʒɔɪ",
+   "zh": "享受；喜欢",
+   "ex": "Enjoy your meal.",
+   "exZh": "请慢用。",
+   "scene": true
+  },
+  "now": {
+   "ipa": "naʊ",
+   "zh": "现在",
+   "ex": "I'm leaving now.",
+   "exZh": "我现在就走。",
+   "scene": true
+  },
+  "house": {
+   "ipa": "haʊs",
+   "zh": "房子",
+   "ex": "Their house is near the park.",
+   "exZh": "他们家在公园附近。"
+  },
+  "down": {
+   "ipa": "daʊn",
+   "zh": "向下",
+   "ex": "Please sit down.",
+   "exZh": "请坐。",
+   "scene": true
+  },
+  "out": {
+   "ipa": "aʊt",
+   "zh": "出去",
+   "ex": "I'm going out for lunch.",
+   "exZh": "我出去吃午饭。",
+   "scene": true
+  },
+  "go": {
+   "ipa": "ɡoʊ",
+   "zh": "去",
+   "ex": "Let's go home.",
+   "exZh": "我们回家吧。",
+   "scene": true
+  },
+  "home": {
+   "ipa": "hoʊm",
+   "zh": "家",
+   "ex": "I'm home.",
+   "exZh": "我到家了。",
+   "scene": true
+  },
+  "phone": {
+   "ipa": "foʊn",
+   "zh": "电话；手机",
+   "ex": "My phone is dead.",
+   "exZh": "我手机没电了。",
+   "scene": true
+  },
+  "boat": {
+   "ipa": "boʊt",
+   "zh": "船",
+   "ex": "We took a boat to the island.",
+   "exZh": "我们坐船去了岛上。"
+  },
+  "here": {
+   "ipa": "hɪr",
+   "zh": "这里",
+   "ex": "Come here, please.",
+   "exZh": "请过来。",
+   "scene": true
+  },
+  "near": {
+   "ipa": "nɪr",
+   "zh": "近的",
+   "ex": "Is it near here?",
+   "exZh": "离这儿近吗？",
+   "scene": true
+  },
+  "ear": {
+   "ipa": "ɪr",
+   "zh": "耳朵",
+   "ex": "My ear hurts.",
+   "exZh": "我耳朵疼。"
+  },
+  "beer": {
+   "ipa": "bɪr",
+   "zh": "啤酒",
+   "ex": "Do you want a beer?",
+   "exZh": "你想喝杯啤酒吗？"
+  },
+  "hair": {
+   "ipa": "her",
+   "zh": "头发",
+   "ex": "Her hair is very long.",
+   "exZh": "她的头发很长。"
+  },
+  "chair": {
+   "ipa": "tʃer",
+   "zh": "椅子",
+   "ex": "Take a chair.",
+   "exZh": "拿把椅子坐吧。"
+  },
+  "where": {
+   "ipa": "wer",
+   "zh": "哪里",
+   "ex": "Where is the station?",
+   "exZh": "车站在哪儿？",
+   "scene": true
+  },
+  "care": {
+   "ipa": "ker",
+   "zh": "在乎；照顾",
+   "ex": "Take care.",
+   "exZh": "保重。",
+   "scene": true
+  },
+  "sure": {
+   "ipa": "ʃʊr",
+   "zh": "当然；确定",
+   "ex": "Sure, no problem.",
+   "exZh": "当然，没问题。",
+   "scene": true
+  },
+  "tour": {
+   "ipa": "tʊr",
+   "zh": "游览",
+   "ex": "We took a tour of the city.",
+   "exZh": "我们在城里参观了一圈。"
+  },
+  "cure": {
+   "ipa": "kjʊr",
+   "zh": "治愈；疗法",
+   "ex": "There's no quick cure for a cold.",
+   "exZh": "感冒没有很快就好的办法。"
+  },
+  "door": {
+   "ipa": "dɔːr",
+   "zh": "门",
+   "ex": "Please close the door.",
+   "exZh": "请关上门。"
+  },
+  "more": {
+   "ipa": "mɔːr",
+   "zh": "更多",
+   "ex": "Can I have more water?",
+   "exZh": "能再给我点水吗？",
+   "scene": true
+  },
+  "four": {
+   "ipa": "fɔːr",
+   "zh": "四",
+   "ex": "We need a table for four.",
+   "exZh": "我们要一张四人桌。",
+   "scene": true
+  },
+  "teacher": {
+   "ipa": "ˈtiːtʃɚ",
+   "zh": "老师",
+   "ex": "My teacher was very kind.",
+   "exZh": "我的老师很和善。"
+  },
+  "water": {
+   "ipa": "ˈwɔːtɚ",
+   "zh": "水",
+   "ex": "Can I get some water?",
+   "exZh": "能给我一点水吗？",
+   "scene": true
+  },
+  "doctor": {
+   "ipa": "ˈdɑːktɚ",
+   "zh": "医生",
+   "ex": "I need to see a doctor.",
+   "exZh": "我得去看医生。",
+   "scene": true
+  },
+  "color": {
+   "ipa": "ˈkʌlɚ",
+   "zh": "颜色",
+   "ex": "What color do you like?",
+   "exZh": "你喜欢什么颜色？"
+  },
+  "ten": {
+   "ipa": "ten",
+   "zh": "十",
+   "ex": "It takes ten minutes.",
+   "exZh": "要十分钟。",
+   "scene": true
+  },
+  "dog": {
+   "ipa": "dɔːɡ",
+   "zh": "狗",
+   "ex": "Their dog is very friendly.",
+   "exZh": "他们家的狗很友好。"
+  },
+  "key": {
+   "ipa": "kiː",
+   "zh": "钥匙；关键",
+   "ex": "I lost my key.",
+   "exZh": "我把钥匙弄丢了。",
+   "scene": true
+  },
+  "baby": {
+   "ipa": "ˈbeɪbi",
+   "zh": "婴儿",
+   "ex": "The baby is sleeping.",
+   "exZh": "宝宝在睡觉。"
+  },
+  "coffee": {
+   "ipa": "ˈkɑːfi",
+   "zh": "咖啡",
+   "ex": "I need a coffee.",
+   "exZh": "我需要一杯咖啡。",
+   "scene": true
+  },
+  "van": {
+   "ipa": "væn",
+   "zh": "面包车；厢式货车",
+   "ex": "The van is outside.",
+   "exZh": "货车在外面。"
+  },
+  "very": {
+   "ipa": "ˈveri",
+   "zh": "非常",
+   "ex": "Thank you very much.",
+   "exZh": "非常感谢。"
+  },
+  "seven": {
+   "ipa": "ˈsevən",
+   "zh": "七",
+   "ex": "The meeting is at seven.",
+   "exZh": "会议在七点。",
+   "scene": true
+  },
+  "think": {
+   "ipa": "θɪŋk",
+   "zh": "想；认为",
+   "ex": "I think it's a good plan.",
+   "exZh": "我觉得这个计划不错。",
+   "scene": true
+  },
+  "three": {
+   "ipa": "θriː",
+   "zh": "三",
+   "ex": "I have three kids.",
+   "exZh": "我有三个孩子。",
+   "scene": true
+  },
+  "bath": {
+   "ipa": "bæθ",
+   "zh": "洗澡；浴缸",
+   "ex": "The baby needs a bath.",
+   "exZh": "宝宝该洗澡了。"
+  },
+  "mouth": {
+   "ipa": "maʊθ",
+   "zh": "嘴",
+   "ex": "Open your mouth, please.",
+   "exZh": "请张开嘴。"
+  },
+  "this": {
+   "ipa": "ðɪs",
+   "zh": "这个",
+   "ex": "This is my friend Leo.",
+   "exZh": "这是我朋友 Leo。",
+   "scene": true
+  },
+  "mother": {
+   "ipa": "ˈmʌðɚ",
+   "zh": "母亲",
+   "ex": "My mother calls me every week.",
+   "exZh": "我妈妈每周给我打电话。"
+  },
+  "they": {
+   "ipa": "ðeɪ",
+   "zh": "他们",
+   "ex": "They are on the way.",
+   "exZh": "他们在路上了。",
+   "scene": true
+  },
+  "with": {
+   "ipa": "wɪð",
+   "zh": "和……一起",
+   "ex": "Can I come with you?",
+   "exZh": "我能跟你一起去吗？",
+   "scene": true
+  },
+  "six": {
+   "ipa": "sɪks",
+   "zh": "六",
+   "ex": "I get up at six.",
+   "exZh": "我六点起床。",
+   "scene": true
+  },
+  "city": {
+   "ipa": "ˈsɪti",
+   "zh": "城市",
+   "ex": "I love this city.",
+   "exZh": "我很喜欢这座城市。"
+  },
+  "zoo": {
+   "ipa": "zuː",
+   "zh": "动物园",
+   "ex": "We took the kids to the zoo.",
+   "exZh": "我们带孩子去了动物园。"
+  },
+  "zero": {
+   "ipa": "ˈzɪroʊ",
+   "zh": "零",
+   "ex": "It's zero degrees outside.",
+   "exZh": "外面零度。"
+  },
+  "nose": {
+   "ipa": "noʊz",
+   "zh": "鼻子",
+   "ex": "My nose is red from the cold.",
+   "exZh": "冻得我鼻子都红了。"
+  },
+  "busy": {
+   "ipa": "ˈbɪzi",
+   "zh": "忙的",
+   "ex": "I'm a bit busy right now.",
+   "exZh": "我现在有点忙。",
+   "scene": true
+  },
+  "shop": {
+   "ipa": "ʃɑːp",
+   "zh": "商店",
+   "ex": "The shop opens at nine.",
+   "exZh": "这家店九点开门。"
+  },
+  "she": {
+   "ipa": "ʃiː",
+   "zh": "她",
+   "ex": "She is my boss.",
+   "exZh": "她是我的老板。"
+  },
+  "wash": {
+   "ipa": "wɑːʃ",
+   "zh": "洗",
+   "ex": "Wash your hands first.",
+   "exZh": "先洗手。"
+  },
+  "usually": {
+   "ipa": "ˈjuːʒuəli",
+   "zh": "通常",
+   "ex": "I usually walk to work.",
+   "exZh": "我通常走路上班。",
+   "scene": true
+  },
+  "measure": {
+   "ipa": "ˈmeʒɚ",
+   "zh": "测量",
+   "ex": "Let me measure the room.",
+   "exZh": "我来量一下房间。"
+  },
+  "television": {
+   "ipa": "ˈteləˌvɪʒən",
+   "zh": "电视",
+   "ex": "We don't watch much television.",
+   "exZh": "我们不怎么看电视。"
+  },
+  "pleasure": {
+   "ipa": "ˈpleʒɚ",
+   "zh": "乐意；荣幸",
+   "ex": "It's a pleasure to meet you.",
+   "exZh": "很高兴认识你。"
+  },
+  "help": {
+   "ipa": "help",
+   "zh": "帮助",
+   "ex": "Can you help me?",
+   "exZh": "你能帮我一下吗？",
+   "scene": true
+  },
+  "who": {
+   "ipa": "huː",
+   "zh": "谁",
+   "ex": "Who is that?",
+   "exZh": "那是谁？",
+   "scene": true
+  },
+  "run": {
+   "ipa": "rʌn",
+   "zh": "跑",
+   "ex": "I run in the park.",
+   "exZh": "我在公园跑步。"
+  },
+  "sorry": {
+   "ipa": "ˈsɑːri",
+   "zh": "对不起",
+   "ex": "Sorry, I'm late.",
+   "exZh": "对不起，我迟到了。",
+   "scene": true
+  },
+  "check": {
+   "ipa": "tʃek",
+   "zh": "检查；账单",
+   "ex": "Can I get the check?",
+   "exZh": "能给我账单吗？",
+   "scene": true
+  },
+  "lunch": {
+   "ipa": "lʌntʃ",
+   "zh": "午饭",
+   "ex": "Let's have lunch.",
+   "exZh": "我们吃午饭吧。",
+   "scene": true
+  },
+  "juice": {
+   "ipa": "dʒuːs",
+   "zh": "果汁",
+   "ex": "Orange juice, please.",
+   "exZh": "请给我橙汁。"
+  },
+  "large": {
+   "ipa": "lɑːrdʒ",
+   "zh": "大的",
+   "ex": "A large coffee, please.",
+   "exZh": "一杯大杯咖啡。"
+  },
+  "bridge": {
+   "ipa": "brɪdʒ",
+   "zh": "桥",
+   "ex": "Walk over the bridge.",
+   "exZh": "走过那座桥。"
+  },
+  "orange": {
+   "ipa": "ˈɔːrəndʒ",
+   "zh": "橙子；橙色",
+   "ex": "I'd like an orange.",
+   "exZh": "我想要一个橙子。"
+  },
+  "tree": {
+   "ipa": "triː",
+   "zh": "树",
+   "ex": "There's a big tree in front.",
+   "exZh": "前面有棵大树。"
+  },
+  "train": {
+   "ipa": "treɪn",
+   "zh": "火车",
+   "ex": "The train is on time.",
+   "exZh": "火车准点。",
+   "scene": true
+  },
+  "try": {
+   "ipa": "traɪ",
+   "zh": "尝试",
+   "ex": "Let me try again.",
+   "exZh": "让我再试一次。",
+   "scene": true
+  },
+  "true": {
+   "ipa": "truː",
+   "zh": "真的",
+   "ex": "Is that true?",
+   "exZh": "那是真的吗？",
+   "scene": true
+  },
+  "drink": {
+   "ipa": "drɪŋk",
+   "zh": "喝；饮料",
+   "ex": "Do you want a drink?",
+   "exZh": "你想喝点什么吗？",
+   "scene": true
+  },
+  "dress": {
+   "ipa": "dres",
+   "zh": "裙子",
+   "ex": "I like your dress.",
+   "exZh": "我喜欢你的裙子。"
+  },
+  "dry": {
+   "ipa": "draɪ",
+   "zh": "干的",
+   "ex": "My shirt is dry now.",
+   "exZh": "我的衬衫干了。"
+  },
+  "drive": {
+   "ipa": "draɪv",
+   "zh": "开车",
+   "ex": "I drive to work.",
+   "exZh": "我开车上班。"
+  },
+  "cats": {
+   "ipa": "kæts",
+   "zh": "猫（复数）",
+   "ex": "We have two cats.",
+   "exZh": "我们养了两只猫。"
+  },
+  "hats": {
+   "ipa": "hæts",
+   "zh": "帽子（复数）",
+   "ex": "The hats are on sale.",
+   "exZh": "帽子在打折。"
+  },
+  "gets": {
+   "ipa": "ɡets",
+   "zh": "得到；变得",
+   "ex": "It gets cold at night.",
+   "exZh": "晚上会变冷。",
+   "scene": true
+  },
+  "lets": {
+   "ipa": "lets",
+   "zh": "让（第三人称）",
+   "ex": "She lets me use her desk.",
+   "exZh": "她让我用她的桌子。"
+  },
+  "beds": {
+   "ipa": "bedz",
+   "zh": "床（复数）",
+   "ex": "The room has two beds.",
+   "exZh": "这个房间有两张床。"
+  },
+  "kids": {
+   "ipa": "kɪdz",
+   "zh": "孩子们",
+   "ex": "The kids are at school.",
+   "exZh": "孩子们在学校。"
+  },
+  "needs": {
+   "ipa": "niːdz",
+   "zh": "需要（第三人称）",
+   "ex": "He needs a new phone.",
+   "exZh": "他需要一部新手机。"
+  },
+  "friends": {
+   "ipa": "frendz",
+   "zh": "朋友们",
+   "ex": "I'm meeting friends tonight.",
+   "exZh": "我今晚见朋友。"
+  },
+  "man": {
+   "ipa": "mæn",
+   "zh": "男人",
+   "ex": "The man at the desk can help.",
+   "exZh": "前台那位先生可以帮你。"
+  },
+  "summer": {
+   "ipa": "ˈsʌmɚ",
+   "zh": "夏天",
+   "ex": "We go to the beach every summer.",
+   "exZh": "我们每年夏天去海边。"
+  },
+  "no": {
+   "ipa": "noʊ",
+   "zh": "不",
+   "ex": "No, thank you.",
+   "exZh": "不用了，谢谢。",
+   "scene": true
+  },
+  "nine": {
+   "ipa": "naɪn",
+   "zh": "九",
+   "ex": "The shop opens at nine.",
+   "exZh": "这家店九点开门。",
+   "scene": true
+  },
+  "sing": {
+   "ipa": "sɪŋ",
+   "zh": "唱歌",
+   "ex": "She likes to sing.",
+   "exZh": "她喜欢唱歌。"
+  },
+  "long": {
+   "ipa": "lɔːŋ",
+   "zh": "长的",
+   "ex": "It was a long day.",
+   "exZh": "今天真漫长。",
+   "scene": true
+  },
+  "thing": {
+   "ipa": "θɪŋ",
+   "zh": "东西；事情",
+   "ex": "One more thing.",
+   "exZh": "还有一件事。",
+   "scene": true
+  },
+  "English": {
+   "ipa": "ˈɪŋɡlɪʃ",
+   "zh": "英语",
+   "ex": "I'm learning English.",
+   "exZh": "我在学英语。"
+  },
+  "look": {
+   "ipa": "lʊk",
+   "zh": "看",
+   "ex": "Can you look at this?",
+   "exZh": "你能看一下这个吗？",
+   "scene": true
+  },
+  "leg": {
+   "ipa": "leɡ",
+   "zh": "腿",
+   "ex": "My leg hurts.",
+   "exZh": "我的腿疼。"
+  },
+  "we": {
+   "ipa": "wiː",
+   "zh": "我们",
+   "ex": "We can start now.",
+   "exZh": "我们可以开始了。",
+   "scene": true
+  },
+  "window": {
+   "ipa": "ˈwɪndoʊ",
+   "zh": "窗户",
+   "ex": "Can I open the window?",
+   "exZh": "我可以开窗吗？",
+   "scene": true
+  },
+  "week": {
+   "ipa": "wiːk",
+   "zh": "周",
+   "ex": "See you next week.",
+   "exZh": "下周见。",
+   "scene": true
+  },
+  "yes": {
+   "ipa": "jes",
+   "zh": "是的",
+   "ex": "Yes, that's right.",
+   "exZh": "是的，没错。",
+   "scene": true
+  },
+  "you": {
+   "ipa": "juː",
+   "zh": "你",
+   "ex": "Thank you.",
+   "exZh": "谢谢你。",
+   "scene": true
+  },
+  "yellow": {
+   "ipa": "ˈjeloʊ",
+   "zh": "黄色的",
+   "ex": "The yellow bag is mine.",
+   "exZh": "黄色的包是我的。"
+  },
+  "year": {
+   "ipa": "jɪr",
+   "zh": "年",
+   "ex": "I moved here last year.",
+   "exZh": "我去年搬到这儿。"
+  },
+  "dad": {
+   "ipa": "dæd",
+   "zh": "爸爸",
+   "ex": "My dad likes to cook.",
+   "exZh": "我爸爸喜欢做饭。"
+  },
+  "fun": {
+   "ipa": "fʌn",
+   "zh": "有趣的",
+   "ex": "That sounds fun.",
+   "exZh": "听起来很有意思。",
+   "scene": true
+  },
+  "gift": {
+   "ipa": "ɡɪft",
+   "zh": "礼物",
+   "ex": "This is a small gift for you.",
+   "exZh": "这是给你的小礼物。"
+  },
+  "kid": {
+   "ipa": "kɪd",
+   "zh": "孩子",
+   "ex": "The kid is very smart.",
+   "exZh": "这孩子很聪明。"
+  },
+  "net": {
+   "ipa": "net",
+   "zh": "网",
+   "ex": "The ball hit the net.",
+   "exZh": "球打到了网上。"
+  },
+  "wet": {
+   "ipa": "wet",
+   "zh": "湿的",
+   "ex": "My shoes are wet.",
+   "exZh": "我的鞋湿了。"
+  },
+  "zip": {
+   "ipa": "zɪp",
+   "zh": "拉链；拉上",
+   "ex": "Zip your bag.",
+   "exZh": "把包拉好。"
+  },
+  "ink": {
+   "ipa": "ɪŋk",
+   "zh": "墨水",
+   "ex": "The pen is out of ink.",
+   "exZh": "笔没墨水了。"
+  },
+  "got": {
+   "ipa": "ɡɑːt",
+   "zh": "得到了",
+   "ex": "I got a new job.",
+   "exZh": "我找到了新工作。",
+   "scene": true
+  },
+  "is": {
+   "ipa": "ɪz",
+   "zh": "是",
+   "ex": "This is my seat.",
+   "exZh": "这是我的座位。",
+   "scene": true
+  },
+  "his": {
+   "ipa": "hɪz",
+   "zh": "他的",
+   "ex": "That is his car.",
+   "exZh": "那是他的车。"
+  },
+  "fox": {
+   "ipa": "fɑːks",
+   "zh": "狐狸",
+   "ex": "We saw a fox in the park.",
+   "exZh": "我们在公园看到一只狐狸。"
+  },
+  "fix": {
+   "ipa": "fɪks",
+   "zh": "修理",
+   "ex": "Can you fix my phone?",
+   "exZh": "你能修我的手机吗？",
+   "scene": true
+  },
+  "quick": {
+   "ipa": "kwɪk",
+   "zh": "快的",
+   "ex": "Can I ask a quick question?",
+   "exZh": "我能快速问个问题吗？"
+  },
+  "queen": {
+   "ipa": "kwiːn",
+   "zh": "女王；大号床",
+   "ex": "We have a queen bed.",
+   "exZh": "我们有一张大床。"
+  },
+  "quiet": {
+   "ipa": "ˈkwaɪət",
+   "zh": "安静的",
+   "ex": "This room is very quiet.",
+   "exZh": "这个房间很安静。",
+   "scene": true
+  },
+  "question": {
+   "ipa": "ˈkwestʃən",
+   "zh": "问题",
+   "ex": "I have a question.",
+   "exZh": "我有个问题。",
+   "scene": true
+  },
+  "of": {
+   "ipa": "əv",
+   "zh": "……的",
+   "ex": "Can I have a cup of coffee?",
+   "exZh": "能给我一杯咖啡吗？",
+   "scene": true
+  },
+  "map": {
+   "ipa": "mæp",
+   "zh": "地图",
+   "ex": "Can you show me on the map?",
+   "exZh": "你能在地图上指给我看吗？"
+  },
+  "pet": {
+   "ipa": "pet",
+   "zh": "宠物",
+   "ex": "Do you have a pet?",
+   "exZh": "你养宠物吗？"
+  },
+  "win": {
+   "ipa": "wɪn",
+   "zh": "赢",
+   "ex": "We want to win.",
+   "exZh": "我们想赢。"
+  },
+  "pig": {
+   "ipa": "pɪɡ",
+   "zh": "猪",
+   "ex": "The kids love the pig.",
+   "exZh": "孩子们很喜欢那头猪。"
+  },
+  "not": {
+   "ipa": "nɑːt",
+   "zh": "不",
+   "ex": "I'm not sure.",
+   "exZh": "我不确定。",
+   "scene": true
+  },
+  "top": {
+   "ipa": "tɑːp",
+   "zh": "顶部",
+   "ex": "It's on the top shelf.",
+   "exZh": "在最上面那层。",
+   "scene": true
+  },
+  "pot": {
+   "ipa": "pɑːt",
+   "zh": "锅；壶",
+   "ex": "Is there coffee in the pot?",
+   "exZh": "壶里还有咖啡吗？"
+  },
+  "pull": {
+   "ipa": "pʊl",
+   "zh": "拉",
+   "ex": "Pull the door, don't push.",
+   "exZh": "拉门，别推。"
+  },
+  "was": {
+   "ipa": "wʌz",
+   "zh": "是（过去式）",
+   "ex": "It was a long day.",
+   "exZh": "今天真漫长。",
+   "scene": true
+  },
+  "make": {
+   "ipa": "meɪk",
+   "zh": "做",
+   "ex": "I'll make some tea.",
+   "exZh": "我去泡点茶。",
+   "scene": true
+  },
+  "late": {
+   "ipa": "leɪt",
+   "zh": "晚的",
+   "ex": "Sorry I'm late.",
+   "exZh": "抱歉我迟到了。",
+   "scene": true
+  },
+  "bike": {
+   "ipa": "baɪk",
+   "zh": "自行车",
+   "ex": "I ride my bike to work.",
+   "exZh": "我骑车上班。"
+  },
+  "like": {
+   "ipa": "laɪk",
+   "zh": "喜欢",
+   "ex": "I like your idea.",
+   "exZh": "我喜欢你的想法。",
+   "scene": true
+  },
+  "note": {
+   "ipa": "noʊt",
+   "zh": "便条；笔记",
+   "ex": "I'll send you a note.",
+   "exZh": "我给你发个便条。",
+   "scene": true
+  },
+  "hope": {
+   "ipa": "hoʊp",
+   "zh": "希望",
+   "ex": "I hope you feel better.",
+   "exZh": "希望你好点了。",
+   "scene": true
+  },
+  "cute": {
+   "ipa": "kjuːt",
+   "zh": "可爱的",
+   "ex": "Your dog is so cute.",
+   "exZh": "你的狗好可爱。"
+  },
+  "use": {
+   "ipa": "juːs",
+   "zh": "用处；使用",
+   "ex": "This app is for home use.",
+   "exZh": "这个应用是给家里用的。",
+   "scene": true
+  },
+  "rule": {
+   "ipa": "ruːl",
+   "zh": "规则",
+   "ex": "That's the rule here.",
+   "exZh": "这里的规定就是这样。"
+  },
+  "June": {
+   "ipa": "dʒuːn",
+   "zh": "六月",
+   "ex": "My birthday is in June.",
+   "exZh": "我的生日在六月。"
+  },
+  "these": {
+   "ipa": "ðiːz",
+   "zh": "这些",
+   "ex": "Are these yours?",
+   "exZh": "这些是你的吗？",
+   "scene": true
+  },
+  "theme": {
+   "ipa": "θiːm",
+   "zh": "主题",
+   "ex": "What's the theme of the party?",
+   "exZh": "聚会的主题是什么？"
+  },
+  "complete": {
+   "ipa": "kəmˈpliːt",
+   "zh": "完成；完整的",
+   "ex": "The work is complete.",
+   "exZh": "工作完成了。"
+  },
+  "have": {
+   "ipa": "hæv",
+   "zh": "有",
+   "ex": "I have a question.",
+   "exZh": "我有个问题。",
+   "scene": true
+  },
+  "give": {
+   "ipa": "ɡɪv",
+   "zh": "给",
+   "ex": "Can you give me a hand?",
+   "exZh": "你能帮我个忙吗？",
+   "scene": true
+  },
+  "live": {
+   "ipa": "lɪv",
+   "zh": "住；生活",
+   "ex": "I live near the office.",
+   "exZh": "我住在公司附近。"
+  },
+  "come": {
+   "ipa": "kʌm",
+   "zh": "来",
+   "ex": "Come in, please.",
+   "exZh": "请进。",
+   "scene": true
+  },
+  "some": {
+   "ipa": "sʌm",
+   "zh": "一些",
+   "ex": "Do you want some cake?",
+   "exZh": "你要来点蛋糕吗？",
+   "scene": true
+  },
+  "done": {
+   "ipa": "dʌn",
+   "zh": "做完的",
+   "ex": "Are you done?",
+   "exZh": "你做完了吗？",
+   "scene": true
+  },
+  "gone": {
+   "ipa": "ɡɔːn",
+   "zh": "离开了的；没了",
+   "ex": "The milk is all gone.",
+   "exZh": "牛奶全没了。"
+  },
+  "black": {
+   "ipa": "blæk",
+   "zh": "黑色的",
+   "ex": "A black coffee, please.",
+   "exZh": "请给我一杯黑咖啡。"
+  },
+  "clean": {
+   "ipa": "kliːn",
+   "zh": "干净的；打扫",
+   "ex": "The room is very clean.",
+   "exZh": "房间很干净。",
+   "scene": true
+  },
+  "fly": {
+   "ipa": "flaɪ",
+   "zh": "飞",
+   "ex": "We fly to Tokyo tomorrow.",
+   "exZh": "我们明天飞东京。"
+  },
+  "glass": {
+   "ipa": "ɡlæs",
+   "zh": "玻璃杯",
+   "ex": "Can I have a glass of water?",
+   "exZh": "能给我一杯水吗？"
+  },
+  "play": {
+   "ipa": "pleɪ",
+   "zh": "玩；播放",
+   "ex": "The kids play outside.",
+   "exZh": "孩子们在外面玩。"
+  },
+  "sleep": {
+   "ipa": "sliːp",
+   "zh": "睡觉",
+   "ex": "I need more sleep.",
+   "exZh": "我需要多睡会儿。",
+   "scene": true
+  },
+  "bread": {
+   "ipa": "bred",
+   "zh": "面包",
+   "ex": "We need some bread.",
+   "exZh": "我们得买点面包。"
+  },
+  "cry": {
+   "ipa": "kraɪ",
+   "zh": "哭",
+   "ex": "The baby started to cry.",
+   "exZh": "宝宝开始哭了。"
+  },
+  "free": {
+   "ipa": "friː",
+   "zh": "免费的；有空的",
+   "ex": "Are you free tonight?",
+   "exZh": "你今晚有空吗？",
+   "scene": true
+  },
+  "price": {
+   "ipa": "praɪs",
+   "zh": "价格",
+   "ex": "What's the price?",
+   "exZh": "多少钱？"
+  },
+  "small": {
+   "ipa": "smɔːl",
+   "zh": "小的",
+   "ex": "A small coffee, please.",
+   "exZh": "请给我一杯小杯咖啡。",
+   "scene": true
+  },
+  "snow": {
+   "ipa": "snoʊ",
+   "zh": "雪",
+   "ex": "It might snow tonight.",
+   "exZh": "今晚可能下雪。"
+  },
+  "speak": {
+   "ipa": "spiːk",
+   "zh": "说",
+   "ex": "Can you speak a bit slower?",
+   "exZh": "你能说慢一点吗？"
+  },
+  "swim": {
+   "ipa": "swɪm",
+   "zh": "游泳",
+   "ex": "I swim twice a week.",
+   "exZh": "我每周游两次泳。"
+  },
+  "hand": {
+   "ipa": "hænd",
+   "zh": "手",
+   "ex": "Can you give me a hand?",
+   "exZh": "你能帮我个忙吗？"
+  },
+  "went": {
+   "ipa": "went",
+   "zh": "去了（go 的过去式）",
+   "ex": "We went to the beach.",
+   "exZh": "我们去了海边。"
+  },
+  "best": {
+   "ipa": "best",
+   "zh": "最好的",
+   "ex": "This is the best pizza in town.",
+   "exZh": "这是城里最好吃的披萨。"
+  },
+  "jump": {
+   "ipa": "dʒʌmp",
+   "zh": "跳",
+   "ex": "The kids jump on the bed.",
+   "exZh": "孩子们在床上跳。"
+  },
+  "desk": {
+   "ipa": "desk",
+   "zh": "书桌",
+   "ex": "My desk is by the window.",
+   "exZh": "我的桌子在窗边。",
+   "scene": true
+  },
+  "ship": {
+   "ipa": "ʃɪp",
+   "zh": "船；发货",
+   "ex": "We ship it today.",
+   "exZh": "我们今天发货。"
+  },
+  "much": {
+   "ipa": "mʌtʃ",
+   "zh": "很多",
+   "ex": "How much is it?",
+   "exZh": "这个多少钱？",
+   "scene": true
+  },
+  "chef": {
+   "ipa": "ʃef",
+   "zh": "厨师",
+   "ex": "The chef made this for us.",
+   "exZh": "厨师为我们做了这个。"
+  },
+  "that": {
+   "ipa": "ðæt",
+   "zh": "那个",
+   "ex": "I like that one.",
+   "exZh": "我喜欢那个。",
+   "scene": true
+  },
+  "what": {
+   "ipa": "wʌt",
+   "zh": "什么",
+   "ex": "What do you mean?",
+   "exZh": "你是什么意思？",
+   "scene": true
+  },
+  "when": {
+   "ipa": "wen",
+   "zh": "什么时候",
+   "ex": "When can you start?",
+   "exZh": "你什么时候能开始？",
+   "scene": true
+  },
+  "white": {
+   "ipa": "waɪt",
+   "zh": "白色的",
+   "ex": "I want the white one.",
+   "exZh": "我要白色那个。"
+  },
+  "why": {
+   "ipa": "waɪ",
+   "zh": "为什么",
+   "ex": "Why are you late?",
+   "exZh": "你为什么迟到？",
+   "scene": true
+  },
+  "photo": {
+   "ipa": "ˈfoʊtoʊ",
+   "zh": "照片",
+   "ex": "Can you take a photo of us?",
+   "exZh": "能帮我们拍张照吗？"
+  },
+  "back": {
+   "ipa": "bæk",
+   "zh": "后面；回来",
+   "ex": "I'll be right back.",
+   "exZh": "我马上回来。",
+   "scene": true
+  },
+  "duck": {
+   "ipa": "dʌk",
+   "zh": "鸭子",
+   "ex": "The kids fed the duck.",
+   "exZh": "孩子们喂了鸭子。"
+  },
+  "clock": {
+   "ipa": "klɑːk",
+   "zh": "钟",
+   "ex": "The clock is slow.",
+   "exZh": "这个钟慢了。",
+   "scene": true
+  },
+  "sick": {
+   "ipa": "sɪk",
+   "zh": "生病的",
+   "ex": "I feel sick today.",
+   "exZh": "我今天不舒服。"
+  },
+  "ring": {
+   "ipa": "rɪŋ",
+   "zh": "戒指；打电话",
+   "ex": "Give me a ring tomorrow.",
+   "exZh": "明天给我打个电话。"
+  },
+  "bank": {
+   "ipa": "bæŋk",
+   "zh": "银行",
+   "ex": "The bank is closed today.",
+   "exZh": "银行今天关门。"
+  },
+  "pink": {
+   "ipa": "pɪŋk",
+   "zh": "粉色的",
+   "ex": "She has a pink bag.",
+   "exZh": "她有一个粉色的包。"
+  },
+  "wait": {
+   "ipa": "weɪt",
+   "zh": "等",
+   "ex": "Please wait a minute.",
+   "exZh": "请稍等一下。",
+   "scene": true
+  },
+  "said": {
+   "ipa": "sed",
+   "zh": "说了（say 的过去式）",
+   "ex": "She said yes.",
+   "exZh": "她答应了。",
+   "scene": true
+  },
+  "says": {
+   "ipa": "sez",
+   "zh": "说（第三人称）",
+   "ex": "He says it's fine.",
+   "exZh": "他说没问题。"
+  },
+  "meat": {
+   "ipa": "miːt",
+   "zh": "肉",
+   "ex": "I don't eat much meat.",
+   "exZh": "我不怎么吃肉。"
+  },
+  "sea": {
+   "ipa": "siː",
+   "zh": "大海",
+   "ex": "The hotel is by the sea.",
+   "exZh": "酒店在海边。"
+  },
+  "team": {
+   "ipa": "tiːm",
+   "zh": "团队",
+   "ex": "Our team is small.",
+   "exZh": "我们团队人不多。",
+   "scene": true
+  },
+  "head": {
+   "ipa": "hed",
+   "zh": "头",
+   "ex": "My head hurts.",
+   "exZh": "我头疼。"
+  },
+  "breakfast": {
+   "ipa": "ˈbrekfəst",
+   "zh": "早饭",
+   "ex": "What's for breakfast?",
+   "exZh": "早饭吃什么？",
+   "scene": true
+  },
+  "great": {
+   "ipa": "ɡreɪt",
+   "zh": "很棒的",
+   "ex": "That's great news.",
+   "exZh": "真是好消息。",
+   "scene": true
+  },
+  "road": {
+   "ipa": "roʊd",
+   "zh": "路",
+   "ex": "The road is very busy.",
+   "exZh": "这条路车很多。",
+   "scene": true
+  },
+  "show": {
+   "ipa": "ʃoʊ",
+   "zh": "展示；演出",
+   "ex": "Can you show me?",
+   "exZh": "你能给我看看吗？",
+   "scene": true
+  },
+  "pie": {
+   "ipa": "paɪ",
+   "zh": "派；馅饼",
+   "ex": "This apple pie is great.",
+   "exZh": "这个苹果派真好吃。"
+  },
+  "tie": {
+   "ipa": "taɪ",
+   "zh": "领带；系",
+   "ex": "I don't wear a tie to work.",
+   "exZh": "我上班不打领带。"
+  },
+  "light": {
+   "ipa": "laɪt",
+   "zh": "灯；轻的",
+   "ex": "Turn off the light, please.",
+   "exZh": "请关灯。",
+   "scene": true
+  },
+  "high": {
+   "ipa": "haɪ",
+   "zh": "高的",
+   "ex": "The price is too high.",
+   "exZh": "价格太高了。"
+  },
+  "new": {
+   "ipa": "nuː",
+   "zh": "新的",
+   "ex": "I need a new phone.",
+   "exZh": "我需要一部新手机。",
+   "scene": true
+  },
+  "few": {
+   "ipa": "fjuː",
+   "zh": "很少；几个",
+   "ex": "I have a few questions.",
+   "exZh": "我有几个问题。",
+   "scene": true
+  },
+  "friend": {
+   "ipa": "frend",
+   "zh": "朋友",
+   "ex": "This is my friend Amy.",
+   "exZh": "这是我朋友 Amy。",
+   "scene": true
+  },
+  "moon": {
+   "ipa": "muːn",
+   "zh": "月亮",
+   "ex": "The moon is so bright tonight.",
+   "exZh": "今晚月亮好亮。"
+  },
+  "soon": {
+   "ipa": "suːn",
+   "zh": "很快",
+   "ex": "See you soon.",
+   "exZh": "回头见。",
+   "scene": true
+  },
+  "blood": {
+   "ipa": "blʌd",
+   "zh": "血",
+   "ex": "They need to check my blood.",
+   "exZh": "他们要给我验血。"
+  },
+  "touch": {
+   "ipa": "tʌtʃ",
+   "zh": "触摸；联系",
+   "ex": "Let's keep in touch.",
+   "exZh": "保持联系。"
+  },
+  "oil": {
+   "ipa": "ɔɪl",
+   "zh": "油",
+   "ex": "Don't use too much oil.",
+   "exZh": "别放太多油。"
+  },
+  "law": {
+   "ipa": "lɔː",
+   "zh": "法律",
+   "ex": "That's against the law.",
+   "exZh": "那是违法的。"
+  },
+  "draw": {
+   "ipa": "drɔː",
+   "zh": "画",
+   "ex": "My son likes to draw.",
+   "exZh": "我儿子喜欢画画。"
+  },
+  "August": {
+   "ipa": "ˈɑːɡəst",
+   "zh": "八月",
+   "ex": "We go on vacation in August.",
+   "exZh": "我们八月去度假。"
+  },
+  "sauce": {
+   "ipa": "sɔːs",
+   "zh": "酱汁",
+   "ex": "Can I get the sauce on the side?",
+   "exZh": "酱汁能单独放吗？"
+  },
+  "art": {
+   "ipa": "ɑːrt",
+   "zh": "艺术",
+   "ex": "She studies art.",
+   "exZh": "她学艺术。"
+  },
+  "her": {
+   "ipa": "hɝː",
+   "zh": "她；她的",
+   "ex": "I gave her my number.",
+   "exZh": "我把我的号码给了她。"
+  },
+  "turn": {
+   "ipa": "tɝːn",
+   "zh": "转弯",
+   "ex": "Turn left at the light.",
+   "exZh": "在红绿灯左转。",
+   "scene": true
+  },
+  "nurse": {
+   "ipa": "nɝːs",
+   "zh": "护士",
+   "ex": "The nurse will see you now.",
+   "exZh": "护士现在给你看。"
+  },
+  "for": {
+   "ipa": "fɔːr",
+   "zh": "为了；给",
+   "ex": "This is for you.",
+   "exZh": "这是给你的。",
+   "scene": true
+  },
+  "short": {
+   "ipa": "ʃɔːrt",
+   "zh": "短的",
+   "ex": "Keep it short.",
+   "exZh": "简短一点。",
+   "scene": true
+  },
+  "horse": {
+   "ipa": "hɔːrs",
+   "zh": "马",
+   "ex": "She can ride a horse.",
+   "exZh": "她会骑马。"
+  },
+  "morning": {
+   "ipa": "ˈmɔːrnɪŋ",
+   "zh": "早上",
+   "ex": "Good morning, everyone.",
+   "exZh": "大家早上好。",
+   "scene": true
+  },
+  "share": {
+   "ipa": "ʃer",
+   "zh": "分享",
+   "ex": "Can we share a table?",
+   "exZh": "我们能拼桌吗？",
+   "scene": true
+  },
+  "hear": {
+   "ipa": "hɪr",
+   "zh": "听见",
+   "ex": "Can you hear me?",
+   "exZh": "你能听到我说话吗？",
+   "scene": true
+  },
+  "word": {
+   "ipa": "wɝːd",
+   "zh": "单词",
+   "ex": "What does this word mean?",
+   "exZh": "这个词是什么意思？"
+  },
+  "heart": {
+   "ipa": "hɑːrt",
+   "zh": "心",
+   "ex": "She has a good heart.",
+   "exZh": "她心地很好。"
+  },
+  "bear": {
+   "ipa": "ber",
+   "zh": "熊；承受",
+   "ex": "We saw a bear in the woods.",
+   "exZh": "我们在树林里看见一只熊。"
+  },
+  "wear": {
+   "ipa": "wer",
+   "zh": "穿；戴",
+   "ex": "What should I wear?",
+   "exZh": "我该穿什么？"
+  },
+  "face": {
+   "ipa": "feɪs",
+   "zh": "脸",
+   "ex": "Wash your face.",
+   "exZh": "洗洗脸。"
+  },
+  "nice": {
+   "ipa": "naɪs",
+   "zh": "好的；友好的",
+   "ex": "Nice to meet you.",
+   "exZh": "很高兴认识你。",
+   "scene": true
+  },
+  "ice": {
+   "ipa": "aɪs",
+   "zh": "冰",
+   "ex": "No ice, please.",
+   "exZh": "请不要加冰。"
+  },
+  "rice": {
+   "ipa": "raɪs",
+   "zh": "米饭",
+   "ex": "Can I get more rice?",
+   "exZh": "能再给我点米饭吗？"
+  },
+  "page": {
+   "ipa": "peɪdʒ",
+   "zh": "页",
+   "ex": "Turn to page ten.",
+   "exZh": "翻到第十页。",
+   "scene": true
+  },
+  "giant": {
+   "ipa": "ˈdʒaɪənt",
+   "zh": "巨大的；巨人",
+   "ex": "It's a giant city.",
+   "exZh": "这是座超大的城市。"
+  },
+  "get": {
+   "ipa": "ɡet",
+   "zh": "得到；拿",
+   "ex": "Can I get a coffee?",
+   "exZh": "能给我一杯咖啡吗？",
+   "scene": true
+  },
+  "edge": {
+   "ipa": "edʒ",
+   "zh": "边缘",
+   "ex": "Don't stand too close to the edge.",
+   "exZh": "别站得离边太近。"
+  },
+  "know": {
+   "ipa": "noʊ",
+   "zh": "知道",
+   "ex": "I don't know.",
+   "exZh": "我不知道。",
+   "scene": true
+  },
+  "knee": {
+   "ipa": "niː",
+   "zh": "膝盖",
+   "ex": "My knee hurts.",
+   "exZh": "我膝盖疼。"
+  },
+  "knife": {
+   "ipa": "naɪf",
+   "zh": "刀",
+   "ex": "Can I have a knife?",
+   "exZh": "能给我一把刀吗？"
+  },
+  "write": {
+   "ipa": "raɪt",
+   "zh": "写",
+   "ex": "Can you write it down?",
+   "exZh": "你能写下来吗？",
+   "scene": true
+  },
+  "wrong": {
+   "ipa": "rɔːŋ",
+   "zh": "错的",
+   "ex": "Sorry, wrong number.",
+   "exZh": "抱歉，打错了。",
+   "scene": true
+  },
+  "climb": {
+   "ipa": "klaɪm",
+   "zh": "爬",
+   "ex": "Let's climb the hill.",
+   "exZh": "我们爬上那座小山吧。"
+  },
+  "thumb": {
+   "ipa": "θʌm",
+   "zh": "拇指",
+   "ex": "I cut my thumb.",
+   "exZh": "我把拇指割破了。"
+  },
+  "lamb": {
+   "ipa": "læm",
+   "zh": "羊肉；小羊",
+   "ex": "I'd like the lamb, please.",
+   "exZh": "我要羊肉。"
+  },
+  "eight": {
+   "ipa": "eɪt",
+   "zh": "八",
+   "ex": "We start at eight.",
+   "exZh": "我们八点开始。",
+   "scene": true
+  },
+  "hour": {
+   "ipa": "aʊr",
+   "zh": "小时",
+   "ex": "It takes an hour.",
+   "exZh": "要一个小时。"
+  },
+  "honest": {
+   "ipa": "ˈɑːnɪst",
+   "zh": "诚实的",
+   "ex": "To be honest, I'm tired.",
+   "exZh": "说实话，我累了。",
+   "scene": true
+  },
+  "half": {
+   "ipa": "hæf",
+   "zh": "一半",
+   "ex": "Half of it is for you.",
+   "exZh": "一半给你。",
+   "scene": true
+  },
+  "could": {
+   "ipa": "kʊd",
+   "zh": "能够（委婉）",
+   "ex": "Could you help me?",
+   "exZh": "你能帮我一下吗？",
+   "scene": true
+  },
+  "listen": {
+   "ipa": "ˈlɪsən",
+   "zh": "听",
+   "ex": "Listen to this.",
+   "exZh": "听听这个。"
+  },
+  "station": {
+   "ipa": "ˈsteɪʃən",
+   "zh": "车站",
+   "ex": "Where is the train station?",
+   "exZh": "火车站在哪儿？",
+   "scene": true
+  },
+  "nation": {
+   "ipa": "ˈneɪʃən",
+   "zh": "国家",
+   "ex": "The whole nation watched the game.",
+   "exZh": "全国都在看那场比赛。"
+  },
+  "vacation": {
+   "ipa": "veɪˈkeɪʃən",
+   "zh": "假期",
+   "ex": "I'm on vacation next week.",
+   "exZh": "我下周休假。"
+  },
+  "information": {
+   "ipa": "ˌɪnfɚˈmeɪʃən",
+   "zh": "信息",
+   "ex": "I need more information.",
+   "exZh": "我需要更多信息。"
+  },
+  "decision": {
+   "ipa": "dɪˈsɪʒən",
+   "zh": "决定",
+   "ex": "It's a hard decision.",
+   "exZh": "这是个艰难的决定。"
+  },
+  "walked": {
+   "ipa": "wɔːkt",
+   "zh": "走了（过去式）",
+   "ex": "I walked to work today.",
+   "exZh": "我今天走路上班。"
+  },
+  "helped": {
+   "ipa": "helpt",
+   "zh": "帮助了",
+   "ex": "She helped me a lot.",
+   "exZh": "她帮了我很多。"
+  },
+  "washed": {
+   "ipa": "wɑːʃt",
+   "zh": "洗了",
+   "ex": "I washed the cups.",
+   "exZh": "我把杯子洗了。"
+  },
+  "liked": {
+   "ipa": "laɪkt",
+   "zh": "喜欢了",
+   "ex": "I liked the movie.",
+   "exZh": "我喜欢那部电影。"
+  },
+  "played": {
+   "ipa": "pleɪd",
+   "zh": "玩了",
+   "ex": "We played games all night.",
+   "exZh": "我们玩了一晚上游戏。"
+  },
+  "called": {
+   "ipa": "kɔːld",
+   "zh": "打电话了",
+   "ex": "I called you this morning.",
+   "exZh": "我今天早上给你打过电话。"
+  },
+  "opened": {
+   "ipa": "ˈoʊpənd",
+   "zh": "打开了",
+   "ex": "She opened the window.",
+   "exZh": "她打开了窗户。"
+  },
+  "cleaned": {
+   "ipa": "kliːnd",
+   "zh": "打扫了",
+   "ex": "I cleaned the kitchen.",
+   "exZh": "我打扫了厨房。"
+  },
+  "wanted": {
+   "ipa": "ˈwɑːntɪd",
+   "zh": "想要了",
+   "ex": "I wanted to ask you something.",
+   "exZh": "我本来想问你点事。",
+   "scene": true
+  },
+  "needed": {
+   "ipa": "ˈniːdɪd",
+   "zh": "需要了",
+   "ex": "I needed a break.",
+   "exZh": "我需要休息一下。"
+  },
+  "started": {
+   "ipa": "ˈstɑːrtɪd",
+   "zh": "开始了",
+   "ex": "The meeting started late.",
+   "exZh": "会议开始晚了。"
+  },
+  "waited": {
+   "ipa": "ˈweɪtɪd",
+   "zh": "等了",
+   "ex": "We waited for an hour.",
+   "exZh": "我们等了一个小时。",
+   "scene": true
+  },
+  "books": {
+   "ipa": "bʊks",
+   "zh": "书（复数）",
+   "ex": "I bought two books.",
+   "exZh": "我买了两本书。"
+  },
+  "maps": {
+   "ipa": "mæps",
+   "zh": "地图（复数）",
+   "ex": "The maps are on my phone.",
+   "exZh": "地图在我手机上。"
+  },
+  "dogs": {
+   "ipa": "dɔːɡz",
+   "zh": "狗（复数）",
+   "ex": "They have two dogs.",
+   "exZh": "他们养了两只狗。"
+  },
+  "bags": {
+   "ipa": "bæɡz",
+   "zh": "包（复数）",
+   "ex": "Our bags are in the car.",
+   "exZh": "我们的包在车里。",
+   "scene": true
+  },
+  "days": {
+   "ipa": "deɪz",
+   "zh": "天（复数）",
+   "ex": "I'm off for three days.",
+   "exZh": "我休三天假。",
+   "scene": true
+  },
+  "boxes": {
+   "ipa": "ˈbɑːksɪz",
+   "zh": "盒子（复数）",
+   "ex": "Put the boxes here.",
+   "exZh": "把盒子放这儿。"
+  },
+  "buses": {
+   "ipa": "ˈbʌsɪz",
+   "zh": "公交车（复数）",
+   "ex": "The buses are slow today.",
+   "exZh": "今天公交车很慢。"
+  },
+  "watches": {
+   "ipa": "ˈwɑːtʃɪz",
+   "zh": "看（第三人称）；手表",
+   "ex": "He watches TV every night.",
+   "exZh": "他每晚都看电视。"
+  },
+  "pages": {
+   "ipa": "ˈpeɪdʒɪz",
+   "zh": "页（复数）",
+   "ex": "Read these two pages.",
+   "exZh": "读这两页。"
+  },
+  "table": {
+   "ipa": "ˈteɪbəl",
+   "zh": "桌子",
+   "ex": "A table for two, please.",
+   "exZh": "两人桌，谢谢。",
+   "scene": true
+  },
+  "little": {
+   "ipa": "ˈlɪtəl",
+   "zh": "小的；一点",
+   "ex": "I'm a little tired.",
+   "exZh": "我有点累。",
+   "scene": true
+  },
+  "people": {
+   "ipa": "ˈpiːpəl",
+   "zh": "人们",
+   "ex": "There are a lot of people here.",
+   "exZh": "这里人很多。",
+   "scene": true
+  },
+  "simple": {
+   "ipa": "ˈsɪmpəl",
+   "zh": "简单的",
+   "ex": "Keep it simple.",
+   "exZh": "简单点就好。",
+   "scene": true
+  },
+  "happy": {
+   "ipa": "ˈhæpi",
+   "zh": "开心的",
+   "ex": "I'm happy for you.",
+   "exZh": "我替你高兴。",
+   "scene": true
+  },
+  "family": {
+   "ipa": "ˈfæməli",
+   "zh": "家庭；家人",
+   "ex": "My family is in China.",
+   "exZh": "我的家人在中国。"
+  },
+  "basket": {
+   "ipa": "ˈbæskət",
+   "zh": "篮子",
+   "ex": "Put the eggs in the basket.",
+   "exZh": "把鸡蛋放进篮子里。"
+  },
+  "winter": {
+   "ipa": "ˈwɪntɚ",
+   "zh": "冬天",
+   "ex": "Winter here is very cold.",
+   "exZh": "这里冬天很冷。"
+  },
+  "open": {
+   "ipa": "ˈoʊpən",
+   "zh": "打开；开着的",
+   "ex": "Is the shop open?",
+   "exZh": "商店开门了吗？",
+   "scene": true
+  },
+  "music": {
+   "ipa": "ˈmjuːzɪk",
+   "zh": "音乐",
+   "ex": "I like quiet music.",
+   "exZh": "我喜欢安静的音乐。"
+  },
+  "birthday": {
+   "ipa": "ˈbɝːθˌdeɪ",
+   "zh": "生日",
+   "ex": "Happy birthday!",
+   "exZh": "生日快乐！",
+   "scene": true
+  },
+  "bedroom": {
+   "ipa": "ˈbedˌruːm",
+   "zh": "卧室",
+   "ex": "The bedroom is upstairs.",
+   "exZh": "卧室在楼上。"
+  },
+  "paper": {
+   "ipa": "ˈpeɪpɚ",
+   "zh": "纸",
+   "ex": "Do you have some paper?",
+   "exZh": "你有纸吗？",
+   "scene": true
+  },
+  "begin": {
+   "ipa": "bɪˈɡɪn",
+   "zh": "开始",
+   "ex": "Let's begin.",
+   "exZh": "我们开始吧。",
+   "scene": true
+  },
+  "return": {
+   "ipa": "rɪˈtɝːn",
+   "zh": "归还；退货",
+   "ex": "I want to return this.",
+   "exZh": "我想退这个。"
+  },
+  "forget": {
+   "ipa": "fɚˈɡet",
+   "zh": "忘记",
+   "ex": "Don't forget your key.",
+   "exZh": "别忘了带钥匙。",
+   "scene": true
+  },
+  "hotel": {
+   "ipa": "hoʊˈtel",
+   "zh": "酒店",
+   "ex": "The hotel is near the airport.",
+   "exZh": "酒店在机场附近。"
+  },
+  "lemon": {
+   "ipa": "ˈlemən",
+   "zh": "柠檬",
+   "ex": "Tea with lemon, please.",
+   "exZh": "请给我柠檬茶。"
+  },
+  "problem": {
+   "ipa": "ˈprɑːbləm",
+   "zh": "问题",
+   "ex": "No problem.",
+   "exZh": "没问题。",
+   "scene": true
+  },
+  "second": {
+   "ipa": "ˈsekənd",
+   "zh": "第二；秒",
+   "ex": "Give me a second.",
+   "exZh": "稍等我一下。",
+   "scene": true
+  },
+  "camera": {
+   "ipa": "ˈkæmrə",
+   "zh": "相机；摄像头",
+   "ex": "My camera is off.",
+   "exZh": "我的摄像头关了。",
+   "scene": true
+  },
+  "better": {
+   "ipa": "ˈbetɚ",
+   "zh": "更好的",
+   "ex": "I feel better today.",
+   "exZh": "我今天好多了。",
+   "scene": true
+  },
+  "letter": {
+   "ipa": "ˈletɚ",
+   "zh": "信；字母",
+   "ex": "I got a letter from the bank.",
+   "exZh": "我收到了银行的一封信。"
+  },
+  "computer": {
+   "ipa": "kəmˈpjuːtɚ",
+   "zh": "电脑",
+   "ex": "My computer is very slow.",
+   "exZh": "我的电脑很慢。",
+   "scene": true
+  },
+  "party": {
+   "ipa": "ˈpɑːrti",
+   "zh": "聚会",
+   "ex": "Are you coming to the party?",
+   "exZh": "你来参加聚会吗？",
+   "scene": true
+  },
+  "alphabet": {
+   "ipa": "ˈælfəˌbet",
+   "zh": "字母表",
+   "ex": "My son knows the alphabet.",
+   "exZh": "我儿子会字母表了。"
+  },
+  "elephant": {
+   "ipa": "ˈeləfənt",
+   "zh": "大象",
+   "ex": "The kids want to see the elephant.",
+   "exZh": "孩子们想去看大象。"
+  },
+  "wrap": {
+   "ipa": "ræp",
+   "zh": "包；包装",
+   "ex": "Can you wrap it as a gift?",
+   "exZh": "能帮我包成礼物吗？"
+  },
+  "wrist": {
+   "ipa": "rɪst",
+   "zh": "手腕",
+   "ex": "My wrist hurts from typing.",
+   "exZh": "打字打得我手腕疼。"
+  },
+  "knock": {
+   "ipa": "nɑːk",
+   "zh": "敲门",
+   "ex": "Please knock before you come in.",
+   "exZh": "进来前请先敲门。",
+   "scene": true
+  },
+  "comb": {
+   "ipa": "koʊm",
+   "zh": "梳子",
+   "ex": "I forgot my comb.",
+   "exZh": "我忘带梳子了。"
+  },
+  "Chinese": {
+   "ipa": "ˌtʃaɪˈniːz",
+   "zh": "中文；中国的",
+   "ex": "I speak Chinese at home.",
+   "exZh": "我在家说中文。"
+  },
+  "cups": {
+   "ipa": "kʌps",
+   "zh": "杯子（复数）",
+   "ex": "We need two more cups.",
+   "exZh": "我们还要两个杯子。"
+  },
+  "weekend": {
+   "ipa": "ˈwiːkend",
+   "zh": "周末",
+   "ex": "What did you do this weekend?",
+   "exZh": "你这个周末干什么了？",
+   "scene": true
+  },
+  "homework": {
+   "ipa": "ˈhoʊmˌwɝːk",
+   "zh": "作业",
+   "ex": "My son is doing his homework.",
+   "exZh": "我儿子在写作业。"
+  }
+ }
+}

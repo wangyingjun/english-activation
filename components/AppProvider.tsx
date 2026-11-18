@@ -12,6 +12,7 @@ import { programStatus } from "@/lib/calendar";
 import {
   applyTheme,
   emptyChunkWork,
+  coercePhonics,
   loadState,
   mergeDay,
   newId,
@@ -59,6 +60,8 @@ type AppContextValue = {
   setPhraseMark: (id: string, patch: { heard?: boolean; spoken?: boolean }) => void;
   setSceneStep: (sceneId: string, step: SceneStepId, value?: boolean) => void;
   setSceneRole: (sceneId: string, role: "a" | "b") => void;
+  setPhonicsLesson: (lessonId: string, patch: { done?: boolean; correct?: boolean }) => void;
+  recordPhonics: (key: string, correct: boolean) => void;
   exportBackup: () => Promise<BackupPayload>;
   importBackup: (payload: BackupPayload) => Promise<void>;
   resetAll: () => Promise<void>;
@@ -186,13 +189,37 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       const prev = s.sceneProgress[sceneId] ?? emptySceneProgress();
       return { ...s, sceneProgress: { ...s.sceneProgress, [sceneId]: { ...prev, role } } };
     }), [update]);
+  const setPhonicsLesson = useCallback((lessonId: string, patch: { done?: boolean; correct?: boolean }) =>
+    update((s) => {
+      const ph = coercePhonics(s.phonics);
+      const prev = ph.lessons[lessonId] ?? {};
+      const next = { ...prev };
+      if (patch.done !== undefined) next.done = patch.done;
+      if (patch.correct !== undefined) {
+        next.correct = (prev.correct ?? 0) + (patch.correct ? 1 : 0);
+        next.total = (prev.total ?? 0) + 1;
+      }
+      return { ...s, phonics: { ...ph, lessons: { ...ph.lessons, [lessonId]: next } } };
+    }), [update]);
+  const recordPhonics = useCallback((key: string, correct: boolean) =>
+    update((s) => {
+      const ph = coercePhonics(s.phonics);
+      const prev = ph.items[key] ?? { correct: 0, total: 0 };
+      return {
+        ...s,
+        phonics: {
+          ...ph,
+          items: { ...ph.items, [key]: { correct: prev.correct + (correct ? 1 : 0), total: prev.total + 1, last: Date.now() } },
+        },
+      };
+    }), [update]);
   const exportBackup = useCallback(async () => {
     const audio = await exportAudio().catch(() => []);
     return { version: 1 as const, exportedAt: new Date().toISOString(), state: loadState(), audio };
   }, []);
   const importBackup = useCallback(async (payload: BackupPayload) => {
     if (!payload?.state) throw new Error("备份文件格式不对");
-    const next = { ...defaultState(), ...payload.state, sceneProgress: payload.state.sceneProgress ?? {}, phraseMarks: payload.state.phraseMarks ?? {}, contrastStats: payload.state.contrastStats ?? {} };
+    const next = { ...defaultState(), ...payload.state, sceneProgress: payload.state.sceneProgress ?? {}, phraseMarks: payload.state.phraseMarks ?? {}, contrastStats: payload.state.contrastStats ?? {}, phonics: coercePhonics(payload.state.phonics) };
     setState(next);
     saveState(next);
     applyTheme(next.theme);
@@ -213,12 +240,12 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
       toggleModule, toggleMicro, toggleCompare, setChunkWork,
       addStuckWord, removeStuckWord, addError, updateError, removeError,
       bumpReadCount, setMicroText, setListening, setTimer, recordQuiz, recordContrast, setPhraseMark,
-      setSceneStep, setSceneRole, exportBackup, importBackup, resetAll,
+      setSceneStep, setSceneRole, setPhonicsLesson, recordPhonics, exportBackup, importBackup, resetAll,
     }),
     [ready, state, status, setStartDate, setTheme, setMeaningMode, setComparePrompt, toggleModule,
      toggleMicro, toggleCompare, setChunkWork, addStuckWord, removeStuckWord, addError,
      updateError, removeError, bumpReadCount, setMicroText, setListening, setTimer,
-     recordQuiz, recordContrast, setPhraseMark, setSceneStep, setSceneRole, exportBackup, importBackup, resetAll],
+     recordQuiz, recordContrast, setPhraseMark, setSceneStep, setSceneRole, setPhonicsLesson, recordPhonics, exportBackup, importBackup, resetAll],
   );
 
   return <AppContext.Provider value={value}>{children}</AppContext.Provider>;

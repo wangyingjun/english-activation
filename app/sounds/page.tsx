@@ -2,7 +2,7 @@
 
 import { SceneTodayBanner } from "@/components/scene/SceneBanner";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { PracticeFrame } from "@/components/PracticeFrame";
 import { SpeakButton, SpeedToggle } from "@/components/SpeakButton";
 import { HumanPlay } from "@/components/HumanPlay";
@@ -196,6 +196,16 @@ export default function SoundsPage() {
   const [rate, setRate] = useState(0.8);
   const [focusId, setFocusId] = useState<string | null>(null);
   const todayIds = new Set(groups.map((g) => g.id));
+
+  useEffect(() => {
+    const m = window.location.hash.match(/^#contrast-(.+)$/);
+    if (!m || !SOUND_GROUPS[m[1]]) return;
+    const id = m[1];
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- open the contrast linked from another page
+    setFocusId(id);
+    const t = window.setTimeout(() => document.getElementById(`contrast-${id}`)?.scrollIntoView({ block: "start" }), 200);
+    return () => window.clearTimeout(t);
+  }, []);
   const focus = focusId && SOUND_GROUPS[focusId] && !todayIds.has(focusId) ? SOUND_GROUPS[focusId] : null;
 
   return (

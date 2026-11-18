@@ -7,6 +7,7 @@ import { DRILL_QUESTIONS } from "../lib/content/questions";
 import { SOUND_GROUPS } from "../lib/content/sounds";
 import { PHRASES } from "../lib/content/phrases";
 import { SCENES } from "../lib/content/scenes";
+import { PHONICS_WORDS } from "../lib/content/phonics";
 import { VOICE_DEFAULT, VOICE_FEMALE, VOICE_MALE, VOICE_FEMALE_2, VOICE_MALE_2, voiceForSpeaker } from "../lib/audio";
 
 export type Utterance = {
@@ -50,6 +51,11 @@ for (const q of DRILL_QUESTIONS) {
 
 for (const phrase of PHRASES) {
   add(phrase.text, VOICE_DEFAULT, "phrase");
+}
+
+for (const [word, info] of Object.entries(PHONICS_WORDS)) {
+  add(word, VOICE_DEFAULT, "phonics-word");
+  add(info.ex, VOICE_DEFAULT, "phonics-example");
 }
 
 const dialogues: { id: string; lines: { speaker: string; text: string; voice: string }[] }[] = [];
